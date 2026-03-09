@@ -1,0 +1,78 @@
+{
+	quest.034F2CDF0830254B.quest_desc: [
+		"用法跟物品進口機一樣。把「液體進口機」貼在桶子上，另一頭連到網路。 \\n\\n它能以極限速度吸乾液體。注意：它只搬桶子裡的東西，不會吸地上的水源。"
+	]
+	quest.034F2CDF0830254B.title: "&e液體搬運工程"
+	quest.03C40D6A5D722543.quest_desc: ["變數卡是 ID 的靈魂。把它塞進進口機，點開「+」號就能魔改它的性能。 \\n\\n如果你跟我一樣懶，直接插張「真 (True)」卡讓它搬光光就好了。"]
+	quest.046C417B2ADF3AA7.quest_desc: ["卡片也是有極限的。一次只能搬 8 個太慢了？ \\n\\n塞點超頻補件進去！速度跟搬運量直接飛天。這才是模組玩家該有的效率。"]
+	quest.046C417B2ADF3AA7.quest_subtitle: "最大數量：4"
+	quest.06767BA0AFE8C1EE.quest_desc: ["想精確控制數量？設定一個數字，插進卡片裡。 \\n\\n機器就會乖乖聽話，只搬你指定的量。這叫「精準物流」。"]
+	quest.0BB562FB44B0AAA7.quest_desc: ["除了卡片，節點本體也能超頻。快到你看不見東西在動。"]
+	quest.0BB562FB44B0AAA7.quest_subtitle: "最大數量：8"
+	quest.1834B5C1F8435D7A.quest_desc: ["Mekanism 的液體管。搬水、搬岩漿、搬鋰液。只要是液體通通都能搬。"]
+	quest.1834B5C1F8435D7A.quest_subtitle: "液體搬運"
+	quest.1C70D739CE464E25.quest_desc: ["液體卡：這就是用來管水的。別把它跟物品卡弄混了。"]
+	quest.1C70D739CE464E25.title: "&9液體變數卡"
+	quest.230582AAFC0A1632.quest_desc: ["這任務是由 &6ATM 員工&r 或某個 &2爆肝網友&r 寫的。如果你看得到這行，代表你現在正在窺視開發者的內心世界（編輯模式）。"]
+	quest.2329AA0AFBEF1E13.quest_desc: [
+		"&e&lPipez&r 是全世界最簡單的物流模組。 \\n\\n接上管子，拿扳手點一下設定進出口。簡單暴力。 \\n\\n注意：雖然好用，但蓋太多的話可能會卡 TPS。比 Mekanism 的管子好一點啦。"
+	]
+	quest.2329AA0AFBEF1E13.title: "&l&ePipez (簡易管路)"
+	quest.2A6900E87DE8BAE0.quest_desc: ["模組過濾器：如果你想把所有來自「Mekanism」的東西通通搬走，選這個就對了。這才是大範圍管理的藝術。"]
+	quest.2A976D41F79C34B1.quest_desc: ["Pipez 的進階過濾功能。你需要高級升級模組才能用。 \\n\\n你可以過濾物品名、標籤或是 NBT。還能設定目的地。這管子變聰明了。"]
+	quest.2F4458E9921DEB86.quest_desc: ["氣體管：專門對付 Mekanism 的氣體。氫氣、氧氣通通靠它。別接錯了，這管子不搬水。"]
+	quest.2F4458E9921DEB86.title: "&a氣體管路 (Gas Pipez)"
+	quest.3065EA195D0A36BA.quest_desc: ["標籤 (Tags) 過濾器：想過濾「所有的礦石」？輸入 #c:ores。這招叫標籤大法好。"]
+	quest.308935C85364B04D.quest_desc: ["變數卡複製器：左鍵複製，右鍵貼上。不用再一張一張手動設定了，真香。"]
+	quest.30DE4F5BC3EDB555.quest_desc: ["Mekanism 的傳送帶。雖然看起來很帥，但如果路上掉太多東西會很卡。建議還是用管子。"]
+	quest.30DE4F5BC3EDB555.quest_subtitle: "搬東西用這個"
+	quest.316B513FE568EF57.quest_desc: ["熱量導管：搬熱量用的。反應爐必備。"]
+	quest.316B513FE568EF57.quest_subtitle: "搬運熱量"
+	quest.33433A443B65D252.quest_desc: ["液體管：搬水搬岩漿的首選。藍色看起來就很清涼。"]
+	quest.33433A443B65D252.title: "&b液體管路 (Fluid Pipez)"
+	quest.34CFE1439262AA72.quest_desc: ["Mekanism 是老牌大模組。它的管子功能齊全但設定繁瑣。記得去介面調進出口！"]
+	quest.34CFE1439262AA72.title: "&5&lMekanism 物流"
+	quest.36836AD948F96B9F.quest_desc: ["最基礎的物品管。接個箱子，設定提取。發貨囉！"]
+	quest.36836AD948F96B9F.title: "&e物品管路 (Item Pipez)"
+	quest.47768B1FFD57D56E.quest_desc: ["無線紅石！有了 LaserIO，你再也不用在家裡拉一堆醜死人的紅石線了。"]
+	quest.47768B1FFD57D56E.title: "&4紅石卡"
+	quest.47A2BEFB11F4D581.quest_desc: ["基礎過濾器：黑名單、白名單、匹配 NBT。這就是物流界的安檢員。"]
+	quest.493D04D954E4FBA0.quest_desc: ["電纜：Mek 機器的生命線。"]
+	quest.493D04D954E4FBA0.quest_subtitle: "搬電用這個"
+	quest.4BC2D7FCDD792DBA.quest_desc: ["除了固液氣，Mek 還有很多奇奇怪怪的狀態。通通都要用這根壓力管來搬。"]
+	quest.4BC2D7FCDD792DBA.quest_subtitle: "氣體與雜項"
+	quest.4C41FD926F31180B.quest_desc: ["物品卡：LaserIO 的搬運工。設定好提取跟插入，看著雷射射來射去很有科技感。"]
+	quest.4C41FD926F31180B.title: "&2物品搬運卡"
+	quest.4FBAB3A0FBF8CE2F.quest_desc: ["萬用管：一根抵三根。什麼都能搬。這才是懶人的極致追求。"]
+	quest.4FBAB3A0FBF8CE2F.title: "&5萬用管路 (Universal Pipez)"
+	quest.52F85CED20C8B1E9.quest_desc: ["電力卡：把電射向四面八方。"]
+	quest.52F85CED20C8B1E9.title: "&e電力搬運卡"
+	quest.53EC96FA0E7C4ED4.quest_desc: ["能源管：專門搬電。別拿去接水，沒用的。"]
+	quest.53EC96FA0E7C4ED4.title: "&c能源管路 (Energy Pipez)"
+	quest.5C0F6B1C93A52113.quest_desc: ["雷射節點：這是 LaserIO 的心臟。它會把旁邊的東西吸進去再射出去。這才是真的酷。"]
+	quest.5F1218CF8EFC607B.quest_desc: ["LaserIO 是 Direwolf20 的傑作。用雷射搬東西，速度快、沒碰撞。簡直是強迫症的救星。"]
+	quest.5F1218CF8EFC607B.title: "&c&lLaser IO (雷射物流)"
+	quest.6112956E19017D2D.quest_desc: ["邏輯線：ID 專用。它們不搬東西，只搬邏輯判斷。"]
+	quest.617695A9CA45D88F.quest_desc: ["卡片夾：幫你收納那一堆變數卡。不然你包包會爆掉。"]
+	quest.6718043D0F2D1830.quest_desc: ["化學卡：專門用來連動 Mekanism 的各種氣體跟流體。"]
+	quest.6718043D0F2D1830.title: "&5化學搬運卡"
+	quest.6CD60A9D88227005.quest_desc: ["傳輸標籤：如果你要在兩格中間塞管子塞不進去，用標籤吧！它就像是牆壁上的貼紙物流。這招超騷包。"]
+	quest.6CD60A9D88227005.title: "&3&l牆面傳輸標籤"
+	quest.6CD7D99AA102A5C3.quest_desc: ["物流就是：把東西從 A 搬到 B。在 ATM 裡，這可能是從你的礦機搬到你那幾百個儲存槽。不想手動搬？學會用管子吧。"]
+	quest.6CD7D99AA102A5C3.title: "&l物流概論"
+	quest.6E05B62A40D5A891.quest_desc: ["ID 是最強的物流模組之一。雖然腦袋會很痛，但它的效率是最高的。建議深造。"]
+	quest.6E05B62A40D5A891.title: "&3&l整合動力物流"
+	quest.6F152402756DA35E.quest_desc: ["把進口機貼在箱子上。插上卡。發貨。簡單！"]
+	quest.6F152402756DA35E.title: "&f物品進口工程"
+	quest.76CECFB244F39F18.quest_desc: ["電力進口機。雖然它跟 Flux Networks 有時候會吵架（不相容），但搬普通機器的電還是很快的。"]
+	quest.76CECFB244F39F18.title: "&3電力搬運工程"
+	task.2BA7FC10243AA011.title: "壓力導管"
+	task.337725ECA2C04090.title: "物流傳送帶"
+	task.4448DE84ABA737BE.title: "萬用電纜"
+	task.48A30B08A090BD75.title: "各式扳手"
+	task.48CF7A7622423DEA.title: "管路升級零件"
+	task.4CCB830CFDD43B5E.title: "不準偷拿 (版權所有)"
+	task.5B7926B511000F1F.title: "機械流體管"
+	task.5E4B74F97BDED243.title: "不準偷拿 (版權所有)"
+	task.79E961F671475850.title: "熱能導體"
+}

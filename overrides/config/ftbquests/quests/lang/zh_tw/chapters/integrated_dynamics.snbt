@@ -1,0 +1,51 @@
+{
+	quest.1568CBFA09827137.quest_desc: ["就是邏輯程式機的隨身版。讓你在野外也能寫腳本。"]
+	quest.1B5C86AE05678420.quest_desc: ["右鍵點接口可以看到一堆設定： \\n- &l設定側面&r：讓機器以為你是從哪一面接進去的。 \\n- &l運作頻率&r：多久搬一次貨。10 刻代表 0.5 秒一次。 \\n- &l優先級&r：數字越高，東西越先往那邊塞。 \\n- &l頻道設定&r：把系統切成好幾個頻道，互不干擾。這就是所謂的魔法 VLAN。"]
+	quest.232A06C9FF0EE7B2.quest_desc: ["門瑞爾種子可以用來全自動生產果實、原木跟樹苗。"]
+	quest.232A06C9FF0EE7B2.title: "門瑞爾自動化"
+	quest.2F37E284BB83BFF6.quest_desc: ["扳手可以用來轉方塊或拆線。在空中按 Shift+右鍵可以換模式。"]
+	quest.33F4A7613764A016.quest_desc: ["輸入機的兄弟，把東西從網路裡「吐」到箱子裡。"]
+	quest.33F4A7613764A016.title: "出口接口 (Exporter)"
+	quest.3BC94B0B922C0708.quest_desc: ["做接口的基本零件。不管是物品、流體還是電力的接口通通都要用到它。"]
+	quest.3C9539083BCC145C.quest_desc: ["養隻門瑞爾蜜蜂，你就有源源不絕的水晶塊了。這比你自己去跳擠壓機快多了。"]
+	quest.437F4945AFBE0825.quest_desc: ["點擊變數卡左邊的小「+」，可以開啟高級選單。 \\n\\n你可以在這裡設定每秒搬運量，甚至是設定成「無限速度」。只要你系統撐得住，一秒搬兩億個東西也不是夢。"]
+	quest.44DA091B53473723.quest_desc: ["給它電，它就會自動幫你擠。終於不用在那邊跳到腳痠了。"]
+	quest.450EDE68EC992A5A.quest_desc: ["「接口 (Interface)」是這模組的靈魂。它就像是 AE2 的儲存匯流排。 \\n\\n接在箱子上，你的 ID 網路就能看到箱子裡的 100 個圓石。簡單明瞭。"]
+	quest.450EDE68EC992A5A.title: "接口系統"
+	quest.499CF9F39CED8899.quest_desc: ["&b整合動力 (Integrated Dynamics)&r 是一個極其變態的物流與邏輯模組。 \\n\\n它能存儲、能搬運、還能寫簡單的邏輯判斷。 \\n\\n第一步：先去 Meneglin 群系找門瑞爾樹（那種亮藍色的樹）。祝你的腦袋還撐得住接下來的變數運算。"]
+	quest.499CF9F39CED8899.title: "&b整合動力 (ID)"
+	quest.4A05C037C0EE40BD.quest_desc: ["ID 的線跟別家不一樣。它們不搬東西，它們搬的是「邏輯」。 \\n\\n這線路就像是你基地的神經網路。連動所有的接口跟程式機。"]
+	quest.4A05C037C0EE40BD.title: "邏輯線纜"
+	quest.4D4152032F0410D2.quest_desc: ["這台機器是用來幫「變數卡」賦值的。 \\n\\n例如選「物品」，把圓石塞中間，插一張卡進去。這張卡現在就代表「圓石」了。 \\n\\n把它塞進進出口機，機器就只會搬圓石。這就是 ID 的基本邏輯。"]
+	quest.4D4152032F0410D2.title: "邏輯程式機"
+	quest.4D62C62B523C69EC.quest_desc: ["燒煤炭產電的小機器。前期湊合著用。"]
+	quest.56BF647EA84FFF7E.quest_desc: ["顯示系統現在正在搓什麼。"]
+	quest.60D9F04E91171D16.quest_desc: ["這就是個存變數卡的箱子。但在高級網路裡它有別的用途。詳情去翻說明書啦，窩懶得講。"]
+	quest.62B4A37CFDECA679.quest_desc: ["擠壓機噴出來的樹脂會自動飛到旁邊的乾燥盆。 \\n\\n等 7.5 秒，它就變成了門瑞爾水晶塊。這效率比你等開薪水還慢。"]
+	quest.65D89991A45BC042.quest_desc: ["把自動合成接口貼在工作台上。 \\n\\n然後去寫好配方變數卡塞進去。恭喜你，你的基地現在會自己做菜了。"]
+	quest.65D89991A45BC042.title: "&l&cA&6U&eT&aO &bC&dR&9A&3F&0T (自動合成)"
+	quest.65FA86357BC60573.quest_desc: ["搬運三步驟： \\n1. 把「接口」接在起點箱子上。 \\n2. 把「進口機」接在終點箱子上。 \\n3. 用線連起來，插上一張「真 (True)」或是指定物品的變數卡。完成！"]
+	quest.65FA86357BC60573.title: "物流搬運 101"
+	quest.68498ADEF9765F81.quest_desc: ["想拿水晶？先把原木丟進擠壓機，然後在上面瘋狂亂跳！ \\n\\n這動作看起來真的很蠢，但這是前期唯一的拿法。想放空擠壓機？給它紅石訊號就好。"]
+	quest.68498ADEF9765F81.title: "腳踏式擠壓機"
+	quest.6C9191DA4B1039D6.quest_desc: ["吃了可以短暫獲得夜視。雖然味道可能有點像洗潔精（誤）。"]
+	quest.6D75CF34957ECCD9.quest_desc: ["ID 的電池。要拿電的話記得裝個電力接口喔。"]
+	quest.72F57D77C3FB366D.quest_desc: ["水晶塊敲碎變水晶碎。這是 ID 所有高級零件的基底材料。"]
+	quest.72F57D77C3FB366D.title: "門瑞爾水晶"
+	quest.73EA326304C01C3B.quest_desc: [
+		"把「進口機 (Importer)」接在你想要拿東西的箱子上。另一頭接上網路。 \\n\\n只要卡片對了，東西就會源源不絕地流進來。"
+	]
+	quest.73EA326304C01C3B.title: "進口接口 (Importer)"
+	quest.7413BB136EF9D6C5.quest_desc: ["電動乾燥盆。這才是文明人的做法。"]
+	quest.79C1105A84B8BF8F.quest_desc: ["變數卡是這模組的大腦。 \\n\\n你可以透過卡片設定要搬多少、從哪個格子搬、甚至是切換不同的頻道。 \\n\\n如果你只是想搬東西，直接插卡就好，不用想太多。"]
+	quest.79C1105A84B8BF8F.title: "變數卡 (Variable Cards)"
+	task.166BA23E49F6DCD6.title: "進口機"
+	task.1C045BB5FAFCF4D3.title: "接口"
+	task.1C7C0F345759111C.title: "出口機"
+	task.22CCBBC66D509404.title: "網路系統"
+	task.238B5BA2FAE9785B.title: "不準偷拿 (版權所有)"
+	task.2656ACB55A33D4FE.title: "接口介面"
+	task.267CE316E1F8FA83.title: "不準偷拿 (版權所有)"
+	task.4209A06A392362DB.title: "進出口機介面"
+	task.5DD862CF56AF7BF9.title: "門瑞爾原木"
+}

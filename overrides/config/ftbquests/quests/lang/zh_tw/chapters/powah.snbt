@@ -1,0 +1,48 @@
+{
+	quest.05B0A7D0B991050F.title: "核反應爐 (強化級)"
+	quest.08245411AFDB63DB.quest_desc: ["這任務是由 &6ATM 員工&r 或某個 &2爆肝網友&r 寫的。如果你看得到這行，代表你現在正在窺視開發者的內心世界（編輯模式）。"]
+	quest.0FD62827710F0AC6.quest_desc: ["&c岩漿發電機&r 只要餵牠喝岩漿就會吐電出來。這就是最簡單的白嫖電量法。"]
+	quest.0FFF2BEE5D8EBE12.title: "核反應爐 (藍晶級)"
+	quest.1B0087400B0B8B49.quest_desc: ["&9反應爐&r 是一個 3x4x3 的大家伙，吃「瀝青鈾 (Urananite)」來發電。\\n\\n蓋法：拿著 36 個反應爐方塊，隨便點一下地板，它就會幫你「自動組裝」。記得先留好位置，不然它會把你的家拆了。\\n\\n反應爐會發熱，熱到爆炸那種。你要餵牠喝&b冷卻劑&r。固體（像乾冰）或液體都行。如果你用乾冰，記得還是要給牠一桶水當媒介。\\n\\n想產更多電？保持燃料槽全滿，順便塞點煤炭跟紅石進去催化。"]
+	quest.1B0087400B0B8B49.title: "核反應爐 (入門級)"
+	quest.1C273D9E046FD18A.quest_desc: ["配合充能珠，用來幫物品注入愛的電力。"]
+	quest.25EFC21A3C48E0B6.title: "等級： &2靈魂級"
+	quest.33816AF0E699F19F.quest_desc: ["這個方塊會吸乾任何放進去的電器的電量。如果你不爽某件裝備電太多，就放進去吧。"]
+	quest.341486C9F277FEB7.title: "核反應爐 (靈魂級)"
+	quest.3CB6DC5B09C62CFE.quest_desc: ["&5終界之門&r 是把電力隔空傳進 &7終界網路&r 的無線基地台。\\n\\n把它想像成你家電力的 WiFi。\\n\\n注意：這東西本身不存電，你要接個終界電池 (Ender Cell) 才能擴充容量。"]
+	quest.3D5F87F8E6B89C1B.quest_desc: ["&7火力發電機&r 燒煤炭、燒木頭，吐出電力。最傳統的作法。"]
+	quest.3DDF87A1E5F5D009.quest_desc: [
+		"一開始用鐵錠做的入門級機器還行，但想變強，你得做些「充能材料」。這時候就要用到 &9充能珠 (Energizing Orb)&r。\\n\\n用法：把珠子擺中間，旁邊圍一圈 &a充能棒&r (9x9 範圍內都行)。充能棒要接電！\\n\\n珠子會吸乾充能棒的電，灌進裡面的材料。想快一點？多擺幾根棒子，或是升級棒子的等級。拿扳手可以確認棒子有沒有連到珠子上。"
+		""
+		"{image:atm:textures/questpics/powah/powah_energizing.png width:200 height:200 align:1}"
+	]
+	quest.3DDF87A1E5F5D009.title: "&9充能珠 (愛的電力注入)"
+	quest.4F1FFC02F4EAA2E6.title: "等級： &4硝能級 (最強)"
+	quest.52E59FCB39D66BCF.quest_desc: ["「被動發電」的最佳選擇。&9熱力發電機&r 只要放在&c熱源&r上面，再給牠一點點水，牠就會安靜地發電。\\n\\n熱源等級：岩漿塊 (爛) < 岩漿源 (普通) < &c熾焰水晶塊&r (最燙最爽)。"]
+	quest.562BD37539EE318E.title: "等級： &c熾焰級"
+	quest.5BCA3F716348ECCD.quest_desc: ["&9能源漏斗&r 會幫它指著的箱子裡面的所有電器充電。就像是全自動充電站。"]
+	quest.5E090C9BB4DAA5D4.title: "等級： &a充能級"
+	quest.5F6152CF085D75D6.title: "核反應爐 (基礎級)"
+	quest.61A8FAEC4FF18449.quest_desc: ["拿來幫你背包裡的電器充電，或是增加終界網路的總容量。"]
+	quest.61DCECE1FC38E151.title: "核反應爐 (硝能級)"
+	quest.66ECC26BC81D0093.title: "等級： &b基礎級"
+	quest.6754612E9AD4B9C0.title: "核反應爐 (熾熱級)"
+	quest.677365A816994C8B.quest_desc: [
+		"&9玩家傳送器&r 會無線幫你身上充。你得先拿張 &9綁定卡&r 點自己一下，再塞進機器裡。\\n\\n普通卡只能在同個維度充電。想要跨維度？去搞張 &d維度綁定卡&r 吧。\\n\\n註：要拿空中珍珠 (Aerial Pearl)，去對著殭屍丟珍珠就對了。"
+	]
+	quest.6B2027DA7AA6FF34.quest_desc: ["&9Powah&r 是一個專注於發電、存電、傳電的模組。\\n\\n從最爛的小電池到每刻噴出 &b25萬 FE&r 的巨大反應爐，應有盡有！\\n\\n第一步：先去地底下挖點&a瀝青鈾&r吧！沒有它你什麼都動不了。"]
+	quest.6B2027DA7AA6FF34.title: "&a歡迎來到 &9大電力時代&r!!!"
+	quest.6D88C19F47D0D469.title: "等級： &7微型級"
+	quest.700F3FF7C23D0C0F.quest_desc: ["&5終界電池&r 是幫你的終界網路頻道存電的。\\n\\n右鍵打開介面，把普通的電池或能量單元塞進去，你的無線網路存電量就會飆升。"]
+	quest.7678B5DD1339833E.quest_desc: ["太陽能板只要看到太陽就會給電。\\n\\n如果你想在地下室用太陽能，你可以裝個「終界透鏡」來騙過系統，假裝它看得到太陽。"]
+	quest.78202A1CF5D86B94.quest_desc: ["Powah 版的行動電源。"]
+	quest.7D52DD751DDADA1B.quest_desc: ["最基本的電纜。不要接太多機器，不然會燒掉（開玩笑的，它只會傳很慢）。"]
+	quest.7D7983F39E6E818D.title: "等級： &9藍晶級"
+	quest.7E92ED270C67FDE5.quest_desc: ["幾乎所有機器都要用到這個「絕緣機殼」。\\n\\n先去做點「絕緣糊」，然後搓成棒棒，才能開始你的工業之旅！"]
+	quest.7E92ED270C67FDE5.title: "從絕緣糊開始"
+	task.09C7E50E7E13C53C.title: "不準偷拿 (版權所有)"
+	task.17F07D6404668DE6.title: "充能棒"
+	task.1F929F1DF23460AE.title: "綁定卡"
+	task.3282910297C28795.title: "不準偷拿 (版權所有)"
+	task.36E378BF22554E0A.title: "能源電纜"
+}

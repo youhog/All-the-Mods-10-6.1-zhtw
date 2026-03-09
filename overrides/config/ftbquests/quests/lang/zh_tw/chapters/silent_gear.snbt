@@ -1,0 +1,45 @@
+{
+	quest.036D5767E07005BC.quest_desc: ["&b排出孔&r 用來導出液態金屬。太燙了手拿不動，請用排液口。 \\n\\n接個水龍頭點一下，液體就噴出來了。你還能從排出孔看到裡面剩多少料。"]
+	quest.036D5767E07005BC.title: "&c&l鑄造廠&r 排出孔"
+	quest.061A51A0EC13CA0F.quest_desc: [
+		"有了控制器、排出孔跟儲液槽，下一步就是地板。 \\n\\n地板要鋪滿 &6液體加熱線圈&r。這是機器的發熱來源。 \\n\\n牆壁可以用鑄造廠玻璃或是防火磚。蓋好後控制器會發光，代表違建...喔不，是工廠完工了！"
+	]
+	quest.061A51A0EC13CA0F.title: "建造 &c&l鑄造廠"
+	quest.0947B4ED95B0267E.quest_desc: ["幫你的工具「鍍膜」。獄髓是最好的鍍膜材料，不只耐操還加傷害。"]
+	quest.0D26E5EF6CFCFDBF.quest_subtitle: "戳戳樂"
+	quest.0DF4B01CC5B49E4E.quest_desc: ["經典長劍。傷害穩定、速度可靠。這是你闖蕩江湖的起點。"]
+	quest.0DF4B01CC5B49E4E.quest_subtitle: "老戰友"
+	quest.0EF9F10A2178451F.quest_desc: ["鑄造廠大部分的零件都能染色。你可以把它染成電子花車風格，非常騷包。"]
+	quest.0EF9F10A2178451F.title: "&z彩色 &c&l鑄造廠"
+	quest.11B0B93D725ABE43.quest_desc: ["裝備壞了？別用鐵砧，用修理包！ \\n\\n把材料塞進修理包，然後在包包裡跟工具合體。這才是隨身維修。"]
+	quest.11B0B93D725ABE43.quest_subtitle: "告別鐵砧"
+	quest.158B24939A269D83.quest_desc: ["幫工具換個頭。例如給鐵鎬裝個鑽石頭，它就能挖黑曜石了。這招叫「借頭上位」。"]
+	quest.2156C00E30424844.quest_desc: ["儲液槽是用來裝燃料的。目前唯一支持的燃料就是 &c岩漿&r。多倒幾桶進去吧。"]
+	quest.2156C00E30424844.title: "&l&c鑄造廠&r 燃料桶"
+	quest.26F9DB31A835B69C.quest_desc: ["要把液體變回固體？用鑄造盆（做整塊）或是鑄造台（配合模具做零件）。 \\n\\n看著金屬冷卻的過程真的很有重工業的味道。"]
+	quest.26F9DB31A835B69C.title: "澆鑄工程"
+	quest.2EB96FF06627FD9A.quest_desc: ["回收站能幫你把不要的裝備拆回原材料。穿爛的鑽石鞋拆一拆還能拿回幾顆鑽石，真划算。"]
+	quest.2EB96FF06627FD9A.title: "物資回收站"
+	quest.3722B43822F80470.quest_subtitle: "我的武士魂在燃燒"
+	quest.3930404D5C8B44EB.quest_desc: ["用來製作各種黑科技合金。這也是拿取提里安鋼的唯一方法。"]
+	quest.39B85DB54B1037FE.quest_subtitle: "大就是好"
+	quest.3AC03D1FA5C341A7.quest_desc: ["把碎掉的水晶合體變回完整的。這就是所謂的破鏡重圓。"]
+	quest.3D2C6FF462B17205.quest_desc: ["傷害很低但攻速快到殘影。能讓怪陷入持續僵直狀態。"]
+	quest.45899579D9B92D91.quest_desc: ["控制器是工廠的大腦。你可以透過介面看到裡面熔了什麼液體，還能手動存取東西。"]
+	quest.45899579D9B92D91.title: "&c&l鑄造廠&r 控制器"
+	quest.6A393C7A24899E3E.quest_desc: ["幫你的材料評分。分數越高（最高 MAX），做出來的工具數值就越強。這就是所謂的「血統檢測」。"]
+	quest.6A393C7A24899E3E.title: "材料評級機"
+	quest.6BBC440BD0AD0E93.quest_desc: ["這模組包把 &9Silent Gear&r 跟 &7匠魂 (Tinker)&r 的概念混在一起了。 \\n\\n現在你不能直接用圖紙做工具，你得先蓋座鑄造廠，用熔煉的方式來做零件。這過程雖然麻煩，但非常有成就感。第一步：先搓點耐火黏土吧。"]
+	quest.6BBC440BD0AD0E93.title: "&9&l沈默裝備&r 與 &c&l金屬加工"
+	quest.711826BBCA832EE2.quest_desc: ["所有模具都是用鋼澆鑄出來的。 \\n\\n你想做劍？先熔點鋼，對著劍胚澆下去。合金要在工廠裡加熱才能合成，這過程很寫實。"]
+	quest.711826BBCA832EE2.title: "&8鑄造模具"
+	quest.7C3D763CF22D167A.quest_desc: ["星光充能機：幫你的材料附上「星光」屬性。 \\n\\n結構要蓋 7x7，四角擺柱子。只能在晚上工作，因為星光不加班。"]
+	quest.7C3D763CF22D167A.title: "&d星光充能機"
+	task.2AE89914A34BF3AD.title: "防火磚或鑄造廠玻璃"
+	task.3B23E744D3B72AE8.title: "防火磚或鑄造廠玻璃"
+	task.511ECEA2E9BD1F71.title: "排出孔"
+	task.51297F6E0D9BB58C.title: "燃料桶"
+	task.55E0635973A828B0.title: "不準偷拿 (版權所有)"
+	task.6D9DBD885FE4C94C.title: "不準偷拿 (版權所有)"
+	task.76E296A2AD3EFE92.title: "控制器"
+}

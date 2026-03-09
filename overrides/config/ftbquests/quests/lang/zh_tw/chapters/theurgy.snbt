@@ -1,0 +1,137 @@
+{
+	quest.02593CD4B4AE814C.quest_desc: [
+		"&b鹽&r 在孵化 &e鍊金硫磺&r 時超重要！ \\n\\n想拿到鹽，你得先拿東西去烤。不同的東西會烤出不同的鹽，稀有度也不同。 \\n\\n把材料丟進烤箱，點火加熱，然後坐等鹽巴出爐。這過程聽起來就像在做菜。"
+		"{image:atm:textures/questpics/theurgy/theurgy_oven.png width:100 height:100 align:center}"
+	]
+	quest.02593CD4B4AE814C.title: "海水倒灌...我是說製鹽廠"
+	quest.0460DDEEFDEB0AAF.quest_desc: ["尋礦棒是你與「靈魂」溝通的工具，用來找礦石。 \\n\\n你可以 Shift+右鍵點方塊來鎖定，或是直接跟硫磺合體。 \\n\\n按住右鍵不放，它就會帶你去找寶藏。如果離得夠近，還會出現一個發光球引路。這比導航還準。"]
+	quest.0460DDEEFDEB0AAF.title: "專業尋礦棒"
+	quest.0542FE108089A0A2.quest_desc: ["&l&6鍊金術 (Theurgy)&r 就是用魔法搞化學！ \\n\\n簡單說就是用一堆機器把材料變多、變強、或是變成另一種東西。 \\n\\n很多機器都要用到 &6銅&r，快去外面多挖點銅吧。"]
+	quest.0542FE108089A0A2.title: "&l&6鍊金術"
+	quest.06AD25DB96F3A1CC.quest_desc: [
+		"裝 &c水銀&r 的罐子。 \\n\\n不管是水晶態還是碎片態，通通都要裝在這裡面。"
+		"{image:atm:textures/questpics/theurgy/theurgy_vessel_1.png width:100 height:125 align:center}"
+	]
+	quest.06AD25DB96F3A1CC.title: "&c水銀&r 儲存罐"
+	quest.0830195863384CF0.quest_desc: ["&b地層之鹽&r 是最基礎的，拿圓石、沙子或是黑曜石去烤就有了。 \\n\\n5 個可以合成 1 個礦物鹽。這比例還可以啦。"]
+	quest.0830195863384CF0.title: "&b地層之鹽"
+	quest.0854AD352218E1C3.quest_desc: ["你有電但沒火？這機器就是你的救星！ \\n\\n「熱量發射器」能把電力轉成無線熱能。對準機器按 Shift+右鍵連結，以後它就有用不完的火了。 \\n\\n注意：一次只能連一台機器喔，別太貪心。"]
+	quest.0854AD352218E1C3.quest_subtitle: "無線發火？"
+	quest.0854AD352218E1C3.title: "無線熱能傳輸"
+	quest.0EADCEA9AB001FC7.quest_desc: [
+		"最簡單的加熱方式。擺在機器下面，餵它吃煤炭、木頭或乾海帶。 \\n\\n它就像個隨身瓦斯爐一樣好用。"
+		"{image:atm:textures/questpics/theurgy/theurgy_brazier.png width:100 height:100 align:center}"
+	]
+	quest.0EADCEA9AB001FC7.title: "老式火盆 (燒煤的)"
+	quest.0F7BB4ECCA5C082C.quest_desc: [
+		"這裡塞 &e鍊金硫磺&r。 \\n\\n硫磺裡記住了什麼東西，孵化後就會變成那個東西。這才是真正的無中生有。"
+		"{image:atm:textures/questpics/theurgy/theurgy_vessel_3.png width:100 height:125 align:center}"
+	]
+	quest.0F7BB4ECCA5C082C.title: "&e硫磺&r 儲存罐"
+	quest.161E7D934A21F849.quest_desc: [
+		"「重組儀式 (Reformation)」能把一種硫磺變成另一種，或是用硝石來增產！ \\n\\n第一步：來源底座。把你想變不見（消耗掉）的硫磺放這。"
+		"{image:atm:textures/questpics/theurgy/theurgy_reform_1.png width:100 height:100 align:center}"
+	]
+	quest.161E7D934A21F849.title: "第一步：來源底座"
+	quest.16B88F46021E956D.quest_desc: ["鍊金術也有物流！ \\n\\n利用 &c水銀&r 的力量，你可以用水銀線來搬運物品跟流體。 \\n\\n這線路看起來很有科幻感，雖然窩覺得用 AE2 比較快（誤）。"]
+	quest.16B88F46021E956D.title: "水銀物流系統"
+	quest.19A2016B54C6FA34.quest_desc: ["有些機器很機車，一定要加熱才會動。 \\n\\n而且它們對熱源很挑剔，基本上只有這模組指定的火源能滿足它們。 \\n\\n（需要熱量的有：液化大釜、煅燒烤箱、水銀蒸餾機、孵化器）"]
+	quest.19A2016B54C6FA34.quest_subtitle: "你好燙喔！"
+	quest.19A2016B54C6FA34.title: "熱量需求說明"
+	quest.1A46A97A00A31C03.quest_desc: [
+		"第二步：目標底座。把你想變出來的東西（或是硝石）放這裡。 \\n\\n它會告訴底座：我想要這東西！"
+		"{image:atm:textures/questpics/theurgy/theurgy_reform_2.png width:100 height:100 align:center}"
+	]
+	quest.1A46A97A00A31C03.title: "第二步：目標底座"
+	quest.1C829609915E0012.quest_desc: [
+		"水銀進，電力出。 \\n\\n這裡的 MF 代表「水銀通量 (Mercury Flux)」，不是什麼髒話或是金屬臉，請自重。"
+		"{image:atm:textures/questpics/theurgy/theurgy_mercuryflux.png width:100 height:100 align:center}"
+	]
+	quest.1C829609915E0012.title: "水銀發電工程"
+	quest.20C3AADEE2D4800D.quest_desc: [
+		"液體也能用水銀搬。 \\n\\n從起點（例如水槽）接個提取器，終點接個插入器，中間連好線。 \\n\\n看著液體在魔法線路裡跑，真的很香。"
+		"{image:atm:textures/questpics/theurgy/theurgy_fluid.png width:200 height:75 align:center}"
+	]
+	quest.20C3AADEE2D4800D.title: "液體魔法傳輸"
+	quest.26B462F2F41A77C7.quest_desc: ["大自然的饋贈... 通通拿去烤箱燒成灰！ \\n\\n原木、樹葉、農作物通通都能烤成 &b植物鹽&r。"]
+	quest.26B462F2F41A77C7.title: "&b植物之鹽"
+	quest.285B3FB38B12F8CA.quest_desc: [
+		"你需要這兩個方塊來做 &d氯化銨 (Sal Ammoniac)&r。 \\n\\n下面是儲存桶，上面是累積器。加水、加晶體，它就會慢慢產出那種聽起來就很化學的液體。 10 倍生產率的祕訣就在晶體裡。"
+		"{image:atm:textures/questpics/theurgy/theurgy_sal_front.png width:100 height:200 align:center}"
+	]
+	quest.285B3FB38B12F8CA.title: "製作 &d氯化銨"
+	quest.2B29E9AB9447E1C6.quest_desc: [
+		"真正的多方塊機器來了！ \\n\\n孵化器要把硫磺變回物品。你需要把三個罐子（水銀、鹽、硫磺）貼著孵化器底部的三個面。 \\n\\n順序隨便，只要有加熱，它就會開始冒煙工作。這就是鍊金術的奇蹟。"
+		"{image:atm:textures/questpics/theurgy/theurgy_incubator.png width:200 height:200 align:center}"
+	]
+	quest.2F0D6267569F740B.quest_desc: ["「普通材料」比常見的稍微好一點。通常是各種金屬錠，或是像珍珠、兔子皮這類的掉落物。"]
+	quest.36926B5EBFF6E55A.quest_desc: [
+		"&c水銀&r 是這模組的能源核心。 \\n\\n拿東西去蒸餾機裡烤就有了。鑽石可以出爆量的水銀，石頭就要 10 顆才能出一點點。這就是現實的貧富差距。"
+		"{image:atm:textures/questpics/theurgy/theurgy_distiller.png width:100 height:150 align:center}"
+	]
+	quest.36926B5EBFF6E55A.title: "水銀提煉工程"
+	quest.393DA9C9D808A851.quest_desc: ["這是一根看起來像魔杖但其實是扳手的東西。 \\n\\n你可以用它開關線路、調整進出口方向、或是切換頻道。 \\n\\n窩本來以為這是魔法模組，結果還是要拿扳手（杖）。"]
+	quest.393DA9C9D808A851.quest_subtitle: "所以還是要扳手嘛..."
+	quest.393DA9C9D808A851.title: "水銀權杖"
+	quest.3B6F723B03C4BF55.quest_desc: ["「消化 (Digestion)」是變更硝石等級的方法。 \\n\\n先做點純金（金加鹽加水煮一煮）。然後在大釜裡合體，你就能把硝石升級或是降級。這過程聽起來就很養生。"]
+	quest.3B6F723B03C4BF55.title: "消化大釜"
+	quest.3C5734448FEC128B.quest_desc: ["最窮酸的尋礦棒。只能找銅、煤、鐵這類鐵鎬就能挖的東西。"]
+	quest.3EB63AF53E70C931.quest_desc: [
+		"重組儀式需要電！拿發射器對著那三個底座按 Shift+右鍵連結。 \\n\\n電給它灌下去，看那硫磺閃閃發光，這就是重組的瞬間。"
+		"{image:atm:textures/questpics/theurgy/theurgy_reform_setup.png width:200 height:50 align:center}"
+	]
+	quest.3EB63AF53E70C931.title: "第四步：通電啟動"
+	quest.41ABC09C798CA8BE.quest_desc: ["這任務是由 &6ATM 員工&r 或某個 &2爆肝網友&r 寫的。如果你看得到這行，代表你現在正在窺視開發者的內心世界（編輯模式）。"]
+	quest.457CAE66B0FA4CCF.quest_desc: ["最強的原版尋礦棒。連獄髓都逃不過它的法眼。"]
+	quest.45996B848792379E.quest_desc: ["雖然外面能挖到晶體，但為了效率，你還是得蓋機器。 \\n\\n只用水，1 桶只能換 100mb。加了晶體，1 桶換 1 桶！ 10 倍效率！這就是為什麼我們要當工程師而不是礦工的原因。"]
+	quest.45996B848792379E.quest_subtitle: "都有礦可以挖了幹嘛還要蓋機器？"
+	quest.45996B848792379E.title: "自動化才是王道"
+	quest.48EE6C807C1668D4.quest_desc: ["線太短？轉角太多？用個連接點轉接一下就好了。簡單啦。"]
+	quest.48EE6C807C1668D4.title: "物流中轉站"
+	quest.49D1B01E07ABA471.quest_desc: [
+		"用水銀搬東西。一個提取，一個插入，中間連線。 \\n\\n這可以用來自動化鍊金術的產線，讓你從爆肝中解脫。"
+		"{image:atm:textures/questpics/theurgy/theurgy_item.png width:200 height:75 align:center}"
+	]
+	quest.49D1B01E07ABA471.title: "物品魔法搬運"
+	quest.4EE482B9D61B5933.quest_desc: ["原版不夠看？這根尋礦棒能幫你找那些稀有的模組礦石。"]
+	quest.54F0C5C48CFC94D0.quest_desc: ["物流最重要的就是過濾。 \\n\\n清單過濾器：指定物品名。 \\n屬性過濾器：指定標籤、燃料值、或是能不能當板材。 \\n\\n分清楚東西，別把你的 ATM 之星也搬去餵發電機了。"]
+	quest.55E321EFBE8956DE.quest_desc: ["如果你嫌發酵太貴，用這款「發酵啟動劑」可以幫你省點料。窮鬼鍊金師必備。"]
+	quest.55E321EFBE8956DE.title: "廉價發酵大法"
+	quest.5844DD2BEE5EC3DC.quest_desc: ["別喝！這東西有毒！ \\n\\n水銀有三種用途：孵化、發電、還有搬運物流。它是鍊金術師的萬用神油。"]
+	quest.5844DD2BEE5EC3DC.quest_subtitle: "是金星...不，是 &c水銀&r！"
+	quest.5844DD2BEE5EC3DC.title: "水銀 (Mercury)"
+	quest.616364E6AE05C341.quest_desc: ["&b礦物之鹽&r 就是拿各種原礦、錠或寶石去烤出來的。 \\n\\n連 Unobtainium 都能烤成鹽，但如果你真的這樣做，窩會覺得你很有錢（或很笨）。"]
+	quest.616364E6AE05C341.title: "&b礦物之鹽"
+	quest.61DA3D61D7103647.quest_desc: ["&e鍊金硫磺&r 是萬物的核心。 \\n\\n你可以把它發酵變硝石、孵化變回物品、或是重組變另一種東西。這就是鍊金術的三大支柱。"]
+	quest.61DA3D61D7103647.title: "&e鍊金硫磺"
+	quest.6A8E748B642DD16F.quest_desc: [
+		"這裡裝 &b鹽&r。 \\n\\n鹽的種類決定了你要孵化什麼。礦物鹽配礦物硫磺，以此類推。別接錯罐子了，不然會孵出一堆垃圾。"
+		"{image:atm:textures/questpics/theurgy/theurgy_vessel_2.png width:100 height:125 align:center}"
+	]
+	quest.6A8E748B642DD16F.title: "&b鹽&r 儲存罐"
+	quest.6C6F4EB5CBE2FBC2.quest_desc: ["中階尋礦棒。能找鑽石跟黃金。勉強能用了啦。"]
+	quest.6CAD27627A3F8FD7.quest_desc: [
+		"終於到重頭戲了：&e鍊金硫磺&r！ \\n\\n在大釜裡灌進氯化銨液體，下面點火加熱，丟進物品。 \\n\\n看著它咕嘟咕嘟冒泡，硫磺就提煉出來了。這才是鍊金師的日常。"
+		"{image:atm:textures/questpics/theurgy/theurgy_lique.png width:100 height:100 align:center}"
+	]
+	quest.6CAD27627A3F8FD7.title: "提煉 &e鍊金硫磺"
+	quest.7119F8C352D057BC.quest_desc: ["稀有材料甚至包括了鞘翅！雖然分類有點奇怪，但既然作者這樣寫了窩也沒辦法。"]
+	quest.7198ED7E97A256A4.quest_desc: ["這種尋礦棒專門找「常見材料」。 \\n\\n把它跟特定硫磺合體，它就會死守那種礦不放。清單太長了你自己去查 Tags 啦。"]
+	quest.72FADEAEE2DA03AF.quest_desc: [
+		"第三步：結果底座。新出的硫磺會噴在這裡。 \\n\\n恭喜你完成了一場成功的鍊金重組！"
+		"{image:atm:textures/questpics/theurgy/theurgy_reform_3.png width:100 height:100 align:center}"
+	]
+	quest.72FADEAEE2DA03AF.title: "第三步：結果底座"
+	quest.730F2D3329C4FF88.quest_desc: ["&n發酵&r：把東西丟進桶子裡爛掉的過程。 \\n\\n加水、丟硫磺、關上蓋子、坐等時間流逝。這就是把硫磺變硝石的方法。硝石可以用來做更多物品。"]
+	quest.730F2D3329C4FF88.title: "發酵大桶"
+	quest.76F675A898EAB4E8.quest_desc: ["&d氯化銨&r 是提煉硫磺的關鍵溶劑。沒有它，你的大釜就只是個裝水的垃圾。"]
+	quest.76F675A898EAB4E8.title: "&d氯化銨"
+	quest.7878F190BC8ADC82.quest_desc: ["頂級尋礦棒！從鑽石到下界之星通通找得到。基本上就是合法透視眼。"]
+	quest.7A1C117CA8FB7C31.quest_desc: ["這根比較特別，它只找「生長中的紫水晶」。 \\n\\n再也不用在海邊挖半天找不到晶洞了。"]
+	quest.7A271F425C3934CE.quest_desc: ["目前只能用 2 個植物鹽去煮成 1 個生物鹽。 \\n\\n希望以後更新能直接拿怪去煮... 窩是說拿怪的掉落物去烤。"]
+	quest.7A271F425C3934CE.title: "&b生物之鹽"
+	task.339A5D32CC00D60C.title: "不準偷拿 (版權所有)"
+	task.3489080F5FDE8B1B.title: "熱量"
+	task.6D9221A533926A7B.title: "不準偷拿 (版權所有)"
+	task.76F6BC2EC054BD3C.title: "各種鍊金硫磺"
+}

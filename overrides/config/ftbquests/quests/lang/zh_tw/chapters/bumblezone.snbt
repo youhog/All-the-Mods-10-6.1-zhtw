@@ -1,0 +1,357 @@
+{
+	quest.00764A738DA6451C.quest_desc: ["殺死 4 隻 &d終界蟎 (Endermites)&r。 \\n\\n窩們現在是真的什麼都殺，連小蟲子都不放過對吧？"]
+	quest.027EF5C8A74B1596.quest_desc: [
+		"&6B&8e&6e&8&r 的最強武器就是牠們的刺。 \\n\\n那窩們為什麼不拿來用呢？你可以合成或交易到「蜂刺長槍」，它用起來跟三叉戟一樣。 \\n\\n雖然威力弱一點，但打中怪會讓對方中毒，這就是所謂的「蜂毒攻擊」。"
+		"{image:atm:textures/questpics/bumblezone/bumble_spear.png width:100 height:150 align:center}"
+	]
+	quest.02F4C3BEBD8427AD.quest_desc: [
+		"相信窩，你一看到就會認出來。 \\n\\n幾百個花園掛在蜂巢的天花板上。裡面有各種花花草草，甚至連別的模組（像是永恆星光或 Regions Unexplored）的植物都有。簡直是空中植物園。"
+		"{image:atm:textures/questpics/bumblezone/bumble_garden.png width:200 height:100 align:center}"
+	]
+	quest.02F4C3BEBD8427AD.title: "懸掛花園"
+	quest.037E0DAA5ECC5AB8.quest_desc: ["拿 &e花粉團&r 砸向 24 種不同的生物。 \\n砸 &6B&8e&6e&8&r 的反應最有趣，一定要試試看！"]
+	quest.041D16DA96BC4253.quest_desc: [
+		"&e&l授粉柱&r 是連接授粉田跟蜂巢牆的橋樑。 \\n基本上就是巨大的 &6蜂蜜&r 牆加上一層厚厚的 &e花粉&r。看起來就很黏。 "
+		"{image:atm:textures/questpics/bumblezone/bumble_pollenpillar.png width:200 height:100 align:center}"
+	]
+	quest.041D16DA96BC4253.title: "&e&l授粉柱"
+	quest.04665EFC3A37250E.quest_desc: ["殺死 8 隻 &7蠹魚 (Silverfish)&r。"]
+	quest.053483E3349B2F8A.quest_desc: [
+		"這結構長得像懸掛花園，但它是藍色的，而且超級巨大。 \\n\\n你需要一路殺到最底層（小心守衛者），那裡有 &b藍色精華&r。 \\n\\n跳進去，準備憋氣！你得在水底解決掉一堆溺屍跟守衛者。打贏後獎勵非常香。"
+		"{image:atm:textures/questpics/bumblezone/bumble_blue1.png width:200 height:100 align:center}"
+		"{image:atm:textures/questpics/bumblezone/bumble_blue2.png width:200 height:100 align:center}"
+	]
+	quest.053483E3349B2F8A.title: "&b藍色永恆聖殿"
+	quest.0584073A7383E0EA.quest_desc: [
+		"覺得找 &d終界蟎&r 跟 &7蠹魚&r 很煩嗎？ \\n\\n歡迎來到蟲蟎要塞！這裡滿地都是這些小畜生。 \\n\\n要塞中心還有爆量的 &5黑曜石&r 跟寶藏。對了，&8B&6e&8e&6&r 會主動幫你打這些蟲子，這才是真正的「蜂擁而上」。"
+		"{image:atm:textures/questpics/bumblezone/bumble_mite.png width:200 height:100 align:center}"
+	]
+	quest.0584073A7383E0EA.title: "蟲蟎要塞"
+	quest.05A4496705B6C6AF.quest_desc: [
+		"比蒙巨蜂就像是會飛的野馬。 \\n\\n餵牠們喝 &6蜂蜜&r 就能馴服。牠們有「友好度」，餵越多跑越快、血越厚。 \\n\\n滿級後會變身 &5巨蜂皇后&r！拿著蜂蜜桶牠們就會跟著你走，就像牛跟著小麥一樣。 "
+		"{image:atm:textures/questpics/bumblezone/bumble_beehemoth.png width:100 height:100 align:center}"
+	]
+	quest.05A4496705B6C6AF.title: "比蒙巨蜂"
+	quest.0910C28A609ECBC1.quest_desc: ["&6蜂蜜指南針&r 是這模組最重要的工具。 \\n\\n對著蜂巢按 Shift+右鍵可以鎖定那個巢。右鍵點空氣則能幫你找附近的迷宮結構。"]
+	quest.0910C28A609ECBC1.title: "&6蜂蜜指南針"
+	quest.0980661B2F7FBC10.quest_desc: [
+		"跳過一堆大蠟燭到達頂端！ \\n\\n那裡有蜂蜜繭等你開。小心別燒到屁股。"
+		"{image:atm:textures/questpics/bumblezone/bumble_candle.png width:200 height:100 align:center}"
+	]
+	quest.0980661B2F7FBC10.title: "蠟燭跑酷"
+	quest.0B0BDC37185AF9EC.quest_desc: [
+		"古代環塔是巨大的圓柱形結構。 \\n\\n頂端有帶風效果的環，是玩鞘翅的好地方。當然，那裡也有寶藏。"
+		"{image:atm:textures/questpics/bumblezone/bumble_hoops.png width:200 height:100 align:center}"
+	]
+	quest.0B0BDC37185AF9EC.title: "古代環塔"
+	quest.0BE2E7C9454058C3.quest_desc: [
+		"在漂亮的 &d&l花海草原&r 裡有一棵巨大的老櫻花樹。 \\n\\n蜜蜂們很喜歡這棵樹，在下面蓋了一堆幼蟲房。"
+		"{image:atm:textures/questpics/bumblezone/bumble_cherry.png width:200 height:100 align:center}"
+	]
+	quest.0BE2E7C9454058C3.title: "&d老邁櫻花樹"
+	quest.0C8180524757B238.quest_desc: [
+		"這些浮動圓盤在 &7&l嚎叫遺蹟&r 隨處可見。 \\n\\n如果你沒吃過「蜜蜂精華」，碰到這些古代蠟會讓你變得很虛。上面通常有蜂蜜繭或能量晶體。"
+		"{image:atm:textures/questpics/bumblezone/bumble_floaters.png width:200 height:100 align:center}"
+	]
+	quest.0C8180524757B238.title: "&7浮空圓盤"
+	quest.0C9C5639D76FDF65.quest_desc: ["拯救 12 隻斷了刺的蜜蜂。 \\n\\n蜜蜂叮完人後會因為斷刺而中毒死掉。拿根蜂刺對牠們按右鍵，幫牠們接回去！你就是蜜蜂界的整型醫生。"]
+	quest.0E32DB6B8E023764.quest_desc: ["&6&l多產之蜂&r 亂入！ \\n\\n你在蜂巢牆裡偶爾會看到多產之蜂的蜂巢塊。挖掉它就像在主世界挖礦一樣。"]
+	quest.0E32DB6B8E023764.title: "模組大連動？"
+	quest.0F5549B02D1B383B.quest_desc: ["殺死 16 隻洞穴蜘蛛。"]
+	quest.1207E5C3E7BD0584.title: "蜜蜂旗幟圖案"
+	quest.12EF38830108D02B.quest_desc: ["殺死 32 隻普通蜘蛛。"]
+	quest.13681866CE6A831C.title: "長劍旗幟圖案"
+	quest.13E3DE157B89E847.quest_desc: [
+		"簡單說，就是有些蜜蜂被凍成了冰棒。敲開它拿獎勵。"
+		"{image:atm:textures/questpics/bumblezone/bumble_ice.png width:200 height:100 align:center}"
+	]
+	quest.13E3DE157B89E847.title: "寒冰紀念碑"
+	quest.14F6ED7F0C1DC503.quest_desc: ["喝掉 8 瓶 &6蜂蜜&r。 \\n\\n窩個人最討厭喝蜂蜜的音效了，聽起來超黏。"]
+	quest.1A67F4F87B3D456C.quest_desc: [
+		"這是一把真正的「蜂」砲！ \\n\\n右鍵點一隻蜜蜂把牠塞進砲管，按住右鍵充能... 發射！ \\n\\n放心，蜜蜂被射出去後會很開心的（大概啦），不會生你的氣。"
+		"{image:atm:textures/questpics/bumblezone/bumble_cannon2.png width:75 height:150 align:center}"
+	]
+	quest.1C6B815C0F43312D.quest_desc: [
+		"這裡有草地、櫻花樹跟爆量的 &d鮮花&r。 \\n\\n為什麼蜜蜂要在巢裡面種花？窩不知道，可能牠們也想放假吧。"
+		"{image:atm:textures/questpics/bumblezone/bumble_meadow.png width:200 height:100 align:center}"
+	]
+	quest.1C6B815C0F43312D.title: "&d&l花海草原"
+	quest.1D4973B187284CBB.quest_desc: ["放在副手就能用。它會自動幫周圍的作物施肥，還會治療你的寵物。 \\n\\n連中毒或凋零效果都能秒解！簡直是隨身攜帶的急救箱。 \\n\\n能量用完後要冷卻 10 分鐘。"]
+	quest.1D4973B187284CBB.title: "&a生命精華"
+	quest.206918773B0BD7A0.title: "最後的第一次"
+	quest.20E5C888891FBCFE.quest_desc: ["放在副手，周圍的怪通通變溫和。 \\n\\n不管你剛剛怎麼打牠，只要這東西在，牠們就打不還手、罵不還口。 \\n\\n注意：如果你主動出擊，效果就會中斷。這叫「和平協議」。"]
+	quest.20E5C888891FBCFE.title: "&b安撫精華"
+	quest.2149833F65D523E5.quest_desc: [
+		"用起來像十字鎬...我是說弩。 \\n\\n塞進 &5蜂蜜晶體碎片&r 當子彈，然後開始瘋狂輸出。這玩意兒射起來很有打擊感。"
+		"{image:atm:textures/questpics/bumblezone/bumble_cannon1.png width:75 height:150 align:center}"
+	]
+	quest.21BFDE6AD1C0F62A.quest_desc: ["現實中的蜜蜂有很多種，這裡也一樣！ \\n\\n從紅尾蜂、藍蜂到拿波里蜂（這可以吃嗎？），去收集所有的圖鑑吧！"]
+	quest.21BFDE6AD1C0F62A.title: "&8B&6e&8e&r 的各種變體"
+	quest.22BB55249EF2E819.quest_desc: ["&l&6大黃蜂區 (Bumblezone)&r 帶你進入蜂巢內部的神祕維度。 \\n\\n你想知道蜜蜂整天都在忙什麼嗎？進去看看就知道了。內有大量蜂蜜，請自備抹刀。"]
+	quest.22BB55249EF2E819.quest_subtitle: "歡迎來到蜂巢！"
+	quest.22BB55249EF2E819.title: "&l&6大黃蜂區！"
+	quest.253957D992A88C88.quest_desc: [
+		"這盾牌跟普通版一樣用，但它是「活的」。 \\n\\n拿蜂蜜晶體去修它，它會越來越強。這才是真正的防禦成長。"
+		"{image:atm:textures/questpics/bumblezone/bumble_shield.png width:100 height:150 align:center}"
+	]
+	quest.262B307753106817.title: "溺死在絕望中"
+	quest.26988330D3E5BF95.title: "箭矢旗幟圖案"
+	quest.270498437D938DD4.quest_desc: ["用蜂王漿做的蠟燭。點火後會散發出藥水效果。 \\n\\n這就是魔法版的香氛蠟燭。"]
+	quest.270498437D938DD4.title: "藥水蠟燭"
+	quest.27B5D0329DD92126.quest_desc: ["蜜蜂湯... 聽起來就很黑暗。 \\n\\n喝下去會獲得能量，但有機率會讓你飛起來或是中毒麻痺。這就是所謂的驚喜包湯。"]
+	quest.27FEF80A08AF43C2.quest_desc: [
+		"黃色的聖殿！ \\n\\n裡面有一堆拉桿跟機關，千萬別手賤亂點，不然會死人的。 \\n\\n最後要穿過一堆電環。這挑戰真的會玩到手殘。加油，跑酷大師。"
+		"{image:atm:textures/questpics/bumblezone/bumble_yellow1.png width:200 height:100 align:center}"
+		"{image:atm:textures/questpics/bumblezone/bumble_yellow2.png width:200 height:100 align:center}"
+	]
+	quest.27FEF80A08AF43C2.title: "&e黃色永恆聖殿"
+	quest.288A4A32CDBB14D5.quest_desc: [
+		"長得像衛星天線的構造。 \\n\\n裡面有滿滿的花粉，過敏的人請自重。中心通常有綠寶石或紫水晶塊。"
+		"{image:atm:textures/questpics/bumblezone/bumble_dish.png width:200 height:100 align:center}"
+	]
+	quest.288A4A32CDBB14D5.title: "古代神龕"
+	quest.29C78845B488EDF8.quest_desc: [
+		"紫色的聖殿！ \\n\\n穿過風道跟下水道到達中心。 \\n\\n挑戰：在時限內生存！地上會一直噴出紫色地刺，這招叫「躲地刺遊戲」。"
+		"{image:atm:textures/questpics/bumblezone/bumble_purple1.png width:200 height:100 align:center}"
+		"{image:atm:textures/questpics/bumblezone/bumble_purple2.png width:200 height:100 align:center}"
+	]
+	quest.29C78845B488EDF8.title: "&5紫色永恆聖殿"
+	quest.29DF2E7D0402284F.title: "光輝"
+	quest.29E2033EA65E706E.quest_desc: [
+		"誰能解釋一下為什麼這裡會住著一個村民？他在這放牧蜂蜜史萊姆。這工作聽起來比你的還爽。"
+		"{image:atm:textures/questpics/bumblezone/bumble_ranch.png width:200 height:100 align:center}"
+	]
+	quest.29E2033EA65E706E.quest_subtitle: "「史萊姆牧場」"
+	quest.29E2033EA65E706E.title: "&6蜂蜜史萊姆&r 牧場"
+	quest.29E9E361DDC8041B.title: "太陽旗幟圖案"
+	quest.2A50A687C40DB864.quest_desc: [
+		"蜂巢牆是大黃蜂區的地基。 \\n\\n整面牆都是蜂蜜塊跟蠟做的。裡面還藏著很多幼蟲房。這就是所謂的「違章建築」。"
+		"{image:atm:textures/questpics/bumblezone/bumble_hivewall.png width:200 height:100 align:center}"
+	]
+	quest.2A50A687C40DB864.title: "&6&l蜂巢牆"
+	quest.2A6FC21142E75DD5.quest_desc: [
+		"這維度的海洋。 \\n\\n裡面裝的不是水，是糖水！喝了不會變胖但會溺死。 \\n\\n這裡是找蜂蜜史萊姆的好地方。"
+		"{image:atm:textures/questpics/bumblezone/bumble_sugar.png width:200 height:100 align:center}"
+	]
+	quest.2A6FC21142E75DD5.title: "糖水湖 (&b水&r)"
+	quest.2ABAE97E992BB800.title: "蜂巢旗幟圖案"
+	quest.2AD13B965611DC86.quest_desc: [
+		"最神祕的群系。 \\n\\n地上一堆尖刺，天上還有一堆浮島。這物理現象連牛頓都解釋不了。 "
+		"{image:atm:textures/questpics/bumblezone/bumble_constructs.png width:200 height:100 align:center}"
+	]
+	quest.2AD13B965611DC86.title: "&7&l嚎叫遺蹟"
+	quest.2B857941D7BBA0B8.quest_desc: ["再也不怕在蜂蜜塊上走不動了！ \\n\\n穿上這條褲子，在花粉裡走起來跟飛的一樣。穿全套效果更佳。 \\n\\nShift 蹲下還能自動收集花粉塊，超方便。"]
+	quest.2DE2E5A1275E4B20.quest_desc: ["蜜蜂是用觸角通訊的。 \\n\\n戴上這頂頭盔，按 Shift 就能「透視」周圍所有的蜜蜂。 \\n\\n還能加快中毒跟反胃的恢復速度。畢竟你是蜜蜂之王。"]
+	quest.30C12E249F7E2D52.quest_desc: [
+		"這模組最大的結構！ \\n\\n裡面有一堆像迷宮一樣的房間。如果你沒吃精華，進去就會獲得「蜂巢之怒」。蜜蜂會瘋狂追殺你。 \\n\\n不過裡面的寶藏絕對值得你冒險。"
+		"{image:atm:textures/questpics/bumblezone/bumble_cell.png width:200 height:100 align:center}"
+	]
+	quest.30C12E249F7E2D52.title: "巢胞迷宮"
+	quest.3365017C9B24C0A9.quest_desc: ["拿弓射出 32 根蜂刺。 \\n\\n沒錯，蜂刺可以當箭用！這才是真的廢物利用。"]
+	quest.339384ADC9CDB944.title: "覺醒"
+	quest.341DF467E3936E78.quest_desc: ["穿全套蜜蜂裝去宰掉終界龍！ \\n\\n這才是真男人的挑戰。龍看到你都會笑（誤）。"]
+	quest.351769579833FA9E.title: "跟蜜蜂們一起 Chill"
+	quest.358D4F507521075F.quest_desc: [
+		"蜂巢裡的蜂巢。這就是所謂的套娃設計。 "
+		"{image:atm:textures/questpics/bumblezone/bumble_shrine.png width:200 height:100 align:center}"
+	]
+	quest.358D4F507521075F.title: "蜂巢神廟"
+	quest.396CEB9D05700927.quest_desc: ["想進去？找個蜂巢，丟顆珍珠或是拿活塞把自己推過去。 \\n\\n恭喜你被吸進去了！歡迎來到大黃蜂區。"]
+	quest.396CEB9D05700927.quest_subtitle: "不可「蜂」議"
+	quest.396CEB9D05700927.title: "鑽進蜂巢"
+	quest.3ADC0CBB059FF927.quest_desc: ["這東西要白天且露天才能用。 \\n\\n啟動後全屬性 Buff 點滿，還會自動修復你的裝備！這就是太陽能魔法。 \\n\\n冷卻 10 分鐘。"]
+	quest.3ADC0CBB059FF927.title: "&e光輝精華"
+	quest.3B7BB08D6AA2E7FE.quest_desc: [
+		"紅通通的聖殿！ \\n\\n裡面有一堆紅石機關。挑戰：殺死一波又一波的瘋狂生物！ \\n\\n北極熊跟野豬獸會一起來圍毆你，挺住！"
+		"{image:atm:textures/questpics/bumblezone/bumble_red1.png width:200 height:100 align:center}"
+		"{image:atm:textures/questpics/bumblezone/bumble_red2.png width:200 height:100 align:center}"
+	]
+	quest.3B7BB08D6AA2E7FE.title: "&c紅色永恆聖殿"
+	quest.3B9E6FBEDABA4F7E.quest_desc: [
+		"牆壁裡偶爾會出現裝滿蜂蜜的小房間。 \\n\\n這裡可以找到蜂蜜液體、晶體、還有可愛的巨蜂寶寶。"
+		"{image:atm:textures/questpics/bumblezone/bumble_cave.png width:200 height:100 align:center}"
+	]
+	quest.3B9E6FBEDABA4F7E.title: "蜂蜜穴室"
+	quest.3C413D4A210A3BDE.title: "蜂蜜小蜜蜂"
+	quest.4040BFCD4BE56621.quest_desc: [
+		"蜜蜂住的飯店。 \\n\\n裡面有一堆房間，雖然不是給玩家住的，但你可以進去「借」點物資。別客氣，牠們不收房租。 "
+		"{image:atm:textures/questpics/bumblezone/bumble_honitel.png width:200 height:100 align:center}"
+	]
+	quest.4040BFCD4BE56621.quest_subtitle: "客滿啦！"
+	quest.4040BFCD4BE56621.title: "蜂蜜大飯店"
+	quest.41D539DA3B3EC287.quest_desc: [
+		"別小看這座噴泉，它大到能淹死一頭象！ \\n\\n裡面裝了幾億公升的蜂蜜液體。探險時記得仔細找找，底部藏了很多晶體跟寶石。"
+		"{image:atm:textures/questpics/bumblezone/bumble_goliath.png width:200 height:100 align:center}"
+	]
+	quest.41D539DA3B3EC287.title: "歌利亞蜂蜜噴泉"
+	quest.42CB494F72FA1FD1.quest_desc: ["做 6 個蜂巢。多產之蜂的也算喔。"]
+	quest.454AC491FDFC3FDB.quest_desc: [
+		"這些史萊姆是好人。餵牠們糖就會生小孩。 \\n\\n你可以拿瓶子對著牠們「擠奶」拿蜂蜜。這畫面真的很奇怪。 \\n\\n牠們被打死會掉糖。真甜。 "
+		"{image:atm:textures/questpics/bumblezone/bumble_slime.png width:100 height:100 align:center}"
+	]
+	quest.454AC491FDFC3FDB.quest_subtitle: "沒有蜂王漿史萊姆嗎？"
+	quest.454AC491FDFC3FDB.title: "&6蜂蜜史萊姆"
+	quest.4646DCF463FD913F.quest_desc: ["用蜂刺長槍去捅死凋零怪！ \\n\\n這種羞辱 Boss 的方式窩最喜歡了。"]
+	quest.46FEF3DB6A5B52A0.quest_desc: [
+		"這是大黃蜂區的地下城。 \\n\\n裡面有一堆生怪磚跟寶藏。如果你看到鑽石塊或綠寶石塊，別懷疑，那不是陷阱，是獎勵！ "
+		"{image:atm:textures/questpics/bumblezone/bumble_cube.png width:200 height:100 align:center}"
+	]
+	quest.46FEF3DB6A5B52A0.title: "對決方塊"
+	quest.4718C2728C0CA40F.quest_desc: ["放在副手，你就會變成活體雷達。 \\n\\n周圍所有的怪、箱子、飾品架通通會發光！連你在什麼地景都會顯示在螢幕左下角。這就是開掛的感覺。 \\n\\n冷卻 15 分鐘。"]
+	quest.4718C2728C0CA40F.title: "&5知識精華"
+	quest.497FA7CA04117995.title: "生命"
+	quest.4A5F84912C755688.quest_desc: [
+		"「大家快跟著節奏動起來！」 \\n\\n這裡就是蜂巢裡的迪斯可舞廳。跳進去，你就是全場最亮的蜜蜂。 "
+		"{image:atm:textures/questpics/bumblezone/bumble_dance.png width:200 height:100 align:center}"
+	]
+	quest.4A5F84912C755688.title: "迪斯可舞池"
+	quest.4F144E5F70932C7D.quest_desc: [
+		"又是浮動建築。裡面住著一堆幻影。 \\n\\n記得穿好止滑靴或是帶把傘，掉下去可是會變成肉餅的。 "
+		"{image:atm:textures/questpics/bumblezone/bumble_phantasm.png width:200 height:100 align:center}"
+	]
+	quest.4F144E5F70932C7D.title: "幻影鳥籠"
+	quest.50150380043F97F9.title: "大黃蜂進行曲"
+	quest.513060836057E5B7.quest_desc: [
+		"&e&l授粉田&r... 哈哈啾！這裡全是 &e花粉&r！ \\n\\n走起來像是在雪地裡一樣慢。鼻塞的人千萬別來。 "
+		"{image:atm:textures/questpics/bumblezone/bumble_pollenfields.png width:200 height:100 align:center}"
+	]
+	quest.513060836057E5B7.title: "&e&l授粉田"
+	quest.516ECA0396621C32.quest_desc: [
+		"綠色的聖殿！ \\n\\n裡面長滿了杜鵑花。 \\n\\n挑戰：打敗巨大的樹人！把牠射出來的泥團反彈回去揍牠。這是一場耐力的比賽。"
+		"{image:atm:textures/questpics/bumblezone/bumble_green1.png width:200 height:100 align:center}"
+		"{image:atm:textures/questpics/bumblezone/bumble_green2.png width:200 height:100 align:center}"
+	]
+	quest.516ECA0396621C32.title: "&a綠色永恆聖殿"
+	quest.5219D2F2B13F57F3.quest_desc: [
+		"這是養蜂人的神物！ \\n\\n一個包包能裝 14 隻蜜蜂。右鍵抓，Shift+右鍵看資料。 \\n\\n你可以看到牠們的血量、名字、有沒有帶刺、有沒有花粉。連多產之蜂都能裝。這就是你的移動式蜂箱。"
+		"{image:atm:textures/questpics/bumblezone/bumble_briefcase.png width:200 height:150 align:center}"
+	]
+	quest.52C7FAA044E07628.quest_desc: ["不死圖騰的威力加強版。 \\n\\n被打死的時候會自動帶你瞬移回重生點，血跟飽食度全補滿！ \\n\\n它還會留下一篇日記紀錄你差點死在哪裡。冷卻 40 分鐘。這就是所謂的鎖血神物。"]
+	quest.52C7FAA044E07628.title: "&f續命精華"
+	quest.540895E6C9E724AD.quest_desc: [
+		"就是比較細的蜂巢牆。沒啥好解釋的。 "
+		"{image:atm:textures/questpics/bumblezone/bumble_hivepillar.png width:200 height:100 align:center}"
+	]
+	quest.540895E6C9E724AD.title: "&6&l授粉柱"
+	quest.5443AA65C0D0C599.quest_desc: ["蜂王漿是液體黃金。 \\n\\n喝了會獲得一堆超強 Buff。你也可以拿來餵巨蜂，讓牠們跑得跟火箭一樣快。"]
+	quest.54D80939887B3F7D.quest_desc: ["跟蜂后交易 128 次。你現在是牠的 VIP 客戶了。"]
+	quest.55B9B9C3AA01D323.quest_desc: [
+		"在晶體峽谷裡有一朵用晶體做成的花。 \\n\\n雖然這花不能採，但它周圍會產出很多結晶花。這是做高級附魔的材料。 "
+		"{image:atm:textures/questpics/bumblezone/bumble_overgrown.png width:200 height:100 align:center}"
+	]
+	quest.55B9B9C3AA01D323.title: "&5水晶之花"
+	quest.565EBD340595EAC4.quest_desc: ["這任務是由 &6ATM 員工&r 或某個 &2爆肝網友&r 寫的。如果你看得到這行，代表你現在正在窺視開發者的內心世界（編輯模式）。"]
+	quest.571CC5558B87377D.quest_desc: [
+		"拿了砲就是要練！ \\n\\n這裡有一堆標靶。打中就能拿到獎勵。別射偏到路過的蜜蜂身上喔。"
+		"{image:atm:textures/questpics/bumblezone/bumble_range.png width:200 height:100 align:center}"
+	]
+	quest.571CC5558B87377D.title: "射擊練習場"
+	quest.5728D87E3240AF0D.quest_desc: [
+		"說白了就是糖水灌溉溝渠。 "
+		"{image:atm:textures/questpics/bumblezone/bumble_streams.png width:200 height:100 align:center}"
+	]
+	quest.5728D87E3240AF0D.title: "&e糖水小徑"
+	quest.58CC2E563F92B4C5.quest_desc: ["開啟獵殺模式！ \\n\\n它會標記 4 隻倒楣鬼。殺了牠們你會獲得 16 級的力量！ \\n\\n持續 30 分鐘。去當個狂戰士吧。"]
+	quest.58CC2E563F92B4C5.title: "&c狂暴精華"
+	quest.5B4397D4EC23E702.quest_desc: [
+		"蜜蜂戰士的補給站。裡面有長槍跟專屬附魔書。"
+		"{image:atm:textures/questpics/bumblezone/bumble_stingy.png width:200 height:100 align:center}"
+	]
+	quest.5B4397D4EC23E702.title: "蜂刺神殿"
+	quest.5C040191740A53C8.quest_desc: [
+		"你的 &5女王陛下&r。 \\n\\n這隻蜜蜂胖到動不了。牠會叫你幫牠找東西。 \\n\\n幫牠解完 16 個任務，你就能拿到終極獎勵。這就是所謂的幫皇室打工。"
+		"{image:atm:textures/questpics/bumblezone/bumble_queen.png width:200 height:100 align:center}"
+	]
+	quest.5C040191740A53C8.title: "&5女王陛下"
+	quest.5E180764FBEE666B.quest_desc: [
+		"這花不是拿來送人的，是拿來附魔的！ \\n\\n餵它吃東西或是經驗值來升級。等級越高，能附的魔就越多。這就是魔法植物學。"
+		"{image:atm:textures/questpics/bumblezone/bumble_flower.png width:175 height:200 align:center}"
+	]
+	quest.5E180764FBEE666B.title: "&5結晶花 (附魔台)"
+	quest.5F834F8C607A8B77.quest_desc: ["雖然這翅膀讓你飛得起來，但體力消耗超快。 \\n\\n別想著靠它環遊世界，它只能幫你飛過一個小水溝。"]
+	quest.6013C6B2E0B81D73.quest_desc: [
+		"牆壁上的洞房。 \\n\\n你可以餵小寶寶糖水或蜂蜜。長大後會有好事發生。 \\n\\n照顧牠們你會獲得蜂巢的保護，欺負牠們你就死定了。"
+		"{image:atm:textures/questpics/bumblezone/bumble_daycare.png width:200 height:100 align:center}"
+	]
+	quest.6013C6B2E0B81D73.title: "&6育嬰室"
+	quest.612157986673F815.quest_desc: ["餵蜜蜂吃糖。連餵 48 次，你就是牠們的爸爸。"]
+	quest.613AC4DF39E5621D.quest_desc: [
+		"一堆掛在半空中的小房間。 \\n\\n裡面有一堆有的沒的：蜂蜜、樹葉、甚至是陷阱。探險時記得看腳下。"
+		"{image:atm:textures/questpics/bumblezone/bumble_cluster.png width:200 height:100 align:center}"
+	]
+	quest.613AC4DF39E5621D.title: "懸浮涼亭群"
+	quest.61500C8F68509E5D.quest_desc: [
+		"這些小傢伙偽裝成草塊。 \\n\\n沒穿蜜蜂裝的話，牠們會一直朝你吐痰...我是說噴泥巴。 \\n\\n你可以拿別的花點牠們來換顏色。挺可愛的（大概啦）。"
+		"{image:atm:textures/questpics/bumblezone/bumble_rootmin2.png width:100 height:150 align:center}"
+		"{image:atm:textures/questpics/bumblezone/bumble_rootmin1.png width:100 height:100 align:center}"
+	]
+	quest.61500C8F68509E5D.title: "小根人"
+	quest.61768CFEDA041E4D.quest_desc: ["想回家？隨便找個地方往下挖，掉進虛空就回去了。 \\n\\n別怕，這虛空不殺人的，只會送你回老家。這叫「跳崖逃生」。"]
+	quest.61768CFEDA041E4D.quest_subtitle: "讓窩出去！"
+	quest.61768CFEDA041E4D.title: "逃離蜂巢"
+	quest.6434796EAAF2A4EC.quest_desc: ["解完女王所有的任務，點牠拿精華。 \\n\\n&l吃下去！&r \\n\\n現在你是蜜蜂的一份子了。拿蜂蜜不扣血、進迷宮不生氣。你在這維度就是神。死了效果還在喔，真划算。"]
+	quest.6474FE12450A4A7D.quest_desc: [
+		"這裡是女王的王座。 \\n\\n裡面裝潢得非常華麗。快進去覲見你的新老闆。 "
+		"{image:atm:textures/questpics/bumblezone/bumble_throne.png width:200 height:100 align:center}"
+	]
+	quest.6474FE12450A4A7D.title: "王座之柱"
+	quest.64FEF31955CB158D.quest_desc: ["拿花粉砸花。一生二、二生三、三生萬物。"]
+	quest.65D993EB95726067.title: "蜜蜂神廟探險隊"
+	quest.67A0F6661D658A52.quest_desc: ["它會指引你找到女王。跟著指針走，升官發財就在前方。"]
+	quest.680E960554CEE76B.quest_desc: [
+		"到處都是亮晶晶的晶體。 \\n\\n這裡是採集蜂蜜晶體的好地方。記得穿好鞋子，這裡的蠟地板很滑。 "
+		"{image:atm:textures/questpics/bumblezone/bumble_canyon.png width:200 height:100 align:center}"
+	]
+	quest.680E960554CEE76B.title: "&5&l晶體峽谷"
+	quest.6BC0904E03683190.quest_desc: ["讓蜜蜂瘋狂愛愛。生出 8 隻新變種。"]
+	quest.6C5D61A704DC125A.quest_desc: [
+		"你可以把它染成任何顏色。 \\n\\n戴上去後，蜜蜂會以為你是朵大花，然後瘋狂跟著你。 \\n\\n這畫面看起來就像是你是個吸引蜜蜂的變態。"
+		"{image:atm:textures/questpics/bumblezone/bumble_duckamuck.png width:100 height:100 align:center}"
+	]
+	quest.719D5CEB4217B734.quest_desc: [
+		"長得像蜜蜂的小房子。 \\n\\n裡面有些基礎物資。如果你看到有人住，那牠就是你的新鄰居。"
+		"{image:atm:textures/questpics/bumblezone/bumble_house.png width:200 height:100 align:center}"
+	]
+	quest.719D5CEB4217B734.title: "&8B&6e&8e&r 之家"
+	quest.7208CB011F6E2ACF.quest_desc: ["這靴子強到爆炸。 \\n\\n你可以在木頭或蜂蜜塊上面跑酷。 Shift 蹲下還能自動挖掉腳下的方塊。這才是專業建築師該穿的鞋。"]
+	quest.7231F6177EEF5BF0.quest_desc: [
+		"一堆彩色的管子。 \\n\\n進去後風會帶你飛！這就是蜂巢裡的高鐵系統。 "
+		"{image:atm:textures/questpics/bumblezone/bumble_subway.png width:200 height:100 align:center}"
+	]
+	quest.7231F6177EEF5BF0.title: "蜂巢地鐵"
+	quest.72489FB9D9A5A24B.quest_desc: ["能在木板上衝刺的靴子。"]
+	quest.72569275EDE9FA23.quest_desc: ["餵史萊姆吃糖。生出 6 隻小史萊姆。"]
+	quest.72917C96C322A922.title: "蜜蜂人生"
+	quest.73C7F57B90731010.quest_desc: [
+		"噴出糖水的噴泉。挺好看的裝飾。 "
+		"{image:atm:textures/questpics/bumblezone/bumble_fountain.png width:200 height:100 align:center}"
+	]
+	quest.73C7F57B90731010.title: "&6蜂蜜噴泉"
+	quest.74D4E51A6381DB24.title: "眼睛旗幟圖案"
+	quest.75ACC8CF5873F92D.quest_desc: [
+		"白色的聖殿！ \\n\\n挑戰：打敗 6 隻宇宙晶體怪！ \\n\\n牠們防禦超高，每下攻擊只會扣 1 滴血。你要慢慢磨死牠們。這是一場考驗耐心的戰鬥。"
+		"{image:atm:textures/questpics/bumblezone/bumble_white1.png width:200 height:100 align:center}"
+		"{image:atm:textures/questpics/bumblezone/bumble_white2.png width:200 height:100 align:center}"
+	]
+	quest.75ACC8CF5873F92D.title: "&f白色永恆聖殿"
+	quest.772C65FC32AECD6B.title: "和平旗幟圖案"
+	quest.7834734E79E41A3A.quest_desc: ["如果你有以下症狀： \\n\\n蜜蜂恐懼、昆蟲恐懼、蜘蛛恐懼、密集恐懼、懼高症、幽閉恐懼或是晶體恐懼。 \\n\\n那窩建議你還是別玩這模組了。如果你只是密集恐懼，可以用附帶的資源包來減輕症狀。其他的... 祝你好運。"]
+	quest.7834734E79E41A3A.quest_subtitle: "小心蜜蜂！"
+	quest.786073B57C901DB7.title: "十字旗幟圖案"
+	quest.78B7FC6A868F5C4D.quest_desc: ["可以短暫飛行的翅膀。"]
+	quest.78E40BDB0E54B638.quest_desc: ["能在蜂蜜上疾走的褲子。"]
+	quest.79FF12D7A4C8E821.quest_desc: [
+		"糖水海面上的海盜船。 \\n\\n船長很兇，手下也都很能打。 \\n\\n去甲板下偷走牠們洗劫來的寶藏吧！這畫面太有加勒比海盜的感覺了。 "
+		"{image:atm:textures/questpics/bumblezone/bumble_pirates.png width:200 height:100 align:center}"
+	]
+	quest.79FF12D7A4C8E821.title: "&b海盜船"
+	quest.7C7C0D3D7FCB0297.quest_desc: ["能透視蜜蜂的頭盔。"]
+	task.030FFC7C0532E7B2.title: "宰了 3 隻蜂蜜史萊姆"
+	task.1256A95F7D5C782F.title: "多產之蜂蜂巢塊"
+	task.1884D3DA3CCC1439.title: "不準偷拿 (版權所有)"
+	task.37C196344D9FD2C3.title: "宰了 1 隻比蒙巨蜂"
+	task.386645685E595D4D.title: "恐懼症警報"
+	task.4E6F5A4B1FE8CB23.title: "宰了 5 隻小根人"
+	task.5F9F725E2AD5FD3C.title: "不準偷拿 (版權所有)"
+	task.646B54EB48AFB6A4.title: "宰了 10 隻變種蜜蜂"
+}

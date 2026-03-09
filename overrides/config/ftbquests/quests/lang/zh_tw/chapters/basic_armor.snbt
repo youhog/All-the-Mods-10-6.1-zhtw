@@ -1,0 +1,176 @@
+{
+	quest.004D61425172324F.quest_desc: ["鎖鏈裝比鐵裝爛一點。以前這玩意兒只能靠交易或打怪掉，現在是模組時代，你可以直接搓出來了。雖然這也讓它失去了那種稀有感..."]
+	quest.004D61425172324F.title: "&8鎖鏈裝甲"
+	quest.041ED280691BB05D.quest_desc: ["Undergarden 寒冷群系的特產。防禦力還行。"]
+	quest.041ED280691BB05D.title: "&9霜鐵裝甲"
+	quest.04B31A600004F7CB.quest_desc: ["這任務是由 &6ATM 員工&r 或某個 &2爆肝網友&r 寫的。如果你看得到這行，代表你現在正在窺視開發者的內心世界（編輯模式）。"]
+	quest.055CCAE237DF3EEF.title: "&8鐵木系列"
+	quest.05B5E640F1B68A28.title: "&3魔像鋼系列"
+	quest.074EC1E636CD6605.quest_desc: ["獄髓是原版的巔峰。防禦跟鑽石一樣，但韌性更高。主要是因為你要拿鑽石去升級它！"]
+	quest.074EC1E636CD6605.title: "&c獄髓裝甲"
+	quest.0ABB2264CBB82470.quest_desc: ["Ars 版的鐵裝。"]
+	quest.0ABB2264CBB82470.title: "&5奧法學者套裝"
+	quest.0E2515424291BB59.quest_desc: ["Ars 版的鑽石裝！"]
+	quest.0E2515424291BB59.title: "&5戰鬥法師套裝"
+	quest.0ED11FCF6298CE85.quest_desc: ["Iron's Spells 的血裝！"]
+	quest.0ED11FCF6298CE85.title: "&4邪教徒套裝"
+	quest.0F1D6F4729CC38F3.title: "肋骨盔甲飾板"
+	quest.10AA2B20D86747F7.quest_desc: ["鐵芯金屬。數值跟鐵裝一樣，但帶有一些黑科技能力。去查說明書啦。"]
+	quest.10AA2B20D86747F7.title: "&b鐵芯裝甲"
+	quest.1245126B4338C019.title: "惱鬼盔甲飾板"
+	quest.13517D17E6BF015F.quest_desc: ["用鑽石裝加點下級精華搓出來的。還能繼續魔改。"]
+	quest.13517D17E6BF015F.title: "&a下級精華裝甲"
+	quest.1366B946928C873B.title: "蜜蜂裝 1 號"
+	quest.140DF670162C68DA.title: "&a鋼葉系列"
+	quest.1452D9CF827782B5.quest_desc: ["極地裝是用極地毛做的。雖然是皮裝但防禦力驚人。還能染色喔。"]
+	quest.1452D9CF827782B5.title: "&f極地套裝"
+	quest.15978093237448FE.quest_desc: ["比起 ATM 錠，不如試試看監守者裝？你需要很多監守者的掉落物。"]
+	quest.15978093237448FE.title: "&3監守者裝甲"
+	quest.16359196D49A6223.title: "&b霜鐵系列"
+	quest.17A68C4E9E9EA2B7.quest_desc: ["金裝很廢，唯一的用處是讓豬布林不打你。"]
+	quest.17A68C4E9E9EA2B7.title: "&e黃金裝甲"
+	quest.19F58E291A543228.quest_desc: ["Ars 版的金裝！"]
+	quest.19F58E291A543228.title: "&5巫師套裝"
+	quest.1A8440C0048EEB02.quest_desc: ["烈焰金裝。帶有岩漿修復功能，真香。"]
+	quest.1A8440C0048EEB02.title: "&c烈焰金裝甲"
+	quest.1C27C74722A19FC1.quest_desc: ["終極神裝。吃電不吃血。只要你有電，你就幾乎是無敵的。"]
+	quest.1C27C74722A19FC1.title: "&aMekaSuit 神裝"
+	quest.1CC627D3FB348C89.title: "塑形盔甲飾板"
+	quest.1D23F53C585185B7.title: "&2娜迦鱗片系列"
+	quest.1D27EE427ECFD6CE.title: "&9特級精華裝甲"
+	quest.1D91E37BFD8CC911.title: "&2綠寶石系列"
+	quest.1E3E688B3B52C4D2.title: "提升盔甲飾板"
+	quest.1EABF2E7AE7B8F22.title: "&8獄髓系列"
+	quest.1EBF234015B26F15.quest_desc: ["Roots Classic 的基礎裝。要透過儀式才能拿到。"]
+	quest.1EBF234015B26F15.title: "&2森之守護裝"
+	quest.1FC7ABEAB5018E79.title: "&4紅石系列"
+	quest.211FD55DEB635A98.title: "&6純銅系列"
+	quest.215C9C2B2240FAA1.title: "&5雷電法師套裝"
+	quest.21B96130EA516B82.quest_desc: ["氣壓版鋼鐵人。吃壓力不吃電。"]
+	quest.21B96130EA516B82.title: "&8氣壓動力裝甲"
+	quest.2296CE4418AE62D4.quest_desc: ["Allthemodium 加強版。用法術更爽。"]
+	quest.2296CE4418AE62D4.title: "&6始源奧法裝甲"
+	quest.243008D4DCD789D0.title: "荒野盔甲飾板"
+	quest.24A7B2902E7430A1.quest_desc: ["皮革裝加點魔法粉。讓你施法時魔力多一點點。"]
+	quest.24A7B2902E7430A1.title: "&9流浪法師套裝"
+	quest.24FDA15A7ACDF021.title: "&5難得錠法師套裝"
+	quest.260C7F3C1F51221D.title: "&a至尊喚魔套裝"
+	quest.28408BFAA54E4FC6.quest_desc: ["皮革裝是新手福利。雖然防禦爛到哭，但至少比裸體好。"]
+	quest.28408BFAA54E4FC6.title: "&7皮革裝甲"
+	quest.2A4FE9644F3B9DC1.title: "&c中級精華裝甲"
+	quest.2C387BFA6EE6FDB7.quest_desc: ["打 Rotbeast 掉的晶體做的。"]
+	quest.2C387BFA6EE6FDB7.title: "&c猶瑟裝甲"
+	quest.2D93888313B03029.title: "&9藍星光晶體系列"
+	quest.2E0F82F7E1B74033.title: "&2地質法師套裝"
+	quest.2EAA6BE598C83F24.title: "&3水靈法師套裝"
+	quest.2FA0F5B348322095.quest_desc: ["Undergarden 的鐵裝。"]
+	quest.2FA0F5B348322095.title: "&7泥沼裝甲"
+	quest.3061B67330367CE2.quest_desc: ["暮色森林 Boss 掉落物做的。比獄髓還強！"]
+	quest.3061B67330367CE2.title: "&4熾熱裝甲"
+	quest.30A61E1A1EFA81E6.quest_desc: ["暮色森林的鐵錠。自帶附魔，真香。"]
+	quest.30A61E1A1EFA81E6.title: "&2鋼葉裝甲"
+	quest.3215A3D706CECCEF.quest_desc: ["暮色森林的基礎裝。"]
+	quest.3215A3D706CECCEF.title: "&7鐵木裝甲"
+	quest.3260EDAD3A619479.quest_desc: ["永恆星光維度的裝備。"]
+	quest.3260EDAD3A619479.title: "&5乙太裝甲"
+	quest.333682022948E2F3.title: "&2硫英石系列"
+	quest.338BD467EBE6EE1F.title: "哨兵盔甲飾板"
+	quest.3403D7502F7BC897.quest_desc: ["真正意義上的無敵。雖然 ATM 開發者一直在加強它的合成難度..."]
+	quest.3403D7502F7BC897.title: "&e量子 &b裝甲&r (&l&7MI&r)"
+	quest.3416DB9F58D8AA2C.quest_desc: ["釣魚釣到的。水底 Buff 點滿。"]
+	quest.3416DB9F58D8AA2C.title: "&3海王裝甲"
+	quest.34D14B807A2DAC0F.quest_desc: ["AE2 版的神裝。能無線連回你的倉庫！"]
+	quest.34D14B807A2DAC0F.title: "&5量子裝甲&r (&l&bAE2&r)"
+	quest.351159C55159C316.title: "尖塔盔甲飾板"
+	quest.3512F47DADC07EAE.title: "&5難得錠奧法裝甲"
+	quest.361C9D90617E6D38.title: "守門人盔甲飾板"
+	quest.361EF9E4973E3522.title: "&d影行者套裝"
+	quest.3685B52446DEC809.title: "&e純金系列"
+	quest.39796D8EE440F318.title: "沙丘盔甲飾板"
+	quest.3A2047CC0F59C6CC.title: "&a荒野木套裝"
+	quest.3AA836E8EDB52097.title: "&9青金石系列"
+	quest.3ABE7074E500494D.quest_desc: ["鋼鐵比鐵更硬。"]
+	quest.3ABE7074E500494D.title: "&7鋼製裝甲"
+	quest.3AE0198177A8E91B.title: "海岸盔甲飾板"
+	quest.3B4511E7DC788AB3.title: "&d韌性花瓣系列"
+	quest.3D72E3E53E7306FA.title: "&c烈焰法師套裝"
+	quest.3EA3A6414AB8A39C.title: "潮流盔甲飾板"
+	quest.3F0CD2C03CD7D730.title: "鑄造盔甲飾板"
+	quest.3FCEF8FF45E51608.title: "&f石英系列"
+	quest.42AAEC41F2BC2474.title: "&b冰晶石系列"
+	quest.452DC5EB02D592B8.title: "&5紫水晶系列"
+	quest.459BB5B4CDB21773.title: "&9沼澤銀裝甲"
+	quest.4664AFCFB5618CEB.title: "&b冰晶裝甲"
+	quest.497D222F74A52DF5.quest_desc: ["鐵裝是大家的好朋友。便宜又大碗。"]
+	quest.498483750C18FCD6.title: "&e君王系列"
+	quest.4A9CB8778D37049F.quest_desc: ["精華裝甲的終點。最強的屬性、最帥的外觀。"]
+	quest.4A9CB8778D37049F.title: "&6覺醒終極精華裝甲"
+	quest.4B65100885AE762D.title: "&6聖光牧師套裝"
+	quest.4B9C54DA5CB6D5C9.title: "護主盔甲飾板"
+	quest.4DD66E31859EA593.title: "&3震動錠法師套裝"
+	quest.4DF683461225690F.title: "&7純鐵系列"
+	quest.50429F57480F44DA.title: "&c溫泉石裝甲"
+	quest.5064D5F99E2C69C8.title: "&4終極精華裝甲"
+	quest.50B127137AA9E660.quest_desc: ["銅裝！終於能穿出門了。"]
+	quest.50B127137AA9E660.title: "&6純銅裝甲"
+	quest.52A29269A23F85B3.quest_desc: ["雪怪掉的毛做的。自带緩速光環。"]
+	quest.52A29269A23F85B3.title: "&9雪怪套裝"
+	quest.52AFABA08674B6A8.title: "&3震動錠奧法裝甲"
+	quest.52B61FB01D7C12A4.title: "&2初級精華裝甲"
+	quest.5391385A75535EC8.title: "&2瘟疫法師套裝"
+	quest.5865951E4F81C91F.quest_desc: ["閃閃發亮的裝甲。"]
+	quest.5865951E4F81C91F.title: "&e精煉螢石裝甲"
+	quest.5A9C646718EE92C2.title: "&3震動錠系列"
+	quest.5BA84F6282D9CAF1.title: "&6始源法師套裝"
+	quest.5C83D5CDD980FD9A.title: "豬鼻盔甲飾板"
+	quest.5DDC15AAFD2CAF47.quest_desc: ["鑽石裝是步入中期的象徵。"]
+	quest.5DDC15AAFD2CAF47.title: "&b鑽石裝甲"
+	quest.5E6D7C1D7957DD4D.title: "&a遺忘金屬系列"
+	quest.5E7CCDE9229A646A.title: "&6始源錠系列"
+	quest.606775701551F3EE.title: "&4緋紅石系列"
+	quest.62161BDE9AAAA4BF.title: "開拓盔甲飾板"
+	quest.654F5C84114A31A1.quest_desc: ["超便宜的魔法裝。"]
+	quest.654F5C84114A31A1.title: "&4稻草人套裝"
+	quest.65A529C8238E89F1.quest_desc: ["青金石裝... 真的有人會穿這個嗎？"]
+	quest.65A529C8238E89F1.title: "&9青金石裝甲"
+	quest.65E733AACBE62EDB.title: "守衛盔甲飾板"
+	quest.66B5A8D259E12BF5.title: "&c獄髓戰法師套裝"
+	quest.66C21934DAFFAC7F.title: "海潮盔甲飾板"
+	quest.672AC964851832EB.title: "&7沼澤銀系列"
+	quest.686EB173C94301C0.title: "&b急凍人套裝"
+	quest.68DABFFB6B3E1A57.title: "眼眸盔甲飾板"
+	quest.690DB8BEF80617E5.title: "&c猶瑟系列"
+	quest.6A21228B0511FF85.title: "&6溫泉石系列"
+	quest.6B671CB07D046BEC.title: "&b鑽石系列"
+	quest.6C5F9D0D447EFB9C.quest_desc: ["ATM 錠做的裝備。防禦力爆表，還能擋魔法。"]
+	quest.6C5F9D0D447EFB9C.title: "&6始源錠裝甲"
+	quest.6ED2CDD01659FD10.quest_desc: ["壓縮鐵做的裝備。抗擊退很強。"]
+	quest.6ED2CDD01659FD10.title: "&7壓縮鐵裝甲"
+	quest.6F335B4F3FD660E7.quest_desc: ["暮色森林的哥布林掉的碎塊做的。"]
+	quest.6F335B4F3FD660E7.title: "&a騎士金屬裝甲"
+	quest.6F76DA3BBAE8337B.quest_desc: ["最強的始源系列。100% 抗擊退！"]
+	quest.6F76DA3BBAE8337B.title: "&5難得錠裝甲"
+	quest.71C552678A0F649F.quest_desc: ["鋨金裝比獄髓還強！而且鋨到處都是。"]
+	quest.71C552678A0F649F.title: "&7鋨金裝甲"
+	quest.7279700A93E8630B.title: "&5難得錠系列"
+	quest.729DCB919A92B735.title: "螺栓盔甲飾板"
+	quest.72D578686C47B154.title: "&5紅星光晶體系列"
+	quest.72DDA413D73E3235.title: "&3震動錠裝甲"
+	quest.756628F4B7F79446.title: "&c琥珀系列"
+	quest.76CDF08465700AA2.title: "沈默盔甲飾板"
+	quest.788A7A2F1F438B64.title: "&7泥沼系列"
+	quest.79D3055DE0EEA6B0.title: "&c火靈法師套裝"
+	quest.7ADE27F9398D97F1.title: "蜜蜂裝 2 號"
+	quest.7B500E0577BDFF8F.quest_desc: ["銅加錫變青銅。"]
+	quest.7B500E0577BDFF8F.title: "&6青銅裝甲"
+	quest.7B76EC62E3F7E12C.title: "&5乙太系列"
+	quest.7C1D407CF67786F6.title: "&f風靈法師套裝"
+	quest.7F11ABFB2E21B7E4.quest_desc: ["裝甲是保命符。想變帥就用飾板染色。"]
+	quest.7F11ABFB2E21B7E4.title: "&l&b基礎護甲指南"
+	quest.7F8B6D5F360D985A.title: "&e熾熱系列"
+	quest.7FABB77A60E7962C.quest_desc: ["黑曜石加鑽石。防禦力突破天際。"]
+	quest.7FABB77A60E7962C.title: "&5精煉黑曜石裝甲"
+	quest.7FBC64E6408D8D7F.title: "&7騎士金屬系列"
+	task.4BDF268861CA744F.title: "不準偷拿 (版權所有)"
+	task.57895147416291FE.title: "不準偷拿 (版權所有)"
+}

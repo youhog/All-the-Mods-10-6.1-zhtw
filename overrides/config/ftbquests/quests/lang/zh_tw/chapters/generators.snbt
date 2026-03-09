@@ -1,0 +1,96 @@
+{
+	quest.062AA943A1629A86.quest_desc: ["你竟然把 &z彩虹熔爐&r 炸了？！直接在旁邊點 TNT？你瘋了嗎？這東西超貴的耶！ \\n\\n喔...好吧，炸完掉出來的 &z彩虹煤炭&r 燃燒時間長到嚇死人。這代價好像滿划算的。"]
+	quest.062AA943A1629A86.title: "&z彩虹煤炭"
+	quest.076A648E3E3245C9.quest_desc: ["產電速度極快，效率之王。缺點是它已經是滿級了，不能再裝升級模組。這就是所謂的封頂。"]
+	quest.076A648E3E3245C9.title: "&a綠寶石發電機"
+	quest.07753C5D94312A50.quest_desc: ["發電機補件跟工廠補件是反過來的。 \\n\\n裝了這個，你的熔爐就不燒東西了，它會把燃料直接轉換成能量。這就是所謂的「燒煤換電」。"]
+	quest.07753C5D94312A50.title: "&3補件：發電機模式"
+	quest.07BEB974DF1E5AD3.quest_desc: ["產電量跟綠寶石一樣，但傳輸速度更快。如果你獄髓多到沒地方花，就做這台吧。"]
+	quest.07BEB974DF1E5AD3.title: "&5獄髓發電機"
+	quest.0AD2B11565B484E7.quest_desc: ["要做彩虹系列的物品，你得先收集所有階級的熔爐皮。從銅、銀、金到水晶通通都要。這是一個收集癖的噩夢。"]
+	quest.0AD2B11565B484E7.title: "&z彩虹鋼板"
+	quest.0ADBE90B33ACC9FB.quest_desc: ["彩虹發電機的終極奧義：圍一圈！ \\n\\n如果你把其他 9 種發電機圍著彩虹熔爐擺，它發電量會額外增加 2k FE/t。這就是所謂的「兄弟齊心，發電萬金」。"]
+	quest.0ADBE90B33ACC9FB.title: "&z彩虹發電機"
+	quest.1843C79133DFB024.quest_desc: ["全 Pack 最強、最變態的發電機。它吃的是下界之星。產電量多到你想開個電廠賣給隊友。"]
+	quest.1843C79133DFB024.title: "下界之星發電機"
+	quest.1C73E60FC70408D4.quest_desc: ["民以食為天，機器也是。 \\n\\n這發電機吃的是食物。牛排給的電比胡蘿蔔多。這招叫「廚餘發電」。"]
+	quest.1C73E60FC70408D4.title: "烹飪發電機"
+	quest.20EC8001A05CE2C8.quest_desc: ["無線加熱器：讓你不用拉線也能幫熔爐供電。 \\n\\n把發射器接上電，接收器塞進熔爐燃料欄。這就是魔法電力。"]
+	quest.20EC8001A05CE2C8.title: "無線加熱技術"
+	quest.21EA29A8C7F950CE.quest_desc: ["鑽石熔爐。燒一個東西只要 4 秒。比原版的高爐還快。"]
+	quest.21EA29A8C7F950CE.title: "&b鑽石熔爐"
+	quest.2354BC5330350DF6.quest_desc: ["水晶熔爐長得很好看（透明的），速度跟綠寶石版一樣。適合用來裝逼。"]
+	quest.2354BC5330350DF6.title: "&3水晶熔爐"
+	quest.25080E3295B1DF01.quest_desc: ["全 Pack 燒最快的熔爐。眼睛眨一下就燒好了。"]
+	quest.25080E3295B1DF01.title: "&5難得錠熔爐"
+	quest.25A3E30F722B38B6.quest_desc: ["金發電機。除了燒煤炭，它還能吃一些更高級的燃料。"]
+	quest.25A3E30F722B38B6.title: "&e金發電機"
+	quest.2748ACEAB96A5F60.quest_desc: ["鐵熔爐是這模組的起點。 8 秒燒一個，比原版快一倍。"]
+	quest.2748ACEAB96A5F60.title: "&f鐵熔爐"
+	quest.28FEB4C11AD1AE7C.quest_desc: ["鑽石發電機。雖然沒到封頂，但產電量也很可觀了。"]
+	quest.28FEB4C11AD1AE7C.title: "&b鑽石發電機"
+	quest.2E85D6E2CFCC356E.quest_desc: ["震動錠熔爐。僅次於難得錠版本的速度。"]
+	quest.2E85D6E2CFCC356E.title: "&3震動錠熔爐"
+	quest.2EE8FCB63A338BC4.quest_desc: ["彩虹熔爐是史上最強的烹飪設備。 \\n\\n它 1 秒就能燒好。而且最扯的是：它一次燒「一整疊」！這效率連地獄廚房都要甘拜下風。"]
+	quest.2EE8FCB63A338BC4.title: "&z彩虹熔爐"
+	quest.311F43D48B9C26FF.quest_desc: ["黑曜石發電機雖然慢，但它支援最多種類的升級模組。可塑性最高。"]
+	quest.311F43D48B9C26FF.title: "&d黑曜石發電機"
+	quest.32C7D8AE859BF89E.quest_desc: ["黑曜石熔爐。每秒燒一個。做出來後你就能感受到什麼叫工業化。"]
+	quest.32C7D8AE859BF89E.title: "&d黑曜石熔爐"
+	quest.33436ED0D9F128BD.quest_desc: ["把鐵熔爐變成煙燻機。專門燒食物，速度加倍。"]
+	quest.33436ED0D9F128BD.title: "&4補件：煙燻模式"
+	quest.3A4C17878FC8315B.quest_desc: ["始源錠熔爐。速度跟獄髓版一樣快。"]
+	quest.3A4C17878FC8315B.title: "&6始源錠熔爐"
+	quest.40DB6E3DE87F16EF.quest_desc: ["這發電機吃的是龍息！ \\n\\n聽說味道很重，但能量很高。你可以用 XyCraft 的機器來農龍息。"]
+	quest.40DB6E3DE87F16EF.title: "&5龍息發電機"
+	quest.420FE84DEE12CCE0.quest_desc: ["金熔爐。 6 秒燒一個。比鐵的強一點。"]
+	quest.420FE84DEE12CCE0.title: "&e金熔爐"
+	quest.47750F3CB020104C.quest_desc: ["這章節介紹兩個模組：發電機大亂鬥 (Generators Galore) 跟 鐵熔爐 (Iron Furnaces)。兩者都從那座破石頭爐子開始。"]
+	quest.47750F3CB020104C.title: "萬物之始：熔爐"
+	quest.49F08DE190AAD0D8.quest_desc: ["工廠補件讓熔爐變成「吃電」的。 \\n\\n這就像是 Mekanism 的工廠一樣。只要你有電，它就瘋狂燒。"]
+	quest.49F08DE190AAD0D8.title: "&3補件：工廠模式"
+	quest.538821E23E39BE97.quest_desc: ["燃料效率升級。 \\n\\n煤炭本來燒 8 個，現在能燒 16 個。這對前期資源短缺的人來說簡直是救星。"]
+	quest.538821E23E39BE97.title: "&2補件：燃料省錢包"
+	quest.552CA2ABE659A507.quest_desc: ["岩漿進，電力出。這是最省錢的發電方式。"]
+	quest.552CA2ABE659A507.title: "&c地熱發電機"
+	quest.553220A2CD7CAFE4.quest_desc: ["聖誕節專用的包裝紙。把熔爐包得像禮物一樣。如果你不想讓基地看起來那麼像工廠，包一下吧。"]
+	quest.61847F47CCA225D9.quest_desc: ["銀熔爐。 7 秒一個。過度期產品。"]
+	quest.61847F47CCA225D9.title: "銀熔爐"
+	quest.618F1434757C8E69.quest_desc: ["最基礎的發電機。餵它吃煤炭，它就給你電。"]
+	quest.618F1434757C8E69.title: "&6銅發電機"
+	quest.61F265D9A5713A4D.quest_desc: ["鐵發電機。儲電量更高，發電更快。"]
+	quest.61F265D9A5713A4D.title: "&f鐵發電機"
+	quest.661C072E48F8D41F.quest_desc: ["銅熔爐。 9 秒燒一個。比石頭的好一點點。"]
+	quest.661C072E48F8D41F.title: "&6銅熔爐"
+	quest.686B25F2E9D8CC97.quest_desc: ["萬聖節皮膚。幫你的熔爐加點南瓜味。"]
+	quest.68972BA647FDCF8F.quest_desc: ["蜂蜜發電機！這就是為了多產之蜂設計的。 \\n\\n蜂蜜多到噴出來？拿來換電吧。"]
+	quest.68972BA647FDCF8F.title: "&6蜂蜜發電機"
+	quest.69201157ECFBB426.quest_desc: ["終界珍珠發電機。終於能處理你那一箱一箱沒人要的珍珠了。"]
+	quest.69201157ECFBB426.title: "&3終界發電機"
+	quest.6A1145678E80FB8E.quest_desc: ["附魔書發電機。等級越高電越多。那些沒用的「水底呼吸 I」終於有去處了。"]
+	quest.6A1145678E80FB8E.title: "&b附魔發電機"
+	quest.711DDD55CEC439E5.quest_desc: ["綠寶石熔爐。 2 秒燒一個。速度快到像在飛。"]
+	quest.711DDD55CEC439E5.title: "&a綠寶石熔爐"
+	quest.7297391D026EE9A6.quest_desc: ["藥水發電機。喝不完的藥水通通丟進去。越強效的電越多。"]
+	quest.7297391D026EE9A6.title: "&d藥水發電機"
+	quest.72A287DCAEEFE49F.quest_desc: ["這是一個極其變態的機器。 \\n\\n它結合了 64 台發電機的功能，但只佔 1 格空間！這是做 ATM 之星的原料，加油吧。"]
+	quest.72A287DCAEEFE49F.title: "64 倍壓壓縮發電機"
+	quest.73FF01D830A669AA.quest_desc: ["把鐵熔爐變成鐵高爐。專門燒礦石，速度加倍。"]
+	quest.73FF01D830A669AA.title: "&4補件：高爐模式"
+	quest.757B14D08A9A03C4.quest_desc: ["跟大多數模組一樣，這熔爐也支援側邊設定。 \\n\\n你可以設定哪邊進貨哪邊出貨。用「設定連接器」可以一秒複製貼上所有設定。這才叫自動化。"]
+	quest.757B14D08A9A03C4.title: "進出口設定"
+	quest.78D1C97A542133D8.quest_desc: ["補件是用來魔改熔爐的插槽。紅綠藍三個顏色各能裝一個。"]
+	quest.78D1C97A542133D8.title: "&l熔爐補件系統"
+	quest.79C4CF8D7312FC28.quest_desc: ["獄髓熔爐。 1 秒燒 4 個！這效率已經超越人類的理解了。"]
+	quest.79C4CF8D7312FC28.title: "&5獄髓熔爐"
+	quest.7A615E2A152917AD.quest_desc: ["要做彩虹熔爐，你得先弄到這顆核心。材料是所有顏色的玻璃。閃閃發亮，非常騷包。"]
+	quest.7A615E2A152917AD.title: "&z彩虹核心"
+	quest.7CE86300AF8E9BCA.quest_desc: ["把 8 台發電機壓縮進一格。空間大師就是你。"]
+	quest.7CE86300AF8E9BCA.title: "8 倍壓縮發電機"
+	quest.7F67849DE9F700D8.quest_desc: ["速度補件：讓熔爐燒得更快，但代價是燃料消耗也翻倍。這叫「用錢買時間」。"]
+	quest.7F67849DE9F700D8.title: "&2補件：超頻模式"
+	task.31E6FDB712244B72.title: "64 倍壓縮發電機"
+	task.37641D5607F6D00A.title: "8 倍壓縮發電機"
+	task.38B6F45109CB033A.title: "不準偷拿 (版權所有)"
+	task.5DB7A437BEC3E2D4.title: "不準偷拿 (版權所有)"
+}

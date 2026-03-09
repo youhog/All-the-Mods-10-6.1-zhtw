@@ -1,0 +1,265 @@
+{
+	quest.0052E5592A6BBEC1.quest_desc: [
+		"這裡是 &2&lMinecraft&r，窩不能教你怎麼蓋房子，畢竟每個人審美觀不同..."
+		"{@pagebreak}"
+		"但窩可以給你一點「建築小撇步」，讓你脫離火柴盒的苦海！"
+	]
+	quest.0052E5592A6BBEC1.title: "&l建築小撇步！&r"
+	quest.005CC8A3325FE2BD.quest_desc: ["&b霜鐵&r、&7泥沼金屬&r 和 &e皇家金屬&r 可以靠挖礦拿到。 \\n&c猶瑟金屬&r 和 &a被遺忘金屬&r 則要靠殺怪。 \\n\\n還有什麼問題嗎？沒有就快去幹活。"]
+	quest.005CC8A3325FE2BD.title: "&2&lUndergarden&r 金屬指南"
+	quest.01516BC726013B7C.quest_desc: ["這任務是由 &6ATM 員工&r 或某個 &2爆肝網友&r 寫的。如果你看得到這行，代表你現在正在窺視開發者的內心世界（編輯模式）。"]
+	quest.027E6E294D9E1375.quest_desc: ["學著點，&lCorail&r！這才是過節該有的樣子！ \\n\\n這模組增加了一堆聖誕節跟萬聖節的裝飾。 \\n\\n從聖誕樹、禮物盒、閃爍燈泡到萬聖節南瓜、大蜘蛛、女巫帽通通都有。讓你的基地充滿節慶（與爆肝）的氣息。"]
+	quest.027E6E294D9E1375.title: "&b&lMacaw 的節慶裝飾&r"
+	quest.034DB3C64F24C7B7.quest_desc: ["&6&lAllTheOres&r 是為了統一礦物而生的。 \\n\\n它順便帶了一堆超好看的裝飾方塊。 \\n\\n&d螢石塊&r 跟 &9藍寶石塊&r 貼在牆上真的很有質感。"]
+	quest.034DB3C64F24C7B7.title: "&l&6AllTheOres&r 裝飾塊"
+	quest.04F5846E2468E807.quest_desc: ["&b&lMacaw 的門&r 增加了一堆變體。 \\n\\n你想用樺木的樣式但要用雲杉的顏色？沒問題。 \\n\\n它甚至還有那種醫院專用的雙開門，適合用來蓋你的精神病院（誤）。"]
+	quest.04F5846E2468E807.title: "&b&lMacaw 的各式門扇"
+	quest.0539AF15A10B2859.quest_desc: ["&l縮小空間 (Compact Machines)&r 讓你進入一個壓縮維度。 \\n\\n放下一台機器，拿縮小裝置點一下就能鑽進去。 \\n\\n大小從 5x5x5 到 45x45x45 都有。你可以把整條自動化產線塞進一個方塊裡，這才是真的省空間。"]
+	quest.0539AF15A10B2859.title: "&l縮小空間"
+	quest.0589911EB4D30FAD.quest_desc: ["&l&cRegions Unexplored&r 讓你像刷油漆一樣幫木板上色！ "]
+	quest.0589911EB4D30FAD.title: "彩繪木板"
+	quest.0596F6C70758EEC0.quest_desc: ["雖然是最貴的，但也是最漂亮的！ \\n\\n這就是建築師的堅持。"]
+	quest.06FFBB12CFA87815.quest_desc: ["原版 Minecraft 的原木。如果你連這個都要窩解釋，那你可能更適合去玩《大富翁》。"]
+	quest.06FFBB12CFA87815.title: "&2原版&r 原木"
+	quest.08C66BCA3AAE765B.quest_desc: ["這模組增加了一些看起來不太像 Minecraft 的屋頂。窩個人不予置評。"]
+	quest.08C66BCA3AAE765B.title: "&b&lMacaw 的屋頂&r"
+	quest.09955CF85F579E0F.quest_desc: ["你總有一天會拿到的，因為這就是 Minecraft 裡最多的方塊。"]
+	quest.09955CF85F579E0F.title: "各式石材"
+	quest.09F49ED309152E24.quest_desc: ["&l&cChisel Reborn&r 讓你可以幫方塊改造型。 \\n\\n拿把雕刻刀右鍵點開介面，塞進一疊方塊，選個順眼的圖案。 \\n\\n或是左鍵直接點地板上的方塊來切換。這把刀沒有耐久度，愛怎麼刻就怎麼刻。"]
+	quest.09F49ED309152E24.title: "&l&c雕刻刀 (Chisel)"
+	quest.0A21773B773F34F8.quest_desc: ["顏色能讓你的基地更有活力！ \\n\\n從收集染料開始吧。"]
+	quest.0A21773B773F34F8.title: "彩色方塊"
+	quest.0BC106B34AD386E5.quest_desc: ["這是個新的群系模組。既然有多種群系，當然也有一堆新的木頭等著你砍。"]
+	quest.0BC106B34AD386E5.title: "&l&cRegions Unexplored&r 原木"
+	quest.0C82CE3AFBD48C1E.quest_desc: ["這模組雖然方塊不多，但窩強烈建議在廚房擺幾台。 \\n\\n特別是那個電鍋，再也不用拿微波爐來熱剩飯了。"]
+	quest.0C82CE3AFBD48C1E.title: "&l&a壽司工藝&r"
+	quest.0EB6ED88895366D0.quest_desc: ["還記得以前只有石頭跟圓石的日子嗎？那真是簡單純粹（且無聊）的時光。"]
+	quest.0EB6ED88895366D0.title: "&2原版&r 石材"
+	quest.0FE30548F25FEDB1.quest_desc: ["如果你跟我一樣討厭住在火柴盒裡（會讓窩想到學校），那多裝點玻璃吧。 \\n\\n原版玻璃太普通了，我們可以做點更有設計感的。"]
+	quest.106884349C9FF3BA.quest_desc: ["有些光源真的醜到哭！ \\n\\n來換點有質感的燈具吧。"]
+	quest.106884349C9FF3BA.title: "&l&bChipped&r 燈飾"
+	quest.10A2E758D7743DD0.quest_desc: ["&5&l永恆星光&r 維度有一堆獨特的木頭。 \\n\\n你去探險的時候順便砍幾棵回來裝飾吧。"]
+	quest.10A2E758D7743DD0.title: "&5&l永恆星光&r 原木"
+	quest.11C43962B06D5092.quest_desc: ["這有必要嗎？"]
+	quest.11C43962B06D5092.title: "你現在只是在炫富吧"
+	quest.156605859D553276.quest_desc: ["窗戶、窗簾、百葉窗，甚至還有什麼「護欄 (Parapets)」！ \\n\\n窩根本不知道那是什麼鬼，反正裝上去就對了。"]
+	quest.156605859D553276.title: "&l&bMacaw 的窗戶&r"
+	quest.1591013DDD4766E1.quest_desc: ["&l&c方塊之首廚具&r 讓你把廚房蓋得像美食節目現場。 \\n\\n建議全套收集，不只好看，還能自動幫你合成背包裡的食材。"]
+	quest.1591013DDD4766E1.title: "&l&c方塊之首廚具&r"
+	quest.1625C3A30E69D634.quest_desc: ["這些是在新群系裡挖到的石頭。 \\n\\n不，苔蘚石跟原版的不一樣。 \\n不，它也不是苔蘚石磚。這就是所謂的「細節」。"]
+	quest.1625C3A30E69D634.title: "&l&cRegions Unexplored&r 石材"
+	quest.1972B36F72808D55.quest_desc: ["只有一部分石頭能切成這種造型喔。"]
+	quest.1972B36F72808D55.title: "&l&bChipped&r 石材"
+	quest.1FD60B7448CED1EB.quest_desc: ["新的圍欄、門跟牆。 \\n\\n是的，鐵絲網踩上去會痛。 \\n不，你沒辦法直接跳過去。乖乖走門啦。"]
+	quest.1FD60B7448CED1EB.title: "&b&lMacaw 的圍欄與牆扇"
+	quest.1FDC8725105D822A.quest_desc: ["廚房有一堆機器可以存食物、保鮮或是煮飯。 \\n\\n大部分都要插電，去電力篇學習怎麼當個電工廚師吧。"]
+	quest.1FDC8725105D822A.title: "廚房套裝"
+	quest.2094D1CE4BA66091.quest_desc: ["燈具超重要。 \\n\\n防止生怪、增加能見度、還能讓你的違建看起來更溫馨。 \\n\\n當然你也可以一直戴著夜視鏡，如果你想當個異形的話。"]
+	quest.22D2CFDDB06C720C.quest_desc: ["空間不夠？做把萬用工具 (Paxel) 吧！ \\n\\n鎬子+斧頭+鏟子=一把搞定。能耕地、能開路、還能挖礦。這就是所謂的「一機多用」。"]
+	quest.22D2CFDDB06C720C.title: "萬用工具 (Paxel)"
+	quest.22E007025C19EC0A.quest_desc: ["鐵路模組不只做火車，還有一些裝飾石頭。 \\n\\n深淵石跟採石場石可以磨光、雕刻或做成磚塊。這就是鐵道迷的浪漫。"]
+	quest.22E007025C19EC0A.title: "&l&7鐵路工藝&r 裝飾石"
+	quest.23631A4A743D4F0C.quest_desc: ["別抱怨了。 \\n\\n反正你有幾萬個鐵錠沒地方花。把鐵塊變漂亮一點吧！"]
+	quest.23631A4A743D4F0C.title: "&l&bChipped&r 金屬塊"
+	quest.266127E7947CB3D4.quest_desc: ["你在這頁面看到的漂亮房子通通來自 ATM Discord 上的神人。 \\n\\n如果你也想炫耀你的違建，快去 Discord 頻道投稿吧。 \\n\\n（注意：如果你的蓋出來不像，可能是因為人家開了光影（Shaders），或是那是別的版本蓋的。）"]
+	quest.26FADB78B04F592B.quest_desc: ["&l&a建築小工具 2&r 是懶人蓋房的神器。 \\n\\n它吃電，按 G 鍵打開選單。你可以一秒蓋一整面牆、或是把方塊全部替換掉。 \\n\\n甚至還能連到 AE2 網路直接拿東西來蓋。這才叫高效率違建。"]
+	quest.26FADB78B04F592B.title: "&l&a建築小工具"
+	quest.28FDB2D13D0DDE8E.quest_desc: ["&b&lChipped&r 會幫你的方塊換個造型。 \\n\\n你需要專門的工作台：木匠桌管木頭，吹玻璃機管玻璃。 \\n\\n你還能把工作台做成隨身版的，或是裝在背包升級裡。隨時隨地改裝修。"]
+	quest.28FDB2D13D0DDE8E.title: "&l&bChipped&r 裝修模組"
+	quest.2B4801CD3E90BD40.quest_desc: ["這模組專管裝潢。 \\n\\n床鋪、床頭櫃、沙發、餐桌。甚至還有雕像讓你擺在門口裝逼。"]
+	quest.2B4801CD3E90BD40.title: "&l&3純手工家具&r"
+	quest.2B864D741F7C7549.quest_desc: ["既然都在育種樹木了，當然也有一堆新木頭。 \\n\\n有些特殊的木頭顏色超帥，快去砍來蓋房子。"]
+	quest.2B864D741F7C7549.title: "&l多產之樹"
+	quest.2BA0E5D48E234FE9.quest_desc: ["魔法燈光！ \\n\\n你可以用魔法杖直接噴光，或是做成精美的燈籠。這光源看起來就很神祕。"]
+	quest.2BA0E5D48E234FE9.title: "&d&l新星魔法&r 燈飾"
+	quest.30B3BC91460C9B19.quest_desc: ["Macaw 是個很有名的開發者。 \\n\\n他什麼都蓋：窗戶、地板、抽屜。你能通通做一遍嗎？"]
+	quest.30B3BC91460C9B19.title: "&bMacaw 系列模組"
+	quest.313F5AFF459201EB.quest_desc: ["星光維度也有新的石頭。如果你純粹是為了建築去探險的，記得帶好傳送門材料。"]
+	quest.313F5AFF459201EB.title: "&l&5永恆星光&r 石材"
+	quest.318A2CC03D1D0B04.quest_desc: ["想念以前的「建築權杖 (Construction Wands)」嗎？ \\n\\n現在有「建築棒」啦！越貴的越耐操，一次能擺更多方塊。 \\n\\n記得自己設個快捷鍵打開 GUI，你可以設定擺放的形狀跟模式。這就是所謂的人肉 3D 列印機。"]
+	quest.318A2CC03D1D0B04.title: "&l&6建築大師棒"
+	quest.3497C2E05DF5A87C.quest_desc: ["紅石、青金石、石英、紫水晶、鑽石... 通通變身成漂亮方塊。這才是真的奢華。"]
+	quest.3497C2E05DF5A87C.title: "&l&bChipped&r 寶石塊"
+	quest.35C46E6E27C9CB1A.quest_desc: ["原版的 10 種木頭設計太少了？ \\n\\n來試試這些新花樣。保證讓你挑到眼花。"]
+	quest.35C46E6E27C9CB1A.title: "&l&bChipped&r 木材"
+	quest.3889D0255074CE85.quest_desc: ["Macaw 覺得光靠窗戶採光是不夠的。 \\n\\n所以他做了一堆燈具：桌燈、燈籠、甚至還有超華麗的吊燈。讓你的基地變豪華大飯店。"]
+	quest.3889D0255074CE85.title: "&l&bMacaw 的燈具組&r"
+	quest.392F34FD4FCC794A.quest_desc: ["雖然很貴，但真的很帥。這就是所謂的「魔法財富自由」。"]
+	quest.392F34FD4FCC794A.title: "&2&l神祕農業&r 裝飾塊"
+	quest.3BA4504DEFB87264.quest_desc: ["掛在牆上的燈。可以設定成有訊號才亮或是反過來。簡單好用。"]
+	quest.3BA4504DEFB87264.title: "壁燈"
+	quest.3D1D5CB45D81A6E4.quest_desc: ["跟門扇一樣，有一堆變體。叢林樣式的雲杉門板？沒問題！"]
+	quest.3D1D5CB45D81A6E4.title: "&b&lMacaw 的陷阱門"
+	quest.3E4B27759C973006.quest_desc: ["這是這模組包「最重要」的建築模組！ \\n\\n如果一個模組包沒裝 &l&6框架方塊 (Framed Blocks)&r，窩根本不想玩。 \\n\\n它提供一堆「透明框架」，你可以塞進任何你想要的方塊（只要那個方塊沒有介面）。 \\n\\n你想做獄髓材質的樓梯？還是稻草捆材質的工作台？通通辦得到！這才是真正的建築自由。"]
+	quest.3E4B27759C973006.title: "&l&6框架方塊"
+	quest.3E76BC1D0FC3E9A8.quest_desc: ["這模組的一堆東西都要電！ \\n\\n做台發電機，餵它吃煤炭。然後拿把扳手把它們連起來。開關一開，電就來啦！"]
+	quest.3E76BC1D0FC3E9A8.title: "電力設備組"
+	quest.3ED8365BAD406CC5.quest_desc: ["這些是我精選出來的裝潢模組。 \\n\\n如果你不滿足，還可以去搜尋更多。反正你的電腦撐得住（大概吧）。"]
+	quest.3ED8365BAD406CC5.title: "裝潢模組大賞！"
+	quest.3EEF17C57375CC39.quest_desc: ["這模組就叫 &l簡單燈飾&r。 \\n\\n反向版的沒紅石也會亮。有很多顏色跟形狀可以選。簡單就是美。"]
+	quest.3EEF17C57375CC39.title: "&l簡單燈飾&r"
+	quest.3F185554793CCE54.quest_desc: ["工欲善其事，必先利其器。 \\n\\n想蓋好房子，你得先學會怎麼用這幾把刷子（或是刀）。第一步：先弄根木棍。"]
+	quest.3F185554793CCE54.title: "專業工具組！"
+	quest.3FD9DC6B7844A79C.quest_desc: ["現實中的水泥超無聊。 \\n\\n但在這裡，水泥可以有很多種造型。幫你的現代建築加點料吧。"]
+	quest.3FD9DC6B7844A79C.title: "&l&bChipped&r 混凝土"
+	quest.408F48C4442CE180.quest_desc: ["休息是為了走更長的路。幫你的臥室加點裝飾。"]
+	quest.408F48C4442CE180.title: "臥室套裝"
+	quest.40C068B2B8AC0F33.quest_desc: ["整理地形是件苦差事。 \\n\\n讓機器來幫你吧！簡易破壞機只能拆前面的，高級破壞機則能拆一整片。這才叫「暴力整地」。"]
+	quest.40C068B2B8AC0F33.title: "整地工程"
+	quest.44688FC2E34FF09F.quest_desc: ["原版方塊看膩了？沒關係。 \\n\\n我們有一堆方法可以幫方塊「整容」，變形、變色、變造型通通都有。"]
+	quest.44688FC2E34FF09F.title: "方塊魔改工程"
+	quest.44BD0B40EB5451AF.quest_desc: ["「窩不想動手蓋啦！」 \\n\\n那就用 &lMinecolonies&r 的物資箱吧。一放下去，整個基地就自動蓋好了。 \\n\\n裡面連床跟補給品都有。雖然有點像在開外掛，但真的很爽。"]
+	quest.44BD0B40EB5451AF.title: "一鍵蓋房 (偷懶專用)"
+	quest.48971CE964CF037F.quest_desc: ["雖然反應爐玻璃是為了安全，但它看起來真的很帥。 \\n\\n既然防爆效果這麼好，拿來蓋普通窗戶也沒人會反對啦。畢竟帥氣度跟安全性一樣重要。"]
+	quest.4AE8D8826F894EC7.quest_desc: ["這模組結合了框架跟雕刻。 \\n\\n拿把切割機，選好形狀跟材質。你可以做出各種奇怪形狀的方塊。發揮你的想像力吧！"]
+	quest.4AE8D8826F894EC7.title: "&l&5裝飾大師&r"
+	quest.4B552E9D05FF5415.quest_desc: ["這個模組全是顏色！ \\n\\n紅、綠、藍、黑、白。如果你是個顏色控，這章節就是為你準備的。"]
+	quest.4B552E9D05FF5415.title: "&l&9X&cy&aC&8r&aa&cf&9t&r 世界"
+	quest.4BC27F16229BBF46.quest_desc: ["這模組把儲存空間變漂亮了。 \\n\\n一堆有設計感的抽屜，空間跟木桶一樣大。裝潢實用兩相宜。"]
+	quest.4BC27F16229BBF46.title: "&l&6儲存美學&r"
+	quest.4EA2DB12E8F0068F.quest_desc: ["這模組名字是在玩蘇斯博士的梗。 \\n\\n它增加了一堆超漂亮的群系跟樹木。顏色多到你挑不完。"]
+	quest.4EA2DB12E8F0068F.title: "&l&a群系大冒險&r 木材"
+	quest.51E77B9CD3FB6DEA.quest_desc: ["這東西真的超好用。 \\n\\n它能提升你的拳頭等級。現在你可以空手挖鐵礦了！ \\n\\n連石頭、混凝土通通都能徒手挖。簡直是人肉挖掘機。"]
+	quest.537B39B42C7D21ED.quest_desc: ["新群系裡有 4 種新石頭：英安岩、紅岩、苔蘚石跟「多石之石」。 \\n\\n窩一直很好奇為什麼這種石頭要叫「多石之石」，難道其他石頭是塑膠做的嗎？"]
+	quest.537B39B42C7D21ED.title: "&l&a群系大冒險&r 石材"
+	quest.53CE66D760CEFD7E.quest_desc: ["馬桶、浴缸、洗手台。 \\n\\n是的，你可以坐在馬桶上思考人生。是的，裡面可以裝水。"]
+	quest.53CE66D760CEFD7E.title: "衛浴套裝"
+	quest.55160BAFFD9E2988.quest_desc: ["最經典的 Macaw 模組。椅子、桌子、書架。你需要的家具這裡通通都有。"]
+	quest.55160BAFFD9E2988.title: "&l&9Macaw 的經典家具&r"
+	quest.5716E84828EC0C23.quest_desc: ["塑膠積木！ \\n\\n就像現實生活一樣，踩上去會痛到你想哭。 \\n\\n所以請務必穿好鞋子，或是拿去磨平。別跟自己的腳過不去。"]
+	quest.5716E84828EC0C23.title: "塑膠施工積木"
+	quest.59B6C6BF0550D13D.quest_desc: ["火車專用的玻璃。當然你想裝在家裡也行。"]
+	quest.59B6C6BF0550D13D.title: "&7&l鐵路&r 專用玻璃"
+	quest.5AD09CCEEDC0B50F.quest_desc: ["這些是建築師的神物。 \\n\\n- 野性光火燈籠：自動在周圍 20 格內放「隱形燈」。 \\n- 超級火把：方圓 64 格內「不准生怪」！ \\n- 恐懼燈：讓小動物（和平生物）不敢靠近。防怪神器。"]
+	quest.5AD09CCEEDC0B50F.title: "&l&e火把大師&r"
+	quest.5C2B30655A44227F.quest_desc: ["你以為拿到星光維度的金屬很簡單嗎？ \\n\\n哈哈，別傻了。你得去挖泥巴、打 Boss、還要追流星！這才叫硬核採礦。"]
+	quest.5C2B30655A44227F.title: "&5&l永恆星光&r 金屬"
+	quest.5D5563142917495A.quest_desc: ["&l&e農夫樂&r 不只教你做菜，還有一堆裝飾品。 \\n\\n鍋碗瓢盆、食物桶。還有那些超好看的櫃子。廚房裝潢首選。"]
+	quest.5D5563142917495A.title: "&l&e農夫樂&r 裝飾"
+	quest.5E5D5D28D82F6891.quest_desc: ["這裡有一堆奇怪的玻璃：可以走過去的、發光的、防爆的。應有盡有。"]
+	quest.5E5D5D28D82F6891.title: "&l&9X&cy&aC&8r&aa&cf&9t&r 玻璃"
+	quest.5EB488C393B084C4.quest_desc: ["雕刻刀模組的進化版。 \\n\\n右鍵打開介面，選好圖案。這模組能讓一塊普通的石頭變出幾十種花樣。沒有耐久度，放心刷！"]
+	quest.5EB488C393B084C4.title: "&4&l專業雕刻刀&r"
+	quest.5F7F753FD72BFBBF.quest_desc: ["又是鐵路模組的彩色方塊... 窩開始懷疑這模組其實是個裝潢模組了。"]
+	quest.5F7F753FD72BFBBF.title: "&l&7鐵路&r 彩色塊"
+	quest.6012D6C3253895F0.quest_desc: ["Mr Crayfish 是 Minecraft 界的家具大師。 \\n\\n想用他的家具？先去做台工作台吧。記得要給電喔。"]
+	quest.6012D6C3253895F0.title: "&c家具大師&c"
+	quest.616ED6C49C37EB91.quest_desc: ["幫你的基地鋪條路吧！ \\n\\n比原版的地圖好用多了，而且樣式超多。別再讓你的客人踩在泥巴上了。"]
+	quest.616ED6C49C37EB91.title: "&b&lMacaw 的路徑與鋪設"
+	quest.61BE7882EE0E6FAF.quest_desc: ["滾下樓梯、撞倒鄰居的狗... 這就是木頭！木頭！木頭！ (這是在玩國外的木頭廣告梗)"]
+	quest.6258F26293B9C1C1.quest_desc: ["這模組專門管玻璃。 \\n- 無邊框：全透明。 \\n- 強化版：防爆。 \\n- 發光版：自帶光源。 \\n- 幽靈版：可以設定誰能穿過去。這功能超卑鄙的。"]
+	quest.6258F26293B9C1C1.title: "&9&l玻璃之王 (Crystalix)"
+	quest.655BD0A54AF1E1CA.quest_desc: ["烤肉架、冷水袋、甚至還有門鈴！ \\n\\n讓你的鄰居知道你正在辦一場超香的 BBQ 派對。"]
+	quest.655BD0A54AF1E1CA.title: "戶外套裝"
+	quest.6607E5CDB3D17D67.quest_desc: ["別擔心，這些羊毛經過特殊處理，絕對防火（大概啦）。"]
+	quest.6607E5CDB3D17D67.title: "&l&bChipped&r 羊毛"
+	quest.667CD7C6E87A05F4.quest_desc: ["彩色燈！你要什麼顏色，就用什麼染料。這顏色真的很亮。"]
+	quest.667CD7C6E87A05F4.title: "&l&9X&cy&aC&8r&aa&cf&9t&r 彩色燈"
+	quest.69B5D716568AA9EB.quest_desc: [
+		"&d&l偽裝方塊 (Camol)&r 能偽裝這世界上所有的東西。 \\n\\n從電纜、管線到 ATM 之星通通都能蓋住。 \\n\\n用法：把 Camo 塊跟你想偽裝成的方塊合體，然後對著電纜按右鍵。它就會穿上隱身衣了。 \\n\\n如果你想讓偽裝方塊維持原來的形狀，拿去工作台單獨合一次就好。這招叫「看不見窩」。"
+		"{@pagebreak}"
+		"{image:atm:textures/questpics/building_tips/camol_example.png width:200 height:100 align:center}"
+	]
+	quest.69B5D716568AA9EB.title: "&d&l隱形塗層 (Camol)"
+	quest.6AC85C203E7C3482.quest_desc: ["你收集了 Macaw 所有的東西！ \\n\\n恭喜你獲得一隻「真的」金剛鸚鵡當獎勵！這可是榮譽的象徵。"]
+	quest.6AC85C203E7C3482.title: "鸚鵡大師"
+	quest.6B0D84B730C6C76C.quest_desc: ["原版的 16 色不夠用？ \\n\\n沒關係，這模組又送你 18 種新顏色。什麼水蜜桃色、泡泡糖色通通都有。現在你可以幫你的羊染出彩虹以外的顏色了。"]
+	quest.6B0D84B730C6C76C.title: "&l&c多彩 &6新色系&r"
+	quest.6BC78AF7C9D93F11.quest_desc: ["連上釉的版本都有！這細節真的沒話說。"]
+	quest.6BC78AF7C9D93F11.title: "&l&bChipped&r 陶瓦"
+	quest.6F65216B13E9FFA9.quest_desc: ["弄塊方塊。隨便什麼方塊都好。 \\n\\n所有的宏偉建築都是從一塊方塊開始的。別在那邊發呆了，快去挖！"]
+	quest.6F65216B13E9FFA9.title: "方塊！"
+	quest.72DB967E59EEA729.quest_desc: ["&3&l功能性玻璃&r 非常實用。 \\n\\n像是那種「怪走不過去但你能走過去」的玻璃。這簡直是蓋蜜蜂房或刷怪場的神器。"]
+	quest.72DB967E59EEA729.title: "&3&l功能性玻璃&r"
+	quest.7C2ED69E07988DF4.quest_desc: ["以前大家都拿樓梯當椅子。 \\n\\n歡迎來到 21 世紀！我們有一堆專門的裝潢模組。別再虐待你的屁股了。"]
+	quest.7C2ED69E07988DF4.title: "裝潢藝術！"
+	quest.7CF13A4941F608E5.quest_desc: ["從普通玻璃到馬賽克造型。讓你的窗戶看起來像藝術品。"]
+	quest.7CF13A4941F608E5.title: "&l&bChipped&r 玻璃"
+	quest.7DA8ACE06DE8097F.quest_desc: ["銅礦這麼多，除了做機器還能幹嘛？ \\n\\n當然是拿來裝修啊！甚至還有假裝是綠寶石的銅塊。這招叫「偽裝富豪」。"]
+	quest.7DA8ACE06DE8097F.title: "&l&bChipped&r 銅工藝"
+	quest.7DABD82393713B5A.quest_desc: ["想玩彩色光？用這款就對了。 \\n\\n它們長得像色塊一樣乾淨，還能做成樓梯或台階。配合新色系模組效果更佳。"]
+	quest.7DABD82393713B5A.title: "&l&c多彩光影"
+	quest.7E49C985A0433B20.quest_desc: ["新星魔法的原木有 5 種顏色。 \\n\\n去森林裡逛逛，砍點充滿魔力的木頭回來蓋房子。"]
+	quest.7E49C985A0433B20.title: "&d&l新星魔法&r 原木"
+	task.00A904FBEDE80712.title: "Macaw 的屋頂"
+	task.0138936FB4DD8A88.title: "Chipped 工作台"
+	task.022D9FAD58AEE2C8.title: "多彩光塊"
+	task.02E980A373B13092.title: "廚房套裝"
+	task.064B1841F9288CC3.title: "方塊"
+	task.06F2EC3901908BF1.title: "塑膠施工積木"
+	task.0740BC10E4D2568F.title: "Regions Unexplored 石材"
+	task.074BDA389D0FB989.title: "Chipped 銅"
+	task.0896EE64F92CCD86.title: "Macaw 的門扇"
+	task.0BAEC53DD32C9870.title: "多產之樹原木"
+	task.0D1F556618F008B4.title: "永恆星光金屬"
+	task.0EBE231AB868C868.title: "方塊"
+	task.0ED255BCB75ECCF1.title: "玻璃之王"
+	task.104E1A4BF3520D67.title: "反應爐玻璃"
+	task.16EF7FF802D5A2BB.title: "框架方塊"
+	task.195338A3977C682E.title: "神祕農業塊"
+	task.1A66B7FFB4E2163E.title: "原版原木"
+	task.1A7078C3984DD910.title: "獄髓塊"
+	task.1AD43F80F89DF9D9.title: "群系大冒險石材"
+	task.1BA8C5F08A824C08.title: "Macaw 的燈具組"
+	task.1E7A57902EA62332.title: "各式光源"
+	task.20374000F8ADE952.title: "Macaw 的陷阱門"
+	task.225F53F8A0E9E822.title: "方塊之首廚具"
+	task.238F4D40E6D9238E.title: "染料"
+	task.27BABC4910038807.title: "原版石材"
+	task.27DF6EE4B85F1792.title: "AllTheOres 裝飾塊"
+	task.2828B5EAFCCB03E0.title: "衛浴套裝"
+	task.293E660E52F15F10.title: "戶外套裝"
+	task.2BECEC3EFA8F6DA3.title: "Chipped 石材"
+	task.2E92D23F149C142D.title: "Chipped 金屬塊"
+	task.2F94B8FED9BF6698.title: "Macaw 的節慶裝飾"
+	task.30933620783092A5.title: "Macaw 的家具組"
+	task.32CB6A7BC1AB644E.title: "簡單燈飾"
+	task.36E85C17C558F436.title: "火把大師"
+	task.389B5B0F35B89FC8.title: "Chipped 混凝土"
+	task.3995281792648279.title: "儲存美學"
+	task.3BE936F7D054FDDA.title: "木棍！"
+	task.3C16167530BEC231.title: "不準偷拿 (版權所有)"
+	task.3C18AB7133946682.title: "萬用工具"
+	task.3C4997133CCECBE0.title: "純手工家具"
+	task.40B245AFD0DAB3A0.title: "鐵路專用玻璃"
+	task.41602F0D9097E74F.title: "Chipped 陶瓦"
+	task.41FF171C7D97B574.title: "Chipped 寶石塊"
+	task.436475D6C527A458.title: "Macaw 的路徑與鋪設"
+	task.44BDEA5268F6ABE6.title: "物資箱"
+	task.46803BBAC2069773.title: "方塊"
+	task.46905D1E23255397.title: "Macaw 的窗戶組"
+	task.4732C2BE50DB2A80.title: "新色系染料"
+	task.484375E0BC0F9177.title: "神人作品展示"
+	task.4892144C32DCEB55.title: "彩繪木板"
+	task.49F387C7EAD579A2.title: "鸚鵡大師"
+	task.4B13D48FF9D2530E.title: "XyCraft 彩色燈"
+	task.4B274207A9646FE9.title: "農夫樂裝飾"
+	task.4E28970476CABACD.title: "Chipped 燈飾"
+	task.50BED71A6677392E.title: "鐵路裝飾石"
+	task.53A6720343E57302.title: "壽司工藝"
+	task.53A682560123F9B6.title: "功能性玻璃"
+	task.58B9B9D13F4CD1B2.title: "永恆星光石材"
+	task.5936B8B8EDE0AE55.title: "金屬與寶石塊"
+	task.5DEABD15EDE5736F.title: "XyCraft 玻璃"
+	task.5FB27C61053F7FB5.title: "新星魔法燈飾"
+	task.61FFB3326113FE18.title: "群系大冒險木材"
+	task.624ADD79136376C0.title: "XyCraft 世界零件"
+	task.690A9C3BC2417BB9.title: "Undergarden 金屬"
+	task.6A7ABDFC419B62A9.title: "電力設備組"
+	task.6AA335ED81844F9F.title: "不準偷拿 (版權所有)"
+	task.6BD970777103D55D.title: "樓梯"
+	task.6D2E8755BB3463FF.title: "鐵路彩色塊"
+	task.6F475689ED4EDF59.title: "Macaw 系列零件"
+	task.70367F545A9CB4D0.title: "床鋪"
+	task.712552C459B5BD54.title: "新星魔法原木"
+	task.720CE629EA4E37D0.title: "Chipped 原木"
+	task.7213278CEE1B25A3.title: "原木"
+	task.74CA4DE423248784.title: "壁燈"
+	task.767AF1D5EC4B4ECD.title: "臥室套裝"
+	task.76C92D826994D92B.title: "Chipped 玻璃"
+	task.773B7F8C77B21B28.title: "Chipped 羊毛"
+	task.78ECC6C98CA985D7.title: "Macaw 的圍欄與牆扇"
+	task.78F0D5822BF96CA9.title: "Regions Unexplored 原木"
+	task.79400615E3A7401D.title: "建築小工具"
+	task.7A119F7B40F2D64D.title: "永恆星光原木"
+}

@@ -1,0 +1,114 @@
+{
+	quest.010607466D565B53.quest_desc: ["想跟大自然合為一體嗎？ \\n\\n穿上 &a紮根靴子&r，草地就是你的好朋友！站在草地上會自動回血。而且如果你在草地上吃東西，還會附帶骨粉效果，這就是所謂的「邊吃邊種田」。"]
+	quest.010607466D565B53.title: "&a紮根靴子"
+	quest.0A1D4228271DECA3.quest_desc: ["咦，你縮水了？ \\n\\n戴上這款項鍊，你的體型會縮小一半。小到可以鑽進一格高的縫隙。躲避苦力怕追殺或是偷看隊友家廁所（誤）的好工具。"]
+	quest.0A1D4228271DECA3.title: "&5縮小護身符"
+	quest.0E716B90E60C486B.quest_desc: ["三十六計，跑為上計！ \\n\\n當你被打的時候，這款 &4驚恐項鍊&r 會給你短暫的速度 Buff。趁怪還沒反應過來，快跑吧！"]
+	quest.0E716B90E60C486B.title: "&4驚恐項鍊"
+	quest.11C5F17C6BB1237B.quest_desc: ["戴上這款 &5凋零手環&r，你的近戰攻擊有機率讓怪中凋零效果。 \\n\\n遠程玩家請旁邊玩沙，這不關你們的事。"]
+	quest.11C5F17C6BB1237B.title: "&5凋零手環"
+	quest.122E6E7CABCB17E7.quest_desc: ["苦力怕很怕貓。苦力怕也很蠢，以為你的 &7貓貓拖鞋&r 就是真的貓。 \\n\\n穿上它，苦力怕看到你就跑，再也不會在你背後說「嘶～」。 \\n\\n被打的時候還會發出貓叫聲喔！雖然不保證摔下來一定四腳著地啦。"]
+	quest.122E6E7CABCB17E7.title: "&7貓貓拖鞋"
+	quest.145E7D1A88B83DDD.quest_desc: ["窩在哪？窩不知道。"]
+	quest.145E7D1A88B83DDD.title: "&9隱身圍巾"
+	quest.161A90E134592D0E.quest_desc: ["牛肉煮一煮變牛排。跟普通的一樣，但吃起來更有優越感。"]
+	quest.161A90E134592D0E.title: "&4永恆牛排"
+	quest.16255FB20F35A9D9.quest_desc: ["&3呼吸管&r 讓你進入水裡時有短暫的呼吸時間。跟龜殼差不多，小心別憋死了。"]
+	quest.16255FB20F35A9D9.title: "&3呼吸管"
+	quest.19B393433FB0C62F.quest_desc: ["我們把大步危（Strider）的腿砍下來讓你穿！ \\n\\n按住 Shift 可以在岩漿上面走路。放開 Shift 就會掉下去變烤肉。還能防岩漿塊燙傷喔。"]
+	quest.19B393433FB0C62F.title: "&4大步危之鞋 (洗岩漿澡專用)"
+	quest.1E40ACF3E69A4100.quest_desc: ["這東西要怎麼喝？窩不知道，反正帶在身上就有用。 \\n\\n它能縮短中毒或凋零的時間。對付女巫跟凋零怪的神器。"]
+	quest.1E40ACF3E69A4100.title: "&6解毒容器"
+	quest.2215FB0777D7029D.quest_desc: ["穿上 &7止滑靴&r，你就是全場最穩的仔。 \\n\\n不會被擊退，在冰上面走路也不會打滑。這就是所謂的地心引力抓得住你。"]
+	quest.2215FB0777D7029D.title: "&7止滑止退靴"
+	quest.221C9EDA651144BA.quest_desc: ["什麼水？ \\n\\n戴上這款護身符，你在水裡走起來就像在陸地上一樣。雖然還是不能呼吸啦。"]
+	quest.221C9EDA651144BA.title: "&3沉重護身符 (水下疾走)"
+	quest.2607F3DC07049785.quest_desc: ["為什麼要細嚼慢嚥？直接乾啦！ \\n\\n戴上這頂超台的 &6飲水帽&r，吃喝速度大幅提升。時間就是金錢，我的朋友。"]
+	quest.2607F3DC07049785.title: "&6塑膠飲水帽"
+	quest.27E951F4F4F6F847.quest_desc: ["被打有機會讓對方著火！而且你自己還會獲得抗火效果。這就叫「以火攻火」。"]
+	quest.27E951F4F4F6F847.title: "&c火焰項鍊"
+	quest.29448D08C8777425.quest_desc: ["今晚我想來點... 海鮮。 \\n\\n這帽子讓你釣魚更有感，稀有掉落率更高。"]
+	quest.29448D08C8777425.title: "&c漁夫帽"
+	quest.2AD78E22988A92D3.quest_desc: ["窩看見你了！ \\n\\n自帶夜視功能的護目鏡。沒啥技術含量，就是方便。"]
+	quest.2AD78E22988A92D3.title: "&2夜視護目鏡"
+	quest.321F16645640C462.quest_desc: ["珍珠瞬移很好玩，但扣血很痛對吧？ \\n\\n裝上 &9曲速引擎&r 補件，現在瞬移不扣血，改扣「飽食度」。只要你吃得夠多，你就能當個閃電俠。"]
+	quest.321F16645640C462.title: "&9曲速引擎 (珍珠強化)"
+	quest.3446803FB59D8875.quest_desc: ["讓你自己自帶刺。被打的人會被反彈傷害。就像一隻憤怒的河豚。"]
+	quest.3446803FB59D8875.title: "&a荊棘項鍊"
+	quest.3525D5DCC3A534D9.quest_desc: ["這是我最喜歡的遺物！ \\n\\n1. 挖掘速度變快。 \\n2. 你的拳頭現在可以當成石鎬用！ \\n\\n沒鎬子也能挖礦，這才是真男人的生存方式。"]
+	quest.3525D5DCC3A534D9.title: "&9挖掘鋼爪"
+	quest.3705D303CF423804.quest_desc: ["簡單粗暴，穿上就加傷害。"]
+	quest.3705D303CF423804.title: "&e力量手套"
+	quest.3B3BD39BA02DCA13.quest_desc: ["口袋活塞：把你的敵人打得遠遠的。 \\n\\n不知道它跟止滑靴打起來誰會贏？"]
+	quest.3B3BD39BA02DCA13.title: "&6口袋活塞"
+	quest.3E0643EA9183CDAE.quest_desc: ["「這可是蟹老闆的最愛！它是第一名！」 \\n\\n功能跟普通版一樣，但穿起來就是比較帥。"]
+	quest.3E0643EA9183CDAE.title: "&9造型飲水帽"
+	quest.3E1A3BC8642390B3.quest_desc: ["「我是瑪莉包萍啦各位！」 \\n\\n這把 &4雨傘&r 超實用。按住右鍵可以當盾牌，拿在手上還能當降落傘緩降。帥度破表。"]
+	quest.3E1A3BC8642390B3.title: "&4多功能雨傘"
+	quest.3EC8A0B89788D079.quest_desc: ["窩沒有手，窩只有 &9蛙鞋&r。 \\n\\n比深海遊步更強的游泳神器。在水裡穿梭自如。"]
+	quest.3EC8A0B89788D079.title: "&9蛙鞋"
+	quest.427014BDE06DE631.quest_desc: ["我的拳頭，正在燃燒！！！！！"]
+	quest.427014BDE06DE631.title: "&c烈焰長手套"
+	quest.436E4E3515BCCDE9.quest_desc: ["二段跳！這才是跑酷玩家該有的樣子。 \\n\\n還能增加跌落傷害的耐受高度。"]
+	quest.436E4E3515BCCDE9.title: "&b瓶中雲 (二段跳)"
+	quest.4564B577CB4EC046.quest_desc: ["殺了幾百隻牛後，你有機會拿到這塊「神肉」。 \\n\\n它吃不完！吃完會有冷卻時間，然後就能再吃一次。這就是所謂的永動機食譜。"]
+	quest.4564B577CB4EC046.title: "&c永恆生牛肉"
+	quest.4933CF4675E77D50.quest_desc: ["被打到火燒屁股後，這顆頭骨會給你短暫的抗火。快趁機逃命吧！"]
+	quest.4933CF4675E77D50.title: "&5黑曜石頭骨"
+	quest.4A7AEBEB87CEC274.quest_desc: ["這不是某愛 X 達或是 勾 X 的跑鞋。 \\n\\n它讓你跑步時更有勁，還自帶自動跳躍。這就是所謂的「科技彈簧」。"]
+	quest.4A7AEBEB87CEC274.title: "&c慢跑鞋"
+	quest.4D3379D38237F830.quest_desc: ["輕功水上漂！ \\n\\n只要你在衝刺（Sprint），你就能在水面上跑。停下來就會淹死喔。"]
+	quest.4D3379D38237F830.title: "&b水上漂跑鞋"
+	quest.5040B3D29F238BC0.quest_desc: ["跳跳虎靴子。跳兩倍高，摔傷減半。但別以為這樣就不會摔死，高度太高一樣變肉餅。"]
+	quest.5040B3D29F238BC0.title: "&dBunny Hoppers (兔兔鞋)"
+	quest.50A32AC6EDBC5854.quest_desc: ["吃漢堡怎麼能不配洋蔥圈？ \\n\\n戴上它，你吃任何東西都會獲得短暫的急速 (Haste) 效果。"]
+	quest.50A32AC6EDBC5854.title: "&6洋蔥圈"
+	quest.589F1D502F680075.quest_desc: ["泳池派對必備！ \\n\\n這隻火烈鳥不只能裝逼，還能讓你「在空氣中游泳」。 \\n\\n跳起來按 Ctrl 就能在空中游來游去。這畫面看起來真的很蠢，但真的很方便。"]
+	quest.589F1D502F680075.title: "&d氦氣火烈鳥"
+	quest.5CE44C58A470E48E.quest_desc: ["&l&3遺物 (Artifacts)&r 增加了一堆超好用的功能性飾品。 \\n\\n你可以透過探險、考古或是殺死「擬態箱 (Mimics)」來拿到它們。 \\n\\n擬態箱會躲在野外的營地裡裝成普通箱子，靠近就會咬你！"]
+	quest.5CE44C58A470E48E.title: "&l&3傳說遺物"
+	quest.5DE7C4FD5FA29236.quest_desc: ["當你快死的時候，這條皮帶會自動帶你瞬移走。這就叫死裡逃生。"]
+	quest.5DE7C4FD5FA29236.title: "&5紫影皮帶"
+	quest.5EB7CE3A1DCD3E9B.quest_desc: ["它就是個磁鐵。"]
+	quest.5EB7CE3A1DCD3E9B.title: "&c萬用吸引器"
+	quest.5F5E43B3F51CAE9E.quest_desc: ["內建 1 級掠奪效果！而且還能跟附魔疊加。這帽子戴上去，怪物的掉落物通通都到我碗裡來。"]
+	quest.5F5E43B3F51CAE9E.title: "&a幸運帽"
+	quest.5FD6A738754F6013.quest_desc: ["這任務是由 &6ATM 員工&r 或某個 &2爆肝網友&r 寫的。如果你看得到這行，代表你現在正在窺視開發者的內心世界（編輯模式）。"]
+	quest.623796B1D7981E59.quest_desc: ["「也要試試泰拉瑞亞喔！」 \\n\\n戴上去直接送你 5 顆紅心。生存能力大幅提升。"]
+	quest.623796B1D7981E59.title: "&4生命水晶之心"
+	quest.62622137648A4F56.quest_desc: ["邊挖邊燒。雖然聽起來很省事，但如果你想要礦物增產（例如 Mek 的 5 倍產量），這東西就是你的惡夢。"]
+	quest.62622137648A4F56.title: "&7自動熔煉插件"
+	quest.6A452BFC8A967C39.quest_desc: ["攻速拉滿！穿上它，你就是全服手速最快的法師（誤）。"]
+	quest.6A452BFC8A967C39.title: "&a野性鋼爪"
+	quest.6FBE5B5D5027B32C.quest_desc: ["讓你的坐騎跑得像風一樣快！戴上去還有一股淡淡的西部味。"]
+	quest.6FBE5B5D5027B32C.title: "&7牛仔帽"
+	quest.70C7D92844089DEB.quest_desc: ["雷電法王！被打有機率劈雷雷死對方。如果你被雷劈，它還能幫你擋傷。"]
+	quest.70C7D92844089DEB.title: "&b雷擊項鍊"
+	quest.7188DC06A28AE30E.quest_desc: ["殺怪時加經驗值。這鉤子看起來就很適合去當海盜。"]
+	quest.7188DC06A28AE30E.title: "&e金鉤子"
+	quest.72D6265E35814927.quest_desc: ["增加受傷後的無敵時間。這才是真的保命符。"]
+	quest.72D6265E35814927.title: "&e十字架項鍊"
+	quest.73B73870B29DFAD9.quest_desc: ["裝成村民去購物。折扣打到你骨折。"]
+	quest.73B73870B29DFAD9.title: "&eVillager Hat (奸商帽)"
+	quest.73FC51144FC2DA52.quest_desc: ["攻擊會吸血！我就是要，嘿嘿嘿..."]
+	quest.73FC51144FC2DA52.title: "&7吸血鬼手套"
+	quest.74B352457BF1541B.quest_desc: ["再也不怕掉進細雪裡被凍死了。在雪地走路還能加速。"]
+	quest.74B352457BF1541B.title: "雪地登山鞋"
+	quest.7503823ACDDB0491.quest_desc: ["自帶 1 級時運！這圍巾圍上去，挖礦賺翻了。"]
+	quest.7503823ACDDB0491.title: "&2幸運圍巾"
+	quest.789AF6D0A6321945.quest_desc: [
+		"這可是這模組包最危險、最恐怖、最不講理的遺物！"
+		"{@pagebreak}"
+		"你確定你準備好面對它的力量了嗎？"
+		"{@pagebreak}"
+		"現在回頭還來得及喔！"
+		"{@pagebreak}"
+		"好啦，既然你堅持..."
+		"{@pagebreak}"
+		"穿上它，按 Shift，你就能隨時隨地放個響屁。這就是所謂的生化武器。"
+	]
+	quest.789AF6D0A6321945.title: "&d整人屁墊"
+	task.376652638B9221C9.title: "不準偷拿 (版權所有)"
+	task.68DC39876E14FC1B.title: "宰掉 1 隻擬態箱"
+	task.72E8906629063040.title: "不準偷拿 (版權所有)"
+}

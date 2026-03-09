@@ -1,0 +1,306 @@
+{
+	quest.0000A88BB40B2149.quest_desc: ["在去混沌島之前，請做好萬全準備。雖然牠長得像龍，但牠比原版龍強大概一萬倍。 \\n\\n你需要最高級的龍之武器，護甲至少要用難得錠或 MekaSuit。還要帶一堆再生、抗傷的藥水。如果你沒準備好就衝過去，保證你連灰都不剩。"]
+	quest.0000A88BB40B2149.title: "不去送死，從備戰開始"
+	quest.01612963DBBAC9A1.quest_desc: ["希望這套衣服能擋得住那一發雷射。"]
+	quest.01612963DBBAC9A1.title: "混沌胸甲"
+	quest.0252B8F77A038D17.title: "飛龍級自動餵食模組"
+	quest.04695DA1BD3BF1B2.title: "混沌級傷害模組"
+	quest.0499A372F55D04C8.title: "神龍級彈道速度模組"
+	quest.04BF68E4554D69AA.quest_desc: [
+		"最終等級：八階！你需要 378 個覺醒龍金塊跟 786 個龍金塊。 \\n\\n雖然蓋完你可能已經老了 10 歲，但為了那近乎無限的電量... 真香。"
+		"{image:atm:textures/questpics/draconic/draconic_core_8off.png width:100 height:100 align:1}"
+		"{image:atm:textures/questpics/draconic/draconic_core_8on.png width:100 height:100 align:1}"
+	]
+	quest.04BF68E4554D69AA.quest_subtitle: "容量：接近無限"
+	quest.04BF68E4554D69AA.title: "八階能源核心"
+	quest.052E261F934AB439.quest_desc: ["連鏟子都能殺人了。還能開路喔。"]
+	quest.052E261F934AB439.title: "混沌鏟"
+	quest.070F8045CC14B50D.title: "神龍級彈道穿透模組"
+	quest.0817FD6E45C127E8.quest_desc: ["想更快進出電量？多蓋幾個接口吧。"]
+	quest.0817FD6E45C127E8.title: "更多接口 (可選)"
+	quest.0AE8B51D63327EC3.title: "混沌級護盾回復模組"
+	quest.0AE930BA037DC565.quest_desc: ["這把弓射起來很有感。記得幫它充電，不然它連普通箭都射不動。"]
+	quest.0AE930BA037DC565.title: "飛龍長弓"
+	quest.0E487EACA837EA9B.title: "混沌級護盾控制模組"
+	quest.10690FDB9E892250.quest_desc: ["這是一把劍。按下去會砍人。窩不需要再解釋更多了吧？"]
+	quest.10690FDB9E892250.title: "飛龍長劍"
+	quest.106D08542AAFA166.quest_desc: [
+		"第一階段：拆水晶。 \\n\\n在水晶爆掉前龍是無敵的。你要引誘龍噴火球去砸水晶，這過程考驗你的走位。 \\n\\n水晶快爆的時候聲音會變沉，光也會變暗。拆完 14 根後，真正的地獄才開始。"
+		"{image:atm:textures/questpics/draconic/draconic_end_crystal.png width:150 height:100 align:1}"
+	]
+	quest.106D08542AAFA166.title: "拆遷工程：14 根守護水晶"
+	quest.10E4ADA1D0063EB7.title: "混沌級彈道速度模組"
+	quest.120B403D56EE5C79.title: "飛龍級能量模組"
+	quest.12469CC0CCFBA1C5.quest_desc: ["最強的劍、最強的鎬、最強的鏟... 三位一體！拿著它你就是龍之進化之神。"]
+	quest.12469CC0CCFBA1C5.title: "混沌法杖 (Staff of Power)"
+	quest.129E09C03E40BA57.quest_desc: ["反應爐吃覺醒龍金。這燃料很耐燒，但你要注意轉化率。 \\n\\n反應爐只能在關機狀態下加料。 SAS 模式能幫你省點心。"]
+	quest.129E09C03E40BA57.title: "核燃料：覺醒龍金"
+	quest.12BDE512C734D19A.quest_desc: ["龍之核心是所有高級配方的地基。沒有它你連把破鐵鎬都做不出來。"]
+	quest.12BDE512C734D19A.title: "基礎龍之核心"
+	quest.131AA933D59D3017.quest_desc: [
+		"五階需要 90 個龍金塊跟 80 個紅石塊。還要裝上進階穩定器。容量開始變得很有誠意了。"
+		"{image:atm:textures/questpics/draconic/draconic_core_5off.png width:100 height:100 align:1}"
+		"{image:atm:textures/questpics/draconic/draconic_core_5on.png width:100 height:100 align:1}"
+	]
+	quest.131AA933D59D3017.quest_subtitle: "容量：593 億 RF"
+	quest.131AA933D59D3017.title: "五階能源核心"
+	quest.154D9EA863FD2A32.title: "混沌級彈道穿透模組"
+	quest.164BBBD98163F64C.quest_desc: ["可以耕地，也可以當個安靜的淑女。"]
+	quest.164BBBD98163F64C.title: "飛龍鋤頭"
+	quest.165030137EF59299.title: "飛龍級範圍模組"
+	quest.166D2A191871F80E.quest_desc: ["飛龍鎬的升級版。挖得更爽。"]
+	quest.166D2A191871F80E.title: "神龍鎬"
+	quest.16FF2219F110F50A.quest_desc: ["不死模組：這就是不會消失的不死圖騰。 \\n\\n被打死時自動啟動，救你一命。有冷卻時間，別在那邊一直想著自殺。"]
+	quest.16FF2219F110F50A.title: "飛龍級不死模組"
+	quest.1830412AB77E9526.quest_desc: ["讓你的箭射得更準。再也不怕手殘射到路過的牛。"]
+	quest.1830412AB77E9526.title: "飛龍級彈道精準模組"
+	quest.1A53B6544782442E.quest_desc: ["控制護盾的充電時機。"]
+	quest.1A53B6544782442E.title: "飛龍級護盾控制模組"
+	quest.1C8210712349A2E3.quest_desc: ["加傷害。裝越多打越痛。這很科學。"]
+	quest.1C8210712349A2E3.title: "基礎傷害模組"
+	quest.1D3E2363CFD4C5E0.quest_desc: ["聚變合成有四個階級。 \\n\\n把注入器放在核心周圍，給它電。看著光芒匯聚的那一刻，真的很像在拍科幻電影。"]
+	quest.1D3E2363CFD4C5E0.title: "第一階：龍之級"
+	quest.1E41A5071854DEC8.title: "飛龍級傷害模組"
+	quest.1F7D147C9AF6A4FC.quest_desc: [
+		"四階能源核心。要用 26 個紅石塊跟 56 個龍金塊。容量破百億了！"
+		"{image:atm:textures/questpics/draconic/draconic_core_4off.png width:100 height:100 align:1}"
+		"{image:atm:textures/questpics/draconic/draconic_core_4on.png width:100 height:100 align:1}"
+	]
+	quest.1F7D147C9AF6A4FC.quest_subtitle: "容量：98 億 RF"
+	quest.1F7D147C9AF6A4FC.title: "四階能源核心"
+	quest.20D8DA523E900A52.quest_desc: ["無線能源連結：讓電力像藍牙一樣傳輸。"]
+	quest.20D8DA523E900A52.title: "無線能源連結"
+	quest.2158A566C2F54AA9.title: "神龍級護盾控制模組"
+	quest.22D383BAEF8A2B39.quest_desc: ["它是鎬、是鏟、也是劍！一根棍子打遍天下無敵手。"]
+	quest.22D383BAEF8A2B39.title: "神龍法杖"
+	quest.236C936FE3BA8396.title: "混沌級飛行模組"
+	quest.265D0DB0E8CED73B.title: "神龍級彈道重力補償模組"
+	quest.26DF1427AC3966DE.quest_desc: ["歡迎來到龍之進化！這個模組的主旨就是：給你最強的裝備，然後叫你去打最變態的 Boss。 \\n\\n先去終界挖點龍礦吧。這是一切爆肝的開始。"]
+	quest.26DF1427AC3966DE.title: "龍之進化"
+	quest.285656AF1F870AF8.quest_desc: ["龍之箱是我最愛的箱子。 \\n\\n空間爆大，還能自定義顏色。甚至內建熔爐跟工作台。這就是所謂的「真‧多功能工具箱」。"]
+	quest.285656AF1F870AF8.title: "龍之寶箱"
+	quest.28AF8DD34412CBAA.title: "神龍級速度模組"
+	quest.295EB6CFEC029AE2.quest_desc: ["要把電灌進工具裡，你需要注入器。 \\n\\n看著電弧在機器間閃爍，你就知道這電費一定很貴。"]
+	quest.295EB6CFEC029AE2.title: "給裝備充能"
+	quest.2A5C5B44E9643A5D.title: "混沌級速度模組"
+	quest.2AA08313F927981E.title: "飛龍級速度模組"
+	quest.2AAE61752728EA8D.quest_desc: ["讓你在飛的時候挖礦不會變慢。這才是真的效率。"]
+	quest.2AAE61752728EA8D.title: "挖掘穩定模組"
+	quest.2B6D71DAF72EAFA4.quest_desc: ["就是個特大號的充電寶。裡面塞滿能量模組，讓你出門不怕沒電。"]
+	quest.2B6D71DAF72EAFA4.title: "飛龍級儲能球"
+	quest.2D9AF97C03C5AEC7.quest_desc: ["五階以上的核心要用進階穩定器。蓋法就是把 9 個普通穩定器疊在一起。這叫「團結力量大」。"]
+	quest.2D9AF97C03C5AEC7.title: "進階核心穩定器"
+	quest.2DB2A4A1182FE0BB.quest_desc: [
+		"六階要 150 個龍金塊跟 178 個紅石塊。容量已經突破三千億了。你家發電機還好嗎？"
+		"{image:atm:textures/questpics/draconic/draconic_core_6off.png width:100 height:100 align:1}"
+		"{image:atm:textures/questpics/draconic/draconic_core_6on.png width:100 height:100 align:1}"
+	]
+	quest.2DB2A4A1182FE0BB.quest_subtitle: "容量：3560 億 RF"
+	quest.2DB2A4A1182FE0BB.title: "六階能源核心"
+	quest.2E74B5149D4BD0A0.quest_desc: ["最基礎的傳電晶體。"]
+	quest.2E74B5149D4BD0A0.title: "基礎能源傳輸晶體"
+	quest.30F97EB743B0A07F.quest_desc: ["既是斧頭也是武器。拿來砍樹、拿來剁怪，兩相宜。"]
+	quest.30F97EB743B0A07F.title: "飛龍手斧"
+	quest.3235FBD9CE21D5EE.quest_desc: ["能挖地，還能鋪路。鏟子界的法拉利。"]
+	quest.3235FBD9CE21D5EE.title: "飛龍鏟"
+	quest.32EBB3D53AA91E09.quest_desc: ["永久夜視。終於可以把那堆爛藥水丟掉了。"]
+	quest.32EBB3D53AA91E09.title: "夜視模組"
+	quest.33D2901594655A77.title: "混沌級範圍模組"
+	quest.34D3F6D54F5B26C2.quest_desc: ["這是一把很有個性的鋤頭。"]
+	quest.34D3F6D54F5B26C2.title: "神龍鋤頭"
+	quest.35767977FB9E0B1B.quest_desc: [
+		"二階要 6 個龍金塊。雖然小，但比一階強多了。"
+		"{image:atm:textures/questpics/draconic/draconic_core_2off.png width:100 height:100 align:1}"
+		"{image:atm:textures/questpics/draconic/draconic_core_2on.png width:100 height:100 align:1}"
+	]
+	quest.35767977FB9E0B1B.quest_subtitle: "容量：2.73 億 RF"
+	quest.35767977FB9E0B1B.title: "二階能源核心"
+	quest.35A674E2C6F66673.title: "混沌級彈道精準模組"
+	quest.366431661CC43A6E.quest_desc: ["這任務是由 &6ATM 員工&r 或某個 &2爆肝網友&r 寫的。如果你看得到這行，代表你現在正在窺視開發者的內心世界（編輯模式）。"]
+	quest.36DAFC3FECC67406.quest_desc: ["最強的電池。帶上它，你就是全服最持久的男人。"]
+	quest.36DAFC3FECC67406.title: "混沌儲能球"
+	quest.36F123B2A6B52A01.quest_desc: ["傳最多的電，連最遠的線。"]
+	quest.36F123B2A6B52A01.title: "神龍級能源傳輸晶體"
+	quest.3765485408041FC6.quest_desc: ["它能挖這世界上所有的方塊（包括始源礦）。挖掉的東西直接進包包，真香。"]
+	quest.3765485408041FC6.title: "飛龍搞頭"
+	quest.376D154F27A00BCD.quest_desc: ["無視重力！箭射出去就是一條直線。這才叫指哪打哪。"]
+	quest.376D154F27A00BCD.title: "飛龍級重力補償模組"
+	quest.37CC51B689CB8A40.quest_desc: ["胸甲就是你的能量盾。容量決定你能挨多少打，回復速度決定你多久能回血。"]
+	quest.37CC51B689CB8A40.title: "飛龍級護盾電容量模組"
+	quest.389655CD41C7A691.quest_desc: [
+		"一階核心。能源之路的起點。"
+		"{image:atm:textures/questpics/draconic/draconic_core_1off.png width:100 height:100 align:1}"
+		"{image:atm:textures/questpics/draconic/draconic_core_1on.png width:100 height:100 align:1}"
+	]
+	quest.389655CD41C7A691.quest_subtitle: "容量：4550 萬 RF"
+	quest.389655CD41C7A691.title: "一階能源核心"
+	quest.38AD547C36BDF4C4.title: "神龍級彈道精準模組"
+	quest.39865681B03CABAA.quest_desc: ["在水裡挖礦不會變慢。這模組真的要把附魔通通變成模組化。"]
+	quest.39865681B03CABAA.title: "水下適應模組"
+	quest.39AF9B1A996DA949.quest_desc: ["比獄髓劍更痛、更帥、更中二！"]
+	quest.39AF9B1A996DA949.title: "混沌長劍"
+	quest.3B4CEE8A8CE0D6CB.quest_desc: [
+		"快到了！七階核心！要 210 個龍金塊跟 328 個紅石塊。容量高達兩兆！"
+		"{image:atm:textures/questpics/draconic/draconic_core_7off.png width:100 height:100 align:1}"
+		"{image:atm:textures/questpics/draconic/draconic_core_7on.png width:100 height:100 align:1}"
+	]
+	quest.3B4CEE8A8CE0D6CB.quest_subtitle: "容量：2.14 兆 RF"
+	quest.3B4CEE8A8CE0D6CB.title: "七階能源核心"
+	quest.3BE3B54B4A681668.quest_desc: ["一斧頭下去怪就變成肉醬了。"]
+	quest.3BE3B54B4A681668.title: "混沌手斧"
+	quest.3CB8F5F1D33C8F9F.quest_desc: ["護盾大放送！裝滿它，你就是全服最坦的坦克。"]
+	quest.3CB8F5F1D33C8F9F.title: "飛龍級巨量護盾模組"
+	quest.3DF794EBCAA7AE1A.title: "神龍級砍樹模組"
+	quest.3FD19A001899D8C6.quest_desc: ["這才是真正的飛！創意模式飛行，讓你在空中俯視眾生。"]
+	quest.3FD19A001899D8C6.title: "神龍級飛行模組"
+	quest.40F34EBE09DA7752.quest_desc: ["自動吃包包裡的食物。這就是所謂的「飯來張口」。"]
+	quest.40F34EBE09DA7752.title: "基礎級自動餵食模組"
+	quest.41BD497108CA109F.quest_desc: ["覺醒龍金要靠聚變合成。這是中期的關鍵材料，也是做一切神裝的基礎。"]
+	quest.41BD497108CA109F.title: "覺醒龍金"
+	quest.421954D7D46FAAD6.quest_desc: ["能源核心的守衛者。擺錯位子核心就不會亮喔。"]
+	quest.421954D7D46FAAD6.title: "能源核心穩定器"
+	quest.43C2B07AB25C708E.quest_desc: ["神龍長弓。射速更快、威力更猛。"]
+	quest.43C2B07AB25C708E.title: "神龍長弓"
+	quest.45EE60207C466D6C.quest_desc: ["想變強？先去終界 1 萬格、2 萬格的地方找混沌島。那裡住著一位脾氣很差的老大。"]
+	quest.45EE60207C466D6C.quest_subtitle: "尋找混沌島"
+	quest.45EE60207C466D6C.title: "他在哪裡？"
+	quest.4638F21544D6D337.title: "混沌糾纏量子能源通道"
+	quest.46C816844C513D5D.quest_desc: ["神龍鏟。挖泥巴比你拆紅包還快。"]
+	quest.46C816844C513D5D.title: "神龍鏟"
+	quest.4903BDC389C73082.title: "神龍級彈道傷害模組"
+	quest.4A3A5684302C8627.title: "混沌級護盾電容量模組"
+	quest.4AAADEC52D16461A.quest_desc: ["自動爬坡。懶人必備。"]
+	quest.4AAADEC52D16461A.title: "階梯步進模組"
+	quest.4AB564420C48579B.quest_desc: ["龍之進化覺得穿一整套盔甲太累了，只要一件胸甲配上能量盾，你就是無敵的。"]
+	quest.4AB564420C48579B.title: "飛龍胸甲"
+	quest.4ABEF61DADBD0640.quest_desc: ["全自動機槍弓！只要按住右鍵，箭矢就會源源不絕地噴出去。這就是所謂的火力壓制。"]
+	quest.4ABEF61DADBD0640.title: "全自動射擊模組"
+	quest.4B7840F1A8CF1378.quest_desc: ["聚變合成是這模組的核心。看著材料在光芒中融合，那感覺真的很爽。去下一頁看怎麼擺。"]
+	quest.4B7840F1A8CF1378.title: "聚變合成工程"
+	quest.4B9FF9E972B0E530.quest_desc: ["跨維度傳電！終於不用在那邊拉幾萬格的線了。"]
+	quest.4B9FF9E972B0E530.title: "量子能源通道"
+	quest.4CD2ADD3601B8191.quest_desc: ["護盾被打爆了怎麼辦？加點回復模組，讓盾回來得更快。"]
+	quest.4CD2ADD3601B8191.title: "飛龍級護盾回復模組"
+	quest.4E27182763DA83DC.quest_desc: ["神龍胸甲。更坦、更硬、更有錢的味道。"]
+	quest.4E27182763DA83DC.title: "神龍胸甲"
+	quest.4EFFE300EC781C3E.quest_desc: ["模組是裝備的心臟。按 Shift+C 打開選單。 \\n\\n你可以隨意配置模組的位子。 1x1、2x2，隨你便。記得先塞能量模組，不然機器不會動。"]
+	quest.4EFFE300EC781C3E.title: "模組化系統！"
+	quest.4F6A9F1AEFD535F5.title: "神龍級巨量護盾模組"
+	quest.50013DD7370F8EDB.title: "混沌級跳躍模組"
+	quest.5021D159A5EC2315.title: "神龍級能量模組"
+	quest.51CF09EC333DB1A3.quest_desc: ["第二階：飛龍級。你需要升級你的注入器才能解鎖更高級的配方。"]
+	quest.51CF09EC333DB1A3.title: "第二階：飛龍級"
+	quest.529123A789D790E3.title: "飛龍級跳躍模組"
+	quest.52C301DF1776E0D8.title: "混沌級彈道傷害模組"
+	quest.52C3F61D678B00F5.quest_desc: ["混沌級鋤頭。窩本來想開個黃腔但還是算了。"]
+	quest.52C3F61D678B00F5.title: "混沌鋤頭"
+	quest.52EA9793A7100E75.title: "混沌級不死模組"
+	quest.542AD6FD1927C3E6.title: "神龍級不死模組"
+	quest.5443E15E226DFC86.quest_desc: ["電力接口。拿來插管子或接晶體。"]
+	quest.5443E15E226DFC86.title: "能源接口"
+	quest.54F78C9A945CF0E7.title: "混沌級能量模組"
+	quest.574E5806D1A98FE5.quest_desc: ["沒能量模組，你的神裝就是廢鐵。它決定了你的電容量跟充放電速度。"]
+	quest.574E5806D1A98FE5.title: "基礎能量模組"
+	quest.5895B7FA5497BD68.quest_desc: ["神龍手斧。每一下攻擊都帶有毀滅性的力量。"]
+	quest.5895B7FA5497BD68.title: "神龍手斧"
+	quest.594BBD31461F212D.title: "神龍級護盾回復模組"
+	quest.5ADFC45B03BAB852.quest_desc: ["第三階：神龍級。這才是真正的黑科技開始。"]
+	quest.5ADFC45B03BAB852.title: "第三階：神龍級"
+	quest.5BC6CC3C09F512A7.quest_desc: [
+		"龍之反應爐是這模組包最危險的產電方式。 \\n\\n蓋之前請務必看好教學！過熱、電量飽和、或是燃料轉化太快都會導致... 砰！ \\n\\n炸掉後你家方圓幾百格會變成一個大坑。真的大坑。請小心操作。"
+		"{image:atm:textures/questpics/draconic/draconic_reactor_off_down.png width:200 height:100 align:1}"
+		"{image:atm:textures/questpics/draconic/draconic_reactor_off_up.png width:150 height:150 align:1}"
+	]
+	quest.5BC6CC3C09F512A7.quest_subtitle: "無限電力（與風險）"
+	quest.5BC6CC3C09F512A7.title: "建造反應爐"
+	quest.5C2CF51D28F84CBE.quest_desc: [
+		"拆完水晶後，這隻龍終於能被打痛了。 \\n\\n牠會瘋狂衝撞跟噴火。別離太近，不然你會被火球淹沒。 \\n\\n打死牠後，牠會掉落這世界上最珍貴的東西：混沌碎片。"
+		"{image:atm:textures/questpics/draconic/draconic_guardian.png width:150 height:100 align:1}"
+	]
+	quest.5C2CF51D28F84CBE.title: "宰了那個混沌守護者"
+	quest.5D87088E8D71DB9B.quest_desc: ["拿把晶體綁定器連線。這就是所謂的「魔法電力網」。"]
+	quest.5D87088E8D71DB9B.title: "連動電力網路"
+	quest.5E0D78B7B2CF1729.quest_desc: ["想做神龍級注入器？先做點龍之核心吧。"]
+	quest.5E0D78B7B2CF1729.title: "神龍級核心"
+	quest.5E671F1F370DDE43.title: "神龍級自動餵食模組"
+	quest.5E8D527DE9D7DD46.quest_desc: ["這不是飛，這是「有尊嚴地掉落」。裝上飛行模組後，你可以隨時開啟滑翔模式。"]
+	quest.5E8D527DE9D7DD46.title: "飛龍級飛行模組"
+	quest.607337D8AA20FA18.quest_desc: ["砍一格，倒全樹。這才叫伐木。"]
+	quest.607337D8AA20FA18.title: "飛龍級砍樹模組"
+	quest.60C27206F1414DD6.quest_desc: ["無視對方的「受傷無敵時間」。現在你可以一秒射 10 箭，每一箭都實打實地痛。"]
+	quest.60C27206F1414DD6.title: "彈道連擊模組"
+	quest.61419D230687CBB5.quest_desc: ["讓箭飛得更快。代價是準度會掉一點點。這就是所謂的「速度與激情」。"]
+	quest.61419D230687CBB5.title: "飛龍級彈道速度模組"
+	quest.655BE42CD5BB9D82.title: "神龍級範圍模組"
+	quest.6601ACCDDF6CA5FF.quest_desc: ["反應爐啟動要先存 5 億 RF。 \\n\\n建議裝個通量閘 (Flux Gate) 來限制電量進出。如果存滿了還在灌電，反應爐會熱到爆。這就是所謂的「核災難」。"]
+	quest.6601ACCDDF6CA5FF.title: "啟動準備"
+	quest.6616A62426ED4D15.quest_desc: ["這是反應爐灌電的地方。"]
+	quest.6616A62426ED4D15.title: "能源注入器"
+	quest.69396F87A09FBD85.quest_desc: ["最強的鎬子。挖礦快到你螢幕閃爍。"]
+	quest.69396F87A09FBD85.title: "混沌搞頭"
+	quest.69986817D58AC8BE.quest_desc: ["穩定器用來維持核心的「力場」。如果力場歸零，請準備好跑路。"]
+	quest.69986817D58AC8BE.title: "反應爐穩定器"
+	quest.6B0CD6732BE0E819.quest_desc: ["跳更高。膝蓋不痛。"]
+	quest.6B0CD6732BE0E819.title: "基礎跳躍模組"
+	quest.6B8F2E05429C185F.quest_desc: [
+		"打贏後別急著走！龍死的地方會降下閃電。 \\n\\n往下挖，你會找到混沌碎片塊。挖掉它，你就能拿到 5 顆大碎片。這可是做終局裝備的唯一材料。 "
+		"{image:atm:textures/questpics/draconic/draconic_shard.png width:150 height:100 align:1}"
+	]
+	quest.6B8F2E05429C185F.title: "混沌碎片"
+	quest.6DBD81BA83B1D0A5.quest_desc: ["更多容量、更多電、更多爆肝。"]
+	quest.6DBD81BA83B1D0A5.title: "神龍級儲能球"
+	quest.7081E9BF44EFBCB0.title: "混沌級巨量護盾模組"
+	quest.710C7FEFAA6C0979.quest_desc: ["神龍長劍。每一下揮砍都是金錢的味道。"]
+	quest.710C7FEFAA6C0979.title: "神龍長劍"
+	quest.713D3B3954E58C4A.quest_desc: [
+		"三階核心。要全套龍金塊包住。容量大幅提升。"
+		"{image:atm:textures/questpics/draconic/draconic_core_3off.png width:100 height:100 align:1}"
+		"{image:atm:textures/questpics/draconic/draconic_core_3on.png width:100 height:100 align:1}"
+	]
+	quest.713D3B3954E58C4A.quest_subtitle: "容量：16.4 億 RF"
+	quest.713D3B3954E58C4A.title: "三階能源核心"
+	quest.7143CE930D08F160.quest_desc: ["增加挖掘範圍或是砍怪範圍。一敲爆一片，一揮倒一群。"]
+	quest.7143CE930D08F160.title: "基礎範圍模組"
+	quest.715F9F7107374299.quest_desc: ["傳更多的電。"]
+	quest.715F9F7107374299.title: "飛龍級能源傳輸晶體"
+	quest.731A70C25C2C7281.quest_desc: ["挖掉的東西直接飛進你的終界箱。這才叫真的懶。"]
+	quest.731A70C25C2C7281.title: "終界收集模組"
+	quest.7496B2380A23FDC6.title: "混沌級砍樹模組"
+	quest.74C715F8F24B8BAE.quest_desc: ["能過濾的終界收集。別把石頭也塞進終界箱了。"]
+	quest.74C715F8F24B8BAE.title: "篩選式終界收集模組"
+	quest.75F0405FFAB9C080.quest_desc: ["這是通往混沌級注入器的關鍵。"]
+	quest.75F0405FFAB9C080.title: "混沌核心"
+	quest.76064465104B1C28.title: "神龍級護盾電容量模組"
+	quest.763EB5C911D7E78C.quest_desc: ["第四階：混沌級。這模組包的頂點。所有的反應爐零件通通要在這裡搓出來。"]
+	quest.763EB5C911D7E78C.title: "第四階：混沌級"
+	quest.78FBB0C88182040E.quest_desc: ["穿透攻擊！一箭射穿一整排怪物。"]
+	quest.78FBB0C88182040E.title: "飛龍級彈道穿透模組"
+	quest.79886D63280DBBF3.quest_desc: ["直接燒掉你不想要的廢物。窩不知道你幹嘛要做這種敗家行為，但你要也是可以啦。"]
+	quest.79886D63280DBBF3.title: "精確焚燒模組"
+	quest.79FC674836B6340E.title: "神龍級跳躍模組"
+	quest.7A4ABFCD12202A91.quest_desc: ["這裡的能源叫 OP (Operational Potential)。雖然跟 RF 是一比一，但名字聽起來比較中二。"]
+	quest.7A4ABFCD12202A91.title: "什麼是 OP 能源？"
+	quest.7B9F5EEC76FDD0D4.title: "神龍級傷害模組"
+	quest.7C54581562D2EA75.quest_desc: ["變快！變更快！變超級快！"]
+	quest.7C54581562D2EA75.title: "基礎速度模組"
+	quest.7D159D333B2AC57E.quest_desc: [
+		"萬事具備，只欠東風。點火後請時刻盯著儀錶板。 \\n\\n如果聽到嗶嗶聲，那是警報，快跑！ "
+		"{image:atm:textures/questpics/draconic/draconic_reactor_on_down.png width:200 height:100 align:1}"
+		"{image:atm:textures/questpics/draconic/draconic_reactor_on_up.png width:150 height:150 align:1}"
+	]
+	quest.7D159D333B2AC57E.quest_subtitle: "聽天由命吧..."
+	quest.7D159D333B2AC57E.title: "啟動核反應爐"
+	quest.7D7E4C31DFE59E29.quest_desc: ["增加箭矢傷害。裝滿後，一箭射死凋零怪不是夢。"]
+	quest.7D7E4C31DFE59E29.title: "飛龍級彈道傷害模組"
+	quest.7EB1C1AE52A0027F.title: "混沌級彈道重力補償模組"
+	quest.7EB97C0DDE60DED4.quest_desc: ["全服最強的弓。射出去的不是箭，是憤怒。"]
+	quest.7EB97C0DDE60DED4.title: "混沌長弓"
+	quest.7F757CD6F8C57733.quest_desc: ["能源核心是全 Pack 最強的電力銀行。 \\n\\n一鍵建築功能超級佛心。只要你有材料，核心會自動幫你蓋好。看著一堆塊飛到定位的樣子真的很療癒。"]
+	quest.7F757CD6F8C57733.quest_subtitle: "神龍儲能工程"
+	quest.7F757CD6F8C57733.title: "多方塊能源核心"
+	task.1EFD3D7C04F9682A.title: "ATM 團隊出品"
+	task.2AE8A0F6A6C2D453.title: "ATM 團隊出品"
+	task.61CCAD2018478894.title: "啟動儀式"
+	task.664130FB28E419EF.title: ""
+	task.6EAC5BBFAA0184BC.title: "備戰工作"
+}

@@ -1,0 +1,220 @@
+{
+	quest.00453FF528AA0B1C.quest_desc: ["孤星骷髏是到處都會生的敵對生物。 \\n\\n牠們有 10 顆心，而且會把劍當成迴力鏢往你臉上丟。 \\n\\n打死會掉骨頭、沼澤銀粒、碎劍，還有 Corail 模組加的一堆死人骨頭。"]
+	quest.00453FF528AA0B1C.title: "孤星骷髏"
+	quest.01F322AEFCC6109E.quest_desc: ["糾纏頭顱是從...嗯，糾纏頭顱身上掉的。 \\n\\n你可以把它當成投擲武器，就像凋零怪丟你那樣。丟出去就沒了，省點用。"]
+	quest.02B574B09AB45D09.quest_desc: [
+		"急凍人 (Freezes) 用起來跟烈焰使者很像，牠們會飛起來射你。 \\n\\n只是牠們噴的是冰彈，會讓你冷到發抖。 \\n\\n牠們有 16 顆心，死掉會掉冰凍管。 "
+		"{image:atm:textures/questpics/eternal/starlight_freeze.png width:150 height:100 align:center}"
+	]
+	quest.02B574B09AB45D09.title: "急凍人"
+	quest.03B40AB768FC0161.quest_desc: [
+		"微光河流是你的好朋友。牠們不會主動想淹死你。 \\n\\n通常連接著大海並穿過森林。水裡有很多好貨，記得下去摸一下。"
+		"{image:atm:textures/questpics/eternal/starlight_river.png width:200 height:100 align:center}"
+	]
+	quest.03B40AB768FC0161.title: "微光河流"
+	quest.0576C32B0FB360B0.quest_desc: [
+		"月光巨獸有 200 顆心，而且除非你用火燒，不然每下攻擊都只會扣 1 滴血！這根本是流氓。 \\n\\n牠會地刺、噴射、還會丟爆炸頭。 \\n\\n宰了牠會掉箭、錠、糾纏頭顱、頑強花瓣、受困靈魂，還有機率拿到稀有神兵！"
+		"{image:atm:textures/questpics/eternal/starlight_lunar.png width:100 height:125 align:center}"
+	]
+	quest.0576C32B0FB360B0.title: "月光巨獸"
+	quest.0BB8D556305EB307.quest_desc: [
+		"乙太河流你一看就會認出來。 \\n\\n它亮到閃瞎你的眼。地圖上可能會顯示紅色，那是 Bug 別理它。 "
+		"{image:atm:textures/questpics/eternal/starlight_ether.png width:200 height:100 align:center}"
+	]
+	quest.0BB8D556305EB307.title: "乙太河流"
+	quest.0C096EE635645E43.quest_desc: ["水晶弩是用水晶做的機械弩。 \\n\\n傷害跟普通弩差不多，但它會附加「水晶感染」效果！每秒扣 1 滴血，還會在你身上長出亮晶晶的水晶直到你掛掉。這招真的很卑鄙。"]
+	quest.0F0D41F29386333A.quest_desc: ["緋紅樹有很多種形狀，有些甚至倒在地上裝死。 \\n\\n但共同點就是：葉子全是粉紅色的。這畫面真的很少女心。"]
+	quest.0F4783FA019C4567.quest_desc: ["剝掉榧樹皮就有機率拿到阿瑪琥珀。 \\n\\n可以做裝備或營火。在營火旁邊待著會獲得再生效果，這就是所謂的暖爐 Buff。"]
+	quest.10AB188AC6FB24D3.quest_desc: [
+		"星光魔像有 220 顆心，還有兩種模式。 \\n\\n1. 攻擊模式：這時候牠是無敵的，你要邊躲火球、重壓跟雷射邊等機會。 \\n2. 充電模式：牠會開始吸旁邊能源塊的電。這時候快去把開關關掉，才能揍牠！ \\n\\n死掉會掉一堆錠、魔像鋼、裝飾飾板，還有機率拿到那把超帥的能量劍！"
+		"{image:atm:textures/questpics/eternal/starlight_golem.png width:150 height:100 align:center}"
+	]
+	quest.10AB188AC6FB24D3.title: "星光魔像"
+	quest.127D085D6C9DB690.quest_desc: ["硝石到處都有，但在溫暖海岸群系特別多。 \\n\\n用石鎬就能挖。支援時運！你可以拿這粉末來代替其他的硝石。"]
+	quest.144ECED643031A9A.quest_desc: ["發光蘑菇在緋紅森林裡很大一顆。 \\n\\n用法跟普通蘑菇一樣，只是它自帶手電筒功能。"]
+	quest.15195F456D8AD4C8.quest_desc: ["當乙太碰到水，硫石英就誕生了。這就是魔法版的化學反應。 \\n\\n想拿碎片？去拆那些生長中的硫石英吧。"]
+	quest.1533D98B3B2A758E.quest_desc: ["碎裂之劍是孤星骷髏掉的。 \\n\\n用起來像三叉戟，可以丟出去。按右鍵收回來，再按一次裝填。這操作很有《戰神》的感覺。"]
+	quest.17D82EEA20D02EC8.quest_desc: ["海底全是這種塵土礫石。 \\n\\n偶爾會噴出塵土碎片，可以用來做裝飾方塊。"]
+	quest.17EC65B33AC5F0B4.quest_desc: [
+		"渴求行者是結晶沙漠的居民。 \\n\\n如果你惹毛牠，牠會打到你肚子餓。 \\n\\n有 20 顆心，會掉飢餓之牙。看名字就知道這牙齒不簡單。 "
+		"{image:atm:textures/questpics/eternal/starlight_thirst.png width:100 height:125 align:center}"
+	]
+	quest.17EC65B33AC5F0B4.title: "渴求行者"
+	quest.1815A439BA9879B7.quest_desc: [
+		"溫暖海岸滿無聊的，就是連通大海跟陸地的過渡區。 \\n\\n這裡有很多暮色砂跟硝石。適合在這裡曬日光浴（誤）。"
+		"{image:atm:textures/questpics/eternal/starlight_shore.png width:200 height:100 align:center}"
+	]
+	quest.1815A439BA9879B7.title: "溫暖海岸"
+	quest.1AB17923F87AE264.quest_desc: [
+		"雪怪（Yeti）聽起來很可怕對吧？傳說中會吃人的怪物。 \\n\\n但在這裡，牠們超級可愛！比起吃你，牠們更喜歡在地上打滾。 \\n\\n牠們甚至不會反擊！只有 10 顆心。死掉掉的毛可以當羊毛用。你真的下得了手嗎？"
+		"{image:atm:textures/questpics/eternal/starlight_yeti.png width:100 height:100 align:center}"
+	]
+	quest.1AB17923F87AE264.title: "可愛雪怪"
+	quest.1BE8F864AB9147C0.quest_desc: ["中子石礦躲在地底。不能做裝備，但能做一堆奇形怪狀的燈。"]
+	quest.1ECD4331DDFBBB52.quest_desc: ["榧樹長得很高（40 格！），葉子亂噴，還掛著長長的藤蔓。砍一棵就夠你用很久了。"]
+	quest.252AD9C886DE45C8.quest_desc: [
+		"暮色凝視者是深淵裡的魚。 \\n\\n你動一隻，全家出動！這就是所謂的黑幫魚。如果你游太遠，牠們就會覺得累了回家睡覺。 \\n\\n死掉什麼都不掉，所以別浪費體力跟牠們打架了。"
+		"{image:atm:textures/questpics/eternal/starlight_gaze.png width:150 height:100 align:center}"
+	]
+	quest.252AD9C886DE45C8.title: "暮色凝視者"
+	quest.25E782DB4309A1B8.quest_desc: ["極光鹿的鹿角。既能當劍砍人，也能當鋤頭耕地。雖然用起來有點怪，但很環保。"]
+	quest.271A112ABDD923A6.quest_desc: ["就像原版的紅樹林，但比較好看一點。"]
+	quest.29283BF1B6ED3634.quest_desc: ["機械弩是用魔像鋼做的。 \\n\\n威力比普通弩強多啦！還能附魔來增加更多屬性。這才是工業弩。"]
+	quest.298963543B99734E.quest_desc: ["星光海也有專屬的珊瑚。記得帶絲綢觸摸，別跟我一樣傻傻的用手摳。"]
+	quest.29A1E1FF02BD9219.quest_desc: [
+		"整片森林藍得跟大海一樣。 \\n\\n這是這維度最常見的群系。滿地都是月光樹跟想咬你的怪。"
+		"{image:atm:textures/questpics/eternal/starlight_forest.png width:200 height:100 align:center}"
+	]
+	quest.29A1E1FF02BD9219.title: "星光森林"
+	quest.29EC143D7E0347DE.quest_desc: ["用飢餓之牙做的匕首。 \\n\\n它有「飢餓值」：打怪會加值，放著會掉值。滿了給你 Buff，歸零就開始扣你的血。 \\n\\n這把刀簡直是個傲嬌，餓了就發脾氣。"]
+	quest.2D457E53BB6D63C7.quest_desc: [
+		"最高的山頂森林。 \\n\\n因為太高了所以全是雪跟冰。那些親切的生物好像滿喜歡這種絕對零度的感覺。"
+		"{image:atm:textures/questpics/eternal/starlight_permafrost.png width:200 height:100 align:center}"
+	]
+	quest.2D457E53BB6D63C7.title: "永凍森林"
+	quest.2DA8CE213AC3869B.quest_desc: ["星光水晶到處都是。聽起來脆脆的，用起來跟紫水晶差不多。"]
+	quest.2E29DC243E8AD61E.quest_desc: [
+		"微光草蛉純粹是來增加氣氛的。 \\n\\n牠們什麼都不掉，但在這陰暗的維度裡亮亮的還滿好看的。"
+		"{image:atm:textures/questpics/eternal/starlight_shimmer.png width:150 height:100 align:center}"
+	]
+	quest.2E29DC243E8AD61E.title: "微光草蛉"
+	quest.2F3E7233129F2B89.quest_desc: [
+		"長了角的發光魚。一樣可以煮來吃。 "
+		"{image:atm:textures/questpics/eternal/starlight_fish2.png width:100 height:100 align:center}"
+	]
+	quest.2F3E7233129F2B89.title: "角燈魚"
+	quest.342EEB042DEC2B8C.quest_desc: ["深淵底部有岩漿跟噴泉。 \\n\\n岩漿會幫你保留氧氣（？），噴泉純粹是裝飾。"]
+	quest.362F4CFD1B8B12B1.quest_desc: ["進入乙太河流會像泡岩漿一樣痛。 \\n\\n不過你可以把它裝進桶子裡。想產硫石英？把這玩意兒倒進水裡吧。"]
+	quest.36BCCF7395658A5C.quest_desc: ["這裡的 Boss 沒事不會出來。你得用「尋蹤之眼」來找牠們。 \\n\\n副手拿著特定的材料，右鍵點一下眼睛，它就會帶你去對應的地城。這招叫精準導航。"]
+	quest.36BCCF7395658A5C.title: "Boss 狩獵指南"
+	quest.37355F60E45777FE.quest_desc: ["預言之球是去這維度的門票。打贏守門員就能拿到。記得收好，弄丟了你要再打一次。"]
+	quest.375F0A098589CF29.quest_desc: [
+		"魔像鍛造場藏在地下極深處（負 Y 層）。 \\n\\n裡面全是急凍人、岩漿跟寶藏。我們要找的 Boss 就在最底層的大廳裡。"
+		"{image:atm:textures/questpics/eternal/starlight_golemforge.png width:200 height:100 align:center}"
+	]
+	quest.375F0A098589CF29.title: "魔像鍛造場"
+	quest.3991EEEFDD263A91.quest_desc: [
+		"落暮蜘蛛是到處都會生的敵對怪。 \\n\\n只有 5 顆心，但打到你會讓你「發光」。這在晚上簡直是活靶子。 "
+		"{image:atm:textures/questpics/eternal/starlight_spider.png width:100 height:100 align:center}"
+	]
+	quest.3991EEEFDD263A91.title: "落暮蜘蛛"
+	quest.3C74DAE7EC844A98.quest_desc: ["月光漿果是這維度最好的零食。 \\n\\n長在葉子下面，像摘葡萄一樣點一下就好。飽食度跟飽和度都非常驚人。"]
+	quest.3CAD0701EC16C2D8.quest_desc: [
+		"到處都是泥巴跟奇怪的動植物。 \\n\\n雖然看起來很髒，但這裡藏了很多寶藏。"
+		"{image:atm:textures/questpics/eternal/starlight_swamp.png width:200 height:100 align:center}"
+	]
+	quest.3CAD0701EC16C2D8.title: "黑暗沼澤"
+	quest.3D26E7BFE0AA964A.quest_desc: [
+		"發光魚躲在深淵裡。 \\n\\n用法跟普通魚一樣。能釣、能裝桶、還能煮。這就是所謂的「螢光生魚片」。"
+		"{image:atm:textures/questpics/eternal/starlight_fish1.png width:100 height:100 align:center}"
+	]
+	quest.3D26E7BFE0AA964A.title: "發光魚"
+	quest.3D4032E7119AF8B7.quest_desc: ["聲納炸彈會震碎對方的耳膜。 \\n\\n超大範圍傷害，還會震動對方的螢幕。強烈建議對著你的隊友丟（大誤）。"]
+	quest.40786B63E2901D11.quest_desc: [
+		"詛咒花園...說白了就是個超巨大的迷宮！ \\n\\n四面都有入口，你得一路殺到中間去揍那隻月光巨獸。 \\n\\n迷宮裡全是寶箱跟討厭的怪，祝你別迷路了。"
+		"{image:atm:textures/questpics/eternal/starlight_maze.png width:150 height:150 align:center}"
+	]
+	quest.40786B63E2901D11.title: "詛咒花園"
+	quest.40C776497D68367F.quest_desc: ["藤蔓、晶苔地毯、漿果、洞穴苔蘚。 \\n\\n副手拿這些東西去問眼睛，它就會帶你去詛咒花園。"]
+	quest.40C776497D68367F.title: "巨獸追蹤材料"
+	quest.4147D247E4D754D0.quest_desc: [
+		"小水蛭會瘋狂吸你的血。 \\n\\n雖然只有 4 顆心，但成群結隊湧上來真的很煩。死掉掉的蛋可以拿來當投擲武器。 "
+		"{image:atm:textures/questpics/eternal/starlight_gleech.png width:100 height:100 align:center}"
+	]
+	quest.4147D247E4D754D0.title: "小水蛭"
+	quest.41C70F0873E14307.quest_desc: ["沙漠裡曾經有樹... 現在只剩下枯木了。"]
+	quest.429785E8F64929CE.quest_desc: ["想進去？先去 Overworld 找傳送門遺蹟。 \\n\\n那邊有個守門員等著跟你單挑。打贏了拿預言之球點傳送門。發車囉！"]
+	quest.429785E8F64929CE.title: "守門員與傳送門"
+	quest.47CB136D7764B86D.quest_desc: ["掛在樹上的電燈泡。不但會亮，看起來還很有設計感。"]
+	quest.484ABFF266C8791E.quest_desc: ["海底的植物。長到水面後會開花發光。這就是天然的路燈。"]
+	quest.49D1EA8E812A12F6.quest_desc: ["這植物長得像熱狗（誤）。 \\n\\n你需要用沼澤銀鐮刀才能採集。窩不知道你採這幹嘛，可能你想在家門口種一排熱狗。"]
+	quest.49DC0BD7DC1B893C.quest_desc: [
+		"深達 Y-50 的海溝。 \\n\\n這裡有很多彩色石頭、苔蘚跟奇特的魚。深海恐懼症患者請注意。"
+		"{image:atm:textures/questpics/eternal/starlight_abyss.png width:200 height:100 align:center}"
+	]
+	quest.49DC0BD7DC1B893C.title: "深淵海溝"
+	quest.4A54288FD22C903D.quest_desc: ["深淵裡的苔蘚球。綠色的可以吃（或是當成史萊姆球），紅色的會長出漂亮花朵。"]
+	quest.4A5EA948F5DCEB73.quest_desc: ["躲在泥巴裡的銀礦。可以用來做基礎裝備。"]
+	quest.4C23D7E3DC8327C2.quest_desc: ["想殺月光巨獸？用火燒牠！ \\n\\n打火石或是硝石火柴盒通通拿出來。這傢伙怕火怕得要死。"]
+	quest.4C23D7E3DC8327C2.title: "給牠點火！"
+	quest.4D0B50731FED3CEE.quest_desc: ["新月長槍可以用來衝刺。 \\n\\n按住右鍵把自己發射出去！撞到怪還會產生範圍傷害。這就是所謂的「人肉砲彈」。"]
+	quest.4D4DE266A2A325B0.quest_desc: ["紅石、魔像鋼。 \\n\\n副手拿這些東西去問眼睛，它就會帶你去地下的魔像鍛造場。"]
+	quest.4D4DE266A2A325B0.title: "魔像追蹤材料"
+	quest.4D53D9BBD8279282.quest_desc: ["月光樹會根據空間自動調整大小。這求生慾真的很強。"]
+	quest.4D8C9960BB675221.quest_desc: ["這名字聽起來就很有戲。"]
+	quest.4DBC3B4D38CC6152.quest_desc: [
+		"躲在沙漠地下的蛾。 \\n\\n沒事別惹牠，傷害超高！打死會掉水晶或凝膠。 "
+		"{image:atm:textures/questpics/eternal/starlight_moth.png width:125 height:100 align:center}"
+	]
+	quest.4DBC3B4D38CC6152.title: "結晶蛾"
+	quest.50674FE3C6BE9990.quest_desc: [
+		"就是樹更多的森林。容易迷路，怪也更多。"
+		"{image:atm:textures/questpics/eternal/starlight_dense.png width:200 height:100 align:center}"
+	]
+	quest.50674FE3C6BE9990.title: "茂密星光森林"
+	quest.516AC1F0E0BCAE55.quest_desc: ["把冰丟在人家臉上。冷冷的，很貼心。"]
+	quest.5244B2D6B5FA0487.quest_desc: [
+		"紫色的沙漠。滿地都是巨大的水晶。這絕對不是一般的沙漠。"
+		"{image:atm:textures/questpics/eternal/starlight_desert.png width:200 height:100 align:center}"
+	]
+	quest.5244B2D6B5FA0487.title: "結晶沙漠"
+	quest.5424A0E1292B13EE.quest_desc: ["溫暖的水池。裡面可以挖到溫泉石。適合在裡面泡個溫泉。"]
+	quest.5466CB622A637DCD.quest_desc: ["長在河裡的熱狗（誤，是果實）。可以吃。"]
+	quest.54DE8AAAE2181F18.quest_desc: ["兩隻 Boss 的掉落物合成的神劍。 \\n\\n可以防禦、傷害爆表。這是你統治這維度的證明。"]
+	quest.5DFE3CB5B0130A7A.quest_desc: ["河面上有很多浮萍，站上去不會掉下去。"]
+	quest.60FDCA2FDFE74056.quest_desc: [
+		"粉紅色的森林！超級漂亮。這裡還有會發光的蘑菇喔。"
+		"{image:atm:textures/questpics/eternal/starlight_scarlet.png width:200 height:100 align:center}"
+	]
+	quest.60FDCA2FDFE74056.title: "緋紅森林"
+	quest.62F33BBE7BDFE404.quest_desc: ["瞬移杖。按住右鍵選地方，放開就飛過去。 \\n\\n有距離限制跟冷卻時間，別想著用它飛出地球。"]
+	quest.6314B892B569A0A5.quest_desc: ["一個永恆黃昏的維度。 \\n\\n這裡沒有白天，只有美麗的藍色光芒。Can you feel the love tonight?"]
+	quest.6314B892B569A0A5.title: "永恆星光 (Eternal Starlight)"
+	quest.63362CC33B39C627.quest_desc: [
+		"大海裡藏了很多祕密。記得戴上護目鏡跟蛙鞋再下去。"
+		"{image:atm:textures/questpics/eternal/starlight_starlitsea.png width:200 height:100 align:center}"
+	]
+	quest.63362CC33B39C627.title: "星光海"
+	quest.636848ED1115A0B3.quest_desc: [
+		"可愛的小老鼠。可以用苔蘚來繁殖。 \\n\\n死掉掉的肉可以煮來吃...雖然吃老鼠肉聽起來有點辛酸。"
+		"{image:atm:textures/questpics/eternal/starlight_rat.png width:100 height:100 align:center}"
+	]
+	quest.636848ED1115A0B3.title: "小耗子 (Ratlins)"
+	quest.68B2D3B985FC1378.quest_desc: [
+		"長滿了巨大的榧樹。畫面非常優雅。"
+		"{image:atm:textures/questpics/eternal/starlight_torreya.png width:200 height:100 align:center}"
+	]
+	quest.68B2D3B985FC1378.title: "榧樹森林"
+	quest.6B00D5DBB3552F15.quest_desc: [
+		"迷宮裡的守衛。被打到會中毒。 \\n\\n死掉會生出糾纏頭顱像煩人精一樣追著你咬。 "
+		"{image:atm:textures/questpics/eternal/starlight_tangled.png width:150 height:100 align:center}"
+	]
+	quest.6B00D5DBB3552F15.title: "糾纏者"
+	quest.6E970CF05B96EB20.quest_desc: ["魔像充電時，快去點那個發藍光的能源塊！ \\n\\n角落有兩顆，頭頂有兩顆。全都關掉後魔像就會進入「虛弱狀態」讓你白揍。"]
+	quest.6E970CF05B96EB20.title: "斷牠的電！"
+	quest.6EC289857CDC4969.quest_desc: [
+		"會走路的小樹苗。可以用漿果來繁殖。 \\n\\n真的狠心殺牠們嗎？牠們會掉木棍跟葉子喔。"
+		"{image:atm:textures/questpics/eternal/starlight_ent.png width:100 height:100 align:center}"
+	]
+	quest.6EC289857CDC4969.title: "樹精 (Ents)"
+	quest.70A82A5D17D558FB.quest_desc: ["能量劍。按右鍵發動衝鋒斬！ \\n\\n帥度 100 分，傷害 100 分。你就是星光界的劍豪。"]
+	quest.713548E540B18E07.quest_desc: ["月光長弓。射箭會順便召喚地刺。這就是所謂的物理與魔法雙重打擊。"]
+	quest.713EF442D59501BA.quest_desc: ["靈魂鉤鎖。 Tap 右鍵射出，再點一次收回。 \\n\\n這不只是趕路神器，還是做 ATM 之星的原料！快去搓一個。"]
+	quest.71C58666D4BC2508.quest_desc: ["點火用的。沒啥好說。"]
+	quest.770C0975CA61CE46.quest_desc: ["永凍森林的特產。做的裝備可以防凍傷。"]
+	quest.7A16D2EB63359294.quest_desc: [
+		"長得像鹿但有發光條紋。 \\n\\n鹿角可以拿來當武器或鋤頭。死掉會掉好吃的鹿肉。 "
+		"{image:atm:textures/questpics/eternal/starlight_deer.png width:200 height:100 align:center}"
+	]
+	quest.7A16D2EB63359294.title: "極光鹿"
+	quest.7AB2FECE47F558F8.quest_desc: ["這石頭的熔岩版踩上去會痛喔。"]
+	quest.7B5D34650BBD97D9.quest_desc: ["流星雨！ \\n\\n有些大顆的會留下來變礦石。這是這維度最稀有的金屬。"]
+	quest.7D7BD1458CF12021.quest_desc: ["仙人掌果實。吃起來酸酸甜甜的（大概啦）。"]
+	quest.7E90138B0A2C3210.quest_desc: ["長得像白化版的冷杉。非常耐寒。"]
+	quest.7FBB431AC055FE93.quest_desc: ["靈魂監視器。丟出去後你可以透過它的眼睛看世界。 \\n\\n可以用來偵查地城或偷看隊友。不能提前收回，請注意。"]
+	quest.7FF77463F2A0E210.quest_desc: ["沼澤裡的泥巴。可以做成各種漂亮的磚塊。"]
+	task.0AD8AC7ECCD8002A.title: "不準偷拿 (版權所有)"
+	task.2510A7EE5D886B63.title: "不準偷拿 (版權所有)"
+	task.452736994864F623.title: "造訪微光河流"
+	task.67690077D4273A36.title: "造訪星光維度"
+}

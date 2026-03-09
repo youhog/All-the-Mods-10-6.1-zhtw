@@ -1,0 +1,93 @@
+{
+	quest.04D0543FE2820F64.quest_desc: ["亞麻線可以代替普通線。"]
+	quest.04D0543FE2820F64.quest_subtitle: "誰還在殺蜘蛛啊？"
+	quest.04D0543FE2820F64.title: "亞麻線"
+	quest.0893EFCAC7031FEA.quest_desc: ["如果你湊齊了牛奶跟蛋，那就來烤個蛋糕吧。"]
+	quest.0893EFCAC7031FEA.quest_subtitle: "我要吃蛋糕！"
+	quest.0A1C2A7A8617D3E4.quest_subtitle: "速通玩家的最愛"
+	quest.0A1C2A7A8617D3E4.title: "小麥"
+	quest.0A64D0937A5F7513.title: "黃金釣竿"
+	quest.0EFF1AA37772156B.quest_desc: ["這個方塊幫你的廚房提供水源。 \\n\\n它也能當成無限水池，用管子瘋狂抽水吧。"]
+	quest.0EFF1AA37772156B.quest_subtitle: "一格搞定！"
+	quest.0EFF1AA37772156B.title: "水槽 = 無限水"
+	quest.13AFCD3B6F62B986.quest_desc: ["解鎖冰塊跟雪的食譜！"]
+	quest.13AFCD3B6F62B986.quest_subtitle: "急凍廚房"
+	quest.13AFCD3B6F62B986.title: "製冰升級"
+	quest.1515B32545F51266.quest_desc: ["幫你的爐子接上電。這才叫電子炊具。"]
+	quest.1515B32545F51266.title: "加熱升級"
+	quest.1697CC05D08B388D.quest_subtitle: "好香的炸雞！"
+	quest.1697CC05D08B388D.title: "雞雞快逃"
+	quest.16D0F1E3CEB60ABF.title: "鐵製釣竿"
+	quest.1827DEEA2DF1B144.quest_desc: ["歡迎來到美食與農耕章節！ \\n\\n這裡教你怎麼種出好東西、煮出人間美味。"]
+	quest.1827DEEA2DF1B144.title: "美食與農耕"
+	quest.18EADBAFC932F864.quest_desc: ["剪羊毛要用剪刀。這很基本，除非你想手撕羊毛。"]
+	quest.18EADBAFC932F864.quest_subtitle: "和平主義者模式"
+	quest.18EADBAFC932F864.title: "剪毛時間"
+	quest.1D2EF12FD7FDD217.quest_desc: ["母雞會生蛋。窩不確定牠們有沒有在做運動，但牠們生蛋的速度真的很拼。"]
+	quest.1D2EF12FD7FDD217.quest_subtitle: "那是運動（Eggs-ercise）嗎？"
+	quest.1D2EF12FD7FDD217.title: "窩不打算開雞蛋梗"
+	quest.1D48298525EEADC9.quest_desc: ["你應該已經湊齊所有材料了。"]
+	quest.1D48298525EEADC9.quest_subtitle: "幫窩加點糖！"
+	quest.1D48298525EEADC9.title: "你好甜喔"
+	quest.1DCAA0310AA55F1C.quest_desc: ["反正他下午五點就關門了，誰理他？"]
+	quest.1DCAA0310AA55F1C.quest_subtitle: "釣魚大師的傳承"
+	quest.1DCAA0310AA55F1C.title: "釣魚人生啟動"
+	quest.1F114EB0AAB86DB4.quest_desc: ["市集方塊提供一個專屬村民。只要有綠寶石，他什麼種子都賣。 \\n\\n劇透：大部分東西都只要 1 顆綠寶石。他簡直是 10 元商店的老闆。"]
+	quest.1F114EB0AAB86DB4.quest_subtitle: "村民的生法有很多種"
+	quest.1F114EB0AAB86DB4.title: "購買農場物資"
+	quest.2786D5AC19163524.quest_desc: ["這個方塊幫你的廚房開啟熔煉功能！"]
+	quest.2786D5AC19163524.quest_subtitle: "不用計時器"
+	quest.2786D5AC19163524.title: "親愛的，廚房裡有熔爐耶"
+	quest.28C9EDBF6607E180.quest_desc: ["這是廚房的心臟。 \\n\\n它會顯示你身上或箱子裡所有的食材能做出什麼菜。 \\n\\n你終於可以在 Minecraft 裡蓋一個像樣的廚房了。"]
+	quest.28C9EDBF6607E180.quest_subtitle: "吐司比某人還老 (國外梗)"
+	quest.28C9EDBF6607E180.title: "這才是真正的廚房"
+	quest.2E9C035EEE7E5C34.quest_desc: ["經典的栓繩。把動物拖回家吧。 \\n\\n這跟鉛礦不是同一種東西喔。"]
+	quest.2E9C035EEE7E5C34.quest_subtitle: "老派作風"
+	quest.2E9C035EEE7E5C34.title: "牛仔式放牧"
+	quest.361DFDB1E1352D6B.quest_desc: ["去水邊找點甘蔗吧。"]
+	quest.361DFDB1E1352D6B.title: "甜滋滋甘蔗"
+	quest.37CA6F9F0226F10E.quest_desc: ["這個方塊用來存食材。 \\n\\n你還能把烤麵包機或罐裝乳牛擺在上面。"]
+	quest.37CA6F9F0226F10E.quest_subtitle: "窩需要更大的料理空間"
+	quest.37CA6F9F0226F10E.title: "空間不夠嗎？"
+	quest.3EA883C0BB7BD38F.quest_desc: ["收集點羊毛吧！"]
+	quest.3EA883C0BB7BD38F.quest_subtitle: "這隻羊...是彩虹色的？"
+	quest.3EA883C0BB7BD38F.title: "瑪莉有隻小羔羊"
+	quest.43021923E220CF68.quest_desc: ["耕地要用鋤頭。"]
+	quest.43021923E220CF68.quest_subtitle: "等你有機器就不會想用這玩意兒了"
+	quest.43021923E220CF68.title: "播種者"
+	quest.45F83C2750F70F9B.quest_desc: ["去把書放進熔爐裡燒。別問為什麼，這是魔法化學。"]
+	quest.45F83C2750F70F9B.quest_subtitle: "絕對不會起火喔..."
+	quest.45F83C2750F70F9B.title: "拿書蓋廚房"
+	quest.47764EFC822E462A.quest_desc: ["這東西會自動產奶。 \\n\\n想把牛塞進去？在地上挖個坑放罐子，引誘牛掉進去，然後拿鐵砧砸牠！ \\n\\n雖然這畫面很殘暴，但這玻璃強到不講道理。"]
+	quest.47764EFC822E462A.quest_subtitle: "微型擠乳器...超擠的"
+	quest.47764EFC822E462A.title: "罐裝乳牛 (鮮乳工廠)"
+	quest.511562EA5811306B.title: "鑽石釣竿"
+	quest.56550CD12C681B0F.quest_desc: ["亞麻種子在草地裡就能翻到。前期缺線的話，種亞麻絕對比殺蜘蛛快。"]
+	quest.56550CD12C681B0F.quest_subtitle: "亞麻，進，亞麻，出"
+	quest.58495CFBF4F20CE9.quest_desc: ["這就是吊掛式的櫃子。掛在半空中省空間。"]
+	quest.58495CFBF4F20CE9.quest_subtitle: "空間管理大師"
+	quest.58495CFBF4F20CE9.title: "更多儲存格"
+	quest.58D5BD3106BFD94A.quest_desc: ["升級你的食譜書。保證超值！ \\n\\n窩還會退你一顆鑽石喔。"]
+	quest.58D5BD3106BFD94A.quest_subtitle: "這絕對值得"
+	quest.58D5BD3106BFD94A.title: "鑽石級大廚"
+	quest.5A1DCD6C7F712A78.title: "海王釣竿"
+	quest.635620A03E3505BF.quest_desc: ["窩不想問你這皮革是怎麼來的。"]
+	quest.635620A03E3505BF.quest_subtitle: "牛明明就不能剪..."
+	quest.635620A03E3505BF.title: "皮革"
+	quest.659A903F97F93BE2.quest_subtitle: "簡單明瞭"
+	quest.659A903F97F93BE2.title: "生命之糧"
+	quest.72717D1135486D7F.quest_desc: ["去草叢裡瘋狂亂抓。"]
+	quest.72717D1135486D7F.quest_subtitle: "拳頭 1 分，雜草 0 分"
+	quest.72717D1135486D7F.title: "手撕雜草"
+	quest.73B8A70240E6070E.quest_desc: ["對著牛點右鍵拿奶。 \\n\\n說真的，為什麼這遊戲沒有公牛？"]
+	quest.73B8A70240E6070E.quest_subtitle: "為什麼沒有公牛？"
+	quest.73B8A70240E6070E.title: "專業擠奶員"
+	quest.791AE62ACACBD5BA.quest_subtitle: "你只是因為無聊才一直開冰箱吧"
+	task.1D8904E53906D972.title: "不準偷拿 (版權所有)"
+	task.2725700B5EA1CD75.title: "剪刀"
+	task.323A434E1AF54408.title: "鋤頭"
+	task.5805158E69C05AED.title: "不準偷拿 (版權所有)"
+	task.669DEA201002793D.title: "冰箱"
+	task.78D7794707E4BD83.title: "作物"
+	task.7F08D4E77359BF4A.title: "羊毛"
+}

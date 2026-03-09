@@ -1,0 +1,58 @@
+{
+	quest.08B60D8A25008CCC.quest_desc: ["這任務是由 &6ATM 員工&r 或某個 &2爆肝網友&r 寫的。如果你看得到這行，代表你現在正在窺視開發者的內心世界（編輯模式）。"]
+	quest.08D1CC753F6B4283.quest_desc: ["遠古守衛者是海底遺跡的 Boss。一共有三隻，會讓你挖礦變超慢。 \\n\\n殺了牠們，你才能安心拿走遺跡裡的寶藏。 \\n\\n牠們血很厚，還會用雷射射你。死掉會掉海綿跟牠們的午餐肉。"]
+	quest.08D1CC753F6B4283.title: "擊殺 &b遠古守衛者"
+	quest.09C82CDDA800D8C9.quest_desc: ["凋零怪是你要手動召喚的 Boss。 \\n\\n用靈魂砂擺成 T 字，上面插三顆凋零頭。牠有 300 顆心，還會瘋狂炸你家。 \\n\\n殺了牠會掉下界之星，這是做很多高級機器的燃料。"]
+	quest.09C82CDDA800D8C9.title: "擊殺 &0凋零怪"
+	quest.0E20A9B79D1C6637.quest_desc: ["這傢伙是目前最猛的 Boss。 500 顆心、一拳 20 顆心傷害。 \\n\\n牠雖然瞎但耳朵超靈。如果你不想被音波震死，記得蹲著走。 \\n\\n殺了牠會掉深淵之心，這是去異界的門票。"]
+	quest.0E20A9B79D1C6637.title: "擊殺 &9&l監守者 (Warden)"
+	quest.0F55D0B4D5094EDB.quest_desc: ["「這傢伙每次都在窩解任務的時候推窩，煩死了。帶走牠，連牠那兩隻愛亂吐口水的駱馬也一起帶走。」 \\n\\n- 阿福 (AlfredGG) 敬上"]
+	quest.0F55D0B4D5094EDB.quest_subtitle: "這是私人恩怨"
+	quest.0F55D0B4D5094EDB.title: "宰了那個擋路的流浪商人"
+	quest.13BB75A7E1973488.quest_desc: ["永恆星光維度的第一個 Boss。住在詛咒花園裡。祝你好運。"]
+	quest.13BB75A7E1973488.title: "擊殺 &b月光巨獸"
+	quest.17F3AC15ADCFB175.title: "&l&9終界懸賞：&r&e 終界使者"
+	quest.199932BF623A6785.quest_desc: ["Undergarden 的大 Boss。躲在地下迷宮裡。"]
+	quest.199932BF623A6785.title: "擊殺 &a被遺忘的守護者"
+	quest.1F18B64C84C8809D.title: "&l&9主世界懸賞：&r&e 蜘蛛"
+	quest.1F31EBF49079F9D3.quest_desc: ["這模組增加了一堆苦力怕變種。有些很友善，有些會把你炸到飛天。但不管哪種，看到貓都會怕。"]
+	quest.1F31EBF49079F9D3.title: "苦力怕大改版"
+	quest.2001998045ABC04C.quest_desc: ["月光巨獸身邊的小弟。雖然是小 Boss 但也很煩人。"]
+	quest.2001998045ABC04C.title: "擊殺 &d糾纏之恨"
+	quest.2B05A29C62676EB2.title: "&l&9主世界懸賞：&r&e 殭屍"
+	quest.2BD077EFE77B8EBB.quest_desc: ["殭屍現在會根據群系換裝。沙漠有屍殼，水底有溺屍，雪山有凍屍。穿得越帥打人越痛。"]
+	quest.2BD077EFE77B8EBB.title: "殭屍變種"
+	quest.2CA9394459C24012.quest_desc: ["Undergarden 到處都是這種腐爛的小 Boss。"]
+	quest.2CA9394459C24012.title: "擊殺 &c腐朽獸"
+	quest.3371F9248D403664.title: "&l&c地獄懸賞：&r&e 凋零骷髏"
+	quest.3813F5C1760C3A79.quest_desc: ["這傢伙雖然不是 Boss，但牠拿著金斧頭劈人的樣子比 Boss 還可怕。 \\n\\n而且殺了牠什麼都不會掉，純粹是來噁心你的。"]
+	quest.3813F5C1760C3A79.title: "擊殺 &6豬布林蠻兵"
+	quest.41C0948CD9D50322.quest_desc: ["想當個賞金獵人嗎？殺怪換獎勵，這就是正義！"]
+	quest.41C0948CD9D50322.quest_subtitle: "殺光所有的東西"
+	quest.41C0948CD9D50322.title: "懸賞板"
+	quest.42822B1E8A53D051.title: "&l&9主世界懸賞：&r&e 骷髏"
+	quest.56DA46DC82F6665D.quest_desc: ["Ars Nouveau 的 Boss。要透過儀式召喚。這傢伙會用各種魔法搞你，小心頭髮別被燒焦了。"]
+	quest.56DA46DC82F6665D.title: "擊殺 &a荒野奇美拉"
+	quest.570223A03231DF8C.quest_desc: ["小黑也改版了！現在牠們會瞬移到你背後說悄悄話（大誤）。每個群系都有不同的變種跟掉落物。"]
+	quest.570223A03231DF8C.title: "終界使者大改版"
+	quest.5AC497F76A086A5C.title: "&l&9主世界懸賞：&r&e 女巫"
+	quest.6141DE779232C8AA.title: "&l&c地獄懸賞：&r&e 烈焰使者"
+	quest.6827836C8E675A94.quest_desc: ["骷髏現在也會看地點換裝。雪山有流浪者，沼澤有泥沼骷髏。射箭的準度倒是都一樣爛。"]
+	quest.6827836C8E675A94.title: "骷髏變種"
+	quest.6DCDD55786025911.quest_desc: ["永恆星光的二號 Boss。躲在鍛造場裡等你來送命。"]
+	quest.6DCDD55786025911.title: "擊殺 &6星光魔像"
+	quest.728BE1816DA23DC0.quest_desc: ["終界的老大。記得先拆塔上的水晶，不然牠會一直回血。 \\n\\n殺了牠，你就能拿到龍皮、龍鱗跟一堆經驗值。還有那一顆沒啥屁用的龍蛋。"]
+	quest.728BE1816DA23DC0.title: "擊殺 &d終界龍"
+	quest.734411D931A8CDBF.quest_desc: ["劫掠發生的時候會出來撞門的巨獸。可以用遠程武器慢慢磨死牠。"]
+	quest.734411D931A8CDBF.title: "擊殺 &7劫掠獸"
+	quest.77FC692AC94D2EEF.title: "&l&9主世界懸賞：&r&e 苦力怕"
+	task.00CBF98DE4E9CC90.title: "不準偷拿 (版權所有)"
+	task.171FD27057746E80.title: "宰了 1 隻凋零怪"
+	task.1809F1F9A3043683.title: "宰了 1 隻終界龍"
+	task.1D136D138EF82DA9.title: "宰了 2 隻煩人的駱馬"
+	task.2F28B803C75DA3B2.title: "宰了 1 隻遠古守衛者"
+	task.452B65E139D9E12D.title: "宰了 1 隻奇美拉"
+	task.596ABB45C0612AAF.title: "宰了那個流浪商人"
+	task.65E53C9C5AE98B69.title: "不準偷拿 (版權所有)"
+	task.69678CAC075C8EA5.title: "宰了那個瞎子監守者"
+}

@@ -1,0 +1,81 @@
+{
+	quest.05E668CE6687AC64.quest_desc: ["&b喜悅符記&r 是你第一顆要搓出來的石頭。 \\n\\n符記是 &a自然靈氣&r 模組的核心材料，沒它你啥都做不出來。"]
+	quest.05E668CE6687AC64.title: "&b喜悅符記"
+	quest.0B6D35F5B3A11FD2.quest_desc: ["&9靈氣存儲器&r 就像是個行動電源，幫你把空氣中的靈氣存起來。"]
+	quest.0B6D35F5B3A11FD2.quest_subtitle: "儲蓄是種美德"
+	quest.0B6D35F5B3A11FD2.title: "&9靈氣存儲器"
+	quest.0EFD0A4AE82153E8.quest_desc: ["你還需要做一堆其他的符記。雖然很煩，但為了魔法，忍一下。"]
+	quest.0EFD0A4AE82153E8.title: "其他的符記"
+	quest.0FD26FD88E801C0E.quest_desc: ["&2生命祭壇&r 可以幫你「生怪」。 \\n\\n把動物帶到靈氣爆表的地方愛愛，你就能拿到 &d生命之魂&r。這畫面真的很魔法（誤）。"]
+	quest.0FD26FD88E801C0E.quest_subtitle: "魔法催生員"
+	quest.0FD26FD88E801C0E.title: "&2生命祭壇"
+	quest.12D3C7FC4B3DAB23.quest_desc: ["&b環境之眼&r 幫你監控空氣品質...我是說靈氣濃度。 \\n\\n戴在飾品欄，螢幕左上角就會出現進度條。如果靈氣歸零，代表你這環保小尖兵不及格喔。"]
+	quest.12D3C7FC4B3DAB23.quest_subtitle: "隨時監控環境"
+	quest.1ABEC7DE47BD6286.quest_desc: ["&5終界儲物箱&r 就是移動式的終界箱。 \\n\\n&5終界透鏡&r 則是隨身版。讓你走到哪都能領包裹。"]
+	quest.1ABEC7DE47BD6286.quest_subtitle: "物流瞬移！"
+	quest.1ABEC7DE47BD6286.title: "&5終界箱與透鏡"
+	quest.1D39634260A47C9A.quest_desc: ["把 &2注魔鐵&r 或 &6汙染金&r 拿去祭壇供奉，你就能得到 &b天空錠&r。聽名字就知道跑很快。"]
+	quest.1D39634260A47C9A.title: "&b天空錠"
+	quest.20F9EF925DB1CE05.quest_desc: [
+		"&2自然祭壇&r 是一個由木板、石磚跟 &e金石磚&r 組成的多方塊結構。 \\n\\n它是做這模組大部分材料的必備機器。它會瘋狂消耗周圍的靈氣，所以記得多種點樹。蓋法看右邊的預覽圖。"
+		"{image:atm:textures/questpics/natures_aura/natural_altar.png width:200 height:150 align:center}"
+	]
+	quest.20F9EF925DB1CE05.title: "&2自然祭壇"
+	quest.22ADCF96AE3E609B.quest_desc: ["&d古老樹苗&r 要透過森林儀式來做。 \\n\\n這種樹會自動幫你調節靈氣平衡。如果靈氣太少，葉子就會慢慢爛掉變回靈氣。這就是大自然的回收機制。"]
+	quest.22ADCF96AE3E609B.quest_subtitle: "不是真的老樹啦"
+	quest.22ADCF96AE3E609B.title: "古老之樹"
+	quest.24599D45F5D1606E.quest_desc: ["&b靈氣寶庫&r 是加強版的存儲器。容量更大，更持久。"]
+	quest.24599D45F5D1606E.quest_subtitle: "寶藏庫！"
+	quest.24599D45F5D1606E.title: "&b靈氣寶庫"
+	quest.2B4D4E741D855B5A.quest_desc: ["結合天空錠、汙染金跟獄髓碎片... 蹦！&d深淵錠&r 出爐。這這材料感覺就很邪惡。"]
+	quest.2B4D4E741D855B5A.title: "&d深淵錠"
+	quest.34ABEF75AE1E5A0F.quest_desc: ["古老知識法杖會幫你標記附近的 &5獄髓殘骸&r。 \\n\\n終於不用再盲挖了，這法杖簡直是礦工的救星。"]
+	quest.34ABEF75AE1E5A0F.quest_subtitle: "獄髓探測器"
+	quest.3C2F5AB815A6C949.quest_desc: ["把鐵錠丟進 &2自然祭壇&r。 \\n\\n這過程很快，一轉眼就變成了充滿生命力的鐵錠。"]
+	quest.3EC90ADA4E322B14.quest_desc: ["把金錠丟進祭壇。 \\n\\n這過程比鐵慢很多，可能金子比較嬌貴吧。"]
+	quest.3EC90ADA4E322B14.quest_subtitle: "汙染那塊金子！"
+	quest.3EC90ADA4E322B14.title: "&6汙染金錠"
+	quest.3F8A5CBEAE024748.quest_desc: ["掠奪者之眼、烈焰之眼、潛影之眼... 通通都是用來定位地城的。 \\n\\n戴上它，你就是地城獵人。"]
+	quest.3F8A5CBEAE024748.quest_subtitle: "窩盯著你喔"
+	quest.3F8A5CBEAE024748.title: "結構導航儀"
+	quest.497AE687B7E95DE8.quest_desc: [
+		"&a森林儀式&r 需要 8 個木製架子、16 個 &e金粉&r 還有一棵樹苗。 \\n\\n把材料擺在架子上，在中間種樹。樹長大的那一瞬間，儀式就完成了。 \\n\\n這過程超耗金粉，記得多備幾組。"
+		"{image:atm:textures/questpics/natures_aura/forest_ritual.png width:295 height:150 align:center}"
+	]
+	quest.497AE687B7E95DE8.title: "&a森林儀式"
+	quest.4AD4FDF70B9BFCC9.quest_desc: ["把符記拿去供奉，就能升級成更高階的。這就是所謂的「進階材料」。"]
+	quest.4AD4FDF70B9BFCC9.title: "升級符記"
+	quest.4F03B152479C4AC0.quest_desc: ["&b財富法杖&r 能透視附近所有的箱子！ \\n\\n找寶藏、找隊友藏起來的私房錢（誤）都超好用。有效範圍 64 格。"]
+	quest.4F03B152479C4AC0.title: "&b財富法杖"
+	quest.4F9D6109EEA5D26A.quest_desc: ["敲掉 &e黃金葉子&r 有機率掉黃金葉。這是做金粉的唯一來源。 \\n\\n金粉在儀式裡消耗量極大，建議蓋個自動農場。"]
+	quest.4F9D6109EEA5D26A.quest_subtitle: "靈氣與螢火蟲"
+	quest.4F9D6109EEA5D26A.title: "&e黃金葉"
+	quest.54F7AD64A403C9BF.quest_desc: ["這些催化劑可以插在祭壇旁邊的柱子上提供 Buff。 \\n\\n「粉碎催化劑」能讓 1 片葉子變 4 份金粉，CP 值直接翻倍！"]
+	quest.54F7AD64A403C9BF.title: "祭壇催化劑"
+	quest.5A011CE8EEA3F9D8.quest_desc: [
+		"靈氣是可以裝進瓶子裡的！ \\n\\n右鍵點一下空氣就好。不同維度有不同的型態： \\n- 主世界：&a陽光&r。 \\n- 地獄：&4靈魂&r。 \\n- 終界：&0黑暗&r。 \\n\\n如果那地方沒靈氣，你會裝到一瓶 &0真空&r。這名字聽起來就很空虛。"
+	]
+	quest.5A011CE8EEA3F9D8.quest_subtitle: "瓶裝大自然"
+	quest.5A011CE8EEA3F9D8.title: "靈氣瓶"
+	quest.5A0EB2ADEBC7EE2B.quest_desc: ["這任務是由 &6ATM 員工&r 或某個 &2爆肝網友&r 寫的。如果你看得到這行，代表你現在正在窺視開發者的內心世界（編輯模式）。"]
+	quest.5C990F7E5D345A6F.quest_desc: [
+		"向神供奉需要 Offering Table 配上 36 朵花。 \\n\\n這畫面看起來就像是在辦公室蓋個小花園。你需要召喚靈魂來啟動它。"
+		"{image:atm:textures/questpics/natures_aura/offering.png width:295 height:150 align:center}"
+	]
+	quest.5C990F7E5D345A6F.quest_subtitle: "在森林裡辦個下午茶供奉神明"
+	quest.71B6F013C8A60EB6.quest_desc: ["「遮陽板」跟「素食者吸收器」是產出靈氣最簡單的方法。 \\n\\n一個靠樹蔭，一個靠吃草。這模組真的很環保。"]
+	quest.71B6F013C8A60EB6.quest_subtitle: "給我更多靈氣！"
+	quest.71B6F013C8A60EB6.title: "靈氣生產工程"
+	quest.7DAED14CEC4CDA51.quest_desc: [
+		"&a自然靈氣 (Nature's Aura)&r 是一個關於平衡的魔法模組。 \\n"
+		"第一步：先做點 &e燦爛纖維&r。拿它去點樹葉，樹葉就會變金黃色。 \\n\\n"
+		"記得去看《自然靈氣指南》，裡面有最詳細的儀式蓋法。祝你在這藍綠色的魔法世界裡玩得開心。 "
+	]
+	quest.7DAED14CEC4CDA51.title: "&e歡迎來到 &a自然靈氣"
+	task.0CA0B32D52395A39.title: "木板"
+	task.15698B55CCAD2433.title: "不準偷拿 (版權所有)"
+	task.2E97226C40818239.title: "花朵"
+	task.4C6370D2B7EF8685.title: "不準偷拿 (版權所有)"
+	task.52874F5B79ECAE65.title: "石磚"
+	task.55628B1EECBB5E94.title: "儀式樹苗"
+}

@@ -1,0 +1,102 @@
+{
+	quest.01C0DC225CB25A0C.quest_subtitle: "獵人插件讓雷射會自動射怪"
+	quest.01C0DC225CB25A0C.title: "暴力雷射"
+	quest.02315D55EB638E3C.quest_subtitle: "做點生物質來發電"
+	quest.0C9F9196CA49FF8D.quest_subtitle: "去挖點鎳礦，開啟你的工業革命"
+	quest.0C9F9196CA49FF8D.title: "Oritech 啟航"
+	quest.0EC0F93FA4B4BE49.quest_desc: ["這台機器只能用 &5終界雷射&r 供電。 \\n\\n它是做這模組頂級物品的唯一管道。這造型看起來就很貴。"]
+	quest.0EC0F93FA4B4BE49.quest_subtitle: "終極組裝機"
+	quest.114EACA9B32B32FB.quest_subtitle: "你懂的..."
+	quest.11A4C57600E692EC.quest_subtitle: "增加機器的電力緩衝"
+	quest.124CD4B8876B81F6.quest_subtitle: "把電存起來，別浪費了"
+	quest.124CD4B8876B81F6.title: "儲能工程"
+	quest.161EDD68FF1A7F1B.quest_subtitle: "岩漿就是燃料"
+	quest.1630CFBFB562C43B.quest_subtitle: "燒油生電，工業浪漫"
+	quest.175509632CBF8631.quest_desc: ["提升所有粉碎配方的產量。這才是真正的礦石增產。"]
+	quest.175509632CBF8631.quest_subtitle: "更好的粉碎機"
+	quest.1831B35A3239B583.quest_subtitle: "一次跑一堆配方，真香"
+	quest.1B2BD489D5173B40.quest_subtitle: "拿法多到你想哭"
+	quest.1D9A00C81C2A97F0.quest_subtitle: "這有點令人失望"
+	quest.1DBF1D4061518B0B.quest_subtitle: "把一個變更多個"
+	quest.1DBF1D4061518B0B.title: "礦石精煉"
+	quest.1F139091C1B4E50B.quest_subtitle: "普通電路板"
+	quest.208F759905CF7744.quest_desc: [
+		"無人機港口很快，但有個機車的限制：距離必須 &4超過 50 格&r！ \\n\\n1. 放下兩個港口。 \\n2. 拿著定位器對著其中一個按 &asneak+右鍵&r 記住座標。 \\n3. 把定位器塞進另一個港口的介面裡。 \\n"
+		"現在只要港口裡有東西，無人機就會咻地飛過去。這比 PChome 還快。"
+	]
+	quest.208F759905CF7744.quest_subtitle: "沒錯，這裡有空軍"
+	quest.24310BEACE75749D.quest_desc: [
+		"「插件 (Addons)」既是升級也是模組。 \\n\\n把它們插在機器側邊那個看起來像插座的地方。 \\n\\n能插幾個取決於你的機殼等級。有些高級配方沒插特定模組是不會動的喔。"
+		"{image:atm:textures/questpics/oritech/ori-addon-slot.png width:50 height:100 align:left}"
+	]
+	quest.24310BEACE75749D.quest_subtitle: "值得投資"
+	quest.290C1416EA2B5DF2.quest_subtitle: "看起來乾乾的"
+	quest.2A69272FD3C57924.quest_subtitle: "好一點點"
+	quest.310FA9380CB3E0BB.quest_subtitle: "讓離心機可以加水"
+	quest.334AB2ED426108C7.quest_subtitle: "管它叫什麼，反正能磨成粉就對了"
+	quest.35BC118040E7428F.quest_desc: [
+		"終界雷射是個好東西： \\n1. 無線傳電（看起來超潮）。 \\n2. 轉化材料。 \\n3. 拆方塊。 \\n4. 讓紫水晶長得像打了生長激素一樣快。 "
+		""
+		"注意：沒事別對著貓射。"
+	]
+	quest.35BC118040E7428F.quest_subtitle: "別拿去逗貓"
+	quest.38F4448F9603FE68.quest_subtitle: "離偉大還差兩步"
+	quest.3DD27DED791C6A0B.quest_desc: ["想在 Oritech 裡玩礦石增產？你需要離心機、流體插件、粉碎機跟鍛造爐。這流程比 Mek 簡單多啦。"]
+	quest.3DD27DED791C6A0B.quest_subtitle: "最大產出"
+	quest.3DD27DED791C6A0B.title: "礦石加工工程"
+	quest.3EB34CC8A3B0DB3C.quest_subtitle: "不能拿來餵倉鼠喔"
+	quest.418E0A23EC74F320.quest_desc: ["你未來爆肝路上的重要機器。"]
+	quest.418E0A23EC74F320.quest_subtitle: "旋轉跳躍窩閉著眼"
+	quest.46EFCAE81C09368A.quest_desc: ["機殼是 Oritech 的基礎。右鍵點機器來安裝。 \\n\\n它不直接影響速度，但它決定了你能塞多少「插件」。機殼越好，功能越多。"]
+	quest.46EFCAE81C09368A.quest_subtitle: "機殼就是一切"
+	quest.46EFCAE81C09368A.title: "機殼系統"
+	quest.49D03933633D6A45.quest_subtitle: "人工智慧（假的那種）"
+	quest.4CFA7EE8174E3FD8.quest_subtitle: "增加電力輸入上限"
+	quest.4EAD06B0B3AD7D6E.quest_subtitle: "把原礦碎成塊"
+	quest.4EAD06B0B3AD7D6E.title: "礦石碎塊"
+	quest.4ED29ACF4A699E1B.quest_subtitle: "這個更好"
+	quest.4F89C04CEBF812F9.quest_subtitle: "把寶石燒成錠"
+	quest.4F89C04CEBF812F9.title: "金屬錠"
+	quest.50243E5CF1B156ED.quest_desc: ["想拿鈽粉？去碎紙機碎鈾礦，或是拿雷射瘋狂射那個鈾晶體。這過程充滿了輻射的味道（誤）。"]
+	quest.50243E5CF1B156ED.quest_subtitle: "從鈾礦到鈽粉"
+	quest.5189D72ED3808DC6.quest_desc: [
+		"拿著定位器對準紫水晶按 Shift+右鍵，再對著雷射按一次。 \\n\\n雷射就會開始幫水晶充電。這水晶不只是裝飾，還能存電做機器。這才叫水晶能源。"
+	]
+	quest.5189D72ED3808DC6.quest_subtitle: "雷射充能紫水晶"
+	quest.53880926982968FD.quest_subtitle: "說出窩的名字"
+	quest.53D5A6F210DF199C.quest_subtitle: "一秒傳 1 萬 RF，穩如老狗"
+	quest.53D5A6F210DF199C.title: "電力傳輸系統"
+	quest.55DCCC4035B8BB2A.quest_subtitle: "獄髓加鉑金，真香"
+	quest.58819CE09A648A43.quest_subtitle: "蓋機器都要用到這些零件"
+	quest.58819CE09A648A43.title: "基礎工業組件"
+	quest.5932B5AD48F6AB74.quest_desc: ["給管子加個推進器！速度直接起飛。"]
+	quest.5932B5AD48F6AB74.quest_subtitle: "全速提取"
+	quest.5E9AF8BB2C67DCCE.quest_subtitle: "搬水的 100 種方法"
+	quest.5E9AF8BB2C67DCCE.title: "液體物流"
+	quest.5F8363EC8F4499B6.quest_subtitle: "搞合金囉"
+	quest.6134991F25B25B42.quest_desc: ["組裝機不只能做新東西，還能讓你的材料產量更高。這就是自動化的精髓。"]
+	quest.6134991F25B25B42.quest_subtitle: "不只是個合成台"
+	quest.6134991F25B25B42.title: "自動組裝工程"
+	quest.6539582429A70EE8.quest_subtitle: "Oritech 很隨和，什麼電都吃"
+	quest.6EBFA16D212A7B22.quest_subtitle: "這個最好"
+	quest.6FFD0301AC8C83ED.quest_subtitle: "節能環保小標章"
+	quest.7032AC2B9066CC39.quest_desc: ["插在插槽上，你就有了更多的插槽。套娃式升級。"]
+	quest.7032AC2B9066CC39.quest_subtitle: "更多插槽！"
+	quest.7084E47579D62B52.quest_subtitle: "能幹更多活的電路"
+	quest.70FAD4013FA8A14A.quest_subtitle: "加個速，別在那邊慢慢磨"
+	quest.72E7AE66F2A7C4C4.quest_subtitle: "幫機器灌水"
+	quest.7937DE650CABC1FF.quest_subtitle: "燒炭的，沒啥技術含量"
+	quest.7CBAD1047B087803.quest_desc: [
+		"有了碎塊，配合離心機跟硫酸，你就能提煉出寶石。 \\n\\n用普通水也行，但產量會低到你想哭。 \\n"
+		"&l&o&n注意&r：目前的版本有些配方壞了，會噴出粉末或是碎片。那是作者的鍋，別找窩。"
+	]
+	quest.7CBAD1047B087803.quest_subtitle: "離心機能甩出寶石？"
+	quest.7CBAD1047B087803.title: "甩出亮晶晶"
+	quest.7D2F41DD9774DDA7.title: "物品物流"
+	task.2687A493F6A78164.title: "寶石"
+	task.3CC9C741B461AD4B.title: "碎塊"
+	task.400E42F53FDE783C.title: "金屬錠"
+	task.6E85FE06F0AA556A.title: "寶石"
+	task.7C454550A8F933AC.title: "發電工程"
+	task.7C85CBE79E91F28B.title: "插件"
+}

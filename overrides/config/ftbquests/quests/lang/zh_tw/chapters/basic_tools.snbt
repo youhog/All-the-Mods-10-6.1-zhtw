@@ -1,0 +1,42 @@
+{
+	quest.03E05018D64DDEE1.quest_desc: ["&e五階挖掘&r 基本上就是為了挖始源礦 (Allthemodium) 準備的。"]
+	quest.03E05018D64DDEE1.title: "&e挖掘等級：5"
+	quest.09733948CBCB3FB9.quest_desc: ["&d六階挖掘&r 是最高級。連震動錠 (Vibranium) 跟難得錠 (Unobtainium) 都能輕鬆挖掉。"]
+	quest.09733948CBCB3FB9.title: "&d挖掘等級：6"
+	quest.16AAC61729C44881.quest_desc: ["這任務是由 &6ATM 員工&r 或某個 &2爆肝網友&r 寫的。如果你看得到這行，代表你現在正在窺視開發者的內心世界（編輯模式）。"]
+	quest.17FE0C7748DD65CA.quest_desc: ["&5四階挖掘&r 是鑽石級別。用來挖黑曜石跟獄髓。還有一些高級模組礦石。"]
+	quest.17FE0C7748DD65CA.title: "&5挖掘等級：4"
+	quest.2A6753C806D2AF8D.quest_desc: ["攻擊力無限！但這把劍會吸乾你的電量。慎用。"]
+	quest.2A6753C806D2AF8D.title: "&f∞ &c攻擊力之劍"
+	quest.2DB53A77C3CD90F1.quest_desc: ["植物學家搞頭：挖石頭會自動長出苔蘚。這功能超廢但很酷。"]
+	quest.3917DECAEF56A06A.quest_desc: ["&f二階挖掘&r 是石頭級別。只能挖鐵這類的。"]
+	quest.3917DECAEF56A06A.title: "&f挖掘等級：2"
+	quest.5151CDD8FCDE7A07.quest_desc: ["歡迎來到基礎工具指南！ \\n\\n想知道哪把劍最痛、哪把鎬最強？看這裡就對了。 \\n\\n這些任務都是可選的，解不解隨便你啦。"]
+	quest.5151CDD8FCDE7A07.title: "基礎工具指南！"
+	quest.57F47BA495B27F83.quest_desc: ["&9一階挖掘&r 是最低級。木鎬就能挖。"]
+	quest.57F47BA495B27F83.title: "&9挖掘等級：1"
+	quest.5CD65553EF60029B.quest_desc: ["尋天者搞頭：挖掉的東西直接進包包。懶人最愛。"]
+	quest.6601450C63FEEE61.quest_desc: ["&b三階挖掘&r 是鐵鎬級別。能挖鑽石、紅石跟黃金。"]
+	quest.6601450C63FEEE61.title: "&b挖掘等級：3"
+	quest.7B1818D2C5C2BB18.quest_desc: ["魂行者搞頭：內建連鎖挖礦功能！一敲噴一整坨。"]
+	task.01EFD73293B10452.title: "注魔靈魂匕首"
+	task.04048BE5351DB782.title: "冒險模組鑽石劍"
+	task.18DA9065596F9097.title: "模組金屬鐵鎬"
+	task.20210147BF5613E5.title: "冒險模組鐵劍"
+	task.224A2A7012749DFC.title: "魔法模組鐵鎬"
+	task.2363F64BEC430933.title: "石英系列劍"
+	task.236DA60F43220525.title: "魔法模組鐵劍"
+	task.2962DF63EE602AD6.title: "Mekanism 鐵鎬"
+	task.30921D2007B35206.title: "冒險模組鑽石鎬"
+	task.485E17B9E80D5DFF.title: "神祕學系列搞頭"
+	task.53C6E9EAC8AC15EB.title: "始源系列搞頭"
+	task.57DD9261905988F3.title: "Mekanism 鐵劍"
+	task.5D3CB6FE8F0ED9A5.title: "採礦小裝置"
+	task.63EB4BCA531A9F2A.title: "冒險模組獄髓鎬"
+	task.66ACCF967C939342.title: "不準偷拿 (版權所有)"
+	task.68667F586AF5D058.title: "JDT 系列鑽石鎬"
+	task.6A098C929647B0A6.title: "魔法模組鑽石劍"
+	task.70972BAFF5896EA8.title: "神祕農業系列搞頭"
+	task.735F8BA70FBE24BF.title: "冒險模組鐵鎬"
+	task.7EA0E7DF4C5C4858.title: "AE2 系列搞頭"
+}

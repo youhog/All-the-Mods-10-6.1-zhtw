@@ -1,0 +1,111 @@
+{
+	quest.05B6DB75AEC01187.quest_desc: ["RFTools Power 的儲能單元。可以自訂、可以升級。拿把扳手來設定哪邊進電哪邊出電。這就是所謂的「模組化電池」。"]
+	quest.05B6DB75AEC01187.title: "&9RFTools Power: &c儲能單元"
+	quest.0AEC181F5E21A299.quest_desc: ["聽過「西瓜發電」嗎？這就是了。 \\n\\n拿西瓜去碎屍機變生質燃料，再餵給 Mekanism 的燃氣發電機。西瓜越多，電越多。這招叫「吃瓜群眾發電法」。"]
+	quest.0AEC181F5E21A299.quest_subtitle: "西瓜的力量！"
+	quest.0AEC181F5E21A299.title: "&9Mekanism: &d燃氣發電機"
+	quest.0BB367839D28607D.quest_desc: ["燒煤炭的。最簡單、最暴力。塞進去就有電。它還會自動分電給旁邊的人，超慷慨。"]
+	quest.0BB367839D28607D.quest_subtitle: "化石燃料萬歲"
+	quest.0BB367839D28607D.title: "&8煤炭發電機"
+	quest.0BB42C5861B22D32.quest_desc: ["菌絲反應爐。你要湊齊一堆奇怪的發電機圍著它轉。產電量高達 25M FE/t！ \\n\\n聽起來很香，但有些發電機吃的東西超機車（例如要拔附魔的那台）。全自動化後你就是發電之神。"]
+	quest.0BB42C5861B22D32.quest_subtitle: "這不是我的反應爐"
+	quest.0BB42C5861B22D32.title: "&9工業前行: &b菌絲反應爐"
+	quest.11D09E918015355C.quest_desc: ["熱能發電機有兩種玩法： \\n- 被動：圍一圈岩漿，它就慢慢生電。懶人首選。 \\n- 主動：塞煤炭進去燒。雖然效率普通，但至少能動。"]
+	quest.11D09E918015355C.title: "&c熱能發電機"
+	quest.1409C17773B6A131.quest_desc: ["升級模組決定了管子一次搬多少。 \\n\\n基礎升級可以讓你玩紅石控制跟簡單過濾。高級的就只是搬更多。這就是所謂的超頻物流。"]
+	quest.1409C17773B6A131.title: "&9Pipez: &a升級零件"
+	quest.1BE26A00A420DAE3.quest_desc: ["Flux Core 跟 Flux Block 是組網的關鍵。多做幾個，別想省這點錢。"]
+	quest.1BE26A00A420DAE3.quest_subtitle: "核心價值"
+	quest.1BE26A00A420DAE3.title: "網路核心建材"
+	quest.1EECA19DF9CF6A0C.quest_desc: ["利用 XyCraft 機器來自動產出 Flux Dust。這才是專業玩家的做法。"]
+	quest.1EECA19DF9CF6A0C.title: "自動化 Flux Dust"
+	quest.1F81EA5E45424308.quest_desc: ["這裡有一堆搬電的方法。不管是拉線還是無線傳輸，通通都有。"]
+	quest.1F81EA5E45424308.title: "&f&l電力搬運工程"
+	quest.27A4FA38992448A0.quest_desc: [
+		"Flux Networks 支援跨維度無線充電！ \\n\\n打開控制器介面，點「無線充電」頁籤。選好你要充電的欄位（背包、手持、裝甲）。 \\n\\n按一下啟動。恭喜你，你的噴射背包現在有無窮的電力了！"
+		"{image:atm:textures/questpics/basic_power/wireless_ui.png width:125 height:150 align:center}"
+	]
+	quest.27A4FA38992448A0.title: "無線充電系統"
+	quest.2D4749DF9642F334.quest_desc: [
+		"&e戴森球 (Dyson Cube)&r 是發電的終點。產電量高達 &l&a1GFE/t&r！ \\n\\n你需要用電磁砲瘋狂往太陽發射太陽帆跟射線。這過程超耗資源，沒自動化產線請三思。 \\n\\n注意：中午、晚上或是下雨都不能發射。太陽公公脾氣很大的。 \\n\\n為了達到滿配，你需要發射八百萬個射線跟五千萬個太陽帆... 祝你的電腦跟肝都撐得住。"
+	]
+	quest.2D4749DF9642F334.quest_subtitle: "太陽就在我掌心"
+	quest.2D4749DF9642F334.title: "&e戴森球"
+	quest.2EB7784D5296F410.quest_desc: [
+		"點開 Flux 面板，你可以幫每個接口命名、調優先級。 \\n\\n還能開「忽略限制」讓電力狂飆。這介面功能超多，沒事多點點看。"
+		"{image:atm:textures/questpics/basic_power/flux_ui.png width:125 height:150 align:center}"
+	]
+	quest.35ABB0DEE70DF7FD.quest_desc: ["別忘了 &aPowah&r！這模組也有很多變態的發電方式。去那一章看看吧。"]
+	quest.35ABB0DEE70DF7FD.title: "給我更多 &a電力 (Powah)!"
+	quest.35CC898E0E49FE58.quest_desc: ["&9Flux Networks&r 是無線電力的最終解決方案。 \\n\\n它自己不生電，但它能無線傳電，還能跨維度。 \\n\\n第一步：去岩層最下面找基岩。丟點紅石，壓塊黑曜石，然後用力點下去！ Flux Dust 就出來了。"]
+	quest.35CC898E0E49FE58.quest_subtitle: "最終無線電力解決方案"
+	quest.35CC898E0E49FE58.title: "&8Flux Networks"
+	quest.36DEA17CBB696CC7.quest_desc: ["右鍵點插頭 (Plug) 建立網路。設個密碼、選個騷包的顏色。 \\n\\n一旦插頭接到電源，全世界的 Flux Point 通通都能拿到電！這才是 21 世紀法師該有的樣子。"]
+	quest.36DEA17CBB696CC7.quest_subtitle: "升職當網管！"
+	quest.3BDB94F17765EE77.quest_desc: ["煤炭不夠用了？是時候升級了。 \\n\\n把反應爐蓋大一點、升級熱電發電機。如果你電多到沒地方放，那代表你成功了。"]
+	quest.3BDB94F17765EE77.quest_subtitle: "電多到噴出來"
+	quest.3BDB94F17765EE77.title: "後期發電選項"
+	quest.42D173B9FF8D16E4.quest_desc: ["剛起步嗎？這些是便宜好用的入門款。產電不多，但夠你跑幾台小機器了。"]
+	quest.42D173B9FF8D16E4.quest_subtitle: "新手電力"
+	quest.42D173B9FF8D16E4.title: "&8&l初期發電選項"
+	quest.43D83CFA824B0A70.quest_desc: ["Mekanism 的融合反應爐。 80M RF/t！這發電量已經超越人類理解了。去那一章看教學吧。"]
+	quest.43D83CFA824B0A70.quest_subtitle: "合體！"
+	quest.43D83CFA824B0A70.title: "&9Mekanism: &d核融合反應爐"
+	quest.477B411F84342EEA.quest_desc: ["Mekanism 的儲能槽。便宜、大碗、好用。 \\n\\n還能升級容量跟充電速度。這就是所謂的行動電源加強版。"]
+	quest.477B411F84342EEA.title: "&9Mekanism: &a能量槽"
+	quest.48DC9E8E9D21A2FA.quest_desc: ["太陽能：曬太陽就有電。晚上就沒電。 \\n\\n風能：越高越強。記得屋頂別蓋東西擋住它。這才是綠能環保。"]
+	quest.48DC9E8E9D21A2FA.quest_subtitle: "太陽公公的力量..."
+	quest.48DC9E8E9D21A2FA.title: "&9Mekanism: &a綠色能源"
+	quest.4AB0DD227471FDBF.quest_desc: ["這一章全是關於電的！ \\n\\n生成、儲存、搬運。沒電你的工廠就只是堆廢鐵。"]
+	quest.4AB0DD227471FDBF.quest_subtitle: "電力就是正義！"
+	quest.4AB0DD227471FDBF.title: "&c基礎能源指南"
+	quest.4EEAB467C722ECE7.quest_desc: ["Pipez 是最簡單的管子。 \\n\\n貼在機器旁邊按 Shift+右鍵提取。這管子還能搬物品、液體跟氣體。雖然用多了可能會卡，但初期真的很香。"]
+	quest.4EEAB467C722ECE7.title: "&9Pipez: &a能源管"
+	quest.56B6ABF3D6EA0D84.quest_desc: ["插頭 (Plug) 是進電，接點 (Point) 是出電。 \\n\\n把 Point 貼在機器上，選好網路。咻！電力就瞬移過來了。這比拉線優雅多了。"]
+	quest.56B6ABF3D6EA0D84.title: "獲取網路電力"
+	quest.5C47935A3B2877FF.quest_desc: ["Mekanism 的電線長得很專業。 \\n\\n如果機器不聽話不吃電，拿 Configurator 出來調一下進出口。這電線傳輸上限滿高的。"]
+	quest.5C47935A3B2877FF.quest_subtitle: "Mek 專用電線"
+	quest.5C47935A3B2877FF.title: "&9Mekanism: &a萬用電纜"
+	quest.5E41363F9AE243F3.quest_desc: ["煤炭燒光了嗎？試試這些中階方案。稍微麻煩一點，但產電量更有誠意。"]
+	quest.5E41363F9AE243F3.title: "&b&l中期發電選項"
+	quest.5F078A574A783B02.quest_desc: ["Flux Plug 是網路的入口。 \\n\\n把它貼在發電機或電池上。它本身不存電，只是一個抽水幫浦（抽電版）。"]
+	quest.5F078A574A783B02.quest_subtitle: "插上去就對了！"
+	quest.5F078A574A783B02.title: "建立你的網路"
+	quest.677D0C23D53A77CA.quest_desc: [
+		"龍之進化 (Draconic Evolution) 的核心。 \\n\\n最終階級能存 9,223,372,036,854,775,808 FE！基本上就是無限了。 \\n\\n雖然蓋起來很煩，但這是裝逼的最高境界。"
+		"{image:atm:textures/questpics/draconic/draconic_core_8on.png width:100 height:100 align:1}"
+	]
+	quest.677D0C23D53A77CA.quest_subtitle: "基本上是無限容量"
+	quest.677D0C23D53A77CA.title: "&9龍之進化: &d能源核心"
+	quest.682034C680FDEDC2.quest_desc: [
+		"Mekanism 的感應矩陣。存電量極高。 \\n\\n這可是工業級的儲能設備。去核能那一章看怎麼蓋。"
+		"{image:atm:textures/questpics/mek/mek_induction_matrix_small.png width:125 height:150 align:center fit:true}"
+	]
+	quest.682034C680FDEDC2.title: "工業級儲能矩陣"
+	quest.6D6E07564D8FDD8D.quest_desc: ["Extreme Reactors 讓你自訂多方塊反應爐。大小、效率隨你訂。去專屬那一章學習吧。"]
+	quest.6D6E07564D8FDD8D.quest_subtitle: "大就是好！"
+	quest.6D6E07564D8FDD8D.title: "&9Extreme Reactors: &a核反應爐"
+	quest.72EA25D05C46D39A.quest_desc: ["整合動力的電池。你可以把一堆電池合體來增加容量。這叫堆疊式行動電源。"]
+	quest.72EA25D05C46D39A.quest_subtitle: "內含電池"
+	quest.72EA25D05C46D39A.title: "&9整合動力: &b能源電池"
+	quest.76EA017B12E8F01B.quest_desc: ["這區塊教你怎麼把電存起來。別讓多出來的電浪費了！"]
+	quest.76EA017B12E8F01B.title: "&f&l儲能工程"
+	quest.79AD74A863EA43CB.quest_desc: ["Flux Networks 的儲能槽。容量爆大，還能升級。這就是雲端電池。"]
+	quest.79AD74A863EA43CB.quest_subtitle: "雲端電池"
+	quest.79AD74A863EA43CB.title: "Flux 儲能槽"
+	quest.7A979BEB20C9591E.quest_desc: ["養隻紅石蜂，再找隻黑曜石蜂魔改一下。 Flux Dust 就能全自動生產了。真香。"]
+	quest.7A979BEB20C9591E.title: "自動化 Flux Dust"
+	quest.7FE969CB4B419FC6.quest_desc: ["量子傳輸器。不但能傳電，還能傳物品、液體、甚至氣體！ \\n\\n這才是真的任意門（物流版）。"]
+	quest.7FE969CB4B419FC6.quest_subtitle: "不只是搬電"
+	quest.7FE969CB4B419FC6.title: "&9Mekanism: &6量子傳輸器"
+	task.098F1B932F851616.title: "管路升級"
+	task.0F7D7AE91E20F778.title: "煤炭發電機組"
+	task.2D0212699F99459F.title: "第一個電力網路"
+	task.35C1DBD4544C9BB0.title: "感應單元"
+	task.3D721B55E8D33FE8.title: "Flux 面板介面"
+	task.44C02386C9B8E0D3.title: "感應接口"
+	task.59DE118DD6597A4E.title: "再生能源發電機"
+	task.6C4B8A2662030CB0.title: "萬用電纜"
+	task.76378687551A79C3.title: "儲能槽"
+	task.7CA8741CA073C1DA.title: "儲能單元"
+}

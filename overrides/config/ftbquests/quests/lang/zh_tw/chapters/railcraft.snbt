@@ -1,0 +1,179 @@
+{
+	quest.008D186B4E0ED14F.quest_desc: [
+		"蒸汽烤箱是另一種消耗蒸汽的好地方。 \\n\\n給它蒸汽，它就能當成無限的熔爐。燒礦、煮飯通通不用木炭。 \\n\\n它是個 2x2x2 的多方塊機器。雖然很大，但很有質感。"
+		"{image:atm:textures/questpics/railcraft/rail_oven.png width:100 height:100 align:center}"
+	]
+	quest.008D186B4E0ED14F.title: "大型蒸汽烤箱"
+	quest.020E6AF37A0421C8.quest_desc: [
+		"水塔就像是個特大號的水桶。它會自動收集雨水供火車使用。 \\n\\n產水量取決於群系跟有沒有露天。 \\n\\n蓋法：3x3x3 實心立方體，中間要是空的。這才是專業的存水設備。"
+		"{image:atm:textures/questpics/railcraft/rail_tank.png width:100 height:100 align:center}"
+	]
+	quest.020E6AF37A0421C8.title: "鐵路水塔"
+	quest.032B654201E71618.quest_desc: ["這些軌道套件是用來處理「生物」的。 \\n\\n上車套件：把附近的怪強行塞進車廂。 \\n下車套件：把怪踢下車。 \\n丟棄套件：把怪直接從軌道下面丟下去。簡直是人肉（或怪肉）搬運機。"]
+	quest.032B654201E71618.title: "&c軌道套件：生物搬運"
+	quest.035C52EF63AD23A7.quest_desc: ["這模組叫 &l鐵路工藝 (Railcraft)&r，火車跟鐵軌當然是主角。 \\n\\n原版軌道真的爛透了。這裡的強化軌道需要專門的機器來搓零件。快去蓋工廠吧！"]
+	quest.035C52EF63AD23A7.title: "&6&l鐵軌工藝"
+	quest.068294A7C21DE550.quest_desc: ["軌道套件可以魔改普通鐵軌。 \\n\\n不管是讓火車停下、加速或是發出紅石訊號，通通靠這些小零件。"]
+	quest.068294A7C21DE550.title: "&c&l特殊軌道系統"
+	quest.08457BEED799E600.quest_desc: ["這些特殊車廂是用來自動化鋪鐵軌的。 \\n\\n鋪軌車、拆軌車、換軌車，甚至還有能幫軌道換地基的車。有了這支車隊，你就是鐵道王。"]
+	quest.08457BEED799E600.title: "&7鋪軌工程車隊"
+	quest.0A43FD0B5C76C1C5.quest_desc: [
+		"&l&7Railcraft&r 自帶鋼鐵生產線！ \\n\\n你需要 34 個高爐磚蓋成一個 3x3x4 的實心塊，中間留兩格空位。 \\n\\n蓋好後它會自動合體。丟進鐵錠跟焦炭，你就能得到亮晶晶的鋼錠。比蒸汽時代的高爐穩多了。"
+		"{image:atm:textures/questpics/railcraft/rail_furnace.png width:100 height:100 align:center}"
+	]
+	quest.0A43FD0B5C76C1C5.title: "鐵路高爐 (煉鋼廠)"
+	quest.104049993CC62E7F.quest_desc: ["高級裝貨機可以從任何方向裝東西。拿把撬棍點一下就能調方向。專業！"]
+	quest.104049993CC62E7F.title: "高級裝貨機"
+	quest.1698565EBB68DC85.quest_desc: [
+		"Y 字軌是用來匯合軌道的。兩路進一路出，簡單好用。"
+		"{image:atm:textures/questpics/railcraft/rail_wye.png width:100 height:100 align:center}"
+	]
+	quest.1698565EBB68DC85.title: "&6Y 字軌道"
+	quest.170118E3C3C072E5.quest_desc: [
+		"十字路口。讓軌道可以互相交錯。 \\n\\n注意：如果兩台火車同時衝進去... 轟！電力火車真的會爆炸，別說窩沒警告你。"
+		"{image:atm:textures/questpics/railcraft/rail_junction.png width:100 height:100 align:center}"
+	]
+	quest.170118E3C3C072E5.title: "&6十字路口軌道"
+	quest.175D943160C10646.quest_desc: [
+		"&l&7Railcraft&r 的機器通通都要用鐵錠開始搓。這是一個鐵的時代。"
+	]
+	quest.175D943160C10646.title: "&l&7鐵路機械"
+	quest.17F7964611D893BE.quest_desc: ["幫你的蒸汽火車自動加水。沒水火車就罷工了，記得蓋一台在車站。"]
+	quest.17F7964611D893BE.title: "自動灌水機"
+	quest.184F98BE0F6710E2.quest_desc: ["這兩款套件是用來玩紅石的。 \\n\\n啟動套件：啟動路過的車輛。 \\n偵測套件：偵測車輛經過並發出訊號。基本上就是鐵軌版的感應器。"]
+	quest.184F98BE0F6710E2.title: "&c軌道套件：紅石連動"
+	quest.21693C4DE6531D73.quest_desc: [
+		"粉碎機能把方塊敲碎成原料。 \\n\\n它是個 3x2x2 的機器。雖然很吵，但它是做某些高級材料的唯一來源。記得接電！"
+		"{image:atm:textures/questpics/railcraft/rail_crusher.png width:100 height:100 align:center}"
+	]
+	quest.21693C4DE6531D73.title: "鐵路粉碎機"
+	quest.249E5C6893387E15.quest_desc: ["這些軌道是用來管火車的。 \\n\\n鎖定套件：停住火車，給訊號才放行。 \\n緩衝套件：終點站必備，撞到就停。 \\n柵欄套件：自動開關門。"]
+	quest.249E5C6893387E15.title: "&c軌道套件：煞車與管理"
+	quest.283AB56F81EF03A5.quest_desc: ["電力軌道需要框架來供電。把框架蓋在軌道下面，然後給它電。別亂摸，會被電到跳舞。"]
+	quest.283AB56F81EF03A5.title: "&e供電框架"
+	quest.2869AB982799CF0C.quest_desc: ["單行道。車子只能朝箭頭方向走。防止撞車的最佳選擇。"]
+	quest.2869AB982799CF0C.title: "&c單行道軌道"
+	quest.2A30595DC6DDBFF7.quest_desc: [
+		"電力火車專用軌道。底下一定要墊框架才能通電。 \\n"
+		"{image:atm:textures/questpics/railcraft/rail_electric_rail.png width:150 height:100 align:center}"
+	]
+	quest.2A30595DC6DDBFF7.title: "&6電力鐵軌"
+	quest.2AB0FA084739827A.quest_desc: ["盾構機的頭有四種材質。越高級挖越快。這玩意兒還能附魔，建議貼個效率上去。"]
+	quest.2AB0FA084739827A.title: "&9盾構機鑽頭"
+	quest.2D00F85379A4D591.quest_desc: ["最基礎的裝貨機。擺在軌道上方，設定好要裝什麼。"]
+	quest.2D00F85379A4D591.title: "物品裝貨機"
+	quest.31094CC16E710040.quest_desc: ["撬棍是這模組的靈魂。 \\n- 點火車換方向。 \\n- Shift+點擊連結/斷開車廂。 \\n- 點軌道切換模式。 \\n這就像是鐵道員的萬用工具。"]
+	quest.31094CC16E710040.quest_subtitle: "「你是要來搶劫嗎？」"
+	quest.365D4B1DC953D406.quest_desc: ["自動噴礦車。給個紅石訊號，礦車就咻地噴出來。"]
+	quest.365D4B1DC953D406.title: "&7礦車噴射機"
+	quest.38451B61E3FC075B.quest_desc: [
+		"拿到鋼了，那焦炭呢？當然也有！ \\n\\n26 個焦炭磚蓋成 3x3x3，中間留空位。蓋好後它會變色。丟進煤炭拿焦炭，順便收集雜酚油（做防腐木用）。"
+		"{image:atm:textures/questpics/railcraft/rail_coke.png width:100 height:100 align:center}"
+	]
+	quest.38451B61E3FC075B.title: "煉焦爐"
+	quest.3E75AFE3482834C5.quest_desc: ["&l鐵路工藝 (Railcraft)&r 是一個關於火車、軌道跟鐵道浪漫的模組。 \\n\\n從最基礎的小礦車到全自動盾構機應有盡有。如果你喜歡模型火車，這就是你的天堂。"]
+	quest.3E75AFE3482834C5.title: "&7&l鐵路工藝"
+	quest.3E8C2E7769DFBF35.quest_desc: [
+		"電力火車不需要燃料，但它要吃鐵軌底下的電。 \\n\\n它只能跑在電力鐵軌上。這才是高鐵的感覺。"
+		"{image:atm:textures/questpics/railcraft/rail_electric.png width:100 height:100 align:center}"
+	]
+	quest.3E8C2E7769DFBF35.title: "&e電力火車頭"
+	quest.4071BBBE12CACD2D.quest_desc: ["比礦車噴射機更強，它能一次噴出整列火車！設定好順序，給個訊號，發車囉！"]
+	quest.4071BBBE12CACD2D.title: "火車噴射機"
+	quest.425E375A9EC127EB.quest_desc: [
+		"強化軌道是普通鐵軌的升級版。跑更快、更耐操，而且不容易出軌。"
+		"{@pagebreak}"
+		"這裡是各種強化軌道的圖片展示。"
+	]
+	quest.425E375A9EC127EB.title: "&6強化軌道"
+	quest.475E307844E3AF7F.quest_desc: [
+		"水箱鍋爐是 Railcraft 的核心。下層燒煤或雜酚油，上層裝水。 \\n\\n體積越大效率越高。最高可以蓋到 3x3x4。這產生的蒸汽可以用來發電或是推動火車。"
+		"{image:atm:textures/questpics/railcraft/rail_big_boiler.png width:100 height:100 align:center}"
+	]
+	quest.475E307844E3AF7F.title: "蒸汽鍋爐"
+	quest.4A44623D8A307473.quest_desc: [
+		"這就是高鐵軌道！又快又通電。 \\n\\n記得轉彎處要減速，不然你的火車會飛進鄰居的家裡。"
+		"{image:atm:textures/questpics/railcraft/rail_electric_speed.png width:150 height:100 align:center}"
+	]
+	quest.4A44623D8A307473.title: "&6高速電力軌道"
+	quest.50A286C268F38E09.quest_desc: ["窩花了很多時間幫文字上色，結果發現可能更亂了... \\n\\n紫色：火車。 \\n金色：鐵軌。 \\n淺紅：套件。 \\n深紅：撬棍。 \\n青色：蒸汽火車。 \\n黃色：電力火車。 \\n藍色：盾構機。 \\n灰色：礦車。"]
+	quest.50A286C268F38E09.title: "顏色說明書"
+	quest.5128B119DFFF0C4C.quest_desc: [
+		"最經典的火車頭。餵它喝水、餵它吃煤。 \\n\\n煙囪噴出來的白煙是水蒸氣，環保啦！雖然煤炭煙沒那麼環保...算了，這裡是 Minecraft。"
+		"{image:atm:textures/questpics/railcraft/rail_steam_locomotive.png width:100 height:100 align:center}"
+	]
+	quest.5128B119DFFF0C4C.title: "&3蒸汽火車頭"
+	quest.5180CDD196518F64.quest_desc: [
+		"便宜貨鐵軌。跑很慢但絕對不出軌。適合給那些預算不足的人（或廢棄礦坑）。"
+		"{image:atm:textures/questpics/railcraft/rail_strap.png width:150 height:100 align:center}"
+	]
+	quest.5180CDD196518F64.title: "&6老舊鐵製軌道"
+	quest.53594EBA9F7BA840.quest_desc: ["高級卸貨機。從任何角度都能吸東西。"]
+	quest.53594EBA9F7BA840.title: "高級卸貨機"
+	quest.541D270451DA4320.quest_desc: ["切換軌道。讓你可以手動控制火車要去左邊還是右邊。"]
+	quest.54F2CB52D3A7BA87.quest_desc: ["從車廂裡吸東西出來。擺在軌道上方。"]
+	quest.54F2CB52D3A7BA87.title: "物品卸貨機"
+	quest.55D7CD0FA8F1AE48.quest_desc: ["火車就是要連著跑！ \\n\\n把車廂連在一起叫「連結 (Coupling)」，分開叫「解開」。拿撬棍或用特殊軌道就能搞定。快去組裝你的 100 節超長列車吧。"]
+	quest.55D7CD0FA8F1AE48.title: "&7&l車廂&r 連結工程"
+	quest.5820EDEF71340A1A.quest_desc: [
+		"廢棄軌道。可以用來跨越小空隙而不加支撐。但出軌率很高，玩命關頭鐵路版。"
+		"{image:atm:textures/questpics/railcraft/rail_abandoned.png width:150 height:100 align:center}"
+	]
+	quest.5820EDEF71340A1A.title: "&6廢棄軌道"
+	quest.5E750DB2244A67A1.quest_desc: [
+		"岔道鐵軌。拿大槌點普通鐵軌就有了。可以用開關來換方向。"
+		"{image:atm:textures/questpics/railcraft/rail_turnout.png width:100 height:100 align:center}"
+	]
+	quest.5E750DB2244A67A1.title: "&6岔道鐵軌"
+	quest.5F458D79D43D8842.quest_desc: ["這任務是由 &6ATM 員工&r 或某個 &2爆肝網友&r 寫的。如果你看得到這行，代表你現在正在窺視開發者的內心世界（編輯模式）。"]
+	quest.609CA1ACFA981BD5.quest_desc: ["路由套件。配合車票使用，讓火車自動跑向正確的目的地。這才是鐵道網自動化。"]
+	quest.609CA1ACFA981BD5.title: "&c軌道套件：路由系統"
+	quest.61C93ABE07742DCD.quest_desc: [
+		"蒸汽渦輪。把鍋爐產出的蒸汽變成 FE 或 EU 電量。 \\n\\n蓋個 3x2x2 的結構，塞進馬達，接好管子。產電量非常驚人。"
+		"{image:atm:textures/questpics/railcraft/rail_turbine.png width:100 height:100 align:center}"
+	]
+	quest.61C93ABE07742DCD.title: "蒸汽渦輪機"
+	quest.64C105E1E2F97900.quest_desc: ["大槌用來調整軌道模式。沒它你蓋不出複雜的轉接站。"]
+	quest.64C105E1E2F97900.title: "軌道大槌"
+	quest.677C5D35DADA4A42.quest_desc: ["連結套件。讓火車經過時自動連上或斷開車廂。"]
+	quest.677C5D35DADA4A42.title: "&c軌道套件：連結器"
+	quest.6C14D1B60124C2B2.quest_desc: [
+		"&9盾構機 (Tunnel Bore)&r 是懶人挖地道的神器。 \\n\\n餵它吃煤、給它鐵軌、裝上鑽頭。它就會在前面瘋狂挖土順便鋪軌。你只要跟在後面收錢就好。 \\n\\n記得定時回來清理它的廢石。"
+		"{image:atm:textures/questpics/railcraft/rail_tunnel.png width:100 height:100 align:center}"
+	]
+	quest.6C14D1B60124C2B2.title: "&9全自動盾構機"
+	quest.6C163E005351FF6D.quest_desc: ["汽笛套件。火車經過會嗶嗶叫。適合用來擾民（誤）。"]
+	quest.6C163E005351FF6D.title: "&c軌道套件：汽笛"
+	quest.6DB65926EE6D6C2E.quest_desc: ["這些套件用來改動力。 \\n- 變速套件。 \\n- 噴射套件：把你的礦車噴飛。 \\n- 推進套件。 \\n這才是雲霄飛車該有的樣子。"]
+	quest.6DB65926EE6D6C2E.title: "&c軌道套件：動力與彈射"
+	quest.6E7C4228CD2B6BB9.quest_desc: ["這種撬棍可以幫火車換皮膚。有萬聖節版跟聖誕節版。穿得帥，跑得快。"]
+	quest.75DD345164EE5CD9.quest_desc: [
+		"高速軌道跑起來超快！但記得直路才加速，彎道會翻車喔。"
+		"{image:atm:textures/questpics/railcraft/rail_speed.png width:150 height:100 align:center}"
+	]
+	quest.75DD345164EE5CD9.title: "&6高速軌道"
+	quest.78D8F40AA9568511.quest_desc: ["電動滾壓機。自動幫你壓出鐵軌零件。這才是工廠化的表現。"]
+	quest.7D40B80DBBC4E160.quest_desc: ["手動滾壓機。你鐵路生涯的第一台機器。你要盯著它它才會動。加油，工人。"]
+	quest.7F187E291C3D5BA7.quest_desc: ["把火車裡的水抽光。窩不知道你幹嘛要讓火車渴死，但你想做也是可以。"]
+	quest.7F187E291C3D5BA7.title: "自動抽水機"
+	quest.7F4B734CFB0F0306.quest_desc: ["新車廂：儲液車廂（載水的）、儲能車廂（載電的）。這就是移動式的資源包。"]
+	quest.7F4B734CFB0F0306.title: "特殊車廂"
+	task.025A45B704969EAE.title: "Y 字軌道"
+	task.03AE084C781CBA31.title: "軌道套件"
+	task.11741300813AF742.title: "不準偷拿 (版權所有)"
+	task.15BD622D04888DD8.title: "各式車廂"
+	task.19E2DE9D89B89D7B.title: "軌道大槌"
+	task.1E77B21EA9F2E9A7.title: "燃燒室"
+	task.2606DDF2AE263B42.title: "軌道套件"
+	task.2A2D77813F3127A6.title: "各式鐵軌"
+	task.3490AE43AD653256.title: "岔道軌道"
+	task.382933BEE2BCBD64.title: "盾構機鑽頭"
+	task.395D321BFFDB098A.title: "十字軌道"
+	task.3E8F4263F7053EDD.title: "各式車廂"
+	task.653ED58A9B65C796.title: "撬棍"
+	task.6A4FADC04E1C9DA7.title: "蒸汽鍋爐水箱"
+	task.6C12449632AD53DC.title: "軌道套件"
+	task.6D074E91F5BFC2A8.title: "軌道套件"
+	task.7B128D5D8D5530A8.title: "著色工程"
+	task.7BB13793B38DFC2C.title: "不準偷拿 (版權所有)"
+}

@@ -1,0 +1,27 @@
+{
+	quest.104EBBC08B4733F5.quest_desc: ["&d模擬艙&r 是 HNN 的靈魂機器。 \\n\\n給它電，它就會根據你塞進去的 &b數據模型&r 跑模擬。耗電量取決於怪物的強度。 \\n\\n你還需要 &9預測矩陣&r 作為燃料。 \\n\\n模擬會產出 &e通用預測值&r（合成用）跟 &d怪物預測值&r。模型等級越高，模擬成功率就越高。這就是所謂的「掛機刷怪」。"]
+	quest.104EBBC08B4733F5.title: "&a虛擬殺戮工程"
+	quest.10E8BC20D406D9FB.quest_subtitle: "生產各種地獄材料"
+	quest.14B3542ECB59869C.quest_desc: ["&5物品合成機&r 幫你把怪物預測值變回戰利品。 \\n\\n給它電跟成功的預測值，你就能選你要什麼。機器會記住你的選擇，這才是真自動化。 \\n\\n範例： \\n- &d終界龍&r -> 龍蛋 \\n- &2殭屍&r -> 鐵錠 \\n- &0凋零怪&r -> &5下界之星"]
+	quest.14B3542ECB59869C.title: "虛空造物：&d戰利品"
+	quest.14F7F256DA863280.quest_subtitle: "生產各種暮色森林材料"
+	quest.2559201BCF5D497C.quest_subtitle: "生產各種主世界材料"
+	quest.34CD54347E9821B5.quest_desc: ["數據模型剛做出來是 &7垃圾 (Faulty)&r 等級。 \\n\\n你得先殺點怪幫它升級。至少要到 &a基礎 (Basic)&r 等級才能放進模擬艙。 \\n\\n把模型塞進深度學習機，螢幕會告訴你還要殺幾隻才能升職。這模型比你還愛學習。"]
+	quest.34CD54347E9821B5.title: "數據模型養成計畫"
+	quest.37EBB8E0D6E5F821.quest_desc: [
+		"&6模擬怪殺手 (HNN)&r 讓你不用蓋那些卡爆伺服器的刷怪場！ \\n\\n核心原理：收集怪物的數據，然後在電腦裡模擬殺牠們。這就是所謂的「科技殺怪」。"
+		"{image:atm:textures/questpics/hnn.png width:150 height:150 align:center}"
+	]
+	quest.37EBB8E0D6E5F821.title: "歡迎來到 &9模擬怪殺手 (HNN)!"
+	quest.3E3CBDCEAB0FF28F.quest_desc: ["&9深度學習機&r 是這模組的基本工具。 \\n\\n右鍵打開介面，可以塞 4 個數據模型。只要你帶著它去殺怪，它就會偷偷收集數據。 \\n\\n你可以帶好幾台，這樣殺一隻怪所有模型都能一起升級。效率生活！"]
+	quest.3E3CBDCEAB0FF28F.quest_subtitle: "學習用螢幕"
+	quest.3E3CBDCEAB0FF28F.title: "&a深度學習中"
+	quest.4092E914B24C52A7.quest_subtitle: "生產各種星光維度材料"
+	quest.58C2ABED43B2EA61.quest_desc: ["&9模型框架&r 是所有數據模型的起點。 \\n\\n做一個出來，對著你想模仿的怪按 &9右鍵&r。成功的話框架就會變成該怪物的數據模型。 \\n\\n然後把它塞進學習機去瘋狂殺怪吧！"]
+	quest.58C2ABED43B2EA61.quest_subtitle: "「數據採集」"
+	quest.58C2ABED43B2EA61.title: "&9怪物建模工程"
+	quest.5A23107C363A209E.quest_subtitle: "生產各種終界材料"
+	task.15D2A03410859443.title: "不準偷拿 (版權所有)"
+	task.6B580F95A2E5A465.title: "不準偷拿 (版權所有)"
+	task.7F17E48ACE65C84E.title: "數據模型"
+}
