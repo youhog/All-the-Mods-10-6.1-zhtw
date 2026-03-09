@@ -1,4 +1,4 @@
-name: 翻譯檢查
+name: Translation Check
 
 on:
   pull_request:
@@ -14,73 +14,58 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: 檢出程式碼
+      - name: Checkout
         uses: actions/checkout@v4
 
-      - name: 安裝 Python
+      - name: Setup Python
         uses: actions/setup-python@v5
         with:
-          python-version: "3.x"
+          python-version: "3.11"
 
-      - name: 檢查 JSON 語法
+      - name: JSON syntax check
         run: |
-          echo "檢查 JSON 語法"
           find overrides -name "*.json" -exec python3 -m json.tool {} > /dev/null \;
 
-      - name: 檢查翻譯缺失
+      - name: Translation analysis
         run: |
           python3 - <<PY
 import json, os, sys
 
-missing = False
+keys=set()
+dup=set()
+empty=0
+total=0
 
-for root, dirs, files in os.walk("overrides"):
+for root,_,files in os.walk("overrides"):
     for f in files:
         if f.endswith(".json"):
-            p = os.path.join(root, f)
+            path=os.path.join(root,f)
 
-            with open(p, encoding="utf-8") as file:
-                data = json.load(file)
+            with open(path,encoding="utf-8") as fp:
+                data=json.load(fp)
 
-            for k, v in data.items():
-                if isinstance(v, str) and v.strip() == "":
-                    print(f"缺少翻譯 {p} -> {k}")
-                    missing = True
+            for k,v in data.items():
+                total+=1
 
-if missing:
+                if k in keys:
+                    dup.add(k)
+                else:
+                    keys.add(k)
+
+                if isinstance(v,str) and v.strip()=="":
+                    empty+=1
+
+if dup:
+    print("Duplicate keys:")
+    for d in dup:
+        print(d)
+
+done=total-empty
+
+print("Total:",total)
+print("Translated:",done)
+print("Missing:",empty)
+
+if empty>0:
     sys.exit(1)
 PY
-
-      - name: JSON 排序
-        run: |
-          python3 - <<PY
-import json, os
-
-for root, dirs, files in os.walk("overrides"):
-    for f in files:
-        if f.endswith(".json"):
-            p = os.path.join(root, f)
-
-            with open(p, encoding="utf-8") as file:
-                data = json.load(file)
-
-            with open(p, "w", encoding="utf-8") as file:
-                json.dump(data, file, indent=2, ensure_ascii=False, sort_keys=True)
-                file.write("\n")
-PY
-
-      - name: 翻譯完成度統計
-        run: |
-          TOTAL=$(grep -roh ':' overrides | wc -l)
-          EMPTY=$(grep -roh '": ""' overrides | wc -l)
-
-          DONE=$((TOTAL-EMPTY))
-
-          echo "總字串: $TOTAL"
-          echo "已翻譯: $DONE"
-          echo "未翻譯: $EMPTY"
-
-          if [ "$TOTAL" -gt 0 ]; then
-            PERCENT=$((DONE*100/TOTAL))
-            echo "翻譯完成度: $PERCENT%"
-          fi
