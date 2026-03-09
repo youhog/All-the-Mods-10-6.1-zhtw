@@ -1,0 +1,59 @@
+{
+	quest.030AC1AF8F735550.quest_desc: ["想幫水槽加水？你需要管子。 \\n\\n水力幫浦可以自動幫忙，雖然速度慢到你想哭，但它是免費的。"]
+	quest.030AC1AF8F735550.title: "魔法管路"
+	quest.06B85804163DD18B.quest_desc: ["這是 XyCraft 的專屬箱子。 \\n\\n作者 Soaryn 設計的。這箱子有個特點：敲掉它，裡面的東西「不會」掉出來！這簡直是搬家神器。"]
+	quest.08E484DD3E751697.quest_subtitle: "彩虹裡的 B"
+	quest.08E484DD3E751697.title: "&b藍色寶石"
+	quest.0D01524F249E25D7.quest_subtitle: "是誰關了燈？"
+	quest.0D01524F249E25D7.title: "&8黑色寶石"
+	quest.15540271BF17C2E4.quest_desc: ["&l歡迎來到 XyCraft！&r\\n\\n這個模組包充滿了顏色跟機器。挖礦時記得找找這些亮晶晶的寶石。"]
+	quest.15540271BF17C2E4.title: "&lXyCraft 工業"
+	quest.16B4A00948D1F60D.quest_desc: ["這任務是由 &6ATM 員工&r 或某個 &2爆肝網友&r 寫的。如果你看得到這行，代表你現在正在窺視開發者的內心世界（編輯模式）。"]
+	quest.1A96C595CBA42840.quest_desc: ["Kivi 種子可以用來產出 Kivi 精華。這石頭是做機器的基礎材料。"]
+	quest.1A96C595CBA42840.title: "Kivi 自動化"
+	quest.1E00DBAACDF4404F.quest_desc: ["收集器就是個便宜的吸塵器。 \\n\\n它會自動把周圍 3 格內掉在地上的東西吸走。給它紅石訊號它就會乖乖休息。"]
+	quest.2278A98DCDF713D7.quest_desc: [
+		"是時候蓋座大水缸了！ \\n\\n規則如下： \\n1. 外框要用實心方塊。 \\n2. 牆壁可以用玻璃、閥門。 \\n3. 裡面必須是空的。 \\n4. 最大 13x13x13。 \\n\\n蓋好後拿手對著閥門按右鍵。如果看到「已成型」，恭喜你蓋出一座違建...喔不，是水缸！"
+	]
+	quest.2278A98DCDF713D7.title: "&l超級水缸"
+	quest.2AC7BC448C007BDB.quest_desc: ["把 Kivi 加上鋁錠，你就得到了機器機殼。這是邁向工業化的第一步。"]
+	quest.2B5E14A47062F83C.quest_subtitle: "彩虹裡的 R"
+	quest.2B5E14A47062F83C.title: "&c紅色寶石"
+	quest.2C4ECA4F5B1639F4.quest_desc: ["這光源雖然不亮，但它有個神功能： \\n\\n在它周圍 32 格內「不准生怪」！這就是所謂的防怪結界。"]
+	quest.2C4ECA4F5B1639F4.title: "&f避邪光場"
+	quest.2C7D62231AD6406A.quest_desc: ["XyCraft 的液體存儲非常強大。"]
+	quest.2C7D62231AD6406A.title: "&b液體管理工程"
+	quest.355244420EA47546.quest_desc: ["合成機就是自動化工作台。 \\n\\n鎖定好配方，給它材料，它就源源不絕地產出。記得要幫它接好管子把東西領走。"]
+	quest.355244420EA47546.quest_subtitle: "自動合成機"
+	quest.39E4FC9BA89E44BC.quest_desc: ["這氣球是早期的飛行方案。 \\n\\n把它插在地上，你就會像被氣球吊著一樣飛起來。 \\n\\n警告：別飛太遠，線斷了你會摔成肉餅。"]
+	quest.39E4FC9BA89E44BC.quest_subtitle: "天外奇蹟"
+	quest.3E970E76372AB094.quest_desc: ["加速耕地。自動灌溉、產量翻倍。這才是專業農夫該用的地。"]
+	quest.3E970E76372AB094.title: "&2高速耕地"
+	quest.3F68BA498E877C8C.quest_subtitle: "彩虹裡的 G"
+	quest.3F68BA498E877C8C.title: "&a綠色寶石"
+	quest.43F08B510FC1C06F.quest_desc: ["物品接口幫你把東西搬進搬出水缸。進出模式可以手動調整。"]
+	quest.43F08B510FC1C06F.quest_subtitle: "物流進出口"
+	quest.43F08B510FC1C06F.title: "物品接口"
+	quest.4A92237E17ED5F1C.quest_desc: ["虛空容器：把任何箱子變成垃圾桶。一放上去，裡面的東西通通不見。"]
+	quest.5E1D4169C083ACEF.quest_desc: ["點火板。給電就噴火，沒電就滅火。做自動化烤雞場的好東西。"]
+	quest.5E1D4169C083ACEF.title: "&c點火裝置"
+	quest.623E6A855B363C8D.quest_desc: ["這方塊就是靜止的水。 \\n\\n能灌溉、能生圓石，但你沒辦法在上面做 MLG 接地。魚游進去也會淹死（？）。"]
+	quest.623E6A855B363C8D.quest_subtitle: "固體水？是冰嗎？"
+	quest.623E6A855B363C8D.title: "&9靜止水塊"
+	quest.643FB1A3ED0EA9EC.quest_desc: ["閥門是水缸的心臟。管子接這就對了。"]
+	quest.643FB1A3ED0EA9EC.quest_subtitle: "水流量控制"
+	quest.643FB1A3ED0EA9EC.title: "液體閥門"
+	quest.64D0D69ADB8820DA.quest_desc: ["這方塊是水的剋星。放下去後周圍的水通通消失。"]
+	quest.64D0D69ADB8820DA.title: "&8液體黑洞"
+	quest.69F11A94D44AB5CF.quest_subtitle: "太亮了！"
+	quest.69F11A94D44AB5CF.title: "&f白色寶石"
+	quest.6D0876A402C22067.quest_desc: ["XyCraft 也有一些不錯的物品管理方案。"]
+	quest.6D0876A402C22067.title: "&6物品管理工程"
+	quest.71D133BA3EC6F4FD.quest_desc: ["提取器會「種出」它腳下的方塊。 \\n\\n你可以用它來做全自動圓石機、紫水晶機、甚至是龍蛋機！這效率連 AE2 都要叫爸爸。"]
+	quest.71D133BA3EC6F4FD.quest_subtitle: "瘋狂種石頭！"
+	quest.7574A782DCFB87CE.quest_desc: ["Kivi 既是建材也是機器零件。 \\n\\n配合切石機，你可以做出上百種裝飾方塊。"]
+	quest.7574A782DCFB87CE.title: "&l&7Kivi 石"
+	task.4EEF358CAC170CC4.title: "各式寶石"
+	task.55DD09212E3DB168.title: "魔法管路"
+	task.706FA543A6C675D3.title: "不準偷拿 (版權所有)"
+}

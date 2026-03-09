@@ -1,0 +1,175 @@
+{
+	quest.00DB5495C3A44999.quest_desc: ["對著容器按 Shift+右鍵可以直接清空。懶人搬家必備。"]
+	quest.0108F3EFDFD6DFD0.quest_desc: ["存儲連結器可以跨過沒連上的地方。 \\n\\n這讓你不用在那邊一格一格接抽屜，只要在 14 格內，通通都能連回同一個控制器。這招叫「魔法 WiFi 物流」。"]
+	quest.019CA0E35F888222.quest_subtitle: "更多過濾選項"
+	quest.019CA0E35F888222.title: "&e高級補貨升級"
+	quest.0298A17C2AAC5765.quest_desc: ["把背包單格堆疊上限翻 8 倍！"]
+	quest.0298A17C2AAC5765.title: "&b堆疊升級三階"
+	quest.037415D5B965E214.quest_desc: ["幫背包上個 Buff，讓它變成「不可破壞」。畢竟沒人想看到家產跟著背包一起被火燒光。"]
+	quest.0682DC1F2417DAEB.quest_desc: ["功能性存儲 (Functional Storage) 是 Storage Drawers 的遠親。 \\n\\n它是搬運幾萬個圓石或泥土的最佳選擇。強烈建議跟 AE2 連動使用。"]
+	quest.0682DC1F2417DAEB.quest_subtitle: "抽屜模組的遠房親戚"
+	quest.0682DC1F2417DAEB.title: "功能性存儲"
+	quest.072FBEB0F6F1BC48.quest_desc: ["這根棒子用來連結抽屜。 \\n\\n先點控制器，再點抽屜。連上的抽屜會發光提醒你。這就是組網的過程。"]
+	quest.0CD04A00529FE1C9.quest_desc: ["銅箱子只是個過渡。除非你真的很缺鐵，不然窩建議直接做鐵箱子。"]
+	quest.0CD04A00529FE1C9.title: "&6銅製箱子"
+	quest.0D4C64DD58567758.quest_desc: ["幫背包加個水箱。現在你可以邊走路邊裝水了。"]
+	quest.0E057B7F76401421.quest_subtitle: "第一次升級"
+	quest.0E057B7F76401421.title: "&6銅製背包"
+	quest.0E0CAA31480EC0A1.quest_desc: ["穿上它，路過的掉落物通通都會被吸進包包。"]
+	quest.0E0CAA31480EC0A1.quest_subtitle: "自動撿寶"
+	quest.0E5AE195158CF344.quest_subtitle: "32 倍儲存加成"
+	quest.0E5AE195158CF344.title: "&d獄髓級升級"
+	quest.110D27EA86CDA62B.quest_desc: ["內建磁鐵。範圍雖然不大但很實用。"]
+	quest.11D4EEAC61C7E530.quest_desc: ["收集器升級：讓抽屜像吸塵器一樣把旁邊掉地上的東西吸進去。"]
+	quest.11D57C768032E3F7.quest_subtitle: "更多過濾選項"
+	quest.11D57C768032E3F7.title: "&e高級磁鐵升級"
+	quest.122FBF5110E4CFF2.quest_desc: ["鐵級降級模組：強行把抽屜容量限制在 1 疊。 \\n\\n這在控制自動化產線的庫存時超好用。避免你做出一億個沒用的活塞塞爆電腦。"]
+	quest.1310C1E14C259807.quest_desc: ["想讓抽屜偽裝成牆壁嗎？ \\n\\n用這個框架抽屜吧！你可以塞進任何方塊的貼圖。這招叫「隱形儲存」。"]
+	quest.134608BB2B04D96E.quest_desc: ["最經典的 27 格箱子。雖然很廢，但它是所有偉大工程的起點。"]
+	quest.134608BB2B04D96E.quest_subtitle: "那個箱子"
+	quest.134608BB2B04D96E.title: "原版存儲"
+	quest.156FF8B7B724DC38.quest_desc: ["幫進出口加個過濾清單。別讓石頭塞滿了你的藥水包。"]
+	quest.15CD4BFDC56E9510.quest_subtitle: "更多過濾選項"
+	quest.15CD4BFDC56E9510.title: "&e高級工具切換升級"
+	quest.1659A59303C15CC9.quest_desc: ["木桶跟箱子一樣大，但它不能變大箱。不過它在裝潢上很有用。"]
+	quest.17DC77F7F8C68AE6.quest_desc: ["垃圾桶是用來毀屍滅跡的。 \\n\\n不管是物品、液體還是電力，通通都能刪得乾乾淨淨。這叫「環保大掃除」。"]
+	quest.17DC77F7F8C68AE6.quest_subtitle: "處理那些沒用的廢物"
+	quest.17DC77F7F8C68AE6.title: "垃圾桶"
+	quest.1985CFD1F0425E88.quest_subtitle: "更多過濾選項"
+	quest.1985CFD1F0425E88.title: "&e高級撿取升級"
+	quest.19DFAEB6D88F3580.quest_desc: ["推動器升級：讓抽屜自動把東西噴到旁邊的箱子。"]
+	quest.1A4B1CA7EC15348E.quest_desc: [
+		"終界抽屜就是「抽屜版的終界箱」。 \\n\\n兩個連上的抽屜會同步內容。你可以一邊在礦坑挖，一邊讓家裡的 AE 系統直接讀到礦石。這才是真的科幻。 "
+	]
+	quest.1A4B1CA7EC15348E.quest_subtitle: "跨維度抽屜..."
+	quest.1A739D36D5E3B1AD.quest_subtitle: "更多過濾選項"
+	quest.1A739D36D5E3B1AD.title: "&e高級自動餵食升級"
+	quest.1B72E95569B07E18.quest_subtitle: "24 倍儲存加成"
+	quest.1B72E95569B07E18.title: "&b鑽石級升級"
+	quest.1CACE201C6AA0913.quest_desc: ["虛空升級：滿了就直接刪掉。 \\n\\n對付刷石機必備，不然你家會被圓石淹沒。"]
+	quest.1CD2C6AFD788C35E.quest_desc: ["自動幫你把物品壓成 2x2（例如螢石粉變螢石塊）。省下你自己合成的手續。"]
+	quest.1E499F94A2A193E1.quest_desc: ["把高爐的功能裝進包包。隨時隨地燒礦。"]
+	quest.1FE052F643401232.quest_desc: ["所有背包升級的基底。建議多做幾組備用。"]
+	quest.1FE052F643401232.quest_subtitle: "升級模組的地基"
+	quest.1FE17B1C7C639F88.quest_desc: [
+		"存儲控制器是抽屜網的「大腦」。 \\n\\n你可以把它連到 AE2 或 ID 網路。它會變成整個抽屜牆的進出口。 \\n\\n只要抽屜貼著控制器（或是貼著別的抽屜），通通都能連成一體。最遠 14 格。這範圍已經夠你蓋一面牆了。"
+	]
+	quest.209DC1E9AD4C5A84.quest_desc: ["這任務是由 &6ATM 員工&r 或某個 &2爆肝網友&r 寫的。如果你看得到這行，代表你現在正在窺視開發者的內心世界（編輯模式）。"]
+	quest.25AFD10D008DF30B.quest_desc: ["終界箱是跨維度存儲的鼻祖。雖然只有 27 格，但它能救你的命。"]
+	quest.26988E22BD019628.quest_desc: ["自動化高爐。給它電或燃料，它就在包包裡默默耕耘。"]
+	quest.26988E22BD019628.quest_subtitle: "全自動"
+	quest.26988E22BD019628.title: "&e自動高爐升級"
+	quest.26A9F402DAE15EA2.quest_desc: ["把煙燻機裝進包包。牛排香噴噴！"]
+	quest.2746575C929B6C50.quest_desc: ["抽屜有三種格數。越多格單格存越少。 \\n\\n建議放圓石的用 1x1，放各種礦石的用 2x2。這叫精確分類。"]
+	quest.2746575C929B6C50.quest_subtitle: "一疊又一疊"
+	quest.2B422B7E0CE3590D.quest_desc: ["壓縮抽屜會自動幫你換算錠、塊跟粒。 \\n\\n放 9 個錠進去，你可以領 1 個塊出來。這簡直是數學天才。"]
+	quest.2B422B7E0CE3590D.quest_subtitle: "自動壓縮/解壓縮"
+	quest.2F9B0C642A6BE30C.title: "&f鐵製背包"
+	quest.2FC15D3916DBF4E4.quest_subtitle: "更多過濾選項"
+	quest.2FC15D3916DBF4E4.title: "&e高級虛空升級"
+	quest.33882172DA8021F6.quest_desc: ["自動補貨：如果身上東西沒了，包包會自動幫你補滿。這招叫「彈藥補充」。"]
+	quest.33AADC1B97E9F7A9.quest_desc: ["裝了箱子的礦車。沒啥好說的，鐵道玩家的回憶。"]
+	quest.36BCE35215B2B6E9.quest_desc: ["自動化煙燻機。適合給那些懶得停下來吃飯的冒險者。"]
+	quest.36BCE35215B2B6E9.quest_subtitle: "全自動"
+	quest.36BCE35215B2B6E9.title: "&e自動煙燻升級"
+	quest.38F9E9A830D3EA0C.quest_desc: ["液體抽屜！終於能把那幾百萬桶的水跟岩漿存起來了。 \\n\\n用法跟普通抽屜一樣，只是裡面裝的是液體。"]
+	quest.3A1D07AED2A841E4.quest_desc: ["自動化熔爐。這就是隨身工廠。"]
+	quest.3A1D07AED2A841E4.quest_subtitle: "全自動"
+	quest.3A1D07AED2A841E4.title: "&e自動熔煉升級"
+	quest.3B570B3DB5F6D2CB.quest_subtitle: "16 倍儲存加成"
+	quest.3B570B3DB5F6D2CB.title: "&e黃金級升級"
+	quest.3D5852E6D0ADF651.title: "虛擬維度存儲"
+	quest.3E33730DC2115D26.title: "&e黃金箱子"
+	quest.4007DFA7CC3A5FF2.quest_desc: ["這模組的升級多到會擋住整個視窗。 \\n\\n不管是存儲、合成還是功能性升級，通通在這邊。記得選好你的等級。"]
+	quest.4007DFA7CC3A5FF2.quest_subtitle: "升級模組的地基"
+	quest.45268A619787288F.title: "&e黃金背包"
+	quest.46D756F4DC6CC894.title: "&d獄髓級背包"
+	quest.485D5664A17E16DF.quest_subtitle: "8 倍儲存加成"
+	quest.485D5664A17E16DF.title: "&6銅製升級"
+	quest.4A854CD5EC70733E.quest_desc: ["在包包裡裝個工作台。現在你就是行動合成機。"]
+	quest.4B62AF0405F68041.quest_desc: ["讓包包自動幫你把身上的垃圾清掉。對著箱子按 Shift+右鍵就能設定。"]
+	quest.4B62AF0405F68041.quest_subtitle: "滿員警告"
+	quest.4C0BDD483CCB40C4.title: "&b鑽石箱子"
+	quest.4C0EAB9F795686D0.quest_subtitle: "更多過濾選項"
+	quest.4C0EAB9F795686D0.title: "&e高級寄存升級"
+	quest.4C2A60FC1F1E0328.quest_desc: ["幫包包裝個電池。可以幫你手上的工具充電。"]
+	quest.4E4C8BCD45766F03.quest_desc: ["自動換算塊跟錠。強迫症的最佳解藥。"]
+	quest.4E4C8BCD45766F03.quest_subtitle: "自動壓縮/解壓縮"
+	quest.508A8366219175FE.quest_desc: ["鎖定抽屜：讓抽屜記住這個東西。 \\n\\n就算東西拿光了，格子也不會變空位。這在組建自動化網絡時超重要。"]
+	quest.52672B7FFFD51D16.quest_desc: ["幫包包裝個切石機。蓋房子的好幫手。"]
+	quest.53F861876B991C36.quest_desc: ["邊走邊聽音樂！心情愉悅，刷怪更有勁。"]
+	quest.53F861876B991C36.quest_subtitle: "音樂起...嗨起來！"
+	quest.544791880F315D5A.quest_desc: ["裝了箱子的船。適合在初期搬運大量物資。"]
+	quest.56B80A7EBFE21428.quest_subtitle: "更多過濾選項"
+	quest.56B80A7EBFE21428.title: "&e高級液體幫浦升級"
+	quest.57CF8C6C867B9BDA.quest_subtitle: "更多過濾選項"
+	quest.57CF8C6C867B9BDA.title: "&e高級過濾升級"
+	quest.58514FDE153FD971.quest_subtitle: "要變鐵箱了嗎？"
+	quest.58514FDE153FD971.title: "&f鐵製箱子"
+	quest.5A94A2664BFDD7B9.quest_desc: ["歡迎來到基礎存儲章節！ \\n\\n這裡有各種不耗電的存儲方案。幫你的違建找個好位子放箱子吧。"]
+	quest.5A94A2664BFDD7B9.title: "基礎存儲指南"
+	quest.5E4BC0F59C90433A.quest_desc: ["精緻存儲 (Sophisticated Storage) 讓你的木桶跟箱子能變強！ \\n\\n加點金屬，空間直接翻倍。還能塞各種功能模組。這才是 21 世紀的箱子。"]
+	quest.5E4BC0F59C90433A.quest_subtitle: "「原版箱子」"
+	quest.5E4BC0F59C90433A.title: "精緻存儲"
+	quest.5E4FE420B6D2C97F.quest_desc: ["幫你把東西壓成 3x3（例如金粉變金錠）。省空間的神器。"]
+	quest.5E4FE420B6D2C97F.quest_subtitle: "更多過濾選項"
+	quest.5E4FE420B6D2C97F.title: "&e高級壓縮升級"
+	quest.5FA9BC0D8476D322.quest_desc: ["自動餵食：當你肚子餓的時候，包包會自動把牛排塞進你嘴裡。窩就說這模組是懶人設計的吧。"]
+	quest.615B9062FE8CCD36.quest_desc: ["自動換工具：看著石頭拿鎬子，看著樹木拿斧頭。再也不用手動切換快捷列了。"]
+	quest.61A22707DBC83818.quest_desc: ["存儲連接口就像控制器的代理人。 \\n\\n你可以在不同的位子擺這個點，方便管路進出。"]
+	quest.668C313FF46B6005.quest_desc: ["把普通熔爐裝進包包。"]
+	quest.67704F7341EDCC49.title: "&b鑽石級背包"
+	quest.696E063016CAD1B9.quest_desc: ["把 Chipped 裝潢桌通通塞進包包。隨時隨地改裝修！"]
+	quest.6A2B2C5E2ADCE366.quest_desc: ["精緻背包是全 Pack 最強的包包模組。 \\n\\n可以升級、可以染色、還能塞進飾品欄。這就是你冒險的最佳夥伴。"]
+	quest.6A2B2C5E2ADCE366.quest_subtitle: "包包總是不夠大"
+	quest.6A2B2C5E2ADCE366.title: "精緻背包"
+	quest.6E3D53D1C4569A89.quest_desc: ["自動吸取經驗值！這功能超香，特別是你要去刷怪的時候。"]
+	quest.6E3D53D1C4569A89.quest_subtitle: "經驗儲蓄"
+	quest.6E3D53D1C4569A89.title: "&a經驗吸取升級"
+	quest.6E9041744C592573.quest_desc: ["配合水箱使用，幫你自動抽水或放水。"]
+	quest.6FBAE89EE782DABA.quest_subtitle: "抽屜的大腦"
+	quest.70902EF96F060672.quest_desc: ["紅石升級：讓抽屜根據滿載程度發射訊號。 \\n\\n這在蓋那種「滿了自動停機」的自動化產線時很有用。"]
+	quest.7649D648A3688D4A.quest_desc: ["吸取器升級：自動從旁邊的箱子搶東西進來。"]
+	quest.77F241BEE9902751.quest_desc: ["精緻存儲系列的頂點。空間多到你想哭。"]
+	quest.77F241BEE9902751.quest_subtitle: "裝下一座山都不是問題"
+	quest.77F241BEE9902751.title: "&d獄髓級箱子"
+	quest.785951190FFDAA21.quest_desc: ["單格上限翻 4 倍！"]
+	quest.785951190FFDAA21.title: "&e堆疊升級二階"
+	quest.78E51D22C16C4686.quest_desc: ["控制器也支援無線連線！ \\n\\n拿把連接杖，點一下控制器，再點一下幾十格外的箱子。連上了！這就是高科技。"]
+	quest.7AE3C8134F5ED726.quest_desc: ["單格上限翻 16 倍！這已經是黑洞等級了。"]
+	quest.7AE3C8134F5ED726.title: "&d堆疊升級四階"
+	quest.7C07D6A33F7ADB02.quest_desc: ["把你的包包塞進另一個包包裡。 \\n\\n這樣你就有包包包包包包...好了別玩了，小心崩檔。"]
+	quest.7C07D6A33F7ADB02.quest_subtitle: "背包套娃？"
+	quest.7C0F7A1B3AB9A1A1.quest_subtitle: "更多過濾選項"
+	quest.7C0F7A1B3AB9A1A1.title: "&e高級自動補充升級"
+	quest.7E9E03274A88347D.quest_desc: ["單格上限翻 2 倍。新手必備。"]
+	quest.7E9E03274A88347D.title: "&f堆疊升級一階"
+	quest.7EF57BBEAA4B6B08.quest_desc: [
+		"想玩虛擬存儲（AE2）嗎？ \\n"
+		"在那之前，窩們要聊聊 &eNBT 物品&r。 \\n\\n"
+		"NBT 物品就是帶有額外資料的東西（例如有附魔的劍、沒電的鑽頭）。這些東西不能疊加。 \\n"
+		"如果你把幾萬把這種劍塞進 AE2，你的存檔或是伺服器絕對會卡死給你看。 \\n\\n"
+		"所以請務必把它們存在「普通箱子」或是「背包」裡！別挑戰伺服器的極限。"
+	]
+	quest.7EFBFF5D0DA018E7.quest_desc: ["過濾不想要的東西直接刪掉。對付圓石跟泥土的好幫手。"]
+	quest.7EFBFF5D0DA018E7.quest_subtitle: "自動垃圾處理"
+	quest.7F990FBC1A691020.quest_desc: ["陷阱箱打開會噴紅石訊號。適合用來整那些愛翻你箱子的損友。"]
+	quest.7F990FBC1A691020.quest_subtitle: "「窩看看裡面有啥？」"
+	task.00ED02255105A973.title: "鑽石箱子"
+	task.0427B441A750316F.title: "黃金箱子"
+	task.073D1C45B3018BBA.title: "箱子"
+	task.14FA4A933C39A406.title: "箱子船"
+	task.1809DDEA104A9CE8.title: "不準偷拿 (版權所有)"
+	task.200CE35BF3C04F6F.title: "銅製箱子"
+	task.21FBC4E0F668347C.title: "NBT 與你"
+	task.26A85DCA60F71DFF.title: "液體抽屜"
+	task.2E04D0F6EEABE677.title: "抽屜"
+	task.301665A6315B569C.title: "存儲控制器"
+	task.349B2DA0A38AE9B5.title: "框架抽屜"
+	task.34B6EB0B801E4743.title: "獄髓箱子"
+	task.49F46466DB8EDD61.title: "鐵製箱子"
+	task.51CC9A8E36385400.title: "箱子"
+	task.593CD1E685B4DDAA.title: "Chipped 升級"
+	task.5DEBE38C614EFBB4.title: "不準偷拿 (版權所有)"
+	task.6205B6B93B306A12.title: "箱子"
+}
