@@ -1,0 +1,86 @@
+name: 翻譯檢查
+
+on:
+  pull_request:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: read
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - name: 檢出程式碼
+        uses: actions/checkout@v4
+
+      - name: 安裝 Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: 檢查 JSON 語法
+        run: |
+          echo "檢查 JSON 語法"
+          find overrides -name "*.json" -print -exec python3 -m json.tool {} > /dev/null \;
+
+      - name: 檢查翻譯缺失
+        run: |
+          python3 << 'EOF'
+import json, os, sys
+
+missing=False
+
+for root,dirs,files in os.walk("overrides"):
+    for f in files:
+        if f.endswith(".json"):
+            p=os.path.join(root,f)
+
+            data=json.load(open(p))
+
+            for k,v in data.items():
+                if isinstance(v,str) and v.strip()=="":
+                    print(f"缺少翻譯 {p} -> {k}")
+                    missing=True
+
+if missing:
+    sys.exit(1)
+EOF
+
+      - name: JSON 排序
+        run: |
+          python3 << 'EOF'
+import json, os
+
+for root,dirs,files in os.walk("overrides"):
+    for f in files:
+        if f.endswith(".json"):
+            p=os.path.join(root,f)
+
+            with open(p) as file:
+                data=json.load(file)
+
+            with open(p,"w") as file:
+                json.dump(data,file,indent=2,ensure_ascii=False,sort_keys=True)
+                file.write("\n")
+EOF
+
+      - name: 翻譯完成度統計
+        run: |
+          TOTAL=$(grep -roh '"' overrides | wc -l)
+          EMPTY=$(grep -roh '": ""' overrides | wc -l)
+
+          DONE=$((TOTAL-EMPTY))
+
+          echo "總字串: $TOTAL"
+          echo "已翻譯: $DONE"
+          echo "未翻譯: $EMPTY"
+
+          if [ "$TOTAL" -gt 0 ]; then
+            PERCENT=$((DONE*100/TOTAL))
+            echo "翻譯完成度: $PERCENT%"
+          fi
