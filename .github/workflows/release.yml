@@ -55,6 +55,12 @@ jobs:
             echo "version=dev-$(date +'%Y%m%d-%H%M')" >> $GITHUB_OUTPUT
           fi
 
+      - name: 更新 README 版本資訊
+        run: |
+          # 將 README 中的 vX.X.X 佔位符替換為當前版本號
+          sed -i "s/vX.X.X/${{ steps.vars.outputs.version }}/g" README.md
+        shell: bash
+
       - name: 製作全套補丁 Zip (Overrides)
         run: |
           zip -r "ATM10_Full_Patch_${{ steps.vars.outputs.version }}.zip" overrides manifest.json pack.mcmeta
