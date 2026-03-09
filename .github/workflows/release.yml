@@ -87,6 +87,7 @@ jobs:
         if: startsWith(github.ref, 'refs/tags/v')
         uses: softprops/action-gh-release@v2
         with:
+          generate_release_notes: true
           files: |
             ATM10_Full_Patch_${{ steps.vars.outputs.version }}.zip
             ATM10_ZHTW_Mod_${{ steps.vars.outputs.version }}.jar
@@ -94,16 +95,10 @@ jobs:
           body: |
             ## 🚀 ATM-10 繁體中文北爛化補丁 ${{ steps.vars.outputs.version }}
             
-            ### 📦 下載說明：
-            1. **ATM10_ZHTW_Mod.jar**: 丟入 `mods` 資料夾即可 (推薦使用此方式，最乾淨)。
-            2. **ATM10_Quests_Only.zip**: 僅包含任務書翻譯，解壓後蓋掉遊戲根目錄的 `config` 資料夾。
-            3. **ATM10_Full_Patch.zip**: 完整覆蓋包，包含所有檔案。
+            ### 📦 安裝教學
+            請參考 [README.md](https://github.com/${{ github.repository }}#-%E5%AE%89%E8%A3%9D%E8%AA%AA%E6%98%8E-installation) 獲取詳細安裝步驟。
             
-            ### 🛠️ 更新內容：
-            - ✅ **任務書 100% 完成**：全 50+ 章節北爛化翻譯。
-            - ✅ **模組介面 100% 完成**：核心工業、魔法模組繁中化。
-            - ✅ **腳本修正 100% 完成**：KubeJS 自定義物品名稱中文化。
-            - ✅ **CI/CD 優化**：自動語法檢查與多格式打包。
+            ### 🛠️ 本次更新重點 (Automated Changelog Below)
           draft: false
           prerelease: false
         env:
