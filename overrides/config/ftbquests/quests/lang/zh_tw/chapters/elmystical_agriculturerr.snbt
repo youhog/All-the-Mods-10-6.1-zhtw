@@ -1,0 +1,277 @@
+{
+	quest.01C169A7FA424F6E.quest_subtitle: "等級： &a2"
+	quest.02D45E3FB37ED0AD.quest_subtitle: "等級： &63"
+	quest.04A7AA70C23830FF.quest_desc: ["鐮刀是用來大面積除草的工具。它能一次幫你把周圍的雜草都拔光，非常適合懶人。"]
+	quest.04B6E31120663EB2.quest_subtitle: "等級： &a2"
+	quest.0591CAFD665CE151.quest_subtitle: "等級： &b4"
+	quest.06A7A3FC8634D2DA.quest_subtitle: "等級： &c5"
+	quest.06EAA74E0A10CBB6.quest_subtitle: "範圍： &b36&r 格"
+	quest.06EAA74E0A10CBB6.title: "&9帝髓催生器 (Imperium Growth Accelerator)"
+	quest.07564DBB023EE2A6.quest_subtitle: "等級： &b4"
+	quest.07751E1BE48C6024.quest_subtitle: "等級： &b4"
+	quest.077B2D62FA7650FB.quest_subtitle: "範圍： &627&r 格"
+	quest.077B2D62FA7650FB.title: "&c泰髓催生器 (Tertium Growth Accelerator)"
+	quest.07CC809B6482AB09.quest_subtitle: "等級： &a2"
+	quest.09282E3864752CEE.quest_subtitle: "等級： &63"
+	quest.092A23FDA5D50812.quest_subtitle: "等級： &a2"
+	quest.0A8F44B9B3C8FC0F.quest_subtitle: "等級： &63"
+	quest.0AF5FB1B5AA5AA11.quest_subtitle: "等級： &b4"
+	quest.0B37355262121DD5.quest_desc: ["&a注魔祭壇&r 是你搞出所有種子的源頭。先把祭壇擺好，它會貼心地告訴你旁邊的基座該放哪裡。\\n\\n想讓它動起來？記得給它一點 &4紅石訊號&r，不然它會裝死。"]
+	quest.0B37355262121DD5.quest_subtitle: "創造種子的邪教儀式"
+	quest.0B37355262121DD5.title: "&4注魔祭壇"
+	quest.0BE6CE2C264140AD.quest_subtitle: "等級： &a2"
+	quest.0E1ABCAA87120367.quest_subtitle: "等級： &c5"
+	quest.0EFEDB0DD90DFC81.quest_desc: ["收割機可以自動幫你收割並重新種下作物。收割到的東西會塞進它肚子裡的物品欄。懶人福音再+1。"]
+	quest.10098A4B38BBF0B1.quest_subtitle: "等級： &a2"
+	quest.13124A7E22999850.quest_subtitle: "等級： &e1"
+	quest.140DADB32EF10D58.quest_desc: ["龍蛋種子很嬌貴，必須在農田正下方放一個「龍蛋核心 (Dragon Egg Crux)」它才肯長大。"]
+	quest.140DADB32EF10D58.quest_subtitle: "等級： &56"
+	quest.15279CAC2FFE6B35.quest_subtitle: "等級： &c5"
+	quest.155A843A562DB7C4.quest_subtitle: "等級： &63"
+	quest.15D764CAF047EA7A.title: "&c泰髓裝甲 (Tertium Armor)&r"
+	quest.1609BF52108238B0.quest_subtitle: "等級： &e1"
+	quest.1636F3F12E92CAEA.quest_desc: [
+		"想用澆水壺？先對著水源點右鍵把它裝滿。裝滿後，按住右鍵就能在你那可憐的作物上灑水，範圍內都有效果。"
+		""
+		"精華澆水壺有「自動灑水」的黑科技。只要拿著它對空氣 Shift + 右鍵，就能開關自動灑水。開啟時看起來像是被附魔了一樣，很瞎趴。"
+	]
+	quest.16E3031D800B40D5.quest_desc: ["魂髓生怪磚 (Soulium Spawner) 吃怪物精華來生怪。例如你塞給它一點地獄幽靈精華，它就會吐一隻地獄幽靈出來給你打。"]
+	quest.19AAC139177442C1.quest_subtitle: "等級： &63"
+	quest.19FFD64154AFC89D.quest_subtitle: "等級： &b4"
+	quest.1B700DB77B970E35.quest_subtitle: "等級： &b4"
+	quest.1C4ABF4518638A82.quest_desc: ["吃下去的Buff：\\n\\n - 傷害吸收 II (3:00)\\n - 速度 II (3:00)\\n - 傷害抗性 II (3:00)\\n - 生命恢復 II (3:00)\\n - 力量 II (3:00)"]
+	quest.1C4ABF4518638A82.title: "&4超髓蘋果 (Supremium Apple)"
+	quest.1CC4F8570A7A99EB.quest_desc: ["&d精華 (Essence)&r 是你在這模組裡爆肝種田的出發點。\\n\\n&e下界精華 (Inferium Essence)&r 是最底層的垃圾...我是說基礎資源。你可以挖礦、打怪或是種田來拿到它。\\n\\n想要把它升級成更高級的精華，你需要做一顆 &9注魔水晶 (Infusion Crystal)&r。"]
+	quest.1CC4F8570A7A99EB.quest_subtitle: "等級： &e1"
+	quest.1CC4F8570A7A99EB.title: "&a下界精華 (Inferium)"
+	quest.1CF8263756EE8F2A.quest_desc: ["這種特殊的 &e粉末&r 只有當你用附有「&d神祕啟蒙 (Mystical Enlightenment)&r」附魔的 &d精華武器&r 砍死凋零怪或終界龍時才會掉落。"]
+	quest.1CF8263756EE8F2A.title: "&5認知粉末 (Cognizant Dust)&r"
+	quest.1E0F92F07FDD162E.quest_desc: ["你需要 &b繁榮種子基底 (Prosperity Seed Bases)&r 才能搓出那些能種出資源的種子。"]
+	quest.1E0F92F07FDD162E.quest_subtitle: "這就是你的基礎"
+	quest.1E0F92F07FDD162E.title: "&b繁榮種子基底"
+	quest.1E2B363E3365A62F.quest_desc: ["Allthemodium 種子非常大牌，必須種在「魔法泥土 (Magical Soil)」上才肯長。"]
+	quest.1E2B363E3365A62F.quest_subtitle: "等級： &b魔法"
+	quest.1E414D285E7A5FE2.title: "&c泰髓工具 (Tertium Tools)"
+	quest.1E7DC8E0493BE99E.quest_subtitle: "等級： &e1"
+	quest.1F7591DB6D8EC1E7.quest_desc: ["吃下去的Buff：\\n\\n - 傷害吸收 II (3:00)\\n - 速度 II (3:00)\\n - 傷害抗性 II (3:00)\\n - 生命恢復 II (3:00)\\n - 力量 II (3:00)\\n - 急迫 II (3:00)"]
+	quest.1F7591DB6D8EC1E7.title: "&5極髓蘋果 (Insanium Apple)"
+	quest.1F88C697817A7680.quest_desc: ["吃下去的Buff：\\n\\n - 傷害吸收 II (3:00)"]
+	quest.1F88C697817A7680.title: "&a下界蘋果 (Inferium Apple)"
+	quest.1FF82E21F1C0C73B.quest_subtitle: "等級： &c5"
+	quest.202B1F54D3F06DAB.quest_desc: ["這是第 6 階精華，把 4 個超髓 (Supremium) 加上注魔水晶搓在一起就能得到。"]
+	quest.202B1F54D3F06DAB.quest_subtitle: "等級： &56"
+	quest.202B1F54D3F06DAB.title: "&5極髓精華 (Insanium)"
+	quest.212EF8601746C500.quest_desc: ["吃下去的Buff：\\n\\n - 傷害吸收 II (3:00)\\n - 速度 II (3:00)\\n - 傷害抗性 II (3:00)\\n - 生命恢復 II (3:00)"]
+	quest.212EF8601746C500.title: "&9帝髓蘋果 (Imperium Apple)"
+	quest.217DB12EA32E1724.quest_desc: ["你需要 &b注魔水晶&r 來幫種子和精華「升階」。例如，把水晶和 4 個下界精華合成，就會變成 1 個慎髓精華。\\n\\n晚點你可以做出一顆不會壞的終極水晶。"]
+	quest.217DB12EA32E1724.title: "&b注魔水晶"
+	quest.219A5BDA5A01A420.quest_desc: ["&4大師注魔水晶&r 的功用跟一般水晶一樣，但它永遠不會壞。用到你當阿公都不會壞。"]
+	quest.219A5BDA5A01A420.title: "&4大師注魔水晶"
+	quest.21A90474590FCDB8.quest_desc: ["這個「熔爐」是原版熔爐的強化版，可以安裝升級模組來飆車和省燃料。"]
+	quest.21A90474590FCDB8.title: "\"強力熔爐\""
+	quest.21F4CFF171246537.quest_subtitle: "等級： &b4"
+	quest.21F654C968722841.quest_subtitle: "等級： &b4"
+	quest.222739E77C745519.quest_subtitle: "等級： &b4"
+	quest.224CE21E56703F6E.quest_desc: ["這根法杖是用來啟動注魔祭壇的，拿著它對祭壇點右鍵就能開始儀式。"]
+	quest.224CE21E56703F6E.quest_subtitle: "你是一名巫師了，哈利！"
+	quest.224CE21E56703F6E.title: "&2法杖"
+	quest.22D0C3F454F5E8F1.quest_subtitle: "等級： &b4"
+	quest.23C36E4B5DCEBFDD.quest_desc: ["這任務是由 &6ATM 員工&r 或某個 &2爆肝網友&r 寫的。如果你看得到這行，代表你現在正在窺視開發者的內心世界（編輯模式）。"]
+	quest.248AEF5537E48B1A.quest_subtitle: "等級： &b4"
+	quest.2581B7D8E6C6E510.quest_subtitle: "等級： &63"
+	quest.25D84D82DBADA0DB.quest_subtitle: "等級： &b4"
+	quest.260F9C98DC2E485B.quest_subtitle: "等級： &b4"
+	quest.26A7746051A4A079.quest_subtitle: "等級： &63"
+	quest.2777FEB022346947.quest_subtitle: "等級： &a2"
+	quest.27A0BCE75F198A82.quest_subtitle: "等級： &e1"
+	quest.27E8ED4B5F8127F9.quest_subtitle: "等級： &b4"
+	quest.29AE69722AB4C75C.quest_subtitle: "等級： &a2"
+	quest.29D309F9740FAEEA.quest_subtitle: "等級： &c5"
+	quest.2A049419C78E96F4.quest_subtitle: "等級： &a2"
+	quest.2A2CC461B9620BDC.quest_subtitle: "等級： &a2"
+	quest.2A7E3F2CD335EAD0.quest_desc: ["想要穿上尊爵不凡的 &a精華裝備&r？你得先從下界裝甲 (Inferium Armor) 開始做起。\\n\\n這些裝備可以一路升級，就像精華一樣。你還可以在 &b修補台 (Tinkering Table)&r 幫它們加上 &9外掛 (Augment)&r！"]
+	quest.2A7E3F2CD335EAD0.title: "&a下界裝甲"
+	quest.2AECDD9E2DEA708C.quest_subtitle: "等級： &a2"
+	quest.2AFBE48DA832FF02.quest_subtitle: "等級： &c5"
+	quest.2B0553F307A024F7.quest_subtitle: "等級： &c5"
+	quest.2BC325DEBDD2F5CA.quest_desc: ["釩種子 (Vibranium Seeds) 需要種在「魔法泥土」上。"]
+	quest.2BC325DEBDD2F5CA.quest_subtitle: "等級： &b魔法"
+	quest.2C2EF4EBB3C9EAE3.quest_subtitle: "等級： &a2"
+	quest.2C73E3C5113BF2AC.quest_desc: ["Beep beep I'm a Sheep (如果你懂這首智障歌的話)"]
+	quest.2C73E3C5113BF2AC.quest_subtitle: "等級： &a2"
+	quest.2C9C9CB71941DC01.quest_desc: ["這是第 3 階精華，把 4 個慎髓加上注魔水晶搓在一起就能得到。"]
+	quest.2C9C9CB71941DC01.quest_subtitle: "等級： &63"
+	quest.2C9C9CB71941DC01.title: "&c泰髓 (Tertium)"
+	quest.2D0BA4183DCA2751.quest_subtitle: "等級： &a2"
+	quest.2DDA04088C8220D2.quest_desc: ["繁榮碎片是這模組的核心材料。去地下挖繁榮礦石 (Prosperity Ore) 吧。"]
+	quest.2DDA04088C8220D2.quest_subtitle: "我們總算能繁榮了嗎？"
+	quest.2DDA04088C8220D2.title: "&b繁榮碎片"
+	quest.2E37997A065A29F1.quest_subtitle: "等級： &c5"
+	quest.2FA6B8A1C8713DE0.quest_desc: ["要種植第 6 階或魔法種子，你必須在它們的農田正下方放對應的「核心 (Crux)」。沒有核心它死都不會長。"]
+	quest.2FA6B8A1C8713DE0.title: "&5極髓農田 (Insanium Farmland)"
+	quest.30DF8297FEEC9F22.quest_subtitle: "等級： &63"
+	quest.30E9255DEC69C061.title: "&4超髓工具 (Supremium Tools)"
+	quest.31A370550BD592B6.quest_desc: ["硝能水晶種子 (Nitro Crystal Seeds) 下方需要放硝能水晶核心。"]
+	quest.31A370550BD592B6.quest_subtitle: "等級： &56"
+	quest.31BAC57972148E1F.quest_subtitle: "等級： &a2"
+	quest.31EC6244E4A3CBD6.quest_subtitle: "等級： &b4"
+	quest.32B01BD789F0B037.quest_desc: ["覺醒超髓和其他高等精華可以用 &6生產蜜蜂 (Productive Bees)&r 模組來自動化農出來。讓蜜蜂幫你爆肝！"]
+	quest.32B01BD789F0B037.title: "自動化覺醒超髓"
+	quest.3339445194568D77.title: "&2慎髓工具 (Prudentium Tools)"
+	quest.3384308C78D86059.quest_subtitle: "等級： &a2"
+	quest.33D23C65E7274A8F.quest_desc: ["要覺醒你的超髓精華，你需要做一個新的覺醒祭壇、4 個新基座，以及 4 個 &c精華容器 (Essence Vessels)&r。\\n\\n精華容器裡面要裝滿基礎的元素精華：火、水、土、風。累死了對吧？"]
+	quest.33D23C65E7274A8F.title: "&d覺醒儀式&r"
+	quest.342D1FA0BCBB847A.quest_subtitle: "等級： &b4"
+	quest.37B297640F537383.quest_desc: ["未調諧擴充元件是用來在祭壇做各種升級模組的基底。有這東西你就能弄出 &e急迫&r、&1夜視&r、&b跌落傷害免疫&r、&6抗火&r，讓你變成人形神獸！"]
+	quest.37B297640F537383.title: "&f未調諧擴充元件"
+	quest.38A77DBAD24C4B53.quest_subtitle: "等級： &63"
+	quest.3AD4367855B3E595.quest_subtitle: "等級： &b4"
+	quest.3B884E05AE2EEBFC.quest_subtitle: "等級： &c5"
+	quest.3BB3AA6C29285837.quest_desc: ["吃下去的Buff：\\n\\n - 傷害吸收 II (3:00)\\n - 速度 II (3:00)"]
+	quest.3BB3AA6C29285837.title: "&2慎髓蘋果 (Prudentium Apple)"
+	quest.3C9F5EB59D72AC90.quest_desc: ["你需要一整塊的覺醒超髓錠方塊才能合成 &6ATM 之星&r。這是一個大坑。"]
+	quest.3DDB7C8E61BA048F.quest_subtitle: "等級： &a2"
+	quest.3E555B364FD88B43.quest_subtitle: "範圍： &c45&r 格"
+	quest.3E555B364FD88B43.title: "&4超髓催生器 (Supremium Growth Accelerator)"
+	quest.3EA2578C3A56FAE8.quest_desc: ["靈魂提取機 (Soul Extractor) 可以幫你把怪物的掉落物榨成靈魂裝進靈魂罐裡。比如塞腐肉進去，它就會榨出殭屍的靈魂。聽起來有點噁心。"]
+	quest.404AA0F5557D7E35.quest_desc: ["難得素種子 (Unobtainium Seeds) 需要魔法泥土才能生長。"]
+	quest.404AA0F5557D7E35.quest_subtitle: "等級： &b魔法"
+	quest.408D8B1CFBA22BAF.quest_desc: ["防凋零方塊、磚塊和玻璃有著超高防爆值，連凋零怪或終界龍都咬不破它。"]
+	quest.408D8B1CFBA22BAF.title: "&0防凋零方塊"
+	quest.409A92D40F539485.quest_subtitle: "等級： &e1"
+	quest.40B13424FA523E11.quest_subtitle: "等級： &a2"
+	quest.41D246E896BD791F.quest_subtitle: "等級： &63"
+	quest.41DBE44D7AA0B623.quest_desc: ["修補台 (Tinkering Table) 是用來把擴充元件硬塞進你精華裝備裡的地方！"]
+	quest.4221D6CDDF90DACB.quest_subtitle: "等級： &b4"
+	quest.44B22160850ACAB2.quest_desc: ["下界之星種子下方需要放下界之星核心才能生長。"]
+	quest.44B22160850ACAB2.quest_subtitle: "等級： &56"
+	quest.4526E151BAE88310.quest_subtitle: "等級： &e1"
+	quest.4530C14828C3D153.quest_subtitle: "等級： &b4"
+	quest.45549E52B3CE2D23.quest_desc: ["大鐮刀能一次收割一大片農田。而且拿來砍怪也滿痛的。"]
+	quest.47045A0E8E3457C2.quest_subtitle: "等級： &63"
+	quest.4821419D44F8083F.quest_desc: [
+		"&9催生器 (Growth Accelerators)&r 放在農田正下方，能些微加快種子的生長速度。每個等級能影響的「向上」範圍不同，最爛的下界級只能影響 9 格。"
+		""
+		"注意：所有等級的催生器給的生長速度加成「是一樣的」。高等級只是範圍比較大，所以你可以在一株植物下面疊更多顆催生器。只要在有效範圍內，你想塞哪一級都可以。"
+	]
+	quest.4821419D44F8083F.quest_subtitle: "範圍： &e9&r 格"
+	quest.4821419D44F8083F.title: "&a下界催生器"
+	quest.48BF71269DEA1AB1.title: "&4超髓農田"
+	quest.4A4C14AF947D93EF.quest_subtitle: "等級： &b4"
+	quest.4D8B82FBA0FFD49E.quest_subtitle: "等級： &63"
+	quest.4DF23FC932F5EB7D.quest_subtitle: "等級： &b4"
+	quest.4E09BBC0BAED3440.quest_subtitle: "等級： &c5"
+	quest.4E7990AEBCCC3C95.quest_subtitle: "等級： &b4"
+	quest.4EB7245727EE1EF9.quest_subtitle: "等級： &63"
+	quest.4EF5DE3FBA2A7AE3.quest_desc: ["從下界精華開始，你就可以把它們壓成錠，用來做精華 &9工具&r 和 &9裝甲&r。\\n\\n精華工具可以一路往上升級，而且跟裝甲一樣，可以在 &3修補台&r 上加上 &5外掛&r。"]
+	quest.4EF5DE3FBA2A7AE3.title: "&a下界工具"
+	quest.4F0DD86CF6E5F1B5.quest_subtitle: "等級： &b4"
+	quest.4F137DB561F45306.title: "&2慎髓裝甲 (Prudentium Armor)&r"
+	quest.51592B271E56C6B2.quest_subtitle: "等級： &a2"
+	quest.5210DC0095996B62.quest_subtitle: "等級： &b4"
+	quest.521C9B00B1D87DEB.quest_subtitle: "等級： &b4"
+	quest.52BB58D470560219.quest_subtitle: "範圍： &c54&r 格"
+	quest.52BB58D470560219.title: "&6覺醒超髓催生器"
+	quest.5311404799117060.quest_subtitle: "等級： &b4"
+	quest.53E5A8F2B05C2989.quest_subtitle: "等級： &63"
+	quest.54735C5FCD2077B3.quest_desc: ["&a神祕農業 (Mystical Agriculture)&r 是一個無中生有的種田模組，讓你可以種出原版或模組的各種資源。是的，這遊戲現在連鐵礦都能種了。"]
+	quest.54735C5FCD2077B3.title: "&a神祕農業，啟動！"
+	quest.54D72C234EA76054.quest_subtitle: "等級： &e1"
+	quest.54E4F00AD20D7096.quest_subtitle: "等級： &b4"
+	quest.552335ED867D6EFA.quest_desc: [
+		"一次燒一堆東西的超級神物！"
+		""
+		"你需要一個極髓煤炭磚才能合成 &6ATM 之星&r。"
+	]
+	quest.56B58CAFCB707565.quest_subtitle: "等級： &63"
+	quest.5703EDAFCF9E7719.quest_subtitle: "等級： &63"
+	quest.573885D6EF32B7BC.quest_subtitle: "等級： &a2"
+	quest.576ABF43FCF886B7.title: "&2慎髓農田"
+	quest.593A32072E7FD91D.quest_subtitle: "等級： &c5"
+	quest.594F6ED00D1619EE.quest_subtitle: "等級： &a2"
+	quest.5A17C762CDB680B5.quest_subtitle: "等級： &63"
+	quest.5B1E0E3E876339E7.title: "&4超髓裝甲"
+	quest.5B52389583A70E66.quest_subtitle: "等級： &c5"
+	quest.5BC4250E4C9F803C.title: "&9帝髓農田"
+	quest.5C590DB2F3D935E5.quest_desc: ["種子回收機 (Seed Reprocessor) 可以把多餘的精華種子榨回精華。不要浪費！"]
+	quest.5C590DB2F3D935E5.quest_subtitle: "環保愛地球！"
+	quest.5EE485880EA9FACF.quest_subtitle: "等級： &63"
+	quest.5F6ACDE014A61F46.quest_desc: ["吃下去的Buff：\\n\\n - 傷害吸收 II (3:00)\\n - 速度 II (3:00)\\n - 傷害抗性 II (3:00)"]
+	quest.5F6ACDE014A61F46.title: "&c泰髓蘋果 (Tertium Apple)"
+	quest.5F72C0C82F3C0310.quest_subtitle: "等級： &c5"
+	quest.6235B9923BE0AAEB.quest_desc: ["附魔機 (Enchanter) 讓你消耗物品和精華，直接把想要的附魔貼到裝備上。不用在那邊賭人品了。"]
+	quest.6235B9923BE0AAEB.title: "&b附魔機"
+	quest.62D572BAB055F56F.quest_subtitle: "等級： &e1"
+	quest.64B04D1CBC923789.quest_subtitle: "等級： &b4"
+	quest.6501A410F1543C70.quest_desc: ["神祕肥料就是骨粉的威力加強版。隨便點一下，作物直接長到最大，就這麼神。"]
+	quest.6501A410F1543C70.title: "&d神祕肥料"
+	quest.66AADD32A528A56D.quest_subtitle: "等級： &63"
+	quest.66B503EB65475B98.quest_subtitle: "等級： &63"
+	quest.66C52B137A4FF869.quest_desc: ["這是第 4 階精華，把 4 個泰髓加上注魔水晶搓在一起就能得到。"]
+	quest.66C52B137A4FF869.quest_subtitle: "等級： &b4"
+	quest.66C52B137A4FF869.title: "&9帝髓 (Imperium)"
+	quest.67AA59BD340FEC62.quest_subtitle: "等級： &63"
+	quest.67DBE6C59C0D9D1B.quest_desc: ["這是第 5 階精華，把 4 個帝髓加上注魔水晶搓在一起就能得到。"]
+	quest.67DBE6C59C0D9D1B.quest_subtitle: "等級： &c5"
+	quest.67DBE6C59C0D9D1B.title: "&4超髓 (Supremium)"
+	quest.67DDFA6FB1F9EECA.title: "&9帝髓工具"
+	quest.685C4A646E092A82.title: "&6覺醒超髓裝甲"
+	quest.6950FC974624C6AA.quest_subtitle: "等級： &63"
+	quest.69F63F3B48E4344E.quest_subtitle: "等級： &63"
+	quest.6A18B971C3DB83AE.quest_subtitle: "等級： &63"
+	quest.6A2AD67569F91F1F.quest_subtitle: "等級： &c5"
+	quest.6D0A876D4E4D35AB.quest_desc: ["創造精華是拿來合成 &6ATM 之星&r 的必需品。對，你得肝出這個。"]
+	quest.6D0A876D4E4D35AB.quest_subtitle: "等級： &5創造級"
+	quest.6D0A876D4E4D35AB.title: "&5創造精華"
+	quest.70E4EBA7C9901007.quest_subtitle: "等級： &b4"
+	quest.712EB19B26D405DD.quest_subtitle: "等級： &e1"
+	quest.73350AD668200E99.quest_desc: ["這是第 2 階精華，把 4 個下界精華加上注魔水晶搓在一起就能得到。"]
+	quest.73350AD668200E99.quest_subtitle: "等級： &a2"
+	quest.73350AD668200E99.title: "&2慎髓 (Prudentium)"
+	quest.7361BD20A6B95D14.quest_subtitle: "等級： &63"
+	quest.7388D8168AF78B9A.quest_subtitle: "等級： &63"
+	quest.754500BB7FD8C413.quest_subtitle: "等級： &b4"
+	quest.75560045ED084900.quest_desc: [
+		"大部分的種子都很好做，但如果你想做 &9怪物種子 (Mob Seeds)&r，你得先去地獄挖一點 &8魂髓 (Soulium)&r。"
+		""
+		"用挖到的石頭和礦物做一把 &3魂髓匕首&r 和一堆 &3靈魂罐&r。拿著匕首去捅怪，你就能吸走牠們的 &b靈魂&r。這些靈魂要在注魔祭壇上用來合成對應的怪物種子。"
+		""
+		"如果你覺得拿刀砍太累，你也可以把靈魂罐放進 &3靈魂提取機&r 裡，然後狂塞怪物的掉落物來榨汁（例如腐肉可以榨出殭屍靈魂）。"
+	]
+	quest.75560045ED084900.title: "製造怪物種子"
+	quest.7580037DB8ADEB3C.quest_desc: ["喵喵，我是一頭牛..."]
+	quest.7580037DB8ADEB3C.quest_subtitle: "等級： &a2"
+	quest.75D09040185B0E40.quest_subtitle: "等級： &a2"
+	quest.76071C22A73A2026.title: "&c泰髓農田"
+	quest.76516C997B63905A.quest_subtitle: "等級： &b4"
+	quest.7655E1C6C5E5469F.quest_subtitle: "範圍： &a18&r 格"
+	quest.7655E1C6C5E5469F.title: "&2慎髓催生器"
+	quest.77C6667B4C37589C.quest_desc: ["機器升級模組就是拿來幫 &a神祕農業&r 的機器飆車用的。"]
+	quest.780E0163033CCD9B.quest_subtitle: "等級： &b4"
+	quest.787E714014EC2C02.quest_subtitle: "等級： &63"
+	quest.7A103577EAE7B3F1.quest_desc: ["這是第 5 階（覺醒）精華，在覺醒祭壇把 4 個認知粉末、各 10 個元素精華，以及 1 個超髓方塊搓在一起才能得到。超級貴。"]
+	quest.7A103577EAE7B3F1.quest_subtitle: "等級： &c5 - 覺醒"
+	quest.7A103577EAE7B3F1.title: "&6覺醒超髓"
+	quest.7A89560F303A8BE6.quest_subtitle: "等級： &63"
+	quest.7AD9DF3FFCB03495.quest_subtitle: "等級： &a2"
+	quest.7ADE214373DE135F.quest_subtitle: "等級： &63"
+	quest.7BC289DEF023FEAA.quest_subtitle: "等級： &63"
+	quest.7CFA92CC48D1E7E3.quest_subtitle: "等級： &c5"
+	quest.7D43016926E77150.title: "&9帝髓裝甲&r"
+	quest.7DFF18CFEB0B8DBE.quest_desc: ["你越早開始種 &a下界精華&r 越好！\\n\\n雖然這不是必備的，但你可以做 &e精華農田&r 來大幅加快種子的生長速度（特別是下界種子）。不過有些高級種子「必須」種在特定的高等農田上。"]
+	quest.7DFF18CFEB0B8DBE.title: "&a下界農田"
+	quest.7EFEE009212A4FD4.quest_subtitle: "等級： &63"
+	task.011F410922A4D859.title: "大鐮刀"
+	task.0C92F7E44100B2BA.title: "泰髓工具"
+	task.2DA0BD7B2834A560.title: "防凋零方塊"
+	task.323D34AF775A642B.title: "小鐮刀"
+	task.34551E919FD101CF.title: "帝髓工具"
+	task.3E133AC7B615971D.title: "超髓工具"
+	task.41910A3BC6C0E838.title: "慎髓工具"
+	task.4F6E8F2EC33DB910.title: "覺醒超髓工具"
+	task.518B9569DCE0A771.title: "不準偷拿 (版權所有)"
+	task.51A3E013D2B3D744.title: "機器升級模組"
+	task.64FADC78A8AD3FE4.title: "各種種子"
+	task.773CA1FDC4CEFCEF.title: "不準偷拿 (版權所有)"
+	task.7D9A58EBADE91F54.title: "下界工具"
+}

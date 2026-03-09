@@ -1,0 +1,271 @@
+{
+	quest.00611844AFD5C31E.quest_desc: ["雖然壓印機和充電器這兩個傢伙還算隨和，吃一般 RF/FE 的電，但 AE2 網路本身就是個傲嬌，它只吃自己專屬的 AE 電。\\n\\nRF/FE 可以按照 2:1 的比例轉換成 AE。你可以直接把電塞進 ME 控制器，或者用 &b能源接收器 (Energy Acceptor)&f 當轉接頭。插好插滿就對了。"]
+	quest.00611844AFD5C31E.quest_subtitle: "插進去"
+	quest.01F3F0C25BA72BDA.quest_desc: [
+		"除了塞物品和液體，AE2 還有個超狂的功能：直接把整棟建築物打包塞進硬碟裡！就像是 Compact Machines 模組一樣，但更搞剛。"
+		""
+		"&b空間 IO 埠 (Spatial IO Port)&f 可以把 &b空間限制結構 (Spatial Containment Structure)&f 裡的任何東西抓進特製的儲存元件裡。給它個紅石訊號就會發動。"
+		""
+		"警告：如果打包的時候你剛好站在裡面，你也會一起被抓進一個神祕的次元空間裡。如果你沒有準備好怎麼逃出來，那就準備在裡面孤獨終老吧。"
+	]
+	quest.01F3F0C25BA72BDA.title: "空間 IO (打包帶走)"
+	quest.037488EF1F3581CE.quest_desc: ["預設情況下，沒有 ME 控制器的網路就是個短小精幹的廢物，只有 800 AE 的內部緩衝。就算加了控制器，一個方塊也才多 8k AE。如果你搞了個超大網路，這點電根本不夠塞牙縫，只要機器一吃電，整個網路就會瘋狂重啟、閃爍、然後停擺。\\n\\n&b能源元件 (Energy Cell)&f 可以讓你的網路「持久一點」。普通版加 200k AE，&b緻密&f 版加 1.6M AE。把它們塞在網路的任何角落都能幫你撐過斷電危機。"]
+	quest.03E6FA4DCB71162E.quest_desc: ["&b上色器 (Color Applicator)&f 是一把要充電的油漆槍。它其實就是個特製的儲存元件，你可以塞進原版染料或是 &e漆彈 (Paint Balls)&f。如果你後悔了，塞 &e雪球&f 進去可以把顏色洗掉，讓電纜變回原本的福魯伊克斯 (Fluix) 色。\\n\\n每噴一格電纜會吃掉 100 AE 的電，充飽一次可以噴 3400 格。慢慢噴吧。"]
+	quest.03E6FA4DCB71162E.title: "上色器 (油漆槍)"
+	quest.083D458032F0325C.quest_desc: ["&bME 輸出匯流排 (Export Bus)&f 就像個自動吐痰機，會把你白名單裡的東西從網路裡瘋狂吐到它貼著的箱子裡。注意：跟輸入匯流排不同，如果你沒設定白名單，它是不會理你的。"]
+	quest.083D458032F0325C.quest_subtitle: "瘋狂吐貨"
+	quest.0B218DD73FE8D985.quest_desc: ["如果你上個任務有好好做，你現在應該把那個奇點炸成一對 &b量子纏結奇點 (Quantum Entangled Singularities)&f 了。這兩個纏在一起的傢伙是用來連接 &e量子網路橋 (Quantum Network Bridge)&f 這個甜甜圈設備的。\\n\\n當你在兩個不同地方（甚至不同維度）蓋好甜甜圈，塞進成對的奇點，並給它們一點愛的電力後，你的 AE 網路就能無視距離和維度連在一起了。魔法！"]
+	quest.0B218DD73FE8D985.title: "量子網路橋 (任意門)"
+	quest.0E809747193ED3A9.quest_desc: ["MEGA 擴充的第三階，提供 &e16777216&f (16384k) 位元組的儲存空間。你到底要塞多少土進去？"]
+	quest.0E809747193ED3A9.quest_subtitle: "x4^2"
+	quest.0E809747193ED3A9.title: "16M 儲存元件"
+	quest.0F03E75CF79BADD7.quest_desc: ["MEGA Cells 還提供了一個專門用來囤積病發作的 &b巨量物品儲存元件 (Bulk Item Storage Cell)&f。這種硬碟 &o只能&r 存「一種」物品，但它可以存 &o&l無限&r* 個！在塞東西進去前，記得先去元件工作台幫它設定好要裝什麼。\\n\\n*&o技術上來說是 \"max long\" (21億之類的)。懂的就懂。&r"]
+	quest.0F03E75CF79BADD7.quest_subtitle: "囤積症末期專用"
+	quest.0F03E75CF79BADD7.title: "巨量物品儲存"
+	quest.1348995F64A94396.quest_desc: ["&b合成監控器 (Crafting Monitor)&f 讓你可以盯著它看你的東西到底還要搓多久，以及還剩多少個。\\n\\n原版的和 MEGA 版的功能一模一樣，純粹就是讓你裝逼用的。"]
+	quest.1348995F64A94396.quest_subtitle: "請下載更多顯存"
+	quest.140DE53DC0FCD9F4.quest_desc: [
+		"&bME 破壞面板 (Annihilation Plane)&f 會自動把擋在它前面的方塊拆掉，然後直接把掉落物吸進 AE 網路裡。 "
+		""
+		"最扯的是，你可以像附魔鎬子一樣給它附魔。你想附時運？可以！這樣它敲出來的東西就會變多。 "
+		"不過附魔後它吃電就像喝水一樣兇。建議順便附個 &e效率&f 來降低耗電，或是附 &e耐久&f 讓它偶爾幫你省點電。"
+	]
+	quest.140DE53DC0FCD9F4.quest_subtitle: "給我進去！"
+	quest.15564C11744D6AA0.quest_desc: ["當你費盡千辛萬苦集齊了所有的 &e壓印模板 (Inscriber Presses)&r 後，是時候開始量產 &e處理器 (Processors)&f 了。這是 AE2 裡面幾乎所有機器都要用到的核心零件，多準備一點準沒錯。"]
+	quest.15564C11744D6AA0.title: "處理器 (晶片)"
+	quest.16299B9AE87257DC.quest_desc: ["&b無線終端機 (Wireless Terminal)&f 功能跟一般終端機一模一樣，只是少了那條煩人的線。\\n\\n在使用之前，你得先把它塞進 &e無線存取點 (Wireless Access Point)&r 的右上角格子裡 &e綁定&f 網路。沒綁定、沒電或是超出手波範圍，它就是塊沒用的塑膠板。\\n\\n你可以給它塞 &e能量卡&f 讓它的電池撐久一點。"]
+	quest.16299B9AE87257DC.quest_subtitle: "這才是你玩 AE2 的真正目的"
+	quest.16299B9AE87257DC.title: "無線終端機"
+	quest.1710B3D05215A71E.quest_desc: [
+		"&bP2P&f (點對點) 是 AE2 裡最神的系統。它可以把物品、液體、甚至其他模組的電隔空傳輸，完全不需要經過 AE 的硬碟。 "
+		""
+		"拿特定物品對著 P2P 隧道點右鍵，就可以把它 &e調諧&f 成專門傳輸某種東西的通道（例如傳水、傳紅石訊號，甚至傳遞 ME 網路頻道本身）。 "
+		""
+		"兩個 P2P 之間必須用 &e記憶卡 (Memory Card)&f 連接起來。詳細操作請看下一個任務，不要偷懶不看。"
+	]
+	quest.1710B3D05215A71E.quest_subtitle: "省掉牽線的麻煩"
+	quest.1710B3D05215A71E.title: "P2P 隧道"
+	quest.18DFB25DC48D8BF7.quest_desc: [
+		"空間限制結構 (SCS) 是由 &b空間塔 (Spatial Pylons)&f 組成的框架，用來包住你想打包的區域。最少需要三條線（長、寬、高）。 "
+		""
+		"但是，空間 IO 是個超級吃電怪獸，特別是當你企圖打包超大空間（最大 128x128x128）的時候。如果你在框架裡塞更多空間塔，它的 &e效率&f 會提高，抓取時就比較不會把你的電網抽乾。 "
+		""
+		"另外，每一根獨立的塔（不管多長）都會吃掉一個頻道。如果要打包大空間，你最好專門幫它拉一個獨立的控制器網路，不然頻道絕對塞爆。"
+	]
+	quest.1AAF0B31B47AF23D.quest_desc: ["你可以用紅石來控制單一的 ME 機器。只要塞一張 &b紅石卡 (Redstone Card)&f 進去，你就可以設定它是吃到紅石才工作，還是沒吃到才工作。\\n\\n如果你想一次控制「整條線」的機器，就用 &bME 觸發匯流排 (ME Toggle Bus)&f。給它紅石訊號，匯流排後面的機器就會全部上線；如果用 &e反向&f 版本，就是通電時全部斷線。拿來做節能系統超好用。"]
+	quest.1AAF0B31B47AF23D.title: "紅石控制的 AE2"
+	quest.1B686954D34A0F23.quest_desc: ["&b石英扳手 (Quartz Wrench)&f 就是一般科技模組的扳手。右鍵旋轉方塊，Shift+右鍵拆機器。\\n\\n有地獄石英和賽特斯石英兩種版本，隨你高興做哪個。"]
+	quest.1B686954D34A0F23.quest_subtitle: "就...是一把扳手"
+	quest.1B686954D34A0F23.title: "石英扳手"
+	quest.1F7DFA5AA65F2812.quest_desc: ["&b加速卡 (Acceleration Card)&f 顧名思義，塞進去機器就會變快，或是每次處理的數量變多。\\n\\n以 &e分子裝配室 (Molecular Assembler)&f 為例，塞滿 5 張卡，它的合成速度會從 1 秒縮短到 1 個 &o遊戲刻 (Tick)&r。那就是瞬間！"]
+	quest.2077D64428E9C067.quest_desc: [
+		"AE2 裡有個很重要的進階技巧叫 '&e子網路 (Subnetting)&f'。也就是拉一條不和主網路混在一起的小網路，專門用來處理某些特定工作。 "
+		""
+		"子網路怎麼來的？重點就是 &b石英纖維 (Quartz Fiber)&f。當你把它接在兩條電纜中間，它「只會傳電，不會傳資料或頻道」。 "
+		""
+		"這樣一來，你的子網路就可以光明正大地白嫖主網路的電，而且不用擔心頻道互相衝突。很心機吧？"
+	]
+	quest.2077D64428E9C067.quest_subtitle: "這玩意兒不只拿來做電纜"
+	quest.2077D64428E9C067.title: "差點忘了說的子網路"
+	quest.219932CB19258C16.quest_desc: ["第三階儲存元件，提供 &e16384&f 位元組。慢慢變大了。"]
+	quest.219932CB19258C16.quest_subtitle: "x4^2"
+	quest.219932CB19258C16.title: "16k 儲存元件"
+	quest.22C4318523A43B49.quest_desc: ["&e終端機 (Terminals)&f 就是你跟這套超貴系統對話的螢幕。普通的 &eME 終端機&f 只是讓你看網路裡有什麼破銅爛鐵，可以拿出來也可以丟進去。\\n\\n而 &eME 合成終端機&f 則是神之發明，它在螢幕裡內建了一個 3x3 的工作台，你可以直接用系統裡的材料搓東西，不用再把東西拿出來放進背包。用了就回不去了。"]
+	quest.22C4318523A43B49.quest_subtitle: "你的數位倉庫"
+	quest.22C4318523A43B49.title: "終端機"
+	quest.234DC1702333EB18.quest_desc: ["&dAEInfinityBooster&f 這個擴充模組加了兩種神級無線增幅器。插上去之後，你的無線終端機就能「無限距離」連線，甚至還能「跨維度」。再也不用怕出門忘記帶東西了！"]
+	quest.234DC1702333EB18.quest_subtitle: "飛向宇宙，浩瀚無垠！"
+	quest.234DC1702333EB18.title: "無限增幅器"
+	quest.25DBA00422301EDC.quest_desc: ["MEGA 擴充的第二階，提供 &e4194304&f (4096k) 位元組。"]
+	quest.25DBA00422301EDC.quest_subtitle: "x4"
+	quest.25DBA00422301EDC.title: "4M 儲存元件"
+	quest.2893F483C10293E6.quest_desc: [
+		"&l歡迎來到 &bApplied Energistics 2&f！\\n\\nApplied Energistics 2 (簡稱 &oAE2&r) 是一個能讓你懷疑智商的 &b數位儲存&f 模組。它可以把你的東西全變成數據，塞進小小的硬碟裡，還能幫你搞定各種超複雜的自動化合成。一旦學會，你就再也無法忍受原版的破箱子了。\\n\\n如果你想看更詳細、更催眠的官方說明，去查維基吧："
+		"&o&bappliedenergistics.github.io&f&r."
+	]
+	quest.2893F483C10293E6.quest_subtitle: "把實體變成虛擬數據"
+	quest.2893F483C10293E6.title: "應用能源 2 (AE2)"
+	quest.2897FA291E5A38D8.quest_desc: ["&b空間錨 (Spatial Anchor)&f 就是個內建的區塊載入器。只要它接在有電的 AE 網路上，它就會幫你把「整個 AE 網路」所在的區塊都保持載入狀態（子網路除外）。超方便對吧？"]
+	quest.2B31E6C1707D8195.quest_desc: ["想在基地裡一邊蹲廁所一邊拿東西？你需要 &bME 無線存取點 (Wireless Access Point)&f。把它接在網路上，然後塞滿 &b無線增幅器 (Wireless Boosters)&f 來擴大訊號範圍，你就能用 &e無線終端機&f 隔空取物了。"]
+	quest.2C04B3BA507D5673.quest_desc: ["&b樣板 (Patterns)&f 就是你寫給機器的「合成說明書」。你要用 &bME 樣板終端機&f 把配方寫進去。\\n\\n樣板有兩種：一種是 &e合成&f 樣板（給分子裝配室用的 3x3 配方），另一種是 &e處理&f 樣板（把輸入丟給熔爐、粉碎機等機器，然後等它產出結果）。"]
+	quest.2C04B3BA507D5673.title: "樣板 (說明書)"
+	quest.2F16B6A173525277.quest_desc: [
+		"當你的網路越來越大，8 個頻道根本不夠塞牙縫時，救星 &bME 控制器 (Controller)&f 就該出場了。 "
+		""
+		"控制器可以提供大量的頻道。它的每一個面都能吐出 32 個頻道！ "
+		""
+		"更猛的是，控制器可以組合成多方塊結構！最大可以蓋到 7x7x7。只要你蓋的形狀合乎規定（同一個面上不能被 4 個其他控制器方塊包圍），它能提供的頻道簡直多到你用不完。 "
+		""
+		"警告：一個 ME 網路「只能有一個」控制器結構。如果你試圖把兩個不相干的控制器接在同一條線上，整個網路會直接崩潰當機給你看。"
+	]
+	quest.2F556E7919582D2D.quest_desc: ["&b元件工作台 (Cell Workbench)&f 是用來幫硬碟「格式化」和「設定過濾器」的。你可以規定這個硬碟只能裝石頭，或是除了石頭什麼都裝（放反轉卡）。\\n\\n你還可以在這裡設定硬碟的「優先權」。優先權高的硬碟會最先被塞滿，這在整理東西時超好用。"]
+	quest.2FB231069D2E4E77.quest_desc: ["每個硬碟的容量取決於它裡面的 &e元件 (Component)&f。\\n\\n最基本的就是 &b1k ME 儲存元件&f，提供 &e1024&f 「位元組 (Bytes)」的空間。至於位元組是怎麼算的，我們下一個任務見。"]
+	quest.2FB231069D2E4E77.quest_subtitle: "你的第一個 1024 Bytes"
+	quest.2FB231069D2E4E77.title: "第一顆雲端硬碟"
+	quest.30E853CE699E669B.quest_desc: ["想叫機器幫你做東西，你得先給它一顆「大腦」來計算要怎麼做，這個大腦就是 &e合成 CPU (Crafting CPU)&f。\\n\\n合成 CPU 是一個多方塊結構，至少需要一個 &b合成儲存器 (Crafting Storage)&f，還可以加上其他的合成單元。你可以把它蓋成任何尺寸，但必須是一個長方體，不然它不會理你。"]
+	quest.30E853CE699E669B.quest_subtitle: "請下載更多記憶體"
+	quest.3195A7AA874163CD.quest_desc: ["&b平均分配卡 (Equal Distribution Card)&f 是一種升級卡，它會規定硬碟裡每種物品最多只能佔用多少空間。\\n\\n這就像是 Functional Storage 的抽屜，確保你的硬碟不會被幾萬顆圓石塞滿，導致其他東西放不進去。"]
+	quest.3195A7AA874163CD.quest_subtitle: "讓你的硬碟變成抽屜"
+	quest.33ADE41526C39AFD.quest_desc: ["（此文字同上，我也不知道為什麼作者要複製貼上，總之這就是用來平均分配數量的東西。）"]
+	quest.361CCBD353D6FF34.quest_desc: [
+		"有了 1k 元件，你終於可以做一顆完整的 1k 物品儲存元件 (Storage Cell) 了！你一定會需要超多這種東西。 "
+		""
+		"注意！每個物品儲存元件最多只能存 &c63 種&r 不同的東西。每存入一種新物品，都會吃掉硬碟的一定比例容量。當種類存在後，每 1 個「位元組」可以存 8 個同種物品。 "
+		""
+		"舉個例子，如果一顆 1k 硬碟「只裝圓石」，它可以裝 8128 個圓石（計算公式超煩，你只要知道裝很多就好）。但如果你裝了 63 種拉基，它一下就滿了！ "
+		""
+		"如果硬碟空了，你可以拿著它對空氣 Shift + 右鍵，它就會解體成外殼和元件。千萬別拿裝著東西的硬碟去拆！"
+	]
+	quest.361CCBD353D6FF34.title: "物品儲存！"
+	quest.371A382CF1DDF2B2.quest_desc: ["&b容量卡 (Capacity Card)&f 可以幫匯流排擴充它的白名單格子。塞進輸入/輸出匯流排，可以讓它從只能過濾 1 種東西增加到 9 種；塞進儲存匯流排，則會從 18 格擴充到 63 格！"]
+	quest.3B42CCC19D23EC6D.quest_desc: ["第二階儲存元件，提供 &e4096&f 位元組。"]
+	quest.3B42CCC19D23EC6D.quest_subtitle: "x4"
+	quest.3B42CCC19D23EC6D.title: "4k 儲存元件"
+	quest.3CE3D9245F8EC005.quest_desc: ["MEGA 擴充的第四階，提供 &e67108864&f (65536k) 位元組。"]
+	quest.3CE3D9245F8EC005.quest_subtitle: "x4^3"
+	quest.3CE3D9245F8EC005.title: "64M 儲存元件"
+	quest.3DDB0DDA7571B2C1.quest_desc: ["&bME 輸出發信器 (Level Emitter)&f 可以監視你網路裡的某種物品數量。當數量大於、小於或等於你設定的值時，它就會發出紅石訊號。\\n\\n最經典的用法：當系統裡的鐵錠少於 100 個時，發出紅石訊號啟動外面的熔爐開始燒鐵！全自動補貨神器。"]
+	quest.3DDB0DDA7571B2C1.title: "ME 發信器"
+	quest.3E3DF8E967D95DB0.quest_desc: ["如果你把 64k（或更大）的元件塞進物質壓縮機裡，它就能幫你壓出 &b奇點 (Singularity)&f！一顆奇點需要吃掉 256,000 個物品... 對，就是 4000 組垃圾！\\n\\n如果你把奇點和 &e終界粉 (Ender Dust)&f 一起丟在地上... 然後用炸藥炸它們，看看會發生什麼事吧！（怕炸壞家裡？AE2 有附贈小顆的 &bTiny TNT&f 讓你安全引爆）。"]
+	quest.3E3DF8E967D95DB0.quest_subtitle: "這才叫真正的垃圾回收"
+	quest.3E3DF8E967D95DB0.title: "超高密度物質"
+	quest.4597D3B3BDC2BED5.quest_desc: ["&b分子裝配室 (Molecular Assembler)&f 就是 AE2 的全自動工作台。任何 3x3 的合成配方都要靠它來完成。\\n\\n它可以幫忙傳遞電力和頻道，而且「它自己不佔用頻道」！一個樣板供應器周圍最多可以貼 6 台裝配室，讓它們火力全開一起幫你搓東西。\\n\\n你也可以不接 AE 網路，直接塞一個樣板給它，給它通電，它就會像一般機關一樣自動幫你把丟進去的材料合成出來。"]
+	quest.460A8F17F3ED6CAF.quest_desc: ["當你玩大型模組包到後期，就算是原版最大的硬碟也會被你的礦物塞爆。\\n\\n這時候 &dMEGA Cells&f 就該上場了！第一階的 MEGA 硬碟就是 &b1M 儲存元件&f，它直接給你 1024 &oKB&r，也就是 &e1,048,576&f 位元組的誇張容量！"]
+	quest.460A8F17F3ED6CAF.quest_subtitle: "第一個 MEGA！"
+	quest.460A8F17F3ED6CAF.title: "1M 儲存元件"
+	quest.4B76FE0348DB0E45.quest_desc: ["量子橋卡 (Quantum Bridge Card) 是另一種讓你跨維度連線 AE 系統的方法。你需要在基地蓋一座量子橋，然後把量子橋卡插進你的終端機裡。用量子纏結奇點把它們綁定在一起，你就可以走到哪裡存到哪裡了！"]
+	quest.4BF0BB763BFFACF0.quest_desc: [
+		"&e福魯伊克斯 (Fluix)&f 絕對是這模組裡最重要的資源之一，幾乎每一根電纜和機器都需要它。 "
+		""
+		"你會需要非常、非常多。怎麼做？把 &e地獄石英&f、&e&o充能的&r&e 賽特斯石英&r 和 &e紅石&f 一起丟到水裡，就會產生 &b福魯伊克斯水晶&r。接著再把它拿去壓印機裡壓成粉。"
+	]
+	quest.4BF0BB763BFFACF0.title: "福魯伊克斯 (Fluix)"
+	quest.4E8A05C3BFA80540.quest_desc: ["AE2 最厲害的地方就是它的「儲存系統」。你需要用 &e儲存元件 (Storage Cells)&r 來裝東西。要讀取元件，你可以用單一插槽的 &eME 箱子&r，或是可以插滿硬碟的 &eME 磁碟機 (ME Drive)&r。\\n\\n&bME 箱子&f 只能插一顆硬碟，而且它上面自帶一個小螢幕可以直接存取那顆硬碟。\\n\\n&bME 磁碟機&f 可以在一個方塊裡塞 10 顆硬碟！只佔用 1 個頻道！缺點是它沒有螢幕，你得在網路上接個終端機才能看到裡面的東西。"]
+	quest.4E8A05C3BFA80540.quest_subtitle: "把物品變成檔案"
+	quest.4E8A05C3BFA80540.title: "儲存設備大集合"
+	quest.5034A9137E0F3D3D.quest_desc: ["這任務是由 &6ATM 員工&r 或某個 &2爆肝網友&r 寫的。如果你看得到這行，代表你現在正在窺視開發者的內心世界（編輯模式）。"]
+	quest.51236544BFEF487B.quest_desc: ["是時候去找隕石了！那些裡面藏著 &b隕石 (Sky Stone)&f 的巨大坑洞。在隕石正中央會有一顆 &b神祕方塊 (Mysterious Cube)&r。\\n\\n裡面裝著我們需要的各種 &e壓印模板 (Presses)&r，沒有這些你什麼高科技都做不出來。\\n\\n把指南針放進充電器裡，就能得到 &e隕石羅盤&r，它會帶你找到最近的隕石。祝你好運。"]
+	quest.51236544BFEF487B.quest_subtitle: "挖坑大師"
+	quest.51236544BFEF487B.title: "尋找隕石"
+	quest.51A57E142C686C8F.quest_desc: ["MEGA 擴充的第五階也是最後一階，提供 &e268435456&f (262144k) 位元組。你到底是撿了多少垃圾？"]
+	quest.51A57E142C686C8F.quest_subtitle: "x4^4"
+	quest.51A57E142C686C8F.title: "256M 儲存元件"
+	quest.51DE3157DE3E57B8.quest_desc: [
+		"能存東西很棒，但如果你的系統裡塞滿了原礦，而你每次要鐵錠還得自己拿出來燒，那有什麼用？ "
+		""
+		"這就是 AE2 &e自動合成&f 系統發威的時候了！你需要 &bME 樣板供應器 (Pattern Provider)&f。它裡面裝著 &b樣板&f（說明書），當系統需要某個東西時，供應器就會把材料吐給旁邊的機器。一台供應器可以塞 9 張樣板。 "
+		""
+		"通常你會把供應器丟得滿屋子都是，所以做一個 &b樣板存取終端機 (Pattern Access Terminal)&f 吧，這樣你就可以在一個螢幕裡遠端修改所有的樣板了。"
+	]
+	quest.51DE3157DE3E57B8.quest_subtitle: "老闆，我要點餐！"
+	quest.51DE3157DE3E57B8.title: "自動合成 (幫你爆肝)"
+	quest.5233A447BAA4593C.quest_desc: ["&bME 智慧電纜&f 和 &b緻密智慧電纜&f 的傳輸能力跟覆蓋電纜一樣，但它們多了一個超讚的功能：它們會發光！電纜外面的發光條會直接顯示目前「佔用了多少頻道」，讓你 debug 的時候不會氣到砸鍵盤。"]
+	quest.5233A447BAA4593C.quest_subtitle: "會發光比較酷"
+	quest.5233A447BAA4593C.title: "智慧電纜"
+	quest.523853C1C4E688BA.quest_desc: ["第四階儲存元件，提供 &e65536&f 位元組。原版最大的硬碟。"]
+	quest.523853C1C4E688BA.quest_subtitle: "x4^3"
+	quest.523853C1C4E688BA.title: "64k 儲存元件"
+	quest.525F25F4ADE45B50.quest_desc: [
+		"&bME 成型面板 (Formation Plane)&f 就像是把世界當作儲存箱。它會把過濾器裡指定的方塊「直接放置」在它的正前方。 "
+		""
+		"這東西拿來做全自動方塊處理廠（例如放方塊然後讓其他機器去挖）超級好用。"
+	]
+	quest.525F25F4ADE45B50.quest_subtitle: "給我出來！"
+	quest.55186B8602689B66.quest_desc: [
+		"&b記憶卡 (Memory Card)&f 有兩個用途。第一個是拷貝機器的設定（例如過濾器的白名單），然後貼到另一台機器上。懶人必備。 "
+		""
+		"第二個（也是最重要的）用途，是用來「連結 P2P 隧道」。Shift+右鍵點擊你要當作輸入端的 P2P，然後去另一端點右鍵，把它們牽上線。"
+	]
+	quest.5AA3E5DFECB4AC4D.quest_desc: ["看著水晶慢慢長很痛苦對吧？AE2 懂你。\\n\\n做幾個水晶催生器，擺在生長中的水晶旁邊，給它通電，水晶就會用肉眼可見的速度飆長！"]
+	quest.5BB887411B8B38FA.quest_desc: ["如果要用無線方式把網路擴展到天涯海角，我們得先做一點瘋狂的事。\\n\\n&b物質壓縮機 (Matter Condenser)&f 就是 AE2 版的垃圾桶，丟進去的東西都會被吞掉。但如果你塞一個 &e儲存元件&f 給它，它就會把垃圾的能量壓縮起來，做成超酷的東西。\\n\\n第一個就是 &b物質球 (Matter Ball)&f。你需要至少 1k 的元件，然後丟 256 個垃圾進去給它吸。"]
+	quest.5BB887411B8B38FA.title: "壓縮垃圾...我是說物質"
+	quest.5C22E3103544B120.quest_desc: ["要串連整個 AE 網路，你需要拉超多電纜。&eME 玻璃電纜&f 是最爛也最基礎的，但它是做所有高級電纜的材料。\\n\\n玻璃電纜和 &e包覆電纜 (Covered)&f 都能傳遞 8 個頻道。如果你把它們升級成 &e緻密電纜 (Dense)&f，就能傳遞 32 個頻道！但注意：終端機或匯流排「不能直接插在緻密電纜上」，你必須接一小段普通電纜來當轉接頭。\\n\\n你可以用染料給電纜上色。「無色（福魯伊克斯色）」的電纜可以跟任何顏色連在一起，但「不同顏色」的電纜彼此之間是絕緣的，可以利用這點把複雜的線路擠在同一個空間裡。"]
+	quest.5C22E3103544B120.title: "基礎牽線工程"
+	quest.5CD8D169181C7339.quest_desc: ["這三個東西算是 AE2 附贈的玩具，跟儲存沒啥關係。\\n\\n&b充能法杖 (Charged Staff)&f 就是一根敲人很痛（3 顆心）的棒子，每敲一下吃 300 AE。你可以像以前 1.8 時代一樣瘋狂連點狂毆敵人。\\n\\n&b熵機械臂 (Entropy Manipulator)&f 對特定方塊點擊時，會原地把它們「燒熟」（例如沙子變玻璃，礦石變金屬）。如果點錯方塊，它就只是會放一把火。\\n\\n最後是 &b物質砲 (Matter Cannon)&f，這是一把吃「物質球」或金粒當子彈的槍，可以拿來打怪或拆方塊。如果你拿漆彈當子彈，被打中的方塊就會沾滿油漆。光漆彈 (Lumen Paint Balls) 甚至還能當照明用！"]
+	quest.5CD8D169181C7339.quest_subtitle: "AE2 兵器譜"
+	quest.5CD8D169181C7339.title: "這其實是個武器模組？"
+	quest.5E24012A3D9B72A1.quest_desc: [
+		"AE 不只可以存物品，還能存液體。&bME 流體儲存元件&f 可以幫你裝水、岩漿或任何你搞出來的鬼汁。 "
+		""
+		"液體硬碟的合成方式跟物品硬碟幾乎一樣，差別只在於外殼不同而已。 "
+		""
+		"對於液體來說，1 個位元組可以存 8 桶（8000 mb）的液體。"
+	]
+	quest.5E6585F7627247E3.quest_desc: ["把 &b合成卡 (Crafting Card)&f 插進輸出匯流排或介面裡，當它們發現要輸出的東西不夠時，就會自動叫系統的 CPU 「去幫我做！」。超無腦自動化。\\n\\n如果把它插進發信器裡，你可以設定成「當系統正在合成某物品時發出紅石訊號」，或者是「發出紅石訊號來要求系統合成」。這招可以拿來控制那些只吃紅石訊號不吃實體的奇怪機器。"]
+	quest.5E6585F7627247E3.quest_subtitle: "外掛自動化"
+	quest.5E7E35CCAF1C88EE.quest_desc: ["&bME 輸入匯流排 (Import Bus)&f 就像個吸塵器，會把你箱子裡的東西瘋狂吸進 AE 網路裡。你也可以設定過濾器，讓它只吸特定的東西。"]
+	quest.5E7E35CCAF1C88EE.quest_subtitle: "無情吸塵器"
+	quest.5F56892CD904C40F.quest_desc: ["原版 AE2 最大的儲存元件，提供 &e262144&f 位元組的儲存空間。終於可以裝滿滿的石頭了。"]
+	quest.5F56892CD904C40F.quest_subtitle: "x4^4"
+	quest.5F56892CD904C40F.title: "256k 儲存元件"
+	quest.6144202A97C6CD1C.quest_desc: ["&b石英切割刀 (Quartz Cutting Knife)&f 是把很實用的小刀。\\n\\n用它可以把鐵錠切成 &b電纜錨 (Cable Anchor)&f（可以用 50 次）。電纜錨可以用來塞在兩條不想連接的電纜中間，防止它們牽手。\\n\\n電纜錨還能用來做 &b電纜偽裝板 (Cable Facades)&f，讓你可以把醜醜的電纜藏在牆壁裡！只要在工作台裡把任何方塊周圍擺滿 4 個錨就能做出來。\\n\\n另外，拿著小刀按右鍵會打開一個選單，讓你做 &b壓印機命名模板 (Inscriber Name Presses)&f。寫好名字後，把它和物品一起放進壓印機，出來的東西就會被改名了！"]
+	quest.6144202A97C6CD1C.quest_subtitle: "切切切"
+	quest.6144202A97C6CD1C.title: "電纜錨 (隔離器)"
+	quest.6431A384DDFBF439.quest_desc: [
+		"&b網路工具 (Network Tool)&f 是幫你 debug 的神器。點擊電纜就能在螢幕上看到整個網路吃了多少電、存了多少東西。 "
+		""
+		"最爽的是它內建一個小背包專門放 &e升級卡&f。當你打開任何機器的介面時，它會直接顯示在旁邊，讓你無痛換卡片。不過它不能像扳手一樣旋轉機器，只能拆掉它們。"
+	]
+	quest.6431A384DDFBF439.title: "網路除錯工具"
+	quest.68B0B3DAF1145191.quest_desc: ["玩 AE2 最先要做出的兩個東西就是 &b充電器 (Charger)&f 和 &b壓印機 (Inscriber)&f。\\n\\n給 &b充電器&f 通電後，丟 &e賽特斯石英水晶&r 進去，它就會把它們電得吱吱作響變成 &e充能石英&r。這是做福魯伊克斯的重要材料。\\n\\n&b壓印機&f 則是用來把水晶壓成粉，以及最重要的——壓出 &e印刷電路板&f 和 &e處理器&f！沒這台機器你啥都別想玩。"]
+	quest.68B0B3DAF1145191.quest_subtitle: "萬惡的開端"
+	quest.68B0B3DAF1145191.title: "萬惡的開端"
+	quest.69B7DE2283B4EE6C.quest_desc: ["&b合成協同處理器 (Crafting Co-Processing Unit)&f 是用來幫 CPU 加速的。它能讓供應器更快把東西吐出來，或者讓多台機器「同時」幫你搓不同的材料。\\n\\n原版 AE2 的處理器提供 1 個「線程」，而 &dMEGA Cells&f 的處理器一個方塊就直接給你 4 個線程！飆車啦！"]
+	quest.69B7DE2283B4EE6C.quest_subtitle: "拜託處理快一點"
+	quest.6D54B45CDA70FEAB.quest_desc: ["&b能量卡 (Energy Card)&f 可以插在無線終端機或行動硬碟這類吃電的東西上，讓它們的電池容量變大，撐更久。"]
+	quest.6E15447FC3D678E0.quest_desc: ["&b模糊卡 (Fuzzy Card)&f 讓過濾器在抓東西時「隨便一點」，無視物品的損壞度或 NBT 標籤；而 &b反轉卡 (Inverter Card)&f 顧名思義，就是把過濾器從白名單變成黑名單。"]
+	quest.6E15447FC3D678E0.quest_subtitle: "另外兩張 IO 卡"
+	quest.6E15447FC3D678E0.title: "不要那麼計較"
+	quest.6F3D0A248B5A9CA2.quest_desc: [
+		"&b空間儲存元件 (Spatial Storage Cells)&f 是用來裝「體積」的。有三種容量：2x2x2、16x16x16 和誇張的 128x128x128。 "
+		""
+		"當你打包成功後，這個元件就會被分配到一個專屬的「空間維度」編號。然後你隨時可以把這個元件插回空間 IO 埠，把它放出來。 "
+		""
+		"你可以把它當作一種超大型的神奇寶貝球，只不過抓的是方塊和建築物。"
+	]
+	quest.6F3D0A248B5A9CA2.title: "空間儲存元件 (精靈球)"
+	quest.74FC0DDDB91DB172.quest_desc: ["AE2 給了一堆神奇的機器來幫你把東西在實體世界和虛擬網路之間搬來搬去。\\n\\n&bME 介面 (Interface)&f 就是其中的神物。當作輸入端時，你可以把水管或漏斗對著它，所有塞進來的東西都會自動進到 AE 網路裡。\\n\\n當作輸出端時，你可以設定讓介面「隨時保持 64 個鐵錠在身上」。這樣如果網路裡有鐵，它就會自動補滿，方便其他機器或管道把它抽走。"]
+	quest.74FC0DDDB91DB172.quest_subtitle: "進進出出"
+	quest.74FC0DDDB91DB172.title: "強大的介面"
+	quest.77C9EE701F72586D.quest_desc: [
+		"&b攜帶型儲存元件 (Portable Cells)&f 跟一般硬碟一樣，可以塞進箱子或磁碟機裡裝東西。 "
+		""
+		"但最爽的是，你可以把它拿在手上按右鍵直接打開來用！就像一個會吃電的超大次元背包一樣。"
+	]
+	quest.78311531069807DE.quest_desc: ["在 AE2 裡，每個網路都有所謂的「&e頻道 (Channels)&f」。白話一點就是：你這條線上到底能插多少台機器。\\n\\n基本上，任何跟「傳輸物品/流體」有關的機器（終端機、匯流排、介面等）都會吃掉 1 個頻道。那些只管電力的（像充電器、壓印機、能源元件）則「不吃」頻道。\\n\\n如果你沒有蓋 &bME 控制器&f，你的破網路最多只能撐 8 個頻道。恭喜你，馬上就會面臨線路癱瘓的慘劇。"]
+	quest.79D2617E01481281.quest_desc: ["要開始這條爆肝之路，你必須先去挖 &b賽特斯石英 (Certus Quartz)&f。你可以在隕石裡找到它們，並把水晶拿去磨成粉或直接用。"]
+	quest.79D2617E01481281.title: "賽特斯石英"
+	quest.7B7D1F0CB326B28F.quest_desc: ["&bME IO 埠 (IO Port)&f 是一個讓你快速倒垃圾的好幫手。\\n\\n把你的硬碟插在左邊，它可以把硬碟裡的東西全部倒進網路的其他空間裡，或者反過來，把網路裡的東西塞爆這個硬碟。拿來做磁碟重組超好用。"]
+	quest.7B7D1F0CB326B28F.quest_subtitle: "磁碟重組工具"
+	quest.7C40F1963FC5BF65.quest_desc: [
+		"這裡還有一些如果你卡關可以去看的外部攻略（都是英文的，當練聽力吧）。"
+		"{\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://allthemods.github.io/alltheguides/mods/ae2/\"},\"color\":\"blue\",\"text\":\"AllTheGuides AE2 文字教學\",\"underlined\":true}"
+		"{\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://www.youtube.com/watch?v=3htUhkDYbJ8\"},\"color\":\"blue\",\"text\":\"BucketSt 做的 AE2 影片教學\",\"underlined\":true}"
+		"{\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://www.youtube.com/playlist?list=PLz9AkOmMlH1lI4H3GeBQ3VzEKlcDDNO8_\"},\"color\":\"blue\",\"text\":\"The MindCrafters 的 AE2 播放清單\",\"underlined\":true}"
+		"{\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://www.youtube.com/watch?v=2_s1srWvq20\"},\"color\":\"blue\",\"text\":\"The MindCrafters 的進階 AE 教學\",\"underlined\":true}"
+	]
+	quest.7EFBAF3E281D2EBE.quest_desc: [
+		"&bME 儲存匯流排 (Storage Bus)&f 是個騙過系統的神器。把它貼在一般的箱子或桶子上，AE 系統就會把那個箱子當成「自己的硬碟」！你可以直接從終端機看到箱子裡的東西並存取。 "
+		""
+		"你可以設定這台匯流排的優先權，讓系統優先把特定垃圾塞進外面的箱子裡，而不是浪費你寶貴的 AE 硬碟空間。但注意，它不會主動幫你把網路裡已經存在的垃圾移過去。"
+	]
+	quest.7EFBAF3E281D2EBE.quest_subtitle: "外接式硬碟"
+	task.08DA73B1AC17E5F5.title: "合成儲存器"
+	task.1076BC82EECB73F5.title: "石英扳手"
+	task.14DEFFB80CC96BC1.title: "ME 緻密包覆電纜"
+	task.23D186249A999B8C.title: "石英切割刀"
+	task.2923D1E2BEAF94B0.title: "你需要更多教學"
+	task.338A6DA0D711B7DC.title: "ME 樣板供應器"
+	task.38E290AC5E011888.title: "ME 緻密智慧電纜"
+	task.408C5263C4664195.title: "ME 箱子"
+	task.40A7CC56DACC2623.title: "ME 玻璃電纜"
+	task.4C5435BE5560E71B.title: "不準偷拿 (版權所有)"
+	task.61D93B13D496547D.title: "流體儲存"
+	task.64EAD3DE84E94F02.title: "ME 包覆電纜"
+	task.65C439FD14C5EEB9.title: "攜帶型硬碟"
+	task.7241918F270CA402.title: "ME 介面"
+	task.729773FF26CBB542.title: "不準偷拿 (版權所有)"
+	task.75924053D6F5B242.title: "空間儲存元件"
+	task.7E0D9E6342295AB0.title: "頻道 (Channels) 是什麼鬼？"
+	task.7FC3DAA1BD5016A0.title: "ME 智慧電纜"
+}

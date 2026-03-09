@@ -1,0 +1,15 @@
+{
+	quest.0C93D7A607AB8B83.quest_desc: ["想要劃地盤？按下 &6M&r 開啟地圖，點擊左上角的 &a領地 (Claimed Chunks)&r 圖示。\\n\\n左鍵點擊並拖曳就可以劃定領地，保護你那搖搖欲墜的家。\\n\\n如果你想讓那塊地在你睡覺時也繼續運轉（強制加載），按住 Shift 再點左鍵。成功的話，你會看到領地上出現斜線。不要說窩沒教你。"]
+	quest.3708A4780ACEB34E.quest_desc: ["在這個模組包裡，任務只是裝飾品（選配的啦）。模組沒有被鎖起來，你想直接衝終局裝備也沒人攔你！\\n\\n除了主線任務以外，其他任務多半是模組的說明書。如果你不知道現在要幹嘛，去主線任務晃晃吧，那裡會告訴你怎麼開始爆肝。"]
+	quest.3BC0A50886A3222B.quest_desc: ["ATM10 是一個什麼都有的「大雜燴」模組包，讓你用自己最喜歡的方式來虐待...我是說探索 Minecraft！\\n\\n如果有任何問題或想找人取暖，歡迎加入 ATM 的 Discord！雖然那是英文的，但你可以去練習一下。"]
+	quest.3BC0A50886A3222B.title: "&d歡迎來到 All The Mods 10！"
+	quest.49EDAA2F57D3BF1D.quest_desc: ["這任務是由 &6ATM 員工&r 或某個 &2好心爆肝網友&r 寫的。 \\n\\n因為這模組包受版權保護，所以你不準偷拿去放在別的包包裡，除非你拿到官方許可。\\n\\n這個任務是隱藏的，如果你看得到，代表你現在是上帝模式（編輯模式）。"]
+	quest.5AC1BE754210429E.quest_desc: ["如果你想跟你那群損友組隊，使用指令 &a/ftbteams party create (隊伍名稱)&r。快去組隊吧，這樣你死掉時才有人可以嘲笑你。"]
+	quest.7658C1C663394E85.quest_desc: ["這裡有一些如果你不學起來，玩起來會很痛苦的指令：\\n\\n&e/sethome&r (名稱) | 在這設個家，以後只要輸入 /home (名稱) 就能飛回來。範例：/sethome 狗窩 - 之後用 /home 狗窩 飛回來。\\n\\n&e/spawn&r | 救命指令，直接送你回重生點。\\n\\n&e/rtp&r | 沒事不要亂按，這會把你隨機丟到地圖某個角落。\\n\\n注意：這些指令有冷卻時間和次數限制。如果你想改，去翻設定檔啦：\\n\\n - 單人遊戲 | &osaves/(存檔名稱)/serverconfig/ftbessentials.snbt&r\\n\\n - 伺服器 | &oworld/serverconfig/ftbessentials.snbt&r"]
+	task.103C42C743E2A2DB.title: "劃地盤保護家產"
+	task.10A16F89D4AD238D.title: "救命指令大全"
+	task.201F519941A2C7F4.title: "不準偷拿 (版權所有)"
+	task.2C816285392535F0.title: "不準偷拿 (版權所有)"
+	task.4F13A02FB0055A62.title: "找損友組隊"
+	task.52BB142F044075B4.title: "關於任務這件事"
+}
