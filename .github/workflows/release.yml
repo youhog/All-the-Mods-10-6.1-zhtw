@@ -93,12 +93,24 @@ jobs:
             ATM10_ZHTW_Mod_${{ steps.vars.outputs.version }}.jar
             ATM10_Quests_Only_${{ steps.vars.outputs.version }}.zip
           body: |
-            ## 🚀 ATM-10 繁體中文北爛化補丁 ${{ steps.vars.outputs.version }}
-            
-            ### 📦 安裝教學
-            請參考 [README.md](https://github.com/${{ github.repository }}#-%E5%AE%89%E8%A3%9D%E8%AA%AA%E6%98%8E-installation) 獲取詳細安裝步驟。
-            
-            ### 🛠️ 本次更新重點 (Automated Changelog Below)
+            # 📦 All the Mods 10 繁體中文在地化補丁 ${{ steps.vars.outputs.version }}
+
+            本版本包含了對 ATM10 模組包的全面繁體中文化更新。
+
+            ### 📂 檔案說明 (File Descriptions)
+            | 檔案名稱 | 用途說明 | 安裝建議 |
+            | :--- | :--- | :--- |
+            | `ATM10_ZHTW_Mod.jar` | 模組化補丁，包含所有介面與物品名稱翻譯 | **推薦使用**，放入 `mods` 資料夾 |
+            | `ATM10_Quests_Only.zip` | 僅包含 FTB Quests 任務書翻譯 | 解壓後覆蓋 `config` 資料夾 |
+            | `ATM10_Full_Patch.zip` | 完整的 Overrides 覆蓋包 | 適用於整合包製作環境 |
+
+            ### 🛠️ 更新摘要
+            * **完整在地化**：全數 63 個任務章節已完成繁體中文化。
+            * **術語對齊**：修正了大量金屬錠、板材與機器零件的學名對應。
+            * **自動化檢驗**：所有檔案皆通過 JSON/SNBT 語法合規性檢查。
+
+            ---
+            詳細安裝指南請參閱 [README.md](https://github.com/${{ github.repository }}#-%E5%AE%89%E8%A3%9D%E8%AA%AA%E6%98%8E-installation-guide)。
           draft: false
           prerelease: false
         env:
