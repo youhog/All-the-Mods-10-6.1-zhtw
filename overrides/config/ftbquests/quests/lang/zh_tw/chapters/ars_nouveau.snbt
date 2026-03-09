@@ -1,0 +1,101 @@
+{
+	quest.04D9F6587EF8D9B7.quest_desc: ["&9藥水罐&r 可以裝 100 瓶藥水。你可以拿空瓶或藥水袋去裝。 \\n\\nWixies（小精靈）在自動煉藥時會用到這些罐子。"]
+	quest.04D9F6587EF8D9B7.quest_subtitle: "藥水大盤商"
+	quest.088FCB5267CB7A89.quest_desc: ["這條腰帶會隨機噴出正面 Buff 給你，持續時間不長。強度純看臉。"]
+	quest.0A1ABE9CF7740AAA.quest_desc: ["打折戒指會加一點點魔力上限和回魔。最重要的是，它讓你施法變便宜。你是精打細算的法師。"]
+	quest.0A1ABE9CF7740AAA.title: "小資法師戒指"
+	quest.0D330FAD6C993DBC.quest_desc: ["你的法術書升級啦！ \\n\\n這會增加你的藍條（魔力）和回魔速度，還能讓你做出 2 階符文。"]
+	quest.0E2AD156E5EF263A.quest_desc: ["在抄寫台寫法術用的紙。"]
+	quest.111649D7E16D869F.quest_desc: ["&9施法者法杖&r 只能存一個法術。 \\n\\n法杖法術永遠是以「投射物 -> 加速」開頭。這讓你突破 10 個法術的限制。想拿來挖礦？直接在上面寫個 Break 就行了。"]
+	quest.111649D7E16D869F.title: "&9施法者法杖"
+	quest.14DB8A515CA50932.quest_desc: ["&9附魔師之劍&r 讓你把一個「接觸型」法術貼在劍上。 \\n\\n這把劍砍人的法術會自動加一級強化。不用耗魔就能觸發，超爽。"]
+	quest.14DB8A515CA50932.title: "&9附魔師之劍"
+	quest.151648179684B088.quest_desc: ["符文粉筆用來在地上畫陷阱。誰踩上去誰倒楣。 \\n\\n你得先在抄寫台把法術寫在羊皮紙上再貼上去。\\n\\n注意：符文運作也要吃魔力源 (Source) 的。"]
+	quest.151648179684B088.quest_subtitle: "魔法陷阱"
+	quest.151648179684B088.title: "符文粉筆"
+	quest.17D7D34F519F7E5F.quest_desc: ["想做頂級法術書？你得先幹掉「荒野奇美拉」。 \\n\\n這是一個要用儀式爐來完成的儀式。準備好決鬥了嗎？"]
+	quest.18A2FBE2D4133FA2.quest_desc: ["秘術基座是做儀式跟合成高級裝備的桌子。 \\n\\n先給窩做 8 個出來擺陣！"]
+	quest.18A2FBE2D4133FA2.quest_subtitle: "裝逼用的桌子"
+	quest.18A2FBE2D4133FA2.title: "秘術基座"
+	quest.19D02325579F2AA8.quest_desc: ["火山魔力源透過吃掉燃料（像木頭、煤炭）來產魔。吃魔源木原木有產量加成。 \\n\\n它燒的時候還會順便把地上的石頭變岩漿。"]
+	quest.1D86B2E553503E53.quest_desc: ["支配法杖用來控制你在世界各地遇到的神奇生物！每種生物反應不同，去看那本「破舊筆記本」啦！"]
+	quest.1D86B2E553503E53.title: "召喚工具人！"
+	quest.227DBA8836021B0B.quest_desc: ["在 Ars Nouveau 裡，魔力統稱為 &9魔力源 (Source)&r。 \\n\\n先做個魔力罐來收集它。 \\n\\n魔力源可以用桶子裝，或是直接把罐子打破帶走。"]
+	quest.227DBA8836021B0B.quest_subtitle: "儲存魔法能量"
+	quest.227DBA8836021B0B.title: "魔力罐"
+	quest.295C77EEC89000FC.quest_subtitle: "殺生或生小孩都會產生魔力"
+	quest.2D0CF18C8B2ABB7D.quest_desc: ["放在生長的植物旁邊它就會產魔。魔源木效果更好！ \\n\\n注意：用骨粉催熟是不會產魔的。不要想作弊。"]
+	quest.2D0CF18C8B2ABB7D.quest_subtitle: "植物生長產魔機"
+	quest.3142A40E1EAEBAA3.quest_desc: ["&6尋寶杖&r 會給你魔力偵測的效果。 \\n\\n讓你看到附近的魔法生物，還能幫你找紫水晶！"]
+	quest.3142A40E1EAEBAA3.quest_subtitle: "魔法雷達"
+	quest.3182E8AF755104E4.quest_desc: ["擋下傷害時，&9附魔師之盾&r 會幫你回藍（回魔）並加強法術傷害。 \\n\\n它還會吃你的藍條來自修。這盾牌很有個性。"]
+	quest.3182E8AF755104E4.title: "&9附魔師之盾"
+	quest.33682F4B44950123.quest_desc: ["想學法術？去砍點魔法木頭吧！ \\n\\n魔源木 (Archwood) 在主世界到處都有，長得很有靈氣的那種就是了。"]
+	quest.33682F4B44950123.title: "魔法木頭"
+	quest.36CDA39C23D3AA2B.quest_desc: ["這任務是由 &6ATM 員工&r 或某個 &2爆肝網友&r 寫的。如果你看得到這行，代表你現在正在窺視開發者的內心世界（編輯模式）。"]
+	quest.3D4D88B8BE881351.quest_desc: ["想變強？你需要 &6抄寫台&r 來解鎖新符文。 \\n\\n總共 3 階，每一階都要花經驗值跟材料。 \\n\\n用法：拿書點台子，選好你要的符文，丟進材料，成品就出來了。吃掉它你就學會了。 \\n\\n注意：台子會自動吸旁邊箱子裡的材料，不用在那邊手動搬。"]
+	quest.3D4D88B8BE881351.quest_subtitle: "升級你的招式"
+	quest.3D4D88B8BE881351.title: "抄寫台"
+	quest.3D862A3D3F83CA26.quest_desc: [
+		"&9注魔設備&r 是用來做模組各種裝備的。它要吃魔力源。 \\n\\n這是一個多方塊結構：地下放秘術核心，上面放注魔設備，周圍擺滿基座。 \\n"
+		"{image:atm:textures/questpics/ars/enchanting_app.png width:200 height:175 align:1}"
+	]
+	quest.3D862A3D3F83CA26.title: "注魔工廠"
+	quest.3FD702B5AB006402.quest_desc: ["想體驗飛上天的感覺嗎？ \\n\\n這條腰帶讓你隨意漂浮。在空中按住 Shift 就能發動。小心別摔死。"]
+	quest.3FD702B5AB006402.title: "漂浮腰帶"
+	quest.40BC67BDEE15D1DE.quest_desc: ["把青金石或紫水晶丟進灌注室，等一段時間，它們就會變成閃亮亮的源質寶石！"]
+	quest.40BC67BDEE15D1DE.title: "&5源質寶石"
+	quest.41A0BE357C8A74E1.quest_desc: ["&9鍊金魔力源&r 會吸旁邊藥水罐的藥力來產魔。 \\n\\n藥水越複雜，產出的魔力就越多。"]
+	quest.41A0BE357C8A74E1.quest_subtitle: "喝藥產魔"
+	quest.441C0659ED28D935.quest_desc: ["1 階符文要做，需要花 3 級經驗值。很便宜啦。"]
+	quest.457DE8C154641437.quest_desc: ["&9儀式爐&r 用來辦大法會...我是說舉行儀式。 \\n\\n你要配上秘術基座一起用。想知道有哪些法事可以辦？去看那本「破舊筆記本」！"]
+	quest.457DE8C154641437.title: "儀式法壇"
+	quest.51162B9185A45BB1.quest_desc: ["這把弓可以寫入一個法術。 \\n\\n射出去的箭會變成「法術箭」，射中誰就對誰放招。 \\n\\n沒箭了？它會射出傷害為 0 的純法術。沒魔了？那就射普通的箭。這把弓很有個性。"]
+	quest.51162B9185A45BB1.title: "&9附魔師之弓"
+	quest.542C6D76B579886C.quest_desc: ["用你的注魔設備做第一顆種子：&5法師花種子&r。 \\n\\n這能讓你種出做魔法衣服的材料。"]
+	quest.5766C8B9E850C186.quest_desc: [
+		"想要源質寶石？你需要 &6灌注室&r。 \\n\\n它會慢慢產魔，或是吸旁邊罐子裡的魔。擺幾個基座在旁邊能解鎖更多配方。 \\n"
+		"{image:atm:textures/questpics/ars/imbuement.png width:200 height:150 align:1}"
+	]
+	quest.5766C8B9E850C186.quest_subtitle: "洗寶石的地方"
+	quest.5766C8B9E850C186.title: "灌注室"
+	quest.58EC47584C773B82.quest_desc: ["同上，這就是法師花種子。種下去，你就有漂亮的法師裝可以穿了。"]
+	quest.58EC47584C773B82.quest_subtitle: "種魔法出來"
+	quest.58EC47584C773B82.title: "法師花種子"
+	quest.5C3FF43CF16BCF30.quest_desc: ["有了寶石，你就能做各種魔法方塊的基礎材料：&5源質石&r。"]
+	quest.5C3FF43CF16BCF30.quest_subtitle: "以前叫秘術石"
+	quest.5C3FF43CF16BCF30.title: "源質石"
+	quest.5CFBA24B3E0CDEDD.quest_desc: [
+		"拿著書按 C 打開法術工作台。 \\n\\n一個法術必須有「型態」（例如遠程、對自己、接觸）。 \\n\\n再加上「效果」（傷害、挖掘等）。一個法術最多塞 9 個效果。 \\n\\n先弄個最簡單的 Harm（傷害）來防身吧。幫法術取個北爛的名字，按 Create 就完成了！"
+		""
+		"{image:atm:textures/questpics/ars/spellbook.png width:200 height:150 align:1}"
+	]
+	quest.5CFBA24B3E0CDEDD.title: "搓出第一個法術"
+	quest.632BC46928CC9A8C.quest_desc: ["&9附魔師之鏡&r 只能對自己施法。 \\n\\n用它施法有折扣，而且 Buff 效果持續更久。愛美法師必備。"]
+	quest.632BC46928CC9A8C.title: "&9附魔師之鏡"
+	quest.63DD7F5A4441ACE7.quest_desc: ["2 階符文需要 5 級經驗值。 \\n\\n而且你還得先有一本「法師法術書」才做得出來。"]
+	quest.64D0E66CB4FBEC82.quest_desc: ["第一步：做本 &6初級法術書&r！ \\n\\n這是你的魔法腦袋。按 &9C&r 打開介面。 \\n\\n左邊有幾個分頁，可以捏法術、換顏色、看寵物。 \\n\\n初級書只能用 1 階符文。想變強？那就肝出下一本吧！"]
+	quest.64D0E66CB4FBEC82.quest_subtitle: "你的第一本法術書"
+	quest.64D0E66CB4FBEC82.title: "法術書"
+	quest.6A1C0B17B22CE50F.quest_desc: ["&9魔力上限護身符&r 加藍條。 \\n\\n&6回魔護身符&r 加回藍速度。小孩子才做選擇，我全都要。"]
+	quest.6A1C0B17B22CE50F.title: "回藍護身符"
+	quest.6B511C8B572E8940.quest_desc: ["螢幕左下角那個條就是你的藍條（魔力池）！ \\n\\n如果你不穿法師裝、不升級書，你的藍條會短到讓你哭出來。"]
+	quest.6B511C8B572E8940.quest_subtitle: "法師的命脈"
+	quest.6B511C8B572E8940.title: "魔力 (藍條)"
+	quest.6DAA82B5F94AF9F8.quest_desc: ["&9光明罐&r 會召喚一個跟著你的光球。 \\n\\n&6虛空罐&r 幫你把路邊撿到的垃圾刪掉換成魔力。 \\n\\n把垃圾拿在副手點罐子就能設定要刪什麼。記得把它放在快捷列才會動。"]
+	quest.6DAA82B5F94AF9F8.title: "魔法罐子"
+	quest.6E0E13806F388D7E.quest_desc: ["歡迎來到 &aArs Nouveau (新生魔藝)&f！ \\n\\n這是一個可以讓你自由捏法術的模組。只要有符文，你想怎麼搞都行！"]
+	quest.6E0E13806F388D7E.title: "歡迎來到魔法世界"
+	quest.6F3602F5600A6221.quest_desc: ["3 階符文要 10 級經驗值。 \\n\\n而且你要有一本「大法師法術書」。肝起來吧！"]
+	quest.77145113CD5B26FB.quest_desc: ["魔源莓果產魔效率很高。 \\n\\n而且它會把周圍的草地變成菌絲，還會長蘑菇。真是自帶生態系的莓果。"]
+	quest.77145113CD5B26FB.quest_subtitle: "吃莓果產魔"
+	task.01FD75641E5EA5E4.title: "魔力"
+	task.03EB390E79866058.title: "源質石"
+	task.0E6876A34D1975EB.title: "不準偷拿 (版權所有)"
+	task.15C6E9C02D1FBEC0.title: "2 階符文"
+	task.1B916AE67F84E6D7.title: "搓出第一個法術"
+	task.1CC556A6921208B8.title: "1 階符文"
+	task.2BC0F5A88E2F03C3.title: "魔源木原木"
+	task.388545A0E3B4930D.title: "不準偷拿 (版權所有)"
+	task.65D68BEEB36FC805.title: "3 階符文"
+}

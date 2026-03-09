@@ -1,0 +1,309 @@
+{
+	quest.001DE8028CAF0A08.quest_desc: ["&5&lMekanism&r 的機器吵到快讓你鄰居報警了嗎？ \\n\\n裝個消音器吧！還你一個清靜的爆肝環境。"]
+	quest.001DE8028CAF0A08.quest_subtitle: "噓...吵死人了..."
+	quest.001DE8028CAF0A08.title: "消音&8升級模組"
+	quest.0095422BC87AA135.quest_desc: [
+		"又是這一套？老兄，我們要的是&7錠&f，不是&7碎塊&f，也不是&7碎片&r！是&7錠&r！ \\n\\n把那些&7礦石碎片&r丟進&b&l淨化室 (Purifier)&r，加上&b氧氣&r（從電解機來的），做成&7礦石碎塊&r。 \\n\\n接下來就是重複上一階的步驟：&4粉碎&f碎塊變成&7髒礦粉&r。 \\n\\n接著用&d富集機&f洗乾淨變成普通礦粉。 \\n\\n最後拿去&6燒&f，這才叫錠！懂了嗎？"
+		"{image:atm:textures/questpics/mek/mek_tier3_3.png width:250 height:100 align:center}"
+	]
+	quest.0095422BC87AA135.quest_subtitle: "三倍產量大法"
+	quest.0095422BC87AA135.title: "&7碎片&f 到 &7碎塊&f 到 &7粉&f 到 &7錠"
+	quest.01A90E2541C91DB2.quest_desc: ["大部分的機器都能裝&8升級模組&r！ \\n\\n就在 GUI 的右上角。介面看不懂？窩教你。 \\n\\n下面顯示的是這台機器「支援」的升級。亮的是&a可以裝&r，透明的是&4裝了也沒用&r。 \\n\\n升級模組從最上面的格子塞進去，它就會跑到右邊生效。點擊它們可以看到目前裝了幾個，還有效果有多強。 \\n\\n想拿出來？點擊那個模組，按 Uninstall 卸載，它就會掉到下面那格給你拿走。"]
+	quest.01A90E2541C91DB2.title: "&8機器升級大法"
+	quest.041365A540BF5A03.quest_desc: ["&7標籤字典&r 對普通玩家來說根本是個廢物：它不能挖礦、不能砍樹、連合成都不行。 \\n\\n但它是找「標籤 (Tags)」的神器！ \\n\\n拿著它對任何方塊點右鍵，聊天室就會噴出這個方塊的所有標籤。對怪點也行。 \\n\\n還不夠？Shift+右鍵 打開字典介面！ \\n\\n你可以查看背包裡所有東西的標籤。不管它是物品、藥水還是附魔標籤，通通躲不過這本字典！"]
+	quest.041365A540BF5A03.title: "&7標籤字典"
+	quest.0498A578D0EC3254.quest_desc: ["最後一個重要的零件是&a基礎控制電路&r。 \\n\\n這東西是用 20mB 的&4紅石&r加上一個&7鋨錠&r搓出來的。 \\n\\n去翻翻&c紅石注魔任務&r看怎麼把紅石塞進機器裡！"]
+	quest.0498A578D0EC3254.quest_subtitle: "所有機器的腦子"
+	quest.06210B6FD0F9989B.quest_desc: ["&d&l終極等級 (Ultimate Tier)&r 是你在生存模式能弄到的最高級貨！ \\n\\n它們的格子最多、裝得最滿、噴東西噴最快！ \\n\\n要做這些，你需要&d原子合金&f、&d終極控制電路&f還有&b鑽石&r。 \\n\\n&d原子合金&r 需要用到「精煉黑曜石」，去研究一下鋨壓縮機怎麼用吧。簡單來說就是拿鑽石合金去注魔精煉黑曜石。 \\n\\n最後拿 2 個原子合金加上 1 個精英電路，你的&d終極電路&r就誕生了！"]
+	quest.06210B6FD0F9989B.title: "&d&l終極等級 (神級)"
+	quest.0650996C7818ADB5.quest_desc: ["&6&l火力發電機&r 有兩種產能模式。 \\n\\n被動模式：在它四周擺滿&c岩漿&r，利用熱傳導產生微弱電力。 \\n\\n最聰明的做法是在上面放一格岩漿，讓它流滿四周。記得先接管子抽電啊！\\n\\n主動模式：直接餵它吃煤炭、木頭這類燃料。這就是一般的火力發電。 \\n\\n現在它可以產生 320 FE/t，雖然不多但夠你前期爆肝了。"]
+	quest.0650996C7818ADB5.quest_subtitle: "最陽春的發電"
+	quest.0650996C7818ADB5.title: "&6&l火力發電機"
+	quest.07084582F9562740.quest_desc: ["&5&lMekanism&r 內建了一套專業油漆工系統！ \\n\\n你需要用到這三台機器，而且「順序不能錯」： \\n\\n1. &c&l色料提取機&r：把染料或有顏色的方塊榨成色料 (Pigment)！這是一種化學品，要用化學管道來搬。 \\n\\n2. &e&l色料混合機&r：把兩種顏色混在一起，配出新顏色。甚至能做出一些 Mekanism 專用的特殊色！ \\n\\n3. &b&l噴漆機&r：把色料噴在物品上。最狂的是，它連已經上過色的東西都能直接重噴，原版 Minecraft 根本做不到。"]
+	quest.07084582F9562740.title: "&c全自動&e噴漆&b工坊"
+	quest.081DC030A0546549.quest_desc: ["&2生質燃料 (Bio Fuel)&r 就是把一堆&2植物&r丟進機器裡&4粉碎&r成渣渣！ \\n\\n各種植物產量不同，南瓜派給最多，但西瓜片最划算。 \\n\\n這玩意兒用途超廣！可以拿來燒生質發電機，或是注魔進別的東西裡，甚至還能..."]
+	quest.081DC030A0546549.title: "&4粉碎&2植物&f變&2燃料"
+	quest.08DDE018A804BFE7.quest_desc: ["&d&l富集機 (Enrichment Chamber)&r 會「濃縮」你的物品。丟進紅色格子，成品會從藍色格子噴出來。 \\n\\n什麼叫富集？簡單說就是「一魚多吃」。 \\n\\n1 個原礦變 2 份礦粉。1 朵花變更多染料。它甚至能幫你把銅綠刷掉或是幫石頭除苔！ \\n\\n高等級的富集機格子更多，還能「自動排序」。點一下按鈕，它就會幫你把物品平均攤在所有格子上，讓你體驗最高效率的榨乾。"]
+	quest.08DDE018A804BFE7.quest_subtitle: "把原礦榨成粉"
+	quest.08DDE018A804BFE7.title: "&d&l富集機 (濃縮機)"
+	quest.090B564935D7A8F5.quest_desc: ["懶得把機器拆掉重新擺嗎？那就用&l等級升級卡&r吧！ \\n\\n拿著升級卡對著機器點右鍵，它就會瞬間升級。 \\n\\n拿基礎級升級卡點普通的機器，它就會變基礎級。 \\n\\n注意：不能跳級！你不能拿終極升級卡去點基礎機器，乖乖一階一階升上去吧。"]
+	quest.090B564935D7A8F5.title: "&l機器&r一鍵升級卡"
+	quest.09830BB2A23E94B4.quest_desc: ["有些機器需要吃「化學品」才能動，像是注魔機、注射機或是淨化室。 \\n\\n裝了這張卡，它們就會變得很節省，用更少的化學品就能做完同樣的事！ \\n\\n窩不保證這對每一台機器都有用，自己去試啦！"]
+	quest.09830BB2A23E94B4.title: "&c化學節能&8升級"
+	quest.0AA9EF3981E9BA37.quest_desc: ["&a能源錠 (Energy Tablet)&r 存電太少？那你需要大顆的&a能量方塊&r！ \\n\\n它可以接電纜輸入或輸出。等級越高存越多。 \\n\\n每一面都能接，端看你的管子是設定為抽還是放。 \\n\\n&a&l基礎級&r：存 1.6M FE。 \\n&c&l進階級&r：存 6.4M FE。 \\n&b&l精英級&r：存 25.6M FE。 \\n&d&l終極級&r：存 102.4M FE。這已經比你家那台特斯拉還猛了。"]
+	quest.0AA9EF3981E9BA37.title: "&a能量方塊 (大電池)"
+	quest.0ACE573560A19309.quest_desc: ["幾乎每台機器都要吃電，當你有幾十台機器在跑的時候，你的電網大概會直接爆掉。 \\n\\n裝了這個升級模組，機器做同樣的事會消耗「更少」的電力！ \\n如果這能裝在反物質器上該有多好...可惜不能。"]
+	quest.0ACE573560A19309.title: "&a省電&8升級"
+	quest.0E175356D43E6A10.quest_desc: [
+		"很好，現在拿到&e氯氣&r了。還要什麼？對啦，&3氯化氫&r！ \\n\\n去電解水拿氫氣（就像你在第一階做的那樣）。這次我們要留下氫氣。 \\n\\n用&a&l化學混合機&r把氫氣和氯氣混在一起，就會得到&3氯化氫&r。 \\n\\n把這氣體灌進&c&l化學注射室&r，然後塞進原礦，你就會得到&7礦石碎片&r。 \\n\\n1 個礦石塊會變 4 個碎片，或是 3 個原礦變 8 個碎片。產量又提升了，慣老闆最愛。"
+		"{image:atm:textures/questpics/mek/mek_tier3_2.png width:150 height:100 align:center}"
+	]
+	quest.0E175356D43E6A10.quest_subtitle: "四倍產量前奏"
+	quest.0E175356D43E6A10.title: "&c注射&3氯化氫"
+	quest.0F326EEEC2EBE4E5.quest_desc: [
+		"利用富集機，你可以把材料變成「&d富集&r」版本。"
+		""
+		"這些富集材料在注魔機裡的效率是普通材料的 8 倍！"
+		""
+		"&d富集煤炭&r 幫你做更多鋼。&d富集紅石&r 幫你做合金和電路。&d富集黑曜石&r 則是後期神器的關鍵。不想浪費材料？那就乖乖先富集！"
+	]
+	quest.0F326EEEC2EBE4E5.quest_subtitle: "先富集，再注魔"
+	quest.0F326EEEC2EBE4E5.title: "&d富集材料"
+	quest.109310AF19AAC482.quest_desc: ["&4噴火槍&r 是 Mekanism 提供的中距離大殺器。 \\n\\n跟噴射背包一樣，它吃「氫氣」當燃料。填裝方式也一樣。 \\n\\n按 (N) 鍵切換模式： \\n\\n&e戰鬥模式&r：只會燒怪，不會燒壞你的房子。 \\n&6加熱模式&r：聽說功能差不多。 \\n\\n&4煉獄模式&r：燒掉擋在前面的一切！包括你損友的家。"]
+	quest.109310AF19AAC482.title: "&4噴火槍 (拆家神器)"
+	quest.119BED334E331C25.quest_desc: [
+		"最簡單的產量翻倍法：只要兩台機器！&d&l富集機&r 跟 &6&l發電熔爐&r！ \\n\\n1 個礦石塊變 2 份粉，或是 3 個原礦變 4 份粉。 \\n\\n把礦丟進富集機拿粉，然後拿粉去燒成錠。恭喜，你已經學會了基礎榨乾法！"
+		"{image:atm:textures/questpics/mek/mek_tier1_1.png width:150 height:50 align:center}"
+	]
+	quest.119BED334E331C25.quest_subtitle: "雙倍產量大法"
+	quest.119BED334E331C25.title: "&d富集&f後&6燒製"
+	quest.120572510F525930.quest_desc: [
+		"&6&l熱力蒸發補償工廠&r（這名字超長，我都叫它大水塔）是一個巨大的多方塊結構。它吃&9水&r跟&6熱能&r，產出&e鹽水&r。接著再把鹽水變成&6液態鋰&r！ \\n\\n首先你要準備一卡車的蒸發塊。底座規定是 4x4，不能多也不能少。 \\n\\n牆高最少 3 格，最高 18 格。裡面要挖空。 \\n\\n在牆上（不能是角落）裝上&6閥門&r跟&6控制器&r。控制器只有一個，那是你存取介面的地方。 \\n\\n閥門負責進水、出產物，或是從外部導熱進去。 \\n\\n頂層的角落不能擺方塊，但你可以塞&e&l進階太陽能發電機&r上去幫忙加熱！"
+		"{@pagebreak}"
+		"{image:atm:textures/questpics/mek/mek_thermal1.png width:125 height:100 align:center}"
+		"4x4 的底座。"
+		"{image:atm:textures/questpics/mek/mek_thermal2.png width:125 height:100 align:center}"
+		"牆高 3~18 格，隨你高興。閥門跟控制器裝這層。"
+		"{image:atm:textures/questpics/mek/mek_thermal3.png width:110 height:100 align:center}"
+		"頂層角落要空著，或是放進階太陽能。"
+		"{image:atm:textures/questpics/mek/mek_thermal4.png width:110 height:100 align:center}"
+		"控制器亮起來就代表你蓋對了。沒亮？再回去檢查一次啦。"
+	]
+	quest.120572510F525930.title: "&6&l熱力蒸發工廠"
+	quest.162CE44400A63575.quest_desc: ["這是你進入 Mekanism 的第一台機器：&9&l冶金注魔機&r！ \\n\\n它會把一種物品「注魔」進另一種物品裡。 \\n\\n&e黃色格子&r：放注魔材料（紅石、煤炭、鑽石等）。 \\n&4紅色格子&r：放你要加工的基底物品。 \\n&9藍色格子&r：成品出來的地方。 \\n&a綠色格子&r：給機器通電的地方。 \\n\\n如果你想換口味（換注魔材料），按一下 DUMP 鈕把肚子裡的存貨倒掉。"]
+	quest.162CE44400A63575.quest_subtitle: "萬惡的開端"
+	quest.162CE44400A63575.title: "&9&l冶金注魔機"
+	quest.166971866A9234C7.quest_desc: ["這模組裡最重要的耗材就是&c鋼鐵注魔合金&r。 \\n\\n做法：拿&6銅錠&r注魔 10mB 的&4紅石&r。 \\n\\n怎麼拿紅石？把它塞進注魔機的黃色格子。紅石粉給 10mB，富集紅石給 80mB（這才是聰明人的做法）。"]
+	quest.166971866A9234C7.quest_subtitle: "最基礎的合金"
+	quest.166971866A9234C7.title: "&c鋼鐵注魔合金"
+	quest.1796E08BBDC09B84.quest_desc: ["&b&l動態儲槽&r 是一個隨便你蓋的多方塊水塔，最小 3x3x3。 \\n\\n它可以裝超級、爆炸、無敵多的液體或化學品。容量取決於你蓋多大。 \\n\\n牆面可以用玻璃讓你看清楚裡面裝了什麼垃圾，但框架一定要用儲槽方塊。 \\n\\n記得裝上「埠」才能接管子進出喔。"]
+	quest.1796E08BBDC09B84.title: "&b&l動態儲槽 (超級大水缸)"
+	quest.18783C62009934DB.quest_desc: ["&9&l電解分離機&r 會把一種液體拆成兩種氣體！ \\n\\n最常用的就是「電解水」，這會噴出氫氣和&b氧氣&r。 \\n\\n介面下方有兩個按鈕可以控制產物處理： \\nIdle (閒置)：如果其中一邊氣體滿了，機器就停工。 \\nDump Excess (排放多餘)：如果一邊滿了，它會自動把多出來的排掉，確保另一邊能持續生產。這是最常用的設定。 \\nDump (排放)：不管是多少，通通排掉。你錢很多是不是？"]
+	quest.18783C62009934DB.title: "&9&l電解分離機 (拆水機)"
+	quest.1922623A26E08078.quest_desc: ["跟液體桶一樣，但這是拿來裝氣體和化學品的。 \\n\\n只要是化學導管能搬的東西，它都能裝。 \\n\\n&a&l基礎級&r：裝 64 桶。 \\n&c&l進階級&r：裝 256 桶。 \\n&b&l精英級&r：裝 1,024 桶。 \\n&d&l終極級&r：裝 8,192 桶。"]
+	quest.1922623A26E08078.title: "&c化學儲存桶"
+	quest.19341B01E048ACAB.quest_desc: ["&a&l基礎等級&r 是最便宜也最廢的一階。 \\n\\n雖然很廢，但它是所有高級貨的起點。你得用紅石、基礎電路和一些鐵錠來搓出這些玩意兒。"]
+	quest.19341B01E048ACAB.title: "&a&l基礎等級 (垃圾階級)"
+	quest.195729280394ABFB.quest_desc: ["這台機器基本上只有兩個功能：做出&e精煉螢石&f和&5精煉黑曜石&r。 \\n\\n它會把物品和&7鋨&r強力壓縮在一起。 \\n\\n你需要塞鋨錠、鋨塊或鋨氣進去餵它。它是你通往高級合金的必經之路。"]
+	quest.195729280394ABFB.quest_subtitle: "就這兩個功能，沒了"
+	quest.195729280394ABFB.title: "&7&l鋨壓縮機"
+	quest.1ABD22AA58E093A6.quest_desc: ["只有最頂級的機器才配得上最頂級的材料。 \\n\\n用這些終極零件來讓你的工廠飛起來吧！雖然很貴，但絕對值得。"]
+	quest.1ABD22AA58E093A6.title: "神級機器專區"
+	quest.1AEFF93A398B8BBF.quest_desc: ["&b&l精英等級&r 比進階級更強。 \\n\\n你需要用到&b強化合金&f、&b精英控制電路&f還有黃金。 \\n\\n強化合金是拿「鋼鐵合金」去注魔 20mB 的「鑽石」做出來的。沒錯，現在連鑽石都要拿來注魔了。"]
+	quest.1AEFF93A398B8BBF.title: "&b&l精英等級"
+	quest.1F8B4F648EB5A0DC.quest_desc: ["不喜歡用抽屜？還是你是背包客？那你需要「個人儲存箱/桶」。 \\n\\n這兩樣東西用法一樣。做完後右鍵點一下綁定自己。 \\n\\n以後只有你能開這個箱子。最爽的是你可以把它放在物品欄裡直接打開，或者擺在地上用。它有 54 格大空間，可惜不能裝升級模組。"]
+	quest.21D8B88155648EA6.quest_desc: [
+		"大家都知道你是來幹嘛的... &5&l給我機器！&r \\n\\n機器就是你的自動化工廠。每一台都有它的特長。去看各別的任務說明。 \\n\\n這裡教你怎麼設定： "
+		"{@pagebreak}"
+		"每台機器的介面顏色都代表不同功能：&a亮綠色&f：插電。&4紅色&f：輸入端。&9藍色&f：輸出端。&3青色&f：副產品輸出。&e黃色&f：注魔材料。 \\n\\n你可以點擊介面左邊的「Side Config」來修改每一面的功能。記得把「Auto-Eject (自動彈出)」打開，不然機器做完會把成品憋在肚子裡不出來。 "
+		"{@pagebreak}"
+		"右上角可以插升級模組。加速、省電、消音，隨你高興。加速卡可以疊到 8 張，讓你的機器變成閃電麥坤。"
+	]
+	quest.21D8B88155648EA6.title: "&l&5自動化工廠機器"
+	quest.21F3379C904BFD50.quest_desc: ["&6電阻加熱器&r 也會發熱，但它吃的是電力！ \\n\\n你可以設定它要吃多少電，吃越多、產熱越快。 \\n\\n最高溫可以到...一堆九。總之很高溫就對了。"]
+	quest.21F3379C904BFD50.title: "&6電阻加熱器"
+	quest.227E9783382527CA.quest_desc: ["&c輕盈靴&r 是一雙吃電的神鞋。 \\n\\n穿上後按 (B) 切換模式： \\n\\n&2普通&r：防摔傷、幫你自動跳過一格高的方塊。 \\n&6安全&r：防摔傷，但不亂跳。（這才是正常的鞋子）。 \\n&4停用&r：就只是一雙純裝飾的鞋子。 \\n\\n你一樣可以升級它，讓它具備護甲值。"]
+	quest.227E9783382527CA.title: "&c輕盈靴 (跳跳鞋)"
+	quest.24BA664B60E49461.quest_desc: ["這絕對是科技模組裡最北爛也最強大的工具：&6紙箱&r！ \\n\\n只要 4 個鋸木粉就能做一個。 \\n\\n對著任何方塊點右鍵，它就會被打包進紙箱。現在你可以直接把紙箱挖走，帶到任何地方放下，再 Shift+右鍵 把紙箱拆掉。 \\n\\n除了基岩這種神級方塊外，連黑曜石、強化深層石甚至是生怪磚都能直接打包帶走！搬家神器啊。"]
+	quest.24BA664B60E49461.title: "&6萬能紙箱 (搬家神器)"
+	quest.27512B0434531195.quest_desc: ["&c&l化學注射室&r 是另一種把物品和化學品揉在一起的機器。 \\n\\n你可以拿水蒸氣來復活珊瑚。 \\n\\n或是用氧氣來幫銅「氧化」。 \\n\\n最重要的，是用氯化氫來幫原礦「注射」，獲得四倍產量的礦石碎片！"]
+	quest.27512B0434531195.title: "&c&l化學注射室"
+	quest.2A793B35FE25003C.quest_desc: ["&c&l化學氧化機&r 可以把固體物品變成氣體！ \\n\\n例如把煤炭變成碳氣。 \\n\\n這在處理後期資源（像鋰或某些合成金屬）時非常重要。"]
+	quest.2A793B35FE25003C.title: "&c&l化學氧化機"
+	quest.2D1CBCEC82F1B37D.quest_desc: ["&6燃料加熱器&r 就是拿來燒火產生熱能的。 \\n\\n吃任何熔爐燃料。它熱起來的時候顏色會變，看起來就很燙。"]
+	quest.2D1CBCEC82F1B37D.title: "&6燃料加熱器"
+	quest.2EA0C74AE7366656.quest_desc: ["這是一個可以隨身攜帶的遠端傳送裝置。 \\n\\n它要吃電，也要記得綁定。 \\n\\n打開介面，選一個你在家蓋好的傳送門網路，按一下傳送，你就會瞬間回家。 \\n\\n注意：這只能讓你「去」傳送門，不能讓你傳送到這台機器上。它不是任意門。"]
+	quest.2EA0C74AE7366656.title: "&a可攜式傳送器"
+	quest.31B73D16C0199785.quest_desc: ["把精煉黑曜石粉丟進鋨壓縮機，給它一點鋨錠。 \\n\\n你就會得到全遊戲最硬的金屬之一：精煉黑曜石錠。拿來做高級裝備和機器。"]
+	quest.31B73D16C0199785.title: "&5精煉黑曜石"
+	quest.33415CB421F7620A.quest_desc: ["&b&l淨化室&r 算是富集機的升級版（雖然它功能比較少）。 \\n\\n它唯一的強項就是把原礦加上氧氣，噴出「礦石碎塊 (Clumps)」。 \\n\\n這能讓你的礦物產量再次飆升！詳細請看產量大法的任務。"]
+	quest.33415CB421F7620A.title: "&b&l淨化室"
+	quest.33C69B5934BE4D64.quest_desc: ["&b機械管道&r 用來搬液體。不止是水，只要是液體都能搬。 \\n\\n是用鋼錠跟水桶做的。等級越高，管子越粗，噴水越快。 \\n\\n&a&l基礎級&r：每秒噴 250mB。 \\n&d&l終極級&r：每秒噴 32 桶！這已經是消防栓等級了。"]
+	quest.33C69B5934BE4D64.quest_subtitle: "液體搬運"
+	quest.33C69B5934BE4D64.title: "&b機械管道"
+	quest.376532CD98D39781.quest_desc: ["&c&l化學混合機&r 把兩氣體混在一起變新氣體。 \\n\\n前期沒啥屁用，後期是做高級燃料和材料的關鍵。 \\n\\n注意：左邊跟右邊放什麼氣體是有規定的，放錯邊它死都不會動。"]
+	quest.376532CD98D39781.title: "&c&l化學混合機"
+	quest.37D4E5ACB35D8BF1.quest_desc: ["這款噴射背包不吃電，它吃的是「氫氣」！ \\n\\n去電解機弄點氫氣塞進去。穿上後按 (G) 切換模式： \\n\\n&4普通&r：按住跳躍起飛，放開會像石頭一樣掉下去。 \\n&b懸停&r：定在空中，移動比較慢但很安全。按 Shift 降落。 \\n&6矢量&r：看哪飛哪，操作難度 100。 \\n&4停用&r：就是個裝飾。 \\n\\n你可以升級它，讓它穿起來更有安全感。"]
+	quest.37D4E5ACB35D8BF1.quest_subtitle: "吃氫氣的喔！"
+	quest.37D4E5ACB35D8BF1.title: "&c噴射背包"
+	quest.3AF1DC02E9A0010C.quest_desc: ["&c加壓導管&r 專門搬運那些奇怪的氣體、色料和注魔材料。 \\n\\n想讓氣體噴出來？記得把機器的輸出端設成「自動彈出」。 \\n\\n&a&l基礎級&r：每秒搬 750mB。 \\n&d&l終極級&r：每秒搬 256 桶！這管子裡跑的大概是超音速氣流。"]
+	quest.3AF1DC02E9A0010C.quest_subtitle: "氣體、色料、注魔材料"
+	quest.3AF1DC02E9A0010C.title: "&c加壓導管"
+	quest.3C8D9278B81BB37A.quest_desc: ["人生苦短，不要浪費時間在等待。 \\n\\n塞滿加速卡，讓你的工廠動起來！"]
+	quest.3C8D9278B81BB37A.title: "&e加速&8升級"
+	quest.3EC9D0DA61B45328.quest_desc: ["這台發電機可以燒氫氣，但最推薦拿來燒「乙烯 (Ethylene)」。 \\n\\n燒氫氣賺不到電，但燒乙烯可以讓你變成用電大戶。"]
+	quest.3EC9D0DA61B45328.quest_subtitle: "燒氣體變電能"
+	quest.3EC9D0DA61B45328.title: "&c&l燃氣發電機"
+	quest.424B3E3B299D3999.quest_desc: ["儀表滴管是用來清空機器肚子裡的化學品的。 \\n\\n在機器介面裡，拿滴管去吸那些氣體。你可以把它排掉，或是存進罐子裡。"]
+	quest.424B3E3B299D3999.title: "儀表滴管 (吸塵器)"
+	quest.4274E777FB60BA28.quest_desc: ["&a&l充電板&r 是懶人專用的充電裝置。 \\n\\n只要你踩上去，它就會自動把你身上所有能充電的東西填滿。 \\n\\n不管是哪個模組的電器都通！它會從你背包的第一格開始充，充飽了換下一個。"]
+	quest.4274E777FB60BA28.title: "&a&l充電板"
+	quest.445CC9AAA6F8AAB6.quest_desc: [
+		"想要三倍產量？你需要淨化室，而淨化室需要&b氧氣&r。 \\n\\n先做台電解分離機，餵它喝水，它會噴出氫氣和&b氧氣&r。 \\n\\n把氫氣排掉（或拿去飛背包），把氧氣導進淨化室。 \\n\\n現在，把原礦丟進去，1 個礦石塊會噴出 3 個碎塊。產量 UP！"
+		"{image:atm:textures/questpics/mek/mek_tier2_1.png width:100 height:100 align:center}"
+	]
+	quest.445CC9AAA6F8AAB6.quest_subtitle: "產量大法第一步"
+	quest.445CC9AAA6F8AAB6.title: "搞定&b氧氣"
+	quest.47E79DFD123BF617.quest_desc: ["這是一套能讓你在水下當海王的裝備！ \\n\\n你得先在氧氣罐裡灌滿氧氣。戴好面罩和罐子，按 (G) 啟動。 \\n\\n現在你可以在水底下待到氧氣噴完為止。"]
+	quest.47E79DFD123BF617.title: "&e潛水套裝"
+	quest.47F38E606AD3FF53.quest_desc: ["很多配方都要用到礦粉。 \\n\\n雖然有很多方法可以弄到粉，但 Mekanism 建議用粉碎機或是富集機。 \\n\\n富集原礦塊可以得到兩份粉。省錢就是賺錢啦！"]
+	quest.47F38E606AD3FF53.title: "&4磨粉&f工坊"
+	quest.488DBE69595F38F8.quest_desc: ["求求你，別再用那種慢得要死的煤炭熔爐了。 \\n\\n這台電動熔爐直接吃電，速度快多了！ \\n\\n升級後還能一次燒好幾格東西，還有自動分堆功能，讓你體驗最高級的爆肝工業。"]
+	quest.488DBE69595F38F8.quest_subtitle: "吃電的超級熔爐"
+	quest.488DBE69595F38F8.title: "&6&l電動熔爐"
+	quest.4935209D870E25F2.quest_desc: ["這模組 90% 的機器都要吃電。使用的是 FE 電量單位。 \\n\\n1kFE 是 1000，1MFE 是一百萬。 \\n\\n能量錠 (Energy Tablet) 就是這模組的電池。它也是做發電機的基礎。沒這塊電池你啥都動不了。"]
+	quest.4935209D870E25F2.title: "&a&l給我電！"
+	quest.4A1C8125896F7F1A.quest_desc: ["這任務是由 &6ATM 員工&r 或某個 &2爆肝網友&r 寫的。如果你看得到這行，代表你現在正在窺視開發者的內心世界（編輯模式）。"]
+	quest.4B35C01F5D0AAC58.quest_desc: ["有了注魔機和電，我們來做「鋼」吧！ \\n\\n先把煤炭丟進黃色格子轉成「碳」。 \\n\\n把鐵錠丟進去注魔 10mB 碳，變成「富集鐵」。 \\n\\n接著再把富集鐵拿去注魔一次 10mB 碳，就會變成「鋼粉」。最後拿去燒成錠。 \\n\\n鋼是這模組的靈魂，機器、管子、反應爐全都要它。多備一點，保證不虧。"]
+	quest.4B35C01F5D0AAC58.title: "&8鋼鐵工業"
+	quest.4E7823C2FCEBE4DC.quest_desc: ["就是一把吃電不吃耐久的弓。"]
+	quest.4E7823C2FCEBE4DC.title: "&3電動長弓"
+	quest.4EDD96EB60EF5814.quest_desc: ["問我要不要做？廢話，當然要做！ \\n\\n進階太陽能雖然貴又佔位，但發電量超強。 \\n\\n它一樣要曬太陽才能動。 \\n\\n你還能把它裝在熱力蒸發塔頂端幫忙加熱。"]
+	quest.4EDD96EB60EF5814.quest_subtitle: "產電 480 FE/t"
+	quest.4EDD96EB60EF5814.title: "&l&e&o進階太陽能發電機"
+	quest.515A60B89ED5440D.quest_desc: ["這是專門給「數位採礦機」用的。 \\n\\n裝了它，採礦機就會自己生出石頭，填補挖掉礦石後的空洞。省去你還要手動餵石頭的麻煩。"]
+	quest.515A60B89ED5440D.title: "&7鵝卵石產生升級卡"
+	quest.566C1DBA9829E328.quest_desc: ["&e&l結合機&r 可以自動把兩種東西黏在一起。 \\n\\n像是把 4 個黑曜石粉跟石頭黏在一起變回黑曜石。 \\n\\n它有很多奇怪的配方，自己去 JEI 翻翻。"]
+	quest.566C1DBA9829E328.title: "&e&l結合機"
+	quest.58B125BD4876054C.quest_desc: ["&5&lMekanism&r 是一個會徹底改變你 Minecraft 生活的黑科技模組。 \\n\\n它的核心就是「把物品拆成化學成分，然後榨乾它們的最後一滴價值」。 \\n\\n你會用到氫氣噴射背包、可愛的機器人、巨大的核反應爐，還有能幫你自動挖礦的數位採礦機。 \\n\\n相信我，玩過之後你就再也回不去了！"]
+	quest.58B125BD4876054C.quest_subtitle: "打造你的工業帝國"
+	quest.58B125BD4876054C.title: "&5&l通用機械 (Mekanism)"
+	quest.5B556192F060F3F1.quest_desc: ["精煉黑曜石是後期的神物。 \\n\\n先拿黑曜石去粉碎成粉。 \\n\\n然後拿黑曜石粉去注魔「鑽石」。建議先用富集鑽石比較省。 \\n\\n接下來你可以選擇再次富集它，或是拿去..."]
+	quest.5B556192F060F3F1.title: "&5精煉黑曜石粉"
+	quest.5E116409DC7D30BB.quest_desc: ["你應該已經懂物流了。這個任務教你怎麼用&3組態機 (Configurator)&r！ \\n\\n按住 Shift 並滾動滾輪來換模式： \\n\\n&dWrench&r：直接拆機器。 \\n&eRotate&r：轉方向。 \\n&4Empty&r：吸出機器裡的液體或氣體。 \\n其餘模式則是用來設定機器的進出端（抽或放）。 \\n\\n對著管子點一下，可以切換它是「吸」、「噴」還是「兩者皆非」。對著箱子點一下，可以設為「自動輸出」。必備工具！"]
+	quest.5E116409DC7D30BB.quest_subtitle: "組態機使用說明"
+	quest.5E116409DC7D30BB.title: "&5&l物流管理專家"
+	quest.602A6CF9D5B66AD3.quest_desc: ["&5&l化學結晶機&r 其實很簡單：餵它氣體和電，它就吐出石頭給你。 \\n\\n它可以把淨化過後的礦石漿變成「礦石晶體」。 \\n\\n還能把鋰變成鋰粉，或是把反物質變成球。這就是化學的神奇力量。"]
+	quest.602A6CF9D5B66AD3.title: "&5&l化學結晶機"
+	quest.603BEDD49070ECAD.quest_desc: ["這台機器專門處理「氣液轉換」。 \\n\\n左邊是氣體，右邊是液體。 \\n\\n通電後，它會幫你把氣體壓縮成水，或是把液體蒸發成氣。搬運資源時超好用。"]
+	quest.603BEDD49070ECAD.title: "&c&l氣液轉換機"
+	quest.60B52705049D1BA5.quest_desc: ["&a&l化學清洗機&r 只有一個功能：幫礦石洗澡。 \\n\\n餵它水跟髒礦漿，它就會吐出乾淨礦漿。 \\n\\n就像洗衣服一樣簡單，只是洗的是錢。"]
+	quest.60B52705049D1BA5.title: "&a&l化學清洗機"
+	quest.60ECCCAB66AAC05D.quest_desc: ["&e物流運輸管&r 是用來搬東西的。 \\n\\n要把東西塞進機器，記得把機器的輸入端設定好。 \\n\\n這管子有夠聰明，還會自動找路。 \\n\\n&a&l基礎級&r：每秒搬 2 個東西。 \\n&d&l終極級&r：每秒搬 2 組東西，而且一秒跨越 10 格。簡直是傳送門。"]
+	quest.60ECCCAB66AAC05D.quest_subtitle: "物品運輸"
+	quest.60ECCCAB66AAC05D.title: "&e物流運輸管"
+	quest.6263A27182B2CE3D.quest_desc: ["有些機器比較高端，所以需要更好的零件。 \\n\\n這階材料的造價跟進階級機器差不多，乖乖掏錢吧。"]
+	quest.6263A27182B2CE3D.title: "高級機器零件"
+	quest.62827AA1AD29A222.quest_desc: ["&a萬用電纜&r 是你的工廠血脈！ \\n\\n機器上亮綠色的地方就是接電處。你可以自己改位置。 \\n\\n機器之間如果貼在一起也會互相傳電。 \\n\\n&a&l基礎級&r：每刻傳 3.2k FE。 \\n&d&l終極級&r：每刻傳 3.2M FE！這電壓大概能把整座城燒掉。"]
+	quest.62827AA1AD29A222.title: "&a萬用電纜"
+	quest.63F41475236F99D2.quest_desc: ["「嘿，小哥，要透視掛嗎？」 \\n\\n&8地震震動器&r 跟 &8地震讀取機&r 是你的透視拍檔。 \\n\\n震動器放地上吃電，它會「震動」整個區塊。 \\n\\n讀取機拿在手上也吃電。站在震動器同個區塊打開它，你就能看到腳底下的斷層掃描。 \\n\\n雖然不能 100% 準確，但拿來找山洞或礦脈超級好用！"]
+	quest.63F41475236F99D2.title: "合法 X-Ray"
+	quest.66A450CAC07232E1.quest_desc: ["&6熱力導管&r 用來搬運「熱量」。是的，熱量也是一種資源。 \\n\\n通常用來接熱源給蒸發塔用。 \\n\\n等級越高，熱傳導越好。簡單明瞭。"]
+	quest.66A450CAC07232E1.quest_subtitle: "傳遞熱量"
+	quest.66A450CAC07232E1.title: "&6熱力導管"
+	quest.67E7A9A65B14C933.quest_desc: [
+		"拿到碎塊了？接下來呢？ \\n\\n先粉碎成「髒礦粉」。 \\n\\n髒礦粉不能直接燒，熔爐會壞掉！你要先用富集機洗乾淨。 \\n\\n洗乾淨後就能燒成錠了。這一套下來產量是三倍！爽吧？"
+		"{image:atm:textures/questpics/mek/mek_tier2_2.png width:250 height:50 align:center}"
+	]
+	quest.67E7A9A65B14C933.quest_subtitle: "產量大法第二步"
+	quest.67E7A9A65B14C933.title: "洗白礦粉"
+	quest.6B8040401B512E50.quest_desc: ["&3&l化學溶解室&r 是產量大法的終極機器。 \\n\\n它吃「硫酸」跟原礦。 \\n\\n進去是石頭，出來是「髒礦漿」。接下來就是要洗漿了。"]
+	quest.6B8040401B512E50.title: "&3&l化學溶解室"
+	quest.6CD1720B76F47806.quest_desc: ["生質發電機吃渣渣吐出電力。 \\n\\n但這台發電機被砍得很慘，效率極低。 \\n\\n主要是因為你們這群傢伙愛蓋那種毀天滅地的西瓜農場，搞到伺服器都要爆炸了，所以官方把它削弱了。別用這台啦。"]
+	quest.6CD1720B76F47806.title: "&2&l生質發電機 (西瓜慘案)"
+	quest.6DC1E08D019FD543.quest_desc: [
+		"拿到晶體後還要繼續注射！ \\n\\n再次準備好氯化氫（鹽水 -> 氯氣 -> 混氫氣）。 \\n\\n用注射機把氯化氫灌進晶體裡，噴出 2 個碎片。 \\n\\n這套就是傳說中的五倍產量大法！你現在已經是個合格的礦石榨乾機了。"
+		"{image:atm:textures/questpics/mek/mek_tier4_3.png width:250 height:100 align:center}"
+	]
+	quest.6DC1E08D019FD543.quest_subtitle: "五倍產量大法"
+	quest.6DC1E08D019FD543.title: "終極礦石處理"
+	quest.6F62B5510FA881CD.quest_desc: ["&7鋨 (Osmium)&r 是這模組最基礎的礦石。長得像發光的藍灰色翡翠。 \\n\\n它是所有機器的基礎，沒它你啥都做不出來。 \\n\\n它的裝備屬性跟獄髓差不多，所以前期可以弄一套來穿。"]
+	quest.6F62B5510FA881CD.quest_subtitle: "工業基石"
+	quest.6F62B5510FA881CD.title: "&7鋨礦"
+	quest.71869B1D81D6A7EF.quest_desc: ["&2&l加壓反應室&r (PRC) 是把水、氣體、物品三合一搞出新東西的神機。 \\n\\n它可以做高密度塑料（HDPE）、火藥，甚至是核燃料。 \\n\\n介面很擠，看清楚哪格是放什麼的。"]
+	quest.71869B1D81D6A7EF.title: "&2&l加壓反應室"
+	quest.71CF9E59F8F0B4A6.quest_desc: ["精英級機器，比進階級更猛！ \\n\\n用精英級零件來組裝它們吧。"]
+	quest.71CF9E59F8F0B4A6.title: "精英級工廠"
+	quest.7276892E129A739B.quest_desc: ["你以為這就是 Mekanism 的全部嗎？這只是剛入門而已！ \\n\\n接下來我們要進入「核能時代」。準備好你的肝跟一堆硫粉吧。 \\n\\n前面的路還長著呢。"]
+	quest.7276892E129A739B.title: "&5&l核能時代預告"
+	quest.73E6878553BA6908.quest_desc: ["喜歡抽屜嗎？Mekanism 有自己的版本：&e儲存倉 (Bins)&r。 \\n\\n只能裝一種東西，但能裝超級多。 \\n\\n用組態機可以設定它自動往下排貨。 \\n\\nShift+右鍵 可以鎖定物品種類。 \\n\\n&d&l終極級&r：能裝 4096 組物品！這簡直是黑洞。"]
+	quest.73E6878553BA6908.quest_subtitle: "工業抽屜"
+	quest.73E6878553BA6908.title: "&e儲存倉"
+	quest.74200A48498DD7F8.quest_desc: ["太陽能發電機只要曬太陽就給電。 \\n\\n非常無腦，但合成表很煩人。 \\n\\n發電量比風力小，但佔地也小。現在它被加強了，可以存 40k FE 的電。"]
+	quest.74200A48498DD7F8.quest_subtitle: "曬太陽就有電 (60 FE/t)"
+	quest.74200A48498DD7F8.title: "&e&l太陽能發電機"
+	quest.7485BCBE366501DF.quest_desc: [
+		"想要更多礦？那我們要換種處理法。 \\n\\n你需要「氯氣」。 \\n\\n先蓋一座熱力蒸發塔弄出鹽水。 \\n\\n把鹽水丟進電解機，就會噴出鈉跟&e氯氣&r。鈉可以留給核反應爐，氯氣拿去處理礦石！"
+		"{image:atm:textures/questpics/mek/mek_tier3_1.png width:200 height:100 align:center}"
+	]
+	quest.7485BCBE366501DF.quest_subtitle: "產量大法第三步"
+	quest.7485BCBE366501DF.title: "搞定&e氯氣"
+	quest.75E4751F7A802A44.quest_desc: [
+		"歡迎來到絕命毒師的現場！我們來搞點「硫酸」。 \\n\\n1. 把硫粉氧化變成二氧化硫。 \\n2. 再搞點氧氣跟它混合變成三氧化硫。 \\n3. 弄點水蒸氣（水灌進氣液轉換機）。 "
+		"{image:atm:textures/questpics/mek/mek_tier4_1.png width:200 height:100 align:center}"
+	]
+	quest.75E4751F7A802A44.quest_subtitle: "絕命毒師第一步"
+	quest.75E4751F7A802A44.title: "製作&aSulfuric Acid (硫酸)"
+	quest.763FB27929E053BE.quest_desc: ["這是專門裝在電動幫浦上的升級。 \\n\\n裝了它，幫浦就不抽普通水，改抽「重水」了。 \\n\\n重水是核反應爐的燃料基礎，你要做這玩意兒才玩得下去。"]
+	quest.763FB27929E053BE.title: "&9重水過濾&8升級"
+	quest.7778937DF377C1B4.quest_desc: [
+		"自動發電的最佳選擇。"
+		""
+		"發電量取決於你蓋多高。蓋越高，風越猛，電越多。"
+		""
+		"海平面大約 90 FE/t，最高可以到 360 FE/t！上面不能被東西擋住喔。"
+	]
+	quest.7778937DF377C1B4.quest_subtitle: "吹西北風就有電"
+	quest.7778937DF377C1B4.title: "&b&l風力發電機"
+	quest.77FB313845779AED.quest_desc: [
+		"把水蒸氣跟三氧化硫混合，恭喜你得到硫酸！ \\n\\n把硫酸灌進溶解室去「溶化」礦石塊，變成「髒礦漿」。 \\n\\n把髒礦漿送進清洗機洗乾淨。 \\n\\n最後丟進結晶機，砰！拿到「礦石晶體」。這就是五倍產量的基礎材料。"
+		"{image:atm:textures/questpics/mek/mek_tier4_2.png width:300 height:50 align:center}"
+	]
+	quest.77FB313845779AED.quest_subtitle: "絕命毒師第二步"
+	quest.77FB313845779AED.title: "用&a強酸&f融掉礦石"
+	quest.78DD2A3DFF6D1613.quest_desc: ["把渣渣變成塑膠！ \\n\\n渣渣、水、氫氣丟進反應室得到「基材」跟「乙烯」。 \\n\\n把乙烯壓成液體，再跟基材一起丟回反應室，你就得到 HDPE 顆粒了。 \\n\\n這東西可以做棒子、板材，是後期做高科技產品（像高級噴射背包）的關鍵。"]
+	quest.78DD2A3DFF6D1613.title: "把&2植物渣&r變成塑膠"
+	quest.7934873E784C4B3C.quest_desc: [
+		"眼熟嗎？又回到這一步了。 \\n\\n拿氧氣去淨化晶體變成碎塊。 \\n\\n粉碎碎塊變髒粉，富集髒粉變普通粉。 \\n\\n最後燒掉。呼，這一套下來你的產量已經翻了五倍，但也肝得差不多了。"
+		"{image:atm:textures/questpics/mek/mek_tier3_3.png width:250 height:100 align:center}"
+	]
+	quest.7934873E784C4B3C.quest_subtitle: "五倍產量最後一步"
+	quest.7934873E784C4B3C.title: "晶體到錠的最後衝刺"
+	quest.7952DA35B4F5C598.quest_desc: ["一個水桶裝不夠？一組水桶裝不下？那你需要液體儲槽！ \\n\\n它可以裝好幾百桶液體，隨身帶著走。 \\n\\n等級越高裝越多。 &d&l終極級&r 可以裝 256 桶液體！你簡直是帶了一整座湖在身上。"]
+	quest.7952DA35B4F5C598.title: "&b液體儲槽 (大水桶)"
+	quest.7AE502EDB73BD57A.quest_desc: ["粉碎機就是拿來「碎屍萬段」用的。 \\n\\n錠變粉、石頭變礫石、植物變渣渣。 \\n\\n做升級模組會用到一堆粉，這台機器你越早做越好。"]
+	quest.7AE502EDB73BD57A.quest_subtitle: "碎碎平安"
+	quest.7AE502EDB73BD57A.title: "&4&l粉碎機"
+	quest.7B0DFA55B4D8B16D.quest_desc: [
+		"只要有電，這東西能帶你去任何維度的任何角落！ \\n\\n首先你要一個傳送門塊跟 9 個框架。 \\n\\n傳送門塊是腦袋，要吃電。進去設定個網路名字（例如「窩的秘密基地」）。 \\n\\n兩端都設成同一個網路，中間的傳送門就會亮起來。走進去你就到了。 \\n\\n你還能在介面裡改傳送門的顏色，搞個粉紅色的少女心傳送門也行。"
+		"{@pagebreak}"
+		"{image:atm:textures/questpics/mek/meka_portal1.png width:200 height:75 align:center}"
+		"底座擺法。"
+		"{image:atm:textures/questpics/mek/meka_portal2.png width:150 height:125 align:center}"
+		"往上疊。"
+		"{image:atm:textures/questpics/mek/meka_portal3.png width:100 height:125 align:center}"
+		"疊更高。"
+		"{image:atm:textures/questpics/mek/meka_portal4.png width:100 height:140 align:center}"
+		"封頂。"
+		"{image:atm:textures/questpics/mek/meka_portal5.png width:110 height:150 align:center}"
+		"搞定！酷喔。"
+	]
+	quest.7B0DFA55B4D8B16D.quest_subtitle: "瞬移不是夢"
+	quest.7B0DFA55B4D8B16D.title: "自製傳送門"
+	quest.7C687DCF71D77761.quest_desc: ["&c&l進階等級&r 比基礎級強一點。 \\n\\n格子多、噴得快。是用鋼鐵合金、進階電路和鋨錠做的。"]
+	quest.7C687DCF71D77761.title: "&c&l進階等級"
+	quest.7CC49360D07086B8.quest_desc: ["「透過高精度的原子機械，我們能將物質拆解並透過特定頻率隔空傳送...」 \\n\\n屁啦，這明明就是魔法！ \\n\\n用兩個量子傳送器，你可以「隔空」傳送物品、液體、氣體、電、甚至是熱能！ \\n\\n兩邊設成同一個頻道，然後接管子設定進出。自動化末期的核心神器。"]
+	quest.7CC49360D07086B8.quest_subtitle: "隔空搬家大法"
+	quest.7CC49360D07086B8.title: "&5量子傳送器"
+	quest.7ECA0633AF1AEC19.quest_desc: ["這台鋸木廠是用來「環保回收」木製品的。 \\n\\n把舊床拆了換回木板跟羊毛。把門拆了換回木板。 \\n\\n最狂的是，它把 1 個原木變成 6 塊木板（原版才 4 塊）！慣老闆最愛的木材利用率。 \\n\\n它還會噴出「鋸木粉」，這是做萬能紙箱的材料！"]
+	quest.7ECA0633AF1AEC19.title: "&e&l精密鋸木廠"
+	task.03C590DB786810FB.title: "能量方塊"
+	task.09788D3638E59F3B.title: "一鍵升級器"
+	task.11EF7663818B6CC6.title: "儲存倉"
+	task.16E5E87F1CAC042A.title: "化學儲存桶"
+	task.2C1B1D314E190B80.title: "個人保險箱"
+	task.36B9FB74D9BF26E4.title: "熱力導管"
+	task.4558919345C3BE5D.title: "富集機"
+	task.4632192573FD8501.title: "機械管道"
+	task.4B60ACBCC3B46D1D.title: "富集物品"
+	task.4B6C5B2099B18AB7.title: "電動熔爐"
+	task.50795B2B2A320D16.title: "加壓導管"
+	task.564D0E533237E951.title: "淨化室"
+	task.62F11A588B293CA6.title: "不準偷拿 (版權所有)"
+	task.6877D91D6603E4FD.title: "萬用電纜"
+	task.68C11540A9010775.title: "液體儲槽"
+	task.6B24D8667BC856A3.title: "物流運輸管"
+	task.6DCF32EB40B8E9C6.title: "各式礦粉"
+	task.729C1974AE346ECA.title: "淨化室"
+	task.770B8B984F85AB73.title: "不準偷拿 (版權所有)"
+}
