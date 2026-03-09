@@ -22,7 +22,7 @@ jobs:
       - name: JSON 語法檢查
         run: |
           echo "🔍 正在檢查 JSON 翻譯檔..."
-          find overrides/kubejs/assets -name "*.json" -type f -exec python3 -m json.tool {} + > /dev/null
+          find overrides/kubejs/assets -name "*.json" -type f -exec python3 -m json.tool {} \; > /dev/null
 
       - name: SNBT 語法檢查 (基本)
         run: |
