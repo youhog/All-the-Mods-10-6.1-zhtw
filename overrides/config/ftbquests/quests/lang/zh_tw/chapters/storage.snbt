@@ -72,7 +72,7 @@
 	quest.36BCE35215B2B6E9.quest_desc: ["自動化煙燻機。適合給那些懶得停下來吃飯的冒險者。"]
 	quest.36BCE35215B2B6E9.quest_subtitle: "全自動"
 	quest.36BCE35215B2B6E9.title: "&e自動煙燻升級"
-	quest.38F9E9A830D3EA0C.quest_desc: ["液體抽屜！終於能把那幾百萬桶的水跟岩漿存起來了。 \\n\\n用法跟普通抽屜一樣，只是裡面裝的是液體。"]
+	quest.38F9E9A830D3EA0C.quest_desc: ["液體抽屜！終於能把那幾百萬桶的水跟岩漿存起來了。 \\n\\n用法跟普通抽屜一樣，內裝的是液體。"]
 	quest.3A1D07AED2A841E4.quest_desc: ["自動化熔爐。這就是隨身工廠。"]
 	quest.3A1D07AED2A841E4.quest_subtitle: "全自動"
 	quest.3A1D07AED2A841E4.title: "&e自動熔煉升級"
@@ -153,7 +153,7 @@
 	]
 	quest.7EFBFF5D0DA018E7.quest_desc: ["過濾不想要的東西直接刪掉。對付圓石跟泥土的好幫手。"]
 	quest.7EFBFF5D0DA018E7.quest_subtitle: "自動垃圾處理"
-	quest.7F990FBC1A691020.quest_desc: ["陷阱箱打開會噴紅石訊號。適合用來整那些愛翻你箱子的損友。"]
+	quest.7F990FBC1A691020.quest_desc: ["陷阱箱打開會噴紅石訊號. 適合用來整那些愛翻你箱子的損友。"]
 	quest.7F990FBC1A691020.quest_subtitle: "「窩看看裡面有啥？」"
 	task.00ED02255105A973.title: "鑽石箱子"
 	task.0427B441A750316F.title: "黃金箱子"

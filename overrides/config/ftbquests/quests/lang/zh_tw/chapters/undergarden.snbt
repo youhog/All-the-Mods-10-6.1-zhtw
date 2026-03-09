@@ -56,7 +56,7 @@
 	]
 	quest.141681FE9E524FB0.title: "&7被遺忘者"
 	quest.15A8F04BC10E619E.quest_desc: [
-		"懶人森林！ \\n\\n如果你不想逛遍這維度去收集樹苗，直接來這。這裡長滿了所有種類的樹。這簡直是林務局的懶人包。"
+		"懶人森林！ \\n\\n如果你不想逛遍這維度去收集樹苗，直接來這。這裡長滿了所有種類的樹。這簡編是林務局的懶人包。"
 		"{image:atm:textures/questpics/undergarden/undergarden_dense.png width:200 height:100 align:center}"
 	]
 	quest.15A8F04BC10E619E.title: "密集森林"
@@ -91,7 +91,7 @@
 	quest.24D38DA8E86DD897.title: "腐爛小鬼"
 	quest.278D34BBC13356DF.quest_desc: [
 		"紫色的沼澤。 \\n\\n裡面有一堆噴墨汁的蘑菇。畫面看起來像是不小心打翻了顏料桶。"
-		"{image:atm:textures/questpics/undergarden/undergarden_ink.png width:200 height:100 align:center}"
+		"{image:atm:textures/questpics/undergarden/undergarden_indigo.png width:200 height:100 align:center}"
 	]
 	quest.278D34BBC13356DF.title: "墨汁蘑菇沼澤"
 	quest.2C5A7E4CD8B57E08.quest_desc: [" Grongle 樹長在叢林裡。這樹是這維度最亮眼的風景。"]
@@ -202,7 +202,7 @@
 	]
 	quest.70FD8856BFCD9AEE.title: "腐爛巨獸"
 	quest.71E1454990DEC451.quest_desc: [
-		"海裡的惡霸。 \\n\\n看到人就咬。死掉什麼都不掉。簡直是水裡的混混。 "
+		"海裡的惡霸。 \\n\\n看到人就咬. 死掉什麼都不掉. 簡直是水裡的混混. "
 		"{image:atm:textures/questpics/undergarden/undergarden_gwib.png width:100 height:100 align:center}"
 	]
 	quest.71E1454990DEC451.title: "惡霸魚 (Gwib)"

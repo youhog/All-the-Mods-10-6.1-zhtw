@@ -42,7 +42,7 @@
 	quest.5758645223B4B5BA.title: "&3水行靴"
 	quest.5D82340E9BED9C79.quest_desc: ["這些寶物通通躲在終界裡！"]
 	quest.5D82340E9BED9C79.title: "&d終界大冒險"
-	quest.5EB87CE5F6DEFAAA.quest_desc: ["熔岩靴：讓你在岩漿上面散步。 \\n\\n注意：岩漿是有「冷卻時間」的。跑太久靴子會過熱直接燙傷你。這就是所謂的「火燒屁股」。"]
+	quest.5EB87CE5F6DEFAAA.quest_desc: ["熔岩靴：讓你在岩漿上面散步。 \\n\\n注意：岩漿是有「冷卻時間」的。跑太久靴子會過熱直接燙傷你. 這就是所謂的「火燒屁股」。"]
 	quest.5EB87CE5F6DEFAAA.quest_subtitle: "在遺跡或要塞裡開箱"
 	quest.5EB87CE5F6DEFAAA.title: "&6岩漿行者"
 	quest.60CECAAE2D43EC6E.quest_desc: ["小黑手套：讓小黑不會因為你盯著牠看而生氣。 \\n\\n主動技：對準一隻怪按 Alt，你就會跟牠「交換位置」。這招用來把 Boss 換進陷阱裡超爽。"]
