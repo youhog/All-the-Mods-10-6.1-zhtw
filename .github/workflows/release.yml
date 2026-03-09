@@ -1,0 +1,49 @@
+name: 自動打包並發布繁中補丁
+
+on:
+  push:
+    tags:
+      - 'v*'
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 檢出程式碼
+        uses: actions/checkout@v4
+
+      - name: 檢查 JSON 語法
+        run: |
+          find overrides/kubejs/assets -name "*.json" -exec python3 -c "import json, sys; json.load(open(sys.argv[1]))" {} \;
+        shell: bash
+
+      - name: 準備補丁檔案
+        run: |
+          # 1. 打包整套補丁 (Zip)
+          zip -r ATM10_Full_Patch_v1.0.0.zip overrides manifest.json
+          
+          # 2. 準備 JAR 結構 (模組補丁)
+          mkdir -p build/assets
+          mkdir -p build/META-INF
+          cp -r overrides/kubejs/assets/* build/assets/
+          cp META-INF/neoforge.mods.toml build/META-INF/
+          cd build && zip -r ../ATM10_ZHTW_Patch.jar . && cd ..
+          
+          # 3. 準備任務書 Zip (Config 覆蓋)
+          mkdir -p pack/config/ftbquests/quests/lang/zh_tw
+          cp -r overrides/config/ftbquests/quests/lang/zh_tw/* pack/config/ftbquests/quests/lang/zh_tw/
+          zip -r ATM10_Quests_ZHTW.zip pack/*
+        shell: bash
+
+      - name: 發布 GitHub Release
+        uses: softprops/action-gh-release@v2
+        with:
+          files: |
+            ATM10_Full_Patch_v1.0.0.zip
+            ATM10_ZHTW_Patch.jar
+            ATM10_Quests_ZHTW.zip
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
