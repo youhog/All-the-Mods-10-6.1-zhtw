@@ -34,5 +34,6 @@ jobs:
             echo "沒有需要修復的檔案。"
           else
             git commit -m "Auto-fix: Translation syntax (JSON/SNBT)"
-            git push
+            # 使用 HEAD:${{ github.ref_name }} 確保推送到正確的分支
+            git push origin HEAD:${{ github.ref_name }}
           fi
