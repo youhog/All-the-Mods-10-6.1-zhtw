@@ -20,7 +20,7 @@ jobs:
       - name: 設定 Python
         uses: actions/setup-python@v5
         with:
-          python-python-version: '3.x'
+          python-version: '3.x'
 
       - name: 執行修復腳本
         run: python fix_translations.py
