@@ -1,0 +1,123 @@
+{
+	quest.00F00B0B66059996.quest_desc: [
+		"好啦，又是另一個&l多方塊結構&r！這台需要的連接埠多到連海軍基地都自嘆不如。\\n\\n你需要&3流體輸入/輸出&f倉，以及&6物品輸入/輸出&f倉。\\n\\n這過程有點繁瑣，給我看仔細了！\\n\\n1. 你需要「未精煉液態靈魂」，拿流體提取機去吸靈魂樹就有了。\\n\\n2. 你需要「液化魔力源 (Liquefied Source)」，用魔力冷凝器去吸旁邊魔力罐裡的魔力。\\n\\n3. 用&b&l符文坩堝&r把靈魂、液態靈魂和液化魔力源揉在一起，變成真正的「液態靈魂」。\\n\\n4. 最後，拿這些液態靈魂加上 Mekanism 的東西，就能搓出「黑曜石鋼」。"
+		"{@pagebreak}"
+		"{image:atm:textures/questpics/chap3/creative_crucible1.png width:125 height:100 align:center}"
+		"第一層：中間放&6鍍金雕紋拋光深層石&r，旁邊圍一圈&9拋光深層石&r。側面放倒放的&9拋光深層石樓梯&r，四個角落放&7符文塊&r。"
+		"{image:atm:textures/questpics/chap3/creative_crucible2.png width:125 height:100 align:center}"
+		"第二層：正中間放一顆&b秘術水晶&r，周圍圍樓梯。側面放&6秘術拋光深層石柱&r，剩下的空位放&9拋光深層石&r（這裡以後要換成倉室），角落放&6秘術拋光深層石&r。"
+		"{image:atm:textures/questpics/chap3/creative_crucible3.png width:125 height:100 align:center}"
+		"第三層：四個角落放&b秘術水晶塊&r，收工！"
+		"{image:atm:textures/questpics/chap3/creative_crucible4.png width:125 height:100 align:center}"
+		"最後：在中間的水晶塊上方留一格空隙，放上&7量子注射器&r。"
+		"{image:atm:textures/questpics/chap3/creative_crucible5.png width:150 height:100 align:center}"
+		"{image:atm:textures/questpics/chap3/creative_crucible6.png width:150 height:100 align:center}"
+		"剛才說的第二層那些石塊，記得換成你要的輸入/輸出倉喔！"
+	]
+	quest.00F00B0B66059996.title: "&b&l符文坩堝"
+	quest.050CCE5D1DD6B21E.quest_desc: [
+		"最重要的多方塊機器之一，因為別的機器都要靠它做出來。 \\n\\n你需要一堆倉位：&b流體輸入&r（一個倉只能裝一種水，所以你要做很多個）、&c能量輸入&r，還有&e物品進出&r倉。 \\n\\n把材料塞進去，它就會自動幫你合成。這台是用來搓 &6星星零件&r 的。你會需要爆多 &4血液&f、&b金氣&f、靈魂跟電力！準備好爆肝了嗎？"
+		"{@pagebreak}"
+		"{image:atm:textures/questpics/chap3/creative_forge1.png width:150 height:100 align:center}"
+		"第一層：普通的深層石塊跟樓梯，加上符文塊。最重要的別忘了：&5鍛造爐核心&r。"
+		"{image:atm:textures/questpics/chap3/creative_forge2.png width:150 height:100 align:center}"
+		"第二層：更多深層石系列，加上 4 根 &b秘術水晶方尖碑&r。"
+		"{image:atm:textures/questpics/chap3/creative_forge3.png width:150 height:100 align:center}"
+		"第三層：把 &9&l5 階&6鍛造爐&r 擺正中間，旁邊 2 格距離圍 8 個 &6深層石基座&r。"
+		"{image:atm:textures/questpics/chap3/creative_forge4.png width:150 height:100 align:center}"
+		"第四層：跳過，啥都沒有！在鍛造爐上方留一格空隙，放上 &7量子注射器&r。"
+		"{image:atm:textures/questpics/chap3/creative_forge5.png width:200 height:100 align:center}"
+		"{image:atm:textures/questpics/chap3/creative_forge6.png width:200 height:100 align:center}"
+		"最後補上那些倉室，大功告成。"
+	]
+	quest.050CCE5D1DD6B21E.title: "&c&l全自動赫菲斯托斯鍛造爐"
+	quest.070CAEAD49B8DBA3.quest_desc: ["拿 8 疊 &7壓縮鐵塊&r 加上一顆 &6&lATM 之星&r，你就能換到這個創造模式壓縮鐵塊！ \\n\\n你可以隨意設定它的溫度，這對你的機器來說簡直是外掛。 \\n\\n8 疊鐵塊等於 4,608 個鐵錠...祝你的肝好運！"]
+	quest.070CAEAD49B8DBA3.title: "&5&l創造模式 &7壓縮鐵塊"
+	quest.0EF9C391EE42824A.quest_desc: ["這個比較貴，但也比較好玩！ \\n\\n鑽石到處都有。燧石去搓礫石就有。 \\n\\n滴水石可以用混合機做，雖然你得先有第一顆才能生出更多。"]
+	quest.0EF9C391EE42824A.title: "&7地踏稜鏡 (Terrastomp Prism)"
+	quest.149C260C10B34BB0.quest_subtitle: "5/5"
+	quest.149C260C10B34BB0.title: "ATM 之星 &6&l左翼&r 零件"
+	quest.14C27D44D3C8EDF5.quest_desc: ["1. 你大概會去終界城偷箱子拿這個。 \\n\\n2. 想自動化？你得搞定這堆東西：骨粉、火藥、紅石、烈焰粉、還有幻影膜。 \\n\\n秘術水晶要靠蜜蜂或是神祕農業來生，最後燒成粉。"]
+	quest.14C27D44D3C8EDF5.title: "&c潔淨粉末 (Mundabitur Dust)"
+	quest.173541B0765DA13E.quest_desc: ["這大概是這系列裡最容易自動化的。 \\n\\n幻影膜、羽毛跟羊毛都能靠 HNN 模擬出來。 \\n\\n只有「蝙蝠翅膀」比較機車，你得去架個生怪磚來農。"]
+	quest.173541B0765DA13E.title: "&f旋風稜鏡 (Whirlwind Prism)"
+	quest.1C566975C4EC5D93.quest_desc: ["老實說，這部分直接用神祕農業（MA）種出來最快。 \\n\\n求求你，不要蓋那種毀天滅地的海龜養殖場或是深海守衛者屠宰場。伺服器的 TPS 很珍貴的！"]
+	quest.1C566975C4EC5D93.title: "&9海洋稜鏡 (Sea Prism)"
+	quest.1D87415343E65AA7.quest_desc: ["創造模式壓力機讓你隨意設定壓力！正壓、負壓、甚至真空都行。 \\n\\n你需要一堆進階管子跟一堆壓縮機。 \\n\\n我不知道是拿到星星比較難，還是記住這一長串材料清單比較難。"]
+	quest.1D87415343E65AA7.title: "&5&l創造模式 &8壓力機"
+	quest.1FC1588A131B6A4A.quest_desc: ["想要全自動量產 ATM 之星？你必須在「符文星光祭壇」裡做！ \\n\\n去翻第三章看怎麼蓋這座祭壇。"]
+	quest.1FC1588A131B6A4A.title: "&6&l符文星光祭壇"
+	quest.1FFF00B5D90C3905.quest_desc: ["潔淨粉末有很多拿法，所以我先介紹一下「秘術水晶」。 \\n\\n這是最基礎的材料。 \\n\\n你得先去地底下手挖一些，之後再用神祕農業或蜜蜂來量產。"]
+	quest.1FFF00B5D90C3905.title: "&b秘術水晶"
+	quest.203C91B992BA8CF9.quest_desc: ["為了「複製」更多 ATM 之星，我們需要一顆「注魔過的派大星 (Patrick Star)」。 \\n\\n你需要用到 4 本修補書、注魔過的龍之呼吸（去玩符文附魔拿到）。 \\n\\n還需要星星碎片（蜜蜂產的）以及三種 ATM 合金錠。 \\n\\n把這些通通丟進祭壇，再灌進 85M FE 的電，你的注魔派大星就完成了！"]
+	quest.203C91B992BA8CF9.title: "注魔過的 &d派大&a星"
+	quest.228CB313BAB6406E.quest_desc: ["聽說這東西原本沒配方？看來開發者不想讓你太早過爽日子。 \\n\\n我覺得這也沒多強，所以開放給你合成啦！ \\n\\n這火車頭不用燃料、不用電，只要有鐵軌它就能開到天荒地老。"]
+	quest.228CB313BAB6406E.title: "&5&l創造模式 &8火車頭"
+	quest.235273F7C9A9B0D0.quest_subtitle: "3/5"
+	quest.235273F7C9A9B0D0.title: "ATM 之星 &6&l右下&r 零件"
+	quest.23DE60E57136C207.quest_desc: ["最簡單的無限能量來源。只要 4 個 ID 模組的電池加一顆星星。 \\n\\n你要幫它們充飽電... 嗯，充到 Minecraft 的數字極限為止。"]
+	quest.23DE60E57136C207.title: "&5&l創造模式 &3能量電池 (ID)"
+	quest.360B150190A5C894.quest_desc: [
+		"很多玩家不爽附魔不能全自動，而且還要賭人品。 \\n\\n現在不用煩了！符文附魔機幫你搞定。 \\n\\n你甚至不用手動去點附魔台，只要用管子把物品、魔力跟經驗液灌進去就行。 \\n\\n經驗液要用 IE 模組的裝瓶機或是 Extended Industrialization 的罐裝機來弄。 \\n\\n這是做星星必備的過程，乖乖去做吧。"
+		"{@pagebreak}"
+		"（淺藍地毯是靈魂觸碰深層架，紫色是回聲深層架，藍色是普通靈魂架）"
+		"{image:atm:textures/questpics/chap3/creative_enchanter1.png width:125 height:100 align:center}"
+		"第一層：一堆深層石、書架、符文塊跟水晶塊。"
+		"{image:atm:textures/questpics/chap3/creative_enchanter2.png width:125 height:100 align:center}"
+		"第二層：換成鍍金石塊跟石柱。"
+		"{image:atm:textures/questpics/chap3/creative_enchanter3.png width:125 height:100 align:center}"
+		"第三層：補上更多書架、基座跟一張附魔台。"
+		"{image:atm:textures/questpics/chap3/creative_enchanter4.png width:125 height:100 align:center}"
+		"第四層：在書架上擺 4 盞靈魂燈。"
+		"{image:atm:textures/questpics/chap3/creative_enchanter5.png width:125 height:100 align:center}"
+		"最後：在附魔台上方留一格空隙放量子注射器。"
+		"{image:atm:textures/questpics/chap3/creative_enchanter6.png width:150 height:150 align:center}"
+		"{image:atm:textures/questpics/chap3/creative_enchanter7.png width:150 height:150 align:center}"
+		"喔對了，那些輸入/輸出倉要裝在最下面喔。窩剛才忘了說。"
+	]
+	quest.360B150190A5C894.title: "&5&l符文附魔機"
+	quest.36ABE142039E712B.quest_desc: ["這就是傳統的無限能源電池。接上你的系統，你就再也不用擔心沒電了。 \\n\\n連量子裝甲都能靠它充飽飽。 \\n\\n你需要 256 個普通的能源元件來合成這玩意兒...真的是爆肝之作。"]
+	quest.36ABE142039E712B.title: "&5&l創造模式 &d能源元件 (AE2)"
+	quest.38BFF6F845EA479E.quest_subtitle: "4/5"
+	quest.38BFF6F845EA479E.title: "ATM 之星 &6&l左下&r 零件"
+	quest.3BB0926C4C00BE1D.quest_desc: ["討厭噴射背包飛到一半沒電掉下來摔死嗎？有了這個你就變超人了。 \\n\\n你得先做出所有等級的背包，再加上一顆星星。 \\n\\n穿上它，享受不用充電的快感。"]
+	quest.3BB0926C4C00BE1D.title: "&5&l創造模式噴射背包"
+	quest.3D755073C56274BE.quest_desc: ["把透鏡丟在原子分解器前面，射一下變彩色透鏡。 \\n\\n再射一下變爆炸透鏡。 \\n\\n一直重複這動作，直到它變成「必死透鏡」。聽起來就很北爛。"]
+	quest.3D755073C56274BE.title: "&3必死透鏡"
+	quest.3D78D9F4E8A60EDB.quest_desc: ["目前配方滿簡單的，只要 4 個魔力罐、4 個寶石塊加一顆星星。 \\n\\n這罐子永遠是滿的，可以接在任何需要魔力的地方。 \\n\\n趁現在配方還沒被改成地獄難度，趕快做一個！"]
+	quest.3D78D9F4E8A60EDB.quest_subtitle: "無限藍條，爽啦"
+	quest.3D78D9F4E8A60EDB.title: "&5&l創造模式 &d魔力罐"
+	quest.3FF61A4D7A250AE1.quest_desc: ["這是 Powah 模組的無限電池。 \\n\\n你需要一堆硝能電池（Nitro Cells）。 \\n\\n我懶得算這要多少材料了，你自己看 JEI 的配方樹啦，窩還有更重要的事要做。"]
+	quest.3FF61A4D7A250AE1.quest_subtitle: "無限電力！"
+	quest.3FF61A4D7A250AE1.title: "&l&c能量電池 &5(創造模式)"
+	quest.405D2571E61694FD.quest_desc: ["拿 ATM 之星塊去點一下派大星蜜蜂，牠就會變成「星光蜜蜂」！ \\n\\n喔對了，牠們採蜜也要吃星星塊喔... 窩好像太晚講了。 \\n\\n星光蜜蜂會產出星星蜂巢，丟進離心機能拿到星星碎片。"]
+	quest.405D2571E61694FD.title: "&6星光蜜蜂&r！"
+	quest.427BBEB1F24E9DEE.quest_desc: ["大部分的腐化粉末都能自動化。 \\n\\n地獄疙瘩、烈焰粉、終界珍珠碎片通通丟給機器做。 \\n\\n只有黑曜石鋼需要用到符文坩堝來自動化產出。"]
+	quest.427BBEB1F24E9DEE.title: "&5腐化粉末"
+	quest.4A6B585C2394A89A.quest_desc: ["附魔機有兩樣關鍵材料：龍之呼吸跟修補書。 \\n\\n龍之呼吸可以用 XyCraft 的提取機來農，簡單暴力。 \\n\\n修補書就麻煩了，要用到 Lapis、高級附魔基底，還有最機車的「經驗棒」。 \\n\\n經驗棒要用 EnderIO 的兩種合金。為了這本書，你大概要跑遍所有的模組。"]
+	quest.4F7F0A5162D70082.quest_desc: ["別搞混了，這有分「滿的」跟「空的」。 \\n\\n空方塊就像個垃圾桶，所有塞進去的電都會消失。 \\n\\n滿方塊則是無限發電機。但要做滿的，你要先有空的... 而空的貴到靠北。"]
+	quest.4F7F0A5162D70082.title: "&5&l創造模式 &a能量方塊 (Mek)"
+	quest.5436157FDFC9633E.quest_desc: ["有了注魔派大星、5 個星星零件、一堆粉末跟必死透鏡，你終於可以全自動量產 ATM 之星了！ \\n\\n恭喜你，你現在已經是這個模組包的主人了。接下來的東西隨便你搓。"]
+	quest.5436157FDFC9633E.title: "全自動 &6&lATM 之星量產線"
+	quest.5660E81BBEED6DC3.quest_desc: ["魂縛水晶是最難做的材料。 \\n\\n你需要一堆靈魂。怎麼拿？對著靈魂沙用提取機。 \\n\\n如果你懶得手動點，可以用 Just Dire Things 的點擊器來代替。 \\n\\n還要搭配各路神仙模組的材料才能搓出來。這絕對是這包的巔峰挑戰之一。"]
+	quest.5660E81BBEED6DC3.title: "&d魂縛水晶"
+	quest.6076D1DB438EB997.quest_desc: ["超簡單配方，只要煤炭、烈焰粉跟水晶塊。 \\n\\n隨便找個自動化方法都能弄出一大堆。"]
+	quest.6076D1DB438EB997.title: "&c冶煉稜鏡 (Smelter Prism)"
+	quest.635BA2C17458E9E6.quest_desc: ["配方超簡單，但功能超強！ \\n\\n擺法跟發射器一樣。通電後給它紅石訊號，它就會發射原子射線。 \\n\\n我們主要拿它來做透鏡自動化，我就不廢話了。"]
+	quest.66BAC2B478F9B119.quest_subtitle: "1/5"
+	quest.66BAC2B478F9B119.title: "ATM 之星 &6&l頂端&r 零件"
+	quest.66E88F916B638B3B.quest_desc: ["這裡有一堆「創造模式法術書」，我們要的是 AllTheArcanist 出產的那本。 \\n\\n它要用到星星跟大法師法術書。 \\n\\n屬性跟難得素書一樣，但它魔力無限，而且所有符文直接全開！ \\n\\n哇哈哈，窩就是魔法之神啦！"]
+	quest.66E88F916B638B3B.title: "&5&l創造模式 &e法術書"
+	quest.6C16670D16113DE9.quest_desc: ["為了星星，你需要碎片；為了碎片，你需要星光蜜蜂。 \\n\\n怎麼拿到派大星蜜蜂？去溫暖的海洋釣魚吧！機率很低，祝你沒被淹死。 \\n\\n牠們也會產出「派大星 (Patrick Star)」，不要把牠們跟星星搞混了。"]
+	quest.6C16670D16113DE9.title: "&d派大&a星...蜜蜂？"
+	quest.71B72958B9F80355.quest_desc: ["這一階不用再丟東西到地上了，謝天謝地。 \\n\\n直接用必死透鏡、鑽石劍加上鋒利 5 的書就能搓出來。 \\n\\n書要去符文附魔機那邊弄。"]
+	quest.71B72958B9F80355.title: "&4屠夫透鏡 (Killer Lens)"
+	quest.73201E591C2A40CC.quest_desc: ["有了碎片，你就能重組星星。 \\n\\n重組一顆星星要 262 個碎片... 希望你蓋了幾百個蜂箱。"]
+	quest.73201E591C2A40CC.title: "&6星星碎片&r"
+	quest.745E616E97838D2E.quest_desc: ["&l等等！&r 不要再殺小動物了，PETA (動保組織) 派人來談判了。 \\n\\n只要你住手，他們就會給你這個「無限血滴」。 \\n\\n有了它，所有需要血的機器都能直接灌滿。這絕對比殺豬划算。"]
+	quest.745E616E97838D2E.title: "&5&l創造模式 &4無限血滴"
+	quest.7A066DD274F970C2.quest_subtitle: "2/5"
+	quest.7A066DD274F970C2.title: "ATM 之星 &6&l右翼&r 零件"
+	quest.7C9154EF6068BE27.quest_desc: ["技術上來說，你可以把星星丟進粉碎機拆成 5 個碎片... \\n\\n但你要 262 個碎片才能拼出一顆星星耶... \\n\\n你到底是腦袋壞掉還是單純想看機器轉？"]
+	quest.7C9154EF6068BE27.title: "你拆它幹嘛？"
+}

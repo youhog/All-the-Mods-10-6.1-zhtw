@@ -1,0 +1,128 @@
+{
+	quest.0107D516E038E0DB.quest_desc: ["巫妖塔是巫妖的狗窩。這場戰鬥分三階段：\\n\\n階段 1：巫妖會開護盾，丟終界珍珠火球打你。你要像打羽毛球一樣把火球拍回去撞碎它的盾！它還會召喚分身來搞你。\\n\\n階段 2：盾碎了後，它會換權杖召喚殭屍。這時候它沒防禦了，拿劍衝上去砍它！\\n\\n階段 3：權杖沒電了，它會老羞成怒拔出金劍進入狂暴模式。趕快把它送下去領便當。"]
+	quest.0107D516E038E0DB.title: "&e叫你的死人出來！"
+	quest.01748C2CD9C97523.quest_desc: ["&c重現方塊&r 就像是很酷的門。點一下會消失，過一下又會跑出來。\\n\\n&c消失方塊&r 則是點一下就徹底掰了，不會再回來。"]
+	quest.01748C2CD9C97523.title: "&c閃現與消失方塊"
+	quest.04440BB2EFFD6DD9.quest_desc: ["在迷宮沼澤的深處住著一隻巨大的 &c米諾菇 (Minoshroom)&r。\\n\\n打死它後會掉「牛頭人燉肉」。你想去下一個地方？那就乖乖把這碗看起來很可疑的肉吃下去。"]
+	quest.04440BB2EFFD6DD9.title: "&c威武牛頭人燉肉"
+	quest.0990D6CEE042F44E.quest_desc: ["進暮色森林沒這張圖，你就是個路癡。\\n\\n用空白魔法地圖會顯示附近的 Boss 和建築圖示。一定要做一張！"]
+	quest.0990D6CEE042F44E.title: "&e魔法地圖 (導航)"
+	quest.0A207A437AF153AA.quest_desc: ["&2幻影裝甲&r 可以在幻影騎士的寶箱裡翻到。機率不高，看你人品。"]
+	quest.0A207A437AF153AA.title: "&2幻影裝甲"
+	quest.0E9DE6293DF611E1.quest_desc: ["想把主世界也變成暮色森林的風格嗎？\\n\\n把這粉末撒在主世界的動物身上，牠們會變異成暮色森林的版本。\\n\\n這粉末可以在暮色森林的地牢寶箱裡找到。"]
+	quest.0ED7B25DC1AA767B.quest_desc: ["暮色森林裡有些寶箱藏著稀有的樹苗。\\n\\n把它們全收集起來吧！雖然它們除了長得漂亮外也沒啥用。"]
+	quest.0ED7B25DC1AA767B.quest_subtitle: "種樹專家"
+	quest.0ED7B25DC1AA767B.title: "&a真正的最終 Boss"
+	quest.111F2EE85FB0A455.quest_desc: ["拿著九頭龍的 &c熾熱之血&r，你可以做幾件酷工具。\\n\\n熾熱之劍內建火焰附加 II。\\n\\n熾熱之鎬自帶自動冶煉（挖礦直接噴錠）。這才是懶人首選。"]
+	quest.111F2EE85FB0A455.title: "&c熾熱系列工具"
+	quest.1464D45C474464DB.quest_subtitle: "就是台吹風機"
+	quest.15006CF73F8CAB7C.quest_desc: ["跟 1 級的一樣，這東西是你的「保命符」。\\n\\n要死掉時它會救你一命，幫你補滿血並給一堆超強 Buff（回血 IV、抗性、抗火）。\\n\\n拿 4 個 1 級的就能合成。"]
+	quest.15006CF73F8CAB7C.title: "&e生命護身符 II"
+	quest.1FF5906DF721D091.quest_desc: ["九頭龍會掉 &c熾熱之血&r，拿來做熾熱裝甲。\\n\\n穿整套的話，誰敢打你誰就變烤肉（被燒 10 秒）。"]
+	quest.1FF5906DF721D091.title: "&c熾熱裝甲"
+	quest.20436AFCC7E6855D.quest_desc: ["拿著魔法豆和肥沃泥土去高地區找一朵巨大的雲。\\n\\n把豆子種下去，它會咻地長出一根超長的豆莖直通雲霄。上去後你會遇到巨人。\\n\\n殺掉那個挖礦巨人，搶走他的鎬子才能繼續推進。這就是強盜邏輯。"]
+	quest.20436AFCC7E6855D.quest_subtitle: "巨人長得像我，但根本不是同一類"
+	quest.212EC1F41227184D.quest_desc: ["想像巫妖一樣丟珍珠炸彈嗎？那就去做 &9暮色權杖&r 吧！\\n\\n沒電了？丟到合成格裡塞一顆終界珍珠就充飽了。"]
+	quest.212EC1F41227184D.quest_subtitle: "珍珠發射器"
+	quest.212EC1F41227184D.title: "&9暮色權杖"
+	quest.25906B43A198B72F.quest_desc: ["騎士金裝甲可以用騎士金錠合成，或是從幻影騎士的寶箱裡偷到。"]
+	quest.25906B43A198B72F.title: "騎士金裝甲"
+	quest.2951B1D7080C5EF9.quest_desc: ["拿著 &6燼燈&r 去燒掉荊棘之地的那些煩人的刺。\\n\\n摘幾朵「荊棘玫瑰」才能進入最後的高原。"]
+	quest.2951B1D7080C5EF9.title: "玫瑰都有刺"
+	quest.2A0B3C91D72E8B75.quest_desc: ["小雪人和冬狼會掉極地皮毛，拿來做極地裝甲。"]
+	quest.2A0B3C91D72E8B75.quest_subtitle: "還可以染色喔！"
+	quest.2A0B3C91D72E8B75.title: "&6極地裝甲"
+	quest.2BEBF66D7EA594FA.quest_desc: ["比娜迦裝甲強一點點，而且做出來就自帶附魔。\\n\\n去森林裡找「鋼葉」來合成。"]
+	quest.2BEBF66D7EA594FA.title: "&2鋼葉裝甲"
+	quest.31BB7EB95CE73C1A.quest_desc: ["打死惡靈烏鴉後，雪地森林就解鎖了。\\n\\n那裡有一堆怪，但你的目標是「阿爾法雪人」。\\n\\n去那個大到不行的雪人洞穴找它單挑吧。"]
+	quest.31BB7EB95CE73C1A.quest_subtitle: "冷到發抖"
+	quest.31BB7EB95CE73C1A.title: "前往雪地！"
+	quest.3371570F189DF994.quest_desc: ["&6護佑權杖&r 會在周圍召喚護盾。\\n\\n沒電了？餵它吃金蘋果充能。真是奢侈的機器。"]
+	quest.3371570F189DF994.quest_subtitle: "召喚盾牌"
+	quest.3371570F189DF994.title: "&6護佑權杖"
+	quest.3531B28F14CF72A2.quest_desc: ["你在暮色森林的第一個目標就在「娜迦庭院」。\\n\\n&2娜迦&r 是一隻綠色的大長蟲，你打它它就會變短（身體段落消失）。\\n\\n把它剝皮後，你就能拿到進入下一個 Boss「巫妖」領地的門票。"]
+	quest.3531B28F14CF72A2.title: "&2去剝娜迦的皮"
+	quest.38ADDF7FF4E4892D.quest_desc: ["&7玻璃劍&r 傷害爆高（40 顆心），但耐久度只有 1。一用就碎。\\n\\n除非你有辦法讓它變「不可破壞」，不然它就是個精美藝術品。\\n\\n在極光宮殿的寶箱裡極稀有。"]
+	quest.38ADDF7FF4E4892D.title: "&7玻璃劍 (一發男)"
+	quest.3908F7C80154D9CA.quest_desc: ["&2殭屍權杖&r 讓你可以召喚自己的殭屍大軍。\\n\\n沒電了？塞點腐肉給它。這很合理。"]
+	quest.3908F7C80154D9CA.quest_subtitle: "召喚小老弟"
+	quest.3908F7C80154D9CA.title: "&2殭屍權杖"
+	quest.3A3ED88027331A6C.quest_desc: ["&e保留護身符 III&r 功能同上，但最猛：它保證你死掉後「全身上下」的東西都不會噴。"]
+	quest.3A3ED88027331A6C.title: "&e保留護身符 III (防噴神卡)"
+	quest.3C8724C3A9459507.quest_desc: ["拿阿爾法雪人的毛來做雪人裝。"]
+	quest.3C8724C3A9459507.title: "雪人裝甲"
+	quest.3D29EF7F150F5334.quest_desc: ["極光宮殿出產的稀有弓。\\n\\n射中敵人會跟它互換位置。沒事別對著天上的鳥亂射，不然你會直接表演自由落體。"]
+	quest.3D29EF7F150F5334.title: "&3終界弓 (換位大法)"
+	quest.3DCF26B53AE1EBF6.quest_desc: ["在黑暗森林裡你會看到一個地下入口。\\n\\n想進去？把一個 Boss 獎盃放在基座上（隨便哪個都行，用完可以拿回來）。\\n\\n去地底三層找幻影騎士。打贏他們才能找下一個 Boss。"]
+	quest.3DCF26B53AE1EBF6.quest_subtitle: "伸手不見五指的森林"
+	quest.3DCF26B53AE1EBF6.title: "&2黑暗森林"
+	quest.40258842B0359A2D.quest_desc: ["&6鐵樹裝甲&r 用鐵樹錠合成，做出來就內建附魔。CP 值很高。"]
+	quest.40258842B0359A2D.title: "&6鐵樹裝甲"
+	quest.4193303999597249.quest_desc: [
+		"暮色森林是一個充滿奇幻色彩、永遠是黃昏的世界。這裡有一堆新的怪、地圖和 Boss 讓你挑戰。\\n\\n想進去？挖個 2x2 的坑灌滿水，邊緣擺滿花，然後把一顆 &b鑽石&r 丟進水裡。\\n\\n如果雷劈下來了（索爾會給你個訊號），傳送門就開了。\\n"
+		"{image:atm:textures/questpics/gettingstarted/twilight_portal.png width:100 height:100 align:center fit:true}"
+	]
+	quest.4193303999597249.quest_subtitle: "踏入黃昏世界"
+	quest.4193303999597249.title: "歡迎來到 &9暮色森林&r！"
+	quest.420158B1736A1354.quest_desc: ["...還沒做出來啦。\\n\\n目前你只能去高原上的大城堡偷幾塊門板回家。\\n\\n城堡裡有一隻小妖精在那邊「代班」，殺了它啥都沒有。"]
+	quest.420158B1736A1354.title: "&c最終 Boss (鴿子中)"
+	quest.4665E6FD0AAED164.quest_desc: ["&f保留護身符 II&r 比 1 級強一點，死掉時連快捷列的東西都會幫你留著。"]
+	quest.4665E6FD0AAED164.title: "&f保留護身符 II"
+	quest.49EE6D2A3684A510.quest_desc: ["隨機掉落的弓，射中會給敵人 10 秒的緩速 III。適合拿來放風箏。"]
+	quest.49EE6D2A3684A510.title: "&b寒冰弓"
+	quest.4B95D48D7525FFAD.quest_desc: ["去沼澤找一個奇怪的山丘，入口在山頂。這就是「牛頭人迷宮」！\\n\\n裡面的怪會掉地圖核心，拿來做迷宮地圖。\\n\\n普通的迷你地圖在這裡沒屁用。這裡還有一堆藏滿寶物的房間，記得仔細搜刮。"]
+	quest.4B95D48D7525FFAD.quest_subtitle: "史瑞克的家？"
+	quest.4B95D48D7525FFAD.title: "&2前往沼澤！"
+	quest.4D4AB60B3B1CD437.quest_desc: ["拿娜迦的皮做的裝甲。\\n\\n防禦力不怎麼樣，但穿起來滿潮的。"]
+	quest.4D4AB60B3B1CD437.title: "&2娜迦皮裝甲"
+	quest.4DA0725E089D7C91.quest_desc: ["去找那隻「任務羊」，給牠 16 種顏色的羊毛，牠會給你一堆財富。\\n\\n提示：羊住的廢墟上方有個發射器，或許有用。"]
+	quest.4DA0725E089D7C91.quest_subtitle: "有任務？"
+	quest.4DA0725E089D7C91.title: "&c任務羊的報恩"
+	quest.4F66DF6B494BEFF3.quest_desc: ["用烏鴉羽毛加上火炬漿果和螢石，做出地圖核心。"]
+	quest.4F66DF6B494BEFF3.title: "&e地圖核心"
+	quest.51BC981AB4CFAD95.quest_desc: ["迷宮破壞者是迷宮裡的稀有鎬子。\\n\\n挖迷宮牆壁它只扣 1 點耐久，別的鎬子挖一下扣 16 點！這把是拆遷神具。"]
+	quest.51BC981AB4CFAD95.quest_subtitle: "陷阱房？直接拆掉不就得了"
+	quest.53A79338994088FD.quest_desc: ["冰雪女王掉的弓。一次射 3 支箭，但只耗 1 支箭。射爆它！"]
+	quest.53A79338994088FD.quest_subtitle: "這是萊尼爾的弓？"
+	quest.53A79338994088FD.title: "&d三叉弓"
+	quest.575E405B270BBCBC.quest_desc: ["暮色森林有一堆新生物。\\n\\n其中最吵的就是蟬。殺掉牠，換取世界的清靜。"]
+	quest.575E405B270BBCBC.title: "森林裡的噪音"
+	quest.57940981E8DE55D4.quest_desc: ["在森林裡很容易迷路。找那些黑曜石柱，周圍有一堆烏鴉。\\n\\n殺了牠們拿羽毛來做地圖。"]
+	quest.57940981E8DE55D4.title: "&8烏鴉羽毛"
+	quest.58BD1063A19777DC.quest_desc: ["解鎖高原後，去殺那些洞穴巨人 (Trolls)。\\n\\n牠們會掉魔法豆。你還得在箱子裡找肥沃泥土才能種它。"]
+	quest.58BD1063A19777DC.quest_subtitle: "傑克與魔豆？"
+	quest.58BD1063A19777DC.title: "拜訪巨人"
+	quest.5CBA8C89FE717B9C.quest_desc: ["拿著巨人的鎬子回到巨人洞穴找「巨人黑曜石」。\\n\\n敲碎它，裡面有寶貝。拿到 &6燼燈&r 才能過下一關。"]
+	quest.5CBA8C89FE717B9C.title: "&6萬能燼燈"
+	quest.5FE4DAE8F41B1437.quest_desc: ["&c礦物磁鐵&r 可以吸出周圍名字裡有 Ore 的東西，除了煤炭。\\n\\n在空心山丘的寶箱裡可以挖到。"]
+	quest.5FE4DAE8F41B1437.title: "&c礦物磁鐵"
+	quest.604F2B68B27885BF.quest_desc: ["暮色森林有一堆奇怪的食物！\\n\\n每種都吃吃看，看會不會中毒。"]
+	quest.604F2B68B27885BF.title: "異界美食"
+	quest.607D592CE102C82E.title: "騎士金工具"
+	quest.60FC2DAEA954A849.quest_desc: ["&6月亮蠕蟲女王&r 就是火把發射器。\\n\\n對著牆壁發射，它會噴出一隻亮晶晶的蠕蟲幫你照明。噁心但好用。"]
+	quest.60FC2DAEA954A849.title: "&6月亮蠕蟲女王"
+	quest.610F9E9D0B5131C7.quest_desc: ["&6保留護身符 I&r 讓你死掉時保住主手、副手和身上的裝甲。雖然不是全留，但至少不會讓你光著屁股重生。"]
+	quest.610F9E9D0B5131C7.title: "&6保留護身符 I"
+	quest.688C911ECFB2F134.quest_desc: ["黑暗森林中央有一座「黑暗高塔」。\\n\\n從底座的閃現方塊進去，在迷宮裡轉到最頂層去打 &c惡靈烏鴉 (Ur-Ghast)&r。\\n\\n建議拿遠程武器射它。周圍有 4 個陷阱，殺小幽靈可以幫陷阱充能，充飽了給紅石訊號會對 Boss 造成大傷。"]
+	quest.688C911ECFB2F134.quest_subtitle: "黑暗塔之旅"
+	quest.688C911ECFB2F134.title: "&c火之淚"
+	quest.6CB1BFBA10DF24E4.quest_desc: ["&c吸血權杖&r 可以吸乾敵人的血補給自己！\\n\\n沒電了？塞點發酵蜘蛛眼進去。它喜歡這種重口味。"]
+	quest.6CB1BFBA10DF24E4.quest_subtitle: "吸乾牠們"
+	quest.6CB1BFBA10DF24E4.title: "&cScepter of Life Draining"
+	quest.6F67079A453DAABE.quest_desc: ["&c生命護身符 I&r 是拋棄式的救命藥。\\n\\n要死掉時它會消失，給你一小段回血時間。寶箱裡滿多的。"]
+	quest.6F67079A453DAABE.title: "&c生命護身符 I"
+	quest.6FD41DF7704466A4.quest_desc: ["打死阿爾法雪人後，冰川區就解鎖了。那裡有可愛的小企鵝和 &3冰雪女王&r。\\n\\n女王會用冰晶護體，還會用冰砸地板拆你台。\\n\\n你只能打她的上半身，下半身被冰包住了打不動。打贏後就能去高原了。"]
+	quest.6FD41DF7704466A4.title: "&b撥雲見日"
+	quest.7026E46FD8B3A81D.quest_desc: ["&9九頭龍 (Hydra)&r 就是那隻砍掉一個頭會長兩顆出來的怪物。\\n\\n遠程攻擊對它沒什麼用，你得衝到它面前貼臉肉搏。\\n\\n打死它後，黑暗森林的下一個 Boss 就會等你挑戰。"]
+	quest.7026E46FD8B3A81D.quest_subtitle: "火之沼澤"
+	quest.7026E46FD8B3A81D.title: "&9屠龍勇者"
+	quest.730AF9210F00018E.quest_desc: ["米諾菇掉的鑽石斧。衝刺攻擊時傷害有加成！適合拿來玩豬突猛進。"]
+	quest.730AF9210F00018E.title: "&b米諾菇之斧"
+	quest.7509E4093010EA4C.quest_desc: ["冰雪女王掉的弓。箭矢會自動導向敵人。路癡射手的救星。"]
+	quest.7509E4093010EA4C.quest_subtitle: "瞄不準？"
+	quest.7509E4093010EA4C.title: "&a追蹤弓"
+	quest.78CE2ECEF0B651DA.quest_desc: ["極光宮殿出的劍。砍中敵人會給 10 秒的結霜效果。"]
+	quest.78CE2ECEF0B651DA.title: "&3寒冰劍"
+	quest.7B4A687EB505C2FF.quest_desc: ["&c卡米尼特建築師&r 吃到紅石訊號會根據方向生成暫時方塊。\\n\\n&c卡米尼特反應爐&r 會把附近的黑曜石跟地獄石變成假金、假鑽石。過一下它就會爆炸並生出一堆小幽靈。典型的假貨詐騙。"]
+	quest.7B4A687EB505C2FF.title: "&c卡米尼特機關"
+}
