@@ -1,0 +1,250 @@
+{
+	quest.00307A898A639191.quest_desc: ["這任務是由 &6ATM 員工&r 或某個 &2爆肝網友&r 寫的。如果你看得到這行，代表你現在正在窺視開發者的內心世界（編輯模式）。"]
+	quest.01AFC11EAAB6CB3B.quest_desc: ["&e骨龍鱗甲&r 用小恐龍骨頭、古老金屬和一個小恐龍頭骨合成。 \\n\\n這套裝甲好像沒啥特殊功能，就是便宜又大碗，數值還不錯。適合給不想花大錢做裝備的窮苦冒險者。"]
+	quest.01AFC11EAAB6CB3B.title: "&e骨龍鱗甲"
+	quest.0496E8E786262464.quest_desc: ["窩還真的需要跟你解釋什麼是 &2主世界&r 嗎？這就是你家啦！雖然現在多了幾隻會把你撕成碎片的 Boss。"]
+	quest.0496E8E786262464.title: "&2主世界&r： 5 隻 Boss 隨機找你泡茶的家"]
+	quest.04B40BB107F14330.quest_desc: ["&4血肉碎屍機&r 是一把用凋零金屬做的近戰武器。 \\n\\n它有兩種攻擊方式： \\n- 左鍵：像斧頭一樣揮砍，距離滿遠的。 \\n- 右鍵：直接啟動電鋸模式瘋狂攪碎對方！這感覺就像在打《異塵餘生 3》的 DLC。"]
+	quest.04B40BB107F14330.quest_subtitle: "電鋸驚魂，啟動！"
+	quest.04B40BB107F14330.title: "&4血肉碎屍機"
+	quest.05DE9E1CDFBC22DE.quest_desc: ["&d虛空擴散箭&r 用發光箭跟虛空下顎合成。 \\n\\n任何弓弩都能射。重點是它打到東西後會炸開，噴出一堆碎片把周圍的東西通通打成蜂窩。簡直是箭頭界的霰彈槍。"]
+	quest.05DE9E1CDFBC22DE.title: "&d虛空擴散箭"
+	quest.0741FABE57CA1A7D.quest_desc: ["&9海馬戰士 (Hippocamtus)&r 是守護衛城的精銳。 \\n\\n牠們穿得很厚，拿著長槍跟盾。有 85 滴血跟一堆護甲。 \\n\\n牠們會用盾擋你的刀，再用長槍把你插成肉串。還有一招特殊技會把你定在原地瘋狂連刺，超痛。殺了牠們會掉 &9淚珠 (Lacrima)&r。"]
+	quest.0741FABE57CA1A7D.title: "&9海馬戰士"
+	quest.0853917693A259C2.quest_desc: ["&3滅絕者 (The Annihilator)&r 是一把很好玩的重型武器。 \\n\\n你可以整天拿它來敲怪物的頭！但你知道什麼比一把滅絕者更好玩嗎？ \\n\\n沒錯，就是「兩把」滅絕者！ \\n\\n兩隻手各拿一把，按住右鍵就能發動強力地裂斬，範圍傷害爆表。"]
+	quest.0853917693A259C2.title: "&3滅絕者"
+	quest.0894EB1F3FCFCECA.quest_desc: ["&3屍鬼 (Draugrs)&r 有分階級：一般、皇家、精銳。 \\n\\n越高等級血越厚、裝備越好。有些還會根據你的距離切換劍或弩，簡直是操作魔。反正殺掉就對了，會掉黑鋼。"]
+	quest.0894EB1F3FCFCECA.title: "&3屍鬼軍團"
+	quest.0B7F2B63D867D221.quest_desc: ["想找 Boss？先來玩考古吧！ \\n\\n在前往 &e&l古代遺蹟 (Ancient Remnant)&r 的大坑道邊緣有幾個小房間。 \\n\\n去拿刷子刷裡面的「可疑的沙子」，就有機會刷到 &e沙漠項鍊&r。 \\n把項鍊拿去點那個巨大的遺骸，Boss 就會復活來跟你打架了。"]
+	quest.0B7F2B63D867D221.quest_subtitle: "復活古代大恐龍"
+	quest.0B7F2B63D867D221.title: "&e沙漠項鍊"
+	quest.0EE0946240B41A00.quest_desc: ["&b點燃金屬 (Ignitium)&r 是獄髓的上位版本。 \\n\\n你需要從 Ignis 身上拿錠，再自己搓個升級樣板。 \\n- 頭盔：岩漿裡視力變超好。 \\n- 胸甲：可以跟鞘翅合體。 \\n- 護腿：身上著火熄得比較快。 \\n- 靴子：在岩漿上面走路像走平地一樣。這套裝備穿上去你就是地獄之王。"]
+	quest.0EE0946240B41A00.title: "&b點燃金屬套裝"
+	quest.0F8F0F7880235BA2.quest_desc: [
+		"&c靈魂鍛造場&r 躲在地獄裡。別把它當成普通要塞，裡面危險多了。 \\n\\n除了金礦跟獄髓，這裡唯一的住戶就是那位... &c&l獄髓巨獸&r！"
+		"{image:atm:textures/questpics/cataclysm/cataclysm_blacksmith.png width:200 height:100 align:center}"
+	]
+	quest.0F8F0F7880235BA2.title: "&c靈魂鍛造場&f： &c&l獄髓巨獸&r 的家"
+	quest.1178E4123E8818E2.quest_desc: ["拍謝，這東西現在不能穿了，變成消耗品了！ \\n\\n按右鍵會在你周圍召喚 2 股 &e沙塵暴&r 跟著你跑。 \\n\\n任何靠近你的倒楣鬼都會被打飛加扣血。這就是隨身版電風扇。"]
+	quest.1178E4123E8818E2.title: "&e瓶裝沙塵暴"
+	quest.13D5F689E6884281.quest_desc: ["&e小恐龍角鬥士 (Kobolediators)&r 是金字塔裡的二號 Boss。 \\n\\n牠們平常會在那邊裝死，等你靠近才會跳起來咬你。 \\n\\n血量高達 540 滴，還會給你挖掘疲勞。如果你跑遠了，牠會像橄欖球員一樣瘋狂衝撞你！打死牠會掉頭骨跟金屬錠。"]
+	quest.13D5F689E6884281.title: "&e小恐龍角鬥士"
+	quest.1744E700CF742CE2.quest_desc: ["&5珊瑚巨獸 (Coralssus)&r 是沈睡之城的守衛兼坐騎。 \\n\\n深潛者可以騎在牠上面衝鋒。雖然攻擊招式很單調（就只是垂你），但血量有 160 滴。 \\n\\n殺了牠可以拿到珊瑚塊，是用來做祭品的材料。"]
+	quest.1744E700CF742CE2.title: "&5珊瑚巨獸"
+	quest.17CA9D80D8EC3EF7.quest_desc: [
+		"&4&l先驅者 (The Harbinger)&r 的動力來源就是那顆凋零星。 \\n\\n牠有 4,680 滴血，會自動攻擊任何不是工廠產出的生物（包括你）。 \\n\\n牠會飛天遁地，還會學凋零怪瘋狂拆遷。 \\n\\n招式超多：凋零導彈、背後的散彈砲、雷射機槍，還有嘴巴噴的大射線。 \\n\\n大弱點：牠是機器，所以怕 &4EMP (電磁脈衝)&r！一發下去牠會直接死機幾秒鐘讓你白揍。"
+		"{image:atm:textures/questpics/cataclysm/cataclysm_harbinger.png width:100 height:100 align:center}"
+	]
+	quest.17CA9D80D8EC3EF7.title: "&4&l先驅者 (終結者)"
+	quest.18EB86F91CBBCCC6.quest_desc: ["災變模組的地城沒那麼好找。 \\n\\n你需要各種「眼珠」來定位。每種眼對應一種結構，而且這些眼珠很耐操，不容易壞掉。"]
+	quest.18EB86F91CBBCCC6.title: "我眼中有你"
+	quest.1A8F438DB8508276.quest_desc: [
+		"&3極凍監獄&r 是蓋在雪山上的巨大城堡。 \\n\\n裡面有一堆牢房、軍械庫，還有一座放著詛咒墓碑的大廳。 \\n\\n戰利品超多，特別是黑鋼。但也有一堆屍鬼守在那邊等著把你凍成冰棒。"
+		"{image:atm:textures/questpics/cataclysm/cataclysm_prison.png width:200 height:100 align:center}"
+	]
+	quest.1A8F438DB8508276.title: "&3極凍監獄&r： &3&l惡咒者&r 的囚牢"
+	quest.1B4ED65C614B102F.quest_desc: ["&b烈焰亡魂&r 是你在找 Ignis 麻煩前的擋路鬼。 \\n\\n牠看起來像烈焰使者，但牠周圍有一圈盾牌！ \\n\\n盾牌合起來的時候牠是無敵的，你得等牠張開盾牌露出弱點。 \\n\\n攻擊招式：天女散烈焰棒、或者像個戰鬥陀螺一樣瘋狂旋轉盾牌。打死牠會掉燃燒骨灰。"]
+	quest.1B4ED65C614B102F.title: "&b烈焰亡魂"
+	quest.1C5EA7D62BAF2108.quest_desc: ["想跟 &5&l利維坦 (The Leviathan)&r 打架？你得準備一場盛大的祭典。 \\n\\n除了阿摩尼亞（誤，紫水晶）跟金屬塊，你還需要鸚鵡螺殼跟海洋之心。 \\n\\n最後還需要一把深潛者巫師掉的祭祀刀。把這些通通合在一起做成深淵祭品，Boss 就會現身了。"]
+	quest.1C5EA7D62BAF2108.quest_subtitle: "喚醒深海巨獸"
+	quest.1C5EA7D62BAF2108.title: "&5深淵祭品"
+	quest.1D56D3B444A4B2D4.quest_desc: ["&d堡壘長靴&r 跟其他的武器不一樣。 \\n\\n它不會把怪吸過來，而是把怪通通推開！ \\n\\n按住右鍵會給怪貼個「點燃烙印」，放開後你就會像砲彈一樣衝向對方。這是用防衛長靴跟火焰盾牌合成的神物。"]
+	quest.1D56D3B444A4B2D4.title: "&d堡壘長靴 (衝鋒版)"
+	quest.2011638351B67396.quest_desc: ["這把 &9阿斯特拉佩 (Astrape)&r 結合了海馬戰士跟水母戰士的武器特點。 \\n\\n它像三叉戟一樣能刺，但距離更長、傷害更痛。 \\n\\n右鍵可以射出閃電矛，而且這矛還會彈牆！雖然有冷卻，但這特效簡直帥到沒朋友。"]
+	quest.2011638351B67396.title: "&9阿斯特拉佩 (閃電矛)"
+	quest.21A0FD474FBB49F7.quest_desc: [
+		"終界現在除了紫影植物外，還多了一座 &d廢棄衛城&r。 \\n\\n這裡是用黑曜石跟紫珀塊蓋成的宮殿。 \\n\\n裡面有一堆潛影貝跟終界魔像，還有獨特的「虛空石」。去那邊洗劫一空吧！"
+		"{image:atm:textures/questpics/cataclysm/cataclysm_citadel.png width:200 height:100 align:center}"
+	]
+	quest.21A0FD474FBB49F7.title: "&d廢棄衛城&r： &d&l終界守護者&r 的領地"
+	quest.236EA8D18ECD5FE8.quest_desc: ["這怪物的出現條件很特別：殺了 Ignis 之後，地獄堡壘就有機率生出 &b烈焰狂戰士&r。 \\n\\n牠們把盾牌換成了大劍，所以防禦比較低，但打人超級痛。 \\n\\n掉落物可以用來合成燃燒骨灰，是重複召喚 Boss 的關鍵。"]
+	quest.236EA8D18ECD5FE8.title: "&b烈焰狂戰士"
+	quest.2542D8A6894816C6.quest_desc: ["&e沙漠之眼&r 會帶你去金字塔找那隻大恐龍 Boss。"]
+	quest.2542D8A6894816C6.title: "&e沙漠之眼"
+	quest.25ACB08E4F12CE79.quest_desc: ["想養一隻獄髓巨獸當寵物嗎？災變模組實現你的願望！ \\n\\n1. 先做個獄髓雕像。 \\n2. 殺了大 Boss 拿到熔岩電池。 \\n3. 把雕像放地上，餵牠電池，牠就會乖乖跟你走。 \\n\\n按 Shift+右鍵可以下指令。牠還有 15 格負重空間可以幫你背垃圾。雖然血量很高，但窩目前還不知道怎麼幫牠補血... 各位小心服用。"]
+	quest.25ACB08E4F12CE79.title: "&c獄髓小巨獸 (寵物)"
+	quest.2790EB2E347D28DE.quest_subtitle: "擊敗所有災變模組的 Boss"
+	quest.291C76140DE97E3C.quest_desc: ["&b點燃金屬&r 就像獄髓，但這可是靠技術打出來的。 \\n\\nBoss 每次只掉一錠，省點用。拿來升級防具或是做超帥的武器。"]
+	quest.291C76140DE97E3C.quest_subtitle: "比獄髓更香？"
+	quest.291C76140DE97E3C.title: "&b點燃金屬"
+	quest.2A196974431FCC42.quest_desc: ["&c地獄熔爐&r 雖然叫熔爐，但它其實是一把「搞頭 (Pickaxe)」！ \\n\\n它能挖獄髓等級的東西（包括 ATM 礦石）。右鍵可以發動震地攻擊。 \\n\\n它既能吃劍的附魔也能吃搞頭的附魔，簡直是萬用工具。"]
+	quest.2A196974431FCC42.title: "&c地獄熔爐"
+	quest.2B115519A21F9CB7.quest_desc: [
+		"&d&l終界守護者&r 是一隻用終界石跟黑曜石組成的巨獸，守在虛空祭壇裡。 \\n\\n牠有 6,660 滴血，千萬別離牠太近，不然會被吸進去。 \\n\\n牠會用拳頭捶你、用腳震飛你，還會射出一整排潛影貝導彈。 \\n\\n血量剩一半時，面具會碎掉露出真面目，然後把地板拆了帶你掉進地下二層。那時候牠會更瘋狂地吸你、射你，祝你好運。"
+		"{image:atm:textures/questpics/cataclysm/cataclysm_guardiuan.png width:100 height:100 align:center}"
+	]
+	quest.2B115519A21F9CB7.title: "&d&l終界守護者"
+	quest.2BCB788924BBD849.quest_desc: ["窩個人最愛的武器。 \\n\\n&b焚化爐大劍&r 平常像普通劍一樣好用，但按住右鍵不放，地上會噴出巨大的火柱！ \\n\\n而且劍身超大，不只看起來帥，攻擊距離也比一般劍長得多。"]
+	quest.2BCB788924BBD849.title: "&b焚化爐大劍"
+	quest.2CD58FC229BC0C28.quest_desc: ["&d守衛長靴&r 是終界守護者掉的寶物。 \\n\\n按住右鍵可以把周圍的怪通通吸到你面前白揍。 \\n\\n如果是普通攻擊，也能造成不錯的傷害。試試看在高空把怪吸過來再放掉，看牠們摔死。"]
+	quest.2CD58FC229BC0C28.title: "&d守衛長靴"
+	quest.2F62C290A5CE50F8.quest_desc: ["什麼？只要一點點古老金屬，就能換到比獄髓劍更強、距離超長，還能射沙塵暴的武器？ \\n\\n沒錯，這就是 &e古代長槍&r。這模組的平衡性真是太棒了。"]
+	quest.2F62C290A5CE50F8.title: "&e古代長槍"
+	quest.30C5D432C810F904.quest_desc: ["&9風暴之眼&r 會帶你去雲端的衛城找那個拿船錨的小女孩（？）Boss。"]
+	quest.30C5D432C810F904.title: "&9風暴之眼"
+	quest.33B1D3FD4C0B5514.quest_desc: [
+		"&e&l古代遺蹟 (大恐龍)&r 是沙漠的主宰。 \\n\\n牠有 2,700 滴血，還會召喚小恐龍跟角鬥士來幫忙。 \\n\\n牠會用骨尾掃你、用嘴巴咬你、還會瘋狂咆哮召喚沙塵暴。衝撞的時候還會順便拆地圖跟讓你的 FPS 掉到剩個位數。 \\n\\n弱點：那個把牠復活的「項鍊」。盯著項鍊打，牠會跪在地上讓你輸出。"
+		"{image:atm:textures/questpics/cataclysm/cataclysm_remnant.png width:100 height:100 align:center}"
+	]
+	quest.33B1D3FD4C0B5514.title: "&e&l古代遺蹟"
+	quest.3459CAEB59CBD60E.quest_desc: ["看來有人把開關打開了！ \\n\\n&4潛行者 (The Prowler)&r 是守護工廠的小 Boss。 \\n\\n近戰用電鋸，遠戰用肩膀上的導彈或是眼睛射出的雷射。 \\n\\n記得，牠也怕 EMP 攻擊。"]
+	quest.3459CAEB59CBD60E.title: "&4潛行者 (機器人)"
+	quest.35E42F7925CA097A.quest_desc: ["&d虛空核心&r 是終界魔像掉的。 \\n\\n按右鍵可以在地上召喚虛空符文，像喚魔者的地刺一樣連噴 10 格遠。 \\n\\n傷害很高還帶擊退，這也是做災變高級武器的關鍵材料。"]
+	quest.35E42F7925CA097A.title: "&d虛空核心"
+	quest.37E4DECFB6526969.quest_desc: ["&3靈魂收割者&r 用黑鋼跟詛咒金屬合成。 \\n\\n這把巨型長柄武器不只傷害高，特效也超華麗！ \\n\\n右鍵可以發動衝鋒，身後會不斷掉下幻影戟刺殺敵人。Shift+右鍵還能在你周圍召喚一圈幻影戟護身。"]
+	quest.37E4DECFB6526969.title: "&3靈魂收割者"
+	quest.392EAE8BE71510C1.quest_desc: ["原本荒涼的終界，現在終於有第二個住戶了。 \\n\\n（第一個是那隻飛來飛去的紫影龍啦）"]
+	quest.392EAE8BE71510C1.title: "&5終界&r： 除了龍以外還有守門員"]
+	quest.3B577572FA7A413E.quest_desc: ["&3沙漠之怒&r 結合了詛咒弓跟沙塵暴。 \\n\\n它不射普通箭，它直接「射沙塵暴」！ \\n\\n一次射三股出去，而且還不用箭矢（雖然合成很貴），爽快度滿分。"]
+	quest.3B577572FA7A413E.title: "&3沙漠之怒 (沙暴弓)"
+	quest.3C0F8EB779E56F2A.quest_desc: ["這就是你在生物投票選的那隻螃蟹啦！ \\n\\n只是你得殺掉一隻巨大的螃蟹才能拿到這對螯。 \\n\\n戴上去後，你擺方塊的距離跟打怪的距離都會變長。這才是真的有用的功能。"]
+	quest.3C0F8EB779E56F2A.title: "&9螃蟹螯"
+	quest.3DD71B6C4B80FB44.quest_desc: ["&3惡咒之眼&r 會帶你去雪山監獄找那個看起來很像巫妖王的 Boss。"]
+	quest.3DD71B6C4B80FB44.title: "&3惡咒之眼"
+	quest.3E8C7D92F99496BE.quest_desc: ["&5深淵之眼&r 會帶你去水底城找那隻巨大的大章魚利維坦。"]
+	quest.3E8C7D92F99496BE.title: "&5深淵之眼"
+	quest.43A5B83862D9E94C.quest_desc: ["&b烈焰之眼&r 會帶你去地獄競技場找那個拿盾牌的火人。"]
+	quest.43A5B83862D9E94C.title: "&b烈焰之眼"
+	quest.445C9117198936B6.quest_desc: ["&4凋零突擊肩砲 (W.A.S.W.)&r 是凋零金屬的最終兵器。 \\n\\n- 右鍵：快速發射導彈。 \\n- Shift+右鍵：發射大區域的榴彈砲，打中的地方會留下一團凋零迷霧。 \\n\\n雖然冷卻時間有點久，但威力絕對對得起它的名字。"]
+	quest.445C9117198936B6.title: "&4W.A.S.W. 肩砲"
+	quest.45FBEABEBA7CC09E.quest_desc: [
+		"誰知道這座城市是怎麼沉下去的，反正現在歸利維坦管了。 \\n\\n最中間的大圓頂是深淵祭壇所在地。周圍的走廊通往監獄跟藏寶室。 \\n\\n滿地都是深潛者，記得帶好氧氣桶（如果有這東西的話）。"
+		"{image:atm:textures/questpics/cataclysm/cataclysm_city.png width:200 height:100 align:center}"
+	]
+	quest.45FBEABEBA7CC09E.title: "&5沈睡之城&r： &5&l利維坦&r 的宮殿"
+	quest.462D173D576A8D91.quest_desc: ["&e古代金屬&r 是金字塔裡掉落的基礎材料。 \\n\\n你可以把它搓成錠來做骨龍裝或是那把 CP 值超高的長槍。"]
+	quest.462D173D576A8D91.title: "&e古代金屬"
+	quest.465B08461B460DAC.quest_desc: ["這就是終界的蟑螂。 \\n\\n牠們會瘋狂啃你。如果啃太多次，牠們的牙齒會斷掉，你就拿不到材料了。 \\n\\n所以請務必一刀秒殺這些煩人的蟲子。"]
+	quest.465B08461B460DAC.quest_subtitle: "終界小強"
+	quest.465B08461B460DAC.title: "&d終界蟲"
+	quest.46CC8E7ED59F51D2.quest_desc: ["&5潮汐利爪&r 是利維坦掉的好東西。 \\n\\n- 左鍵：攻擊，可以同時貫穿 5 個敵人並附加持續傷害。 \\n- 右鍵：鉤爪，把你拉向目標。 \\n\\n最棒的是這玩意兒沒有耐久度，愛怎麼用就怎麼用。"]
+	quest.46CC8E7ED59F51D2.title: "&5潮汐利爪"
+	quest.4BF5EB050EC14C80.quest_desc: ["&4監視者&r... 顧名思義就是在工廠巡邏的。 \\n\\n牠們會用眼球雷射跟刀刃來攻擊。血不多，而且跟所有工廠機器一樣怕 EMP。"]
+	quest.4BF5EB050EC14C80.title: "&4監視者"
+	quest.4CCEC13CC5A5772D.quest_desc: ["災變模組總共有三種寵物：小恐龍、小利維坦、小獄髓獸。 \\n\\n牠們通通可以用桶子裝起來帶著走。小利維坦記得要用水桶裝喔！"]
+	quest.4CCEC13CC5A5772D.title: "口袋怪獸！"
+	quest.4D644A9829C240CB.quest_desc: ["覺得 Boss 的盾牌很炫？你自己也可以做一個。 \\n\\n這面盾牌按住 Shift+右鍵可以發動衝鋒，把怪撞在牆上還會讓牠暈眩。這才是盾牌該有的樣子。"]
+	quest.4D644A9829C240CB.title: "&b火焰之牆 (盾牌)"
+	quest.4D822D92492E1F53.quest_desc: ["&3極凍殭屍 (Aptrgangr)&r 是監獄裡的小 Boss。 \\n\\n牠會拿大斧砸地釋放雷射射線，還會瘋狂衝撞。打死會掉黑鋼錠。"]
+	quest.4D822D92492E1F53.title: "&3極凍殭屍"
+	quest.4E2C589C7638390F.quest_desc: ["&3詛咒之弓&r 天生自帶多重射擊效果！ \\n\\n一次射 3 支箭，如果配上特殊箭矢則是 2 支。簡直是人肉炮塔。"]
+	quest.4E2C589C7638390F.title: "&3詛咒之弓"
+	quest.4FA156C383C9C438.quest_desc: ["這些小骨龍是古代遺蹟的小弟。 \\n\\n雖然血很少，但數量很多很煩。會掉骨頭跟金屬碎。"]
+	quest.4FA156C383C9C438.quest_subtitle: "骨頭小恐龍"
+	quest.4FA156C383C9C438.title: "&e小骨龍"
+	quest.4FA7774D89171BB3.quest_desc: ["拿 Boss 掉的頭骨去點嗅探獸蛋，你就能養一隻小恐龍寵物！ \\n\\n餵牠小骨龍的骨頭就能補血。牠會幫你打怪，還有三種模式可以切換。這可比養狗威風多了。"]
+	quest.4FA7774D89171BB3.title: "不能說出名字的小恐龍"
+	quest.50C9CB8FB16E453D.quest_desc: [
+		"&b烈焰競技場&r 是地獄裡的巨大角鬥場。 \\n\\n1 樓很熱，2 樓住著一堆亡魂，你得殺了牠們拿骨灰去 3 樓召喚 Boss。 \\n\\n對了，屋頂上面有寶箱，記得去偷。"
+		"{image:atm:textures/questpics/cataclysm/cataclysm_arena.png width:200 height:100 align:center}"
+	]
+	quest.50C9CB8FB16E453D.title: "&b烈焰競技場&r： &b&lIgnis&r 的擂台"
+	quest.53154550397E9704.quest_desc: [
+		"&c&l獄髓巨獸&r 真的名副其實，全身都是獄髓跟岩漿。 \\n\\n牠的血量可能高達 9,600 滴！如果你跑太遠牠還會自動回血。 \\n\\n招式：捶地波、大跳躍，還有從嘴巴噴出來的熔岩彈跟火球。在那邊打牠就像在洗岩漿澡一樣，記得帶好防火藥水。"
+		"{image:atm:textures/questpics/cataclysm/cataclysm_monstrosity.png width:100 height:100 align:center}"
+	]
+	quest.53154550397E9704.title: "&c&l獄髓巨獸"
+	quest.55278DDC31951DA5.quest_desc: ["這些屍鬼為了保護 Boss 的墓碑，竟然把門給鎖了！ \\n\\n你需要一把「奇怪的鑰匙」才能進去。這把鑰匙被極凍殭屍拿走了，快去搶回來。"]
+	quest.55278DDC31951DA5.quest_subtitle: "解鎖惡咒者的陵墓"
+	quest.55278DDC31951DA5.title: "&3奇怪的鑰匙"
+	quest.565376084F05ED6E.quest_desc: ["地獄現在除了豬人跟凋零骨，還多了兩尊大佛等著你。"]
+	quest.565376084F05ED6E.title: "&4地獄&r： 雙 Boss 戰場"]
+	quest.573DD5834B321D0A.quest_desc: [
+		"&9衛城&r 是飄在海面上空的雲中城市。 \\n\\n整座城市都是藍色海石、海磷石跟一堆水蓋成的。 \\n\\n建築風格很希臘，裡面住著一堆水母、海馬跟龍蝦戰士。 \\n\\n裡面藏了一堆鑽石塊跟海綿，洗劫的時候記得仔細看地板。"
+		"{image:atm:textures/questpics/cataclysm/cataclysm_acropolis.png width:200 height:100 align:center}"
+	]
+	quest.573DD5834B321D0A.title: "&9衛城&f： &9&l斯庫拉&r 的空中花園"
+	quest.5BD22081ED81BCC6.quest_desc: ["&9海膽精&r 是衛城裡的小廢怪。 \\n\\n雖然血少沒甲，但牠們會捲成一團衝向你，順便射出一堆刺。如果你不想變刺蝟就離遠點。"]
+	quest.5BD22081ED81BCC6.title: "&9海膽精"
+	quest.5C6C4AD0F60BECCA.quest_desc: ["這是小骨龍用的彎刀。 \\n\\n傷害跟鐵劍差不多，而且不能附魔也不能修理。基本上就是玩具。"]
+	quest.5C6C4AD0F60BECCA.title: "&e古代彎刀"
+	quest.5D74D73092ACD2F2.quest_desc: ["殺了利維坦後，海裡會開始生出這種珊瑚魔像。 \\n\\n牠們血滿厚的，還會跳起來捶你。打死後掉的碎片可以拿來重複做祭品。"]
+	quest.5D74D73092ACD2F2.title: "&5珊瑚魔像"
+	quest.5E3263ACE170A8E3.quest_desc: ["&d漩渦長靴&r 是這模組最特別的武器之一。 \\n\\n按住右鍵會在目標地點召喚一個虛空黑洞！ \\n\\n黑洞會把周圍所有東西吸進去，然後砰的一聲炸開。這特效真的很有質感。"]
+	quest.5E3263ACE170A8E3.title: "&d漩渦長靴 (黑洞發生器)"
+	quest.5EDB5A2D744CE415.quest_desc: ["這把 &4雷射加特林&r 也是用凋零金屬做的。 \\n\\n它吃你背包裡的紅石當子彈。1 顆紅石可以射 50 發雷射，CP 值高到爆表。射起來非常有《異塵餘生》的感覺。"]
+	quest.5EDB5A2D744CE415.quest_subtitle: "紅石加特林，噠噠噠！"
+	quest.5EDB5A2D744CE415.title: "&4雷射加特林"
+	quest.5FBA199E0B7F1585.quest_desc: ["&9章魚宿主&r 其實是兩隻怪搞基...我是說合體。 \\n\\n上面的小章魚會噴墨汁黑你，下面的溺屍會拿拳頭捶你。兩個一起上真的滿卑鄙的。"]
+	quest.5FBA199E0B7F1585.title: "&9章魚宿主 (合體怪)"
+	quest.62089E9E6D596DA7.quest_desc: ["這是滅絕者的升級版。 \\n\\n如果敵人身上有火，這把大搥打下去會更痛。兩把一起拿還能發動岩漿地裂斬。"]
+	quest.62089E9E6D596DA7.title: "&3焚罪者 (強化搥)"
+	quest.62C32905C33E2D88.quest_desc: ["&d虛空之眼&r 會帶你去終界找那個坐在王座上的大個子。"]
+	quest.62C32905C33E2D88.title: "&d虛空之眼"
+	quest.62DF58D36B739EA0.quest_desc: ["&e瓦吉特 (Wadjet)&r 是金字塔裡的另一隻小 Boss。 \\n\\n牠有 450 滴血，會遠距離丟沙塵暴，還會召喚天花板上的沙塊砸你的頭。窩也不知道這兩種招式哪一個比較機車。"]
+	quest.62DF58D36B739EA0.title: "&e瓦吉特 (蛇魔)"
+	quest.631796E7615C04FA.quest_desc: ["&2紫水晶螃蟹&r 住在大繁茂洞窟裡。 \\n\\n血量 1200 滴，平常很溫和，但你動牠一下牠會讓你後悔。 \\n\\n會噴紫水晶、會鑽地。死掉會掉肉（拿去祭壇祝福會變超強補品）跟殼。殼可以做成跟牠一樣強的護肩。"]
+	quest.631796E7615C04FA.title: "&2紫水晶螃蟹"
+	quest.655FF7295B688354.quest_desc: ["&9龍蝦軍閥 (Clawdian)&r 是衛城裡的惡霸。 \\n\\n牠們拿著比身體還大的斧頭，會瘋狂踩地發出衝擊波跟浪潮。跑太遠的話牠還會像火車一樣衝過來撞爛方塊。"]
+	quest.655FF7295B688354.title: "&9龍蝦軍閥"
+	quest.683C260C854C5AA3.quest_desc: ["&4機械融合鐵砧&r 是用來合成災變模組高級神裝的關鍵。 \\n\\n它像普通鐵砧但沒有耐久度。把兩樣東西放進去，你就能得到威力加倍的新玩具。"]
+	quest.683C260C854C5AA3.title: "&4機械融合鐵砧"
+	quest.689F32883C4E9502.quest_desc: ["&4&l災變 (Cataclsym)&r 模組增加了一堆會讓你死到懷疑人生的 Boss 跟地城。 \\n\\n沒規定要先殺哪一隻，但有些 Boss 掉的寶物剛好是另一隻的弱點。快去收集那些眼珠吧！"]
+	quest.689F32883C4E9502.title: "&4&l災變：地地城與魔王"
+	quest.69439426534EBDC4.quest_desc: ["這是用點燃金屬做的手套。 \\n\\n戴上去後，你所有的攻擊都有機率幫怪貼上「點燃烙印」，扣牠們的護甲跟韌性。對付硬皮怪超好用。"]
+	quest.69439426534EBDC4.title: "&b烈焰手套"
+	quest.696A33E7D91A487E.quest_desc: ["&9辛達里亞 (Cindaria)&r 是一種半人半水母的守衛。 \\n\\n牠們拿著看起來像雨傘但其實是閃電發射器的東西。遠距離會射彈跳閃電矛，近距離會直接拿傘柄敲你的頭。"]
+	quest.696A33E7D91A487E.title: "&9辛達里亞 (閃電水母)"
+	quest.6B5BC33667C782EC.quest_desc: ["&d終界魔像&r 守護著衛城。 \\n\\n雖然不是大 Boss，但牠有 3000 滴血還會自動回血。如果不打死牠拿到虛空核心，你很難對付後面的守護者。"]
+	quest.6B5BC33667C782EC.title: "&d終界魔像"
+	quest.6BC3CF8937DEDE89.quest_desc: ["把地獄熔爐跟虛空核心合體，就成了 &d虛空熔爐&r。 \\n\\n挖掘性能不變，但右鍵可以在地上噴出一大片虛空地刺。這模組真的要把搞頭變武器到底。"]
+	quest.6BC3CF8937DEDE89.title: "&d虛空熔爐"
+	quest.6CB8D3919B16784B.quest_desc: ["&9塞勞納斯 (Ceraunus)&r 是 Boss 斯庫拉用的巨錨！ \\n\\n揮起來慢得要死，但傷害高到嚇人。 \\n- 右鍵：把船錨丟出去再拉回來。 \\n- Shift+右鍵：朝前方噴出一大波浪潮。帥度 100 分。"]
+	quest.6CB8D3919B16784B.title: "&9塞勞納斯 (雷霆巨錨)"
+	quest.6E08D4E6BC3FB99F.quest_desc: ["&5深潛者 (Deeplings)&r 是海裡的古老民族。 \\n有一般的長槍兵、拿釣魚竿釣你的捕魚兵、騎著大怪獸的壯漢，還有會丟法術的祭司。牠們很排外，看到你就打。"]
+	quest.6E08D4E6BC3FB99F.title: "&5深潛者族群"
+	quest.6ED61438A8A1EAA4.quest_desc: ["凋零金屬是從先驅者身上掉的。 \\n\\n它是做那三把科幻武器跟融合鐵砧的關鍵材料。獄髓在它面前都顯得有點寒酸。"]
+	quest.6ED61438A8A1EAA4.quest_subtitle: "凋零加上獄髓等於...？"
+	quest.6ED61438A8A1EAA4.title: "&4凋零金屬 (Witherite)"
+	quest.6FC4146E534C51DA.quest_desc: ["把獄髓頭盔加上巨獸角，你就能做出這頂超霸氣的角斗士頭盔。 \\n\\n當你快死的時候（半血以下），它會自動震退周圍的敵人並提高你的防禦力。簡直是保命神器。"]
+	quest.6FC4146E534C51DA.title: "&c巨獸之角頭盔"
+	quest.70CDA5F1593DB4B2.quest_desc: [
+		"&e詛咒金字塔&r 在沙漠裡超好找，門口有兩根巨大的柱子。 \\n\\n進去後滿地都是陷阱跟小恐龍。記得帶把刷子，因為那些可疑的沙子裡藏著復活 Boss 的祕密..."
+		"{image:atm:textures/questpics/cataclysm/cataclysm_pyramid.png width:200 height:100 align:center}"
+	]
+	quest.70CDA5F1593DB4B2.title: "&e詛咒金字塔&r： &e&l古代遺蹟&r 的陵墓"
+	quest.71055E7BBB337C4D.quest_desc: [
+		"&3&l惡咒者 (Maledictus)&r 是從北歐地獄回來的王者。 \\n\\n牠有 8,400 滴血跟一對大翅膀。會拿兩把滅絕者瘋狂砸你，還會飛到空中用弓箭射你或是拿收割者衝下來。 \\n\\n打這隻 Boss 就像在玩彈幕遊戲，記得多帶點藥水。"
+		"{image:atm:textures/questpics/cataclysm/cataclysm_maledictus.png width:125 height:100 align:center}"
+	]
+	quest.71055E7BBB337C4D.title: "&3&l惡咒者 (屍鬼王)"
+	quest.713006AB89E43C6D.quest_desc: [
+		"&9&l斯庫拉 (Scylla)&r 守在衛城的頂端。 \\n\\n雖然體型很小（才 3 格高），但招式多到爆炸。牠會用巨錨把你拉過去、會召喚雷雲、還會操控水流跟水蛇咬你。 \\n\\n別因為牠長得像小女孩就放水，牠打人可是很痛的。"
+		"{image:atm:textures/questpics/cataclysm/cataclysm_scylla.png width:100 height:100 align:center}"
+	]
+	quest.713006AB89E43C6D.title: "&9&l斯庫拉 (風暴之后)"
+	quest.7270FA5C48AF7280.quest_desc: ["&3詛咒裝甲&r 是獄髓的詛咒版本。 \\n- 頭盔：可以像開外掛一樣透視牆後的生物。 \\n- 胸甲：內建不死圖騰，冷卻 6 分鐘。 \\n- 護腿：運氣加成... 窩不知道在 Minecraft 裡這有啥用。 \\n- 靴子：可以讓你向後大跳躲招，還減免摔落傷害。這套穿上去真的很中二。"]
+	quest.7270FA5C48AF7280.title: "&3詛咒金屬套裝"
+	quest.746DE905D45A396C.quest_desc: [
+		"&5&l利維坦&r 是人類恐懼海洋的原因。 \\n\\n牠有 6,400 滴血，在水外面是無敵的。 \\n\\n招式：水底地雷、原子射線（像哥吉拉那樣）、還會製造大漩渦把你吸進嘴裡。血量剩一半會進入狂暴模式，雷射噴不用錢的，祝你好運。"
+		"{image:atm:textures/questpics/cataclysm/cataclysm_leviathan.png width:100 height:100 align:center}"
+	]
+	quest.746DE905D45A396C.title: "&5&l利維坦 (深海恐懼)"
+	quest.747B62A955D0C629.quest_desc: [
+		"&4古代工廠&r 藏在地底。裡面有一堆紅石機關跟 EMP。 \\n\\n這裡的機器人會瘋狂追殺你，但戰利品（特別是紅石）多到你拿不動。"
+		"{image:atm:textures/questpics/cataclysm/cataclysm_factory.png width:200 height:100 align:center}"
+	]
+	quest.747B62A955D0C629.title: "&4古代工廠&r： &4&l先驅者&r 的生產線"
+	quest.74ACCEB6DC9EF6F7.quest_desc: ["&d虛空突擊肩砲 (V.A.S.W.)&r 是凋零版的進化。 \\n\\n它現在射出來的是虛空榴彈，炸開的地方會冒出地刺。冷卻時間一樣久，但傷害更噁心。這是把原本的肩砲拿去跟虛空核心融合的結果。"]
+	quest.74ACCEB6DC9EF6F7.title: "&dV.A.S.W. 虛空肩砲"
+	quest.775AB10F8196F27B.quest_desc: ["&4機械之眼&r 會帶你去工廠找那個全身插滿導彈的機器人 Boss。"]
+	quest.775AB10F8196F27B.title: "&4機械之眼"
+	quest.7AED8FD7FB023AD8.quest_desc: ["想啟動先驅者？去殺隻凋零怪拿星星吧。這很基本，我就不多說了。"]
+	quest.7AED8FD7FB023AD8.quest_subtitle: "啟動先驅者的心臟"
+	quest.7AED8FD7FB023AD8.title: "下界之星"
+	quest.7AEE4BE3AB41ED3E.title: "&b點燃金屬鞘翅胸甲"
+	quest.7C848C7011726470.quest_desc: ["&c巨獸之眼&r 會帶你去地獄鍛造場找那尊獄髓大佛。"]
+	quest.7C848C7011726470.title: "&c巨獸之眼"
+	quest.7CBEBBCB9D95D11A.quest_desc: ["打死利維坦後會掉一顆蛋。放地上等一段時間，你就能養一隻利維坦寶寶。餵牠吃熱帶魚就能馴服，牠會是你水底探險最好的保鏢。"]
+	quest.7CBEBBCB9D95D11A.title: "深淵之蛋"
+	quest.7D57A14810BC0CBE.quest_desc: [
+		"&b&l伊格尼斯 (Ignis)&r 是競技場的王者。 \\n\\n牠拿著大劍跟大盾。盾牌合起來時你打不動牠，劍刺到你你會被定身。 \\n\\n牠還會丟火球，你可以像打羽毛球一樣把火球打回去揍牠。血量剩一點時會變藍色火，這時候牠攻擊超快還會吸血，千萬別跟牠硬碰硬。"
+		"{image:atm:textures/questpics/cataclysm/cataclysm_ignis.png width:100 height:100 align:center}"
+	]
+	quest.7D57A14810BC0CBE.title: "&b&l伊格尼斯 (烈焰王者)"
+	quest.7F4963FCAE5337EC.quest_desc: ["想見國王？先打贏亡魂拿到骨灰再說。去祭壇灑骨灰，Boss 就會跳出來跟你單挑了。"]
+	quest.7F4963FCAE5337EC.title: "&b燃燒骨灰"
+	task.01063DC98BCE5A91.title: "災變大師"
+	task.0303CDB18BBD9575.title: "不準偷拿 (版權所有)"
+	task.0B7F934439806558.title: "不準偷拿 (版權所有)"
+}

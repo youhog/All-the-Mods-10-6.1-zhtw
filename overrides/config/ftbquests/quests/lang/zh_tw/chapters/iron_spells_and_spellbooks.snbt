@@ -1,0 +1,205 @@
+{
+	quest.000C1ECD781F3F81.quest_desc: ["&2&l自然系&r 法術教你怎麼利用大地來對付敵人，像是下毒或是讓對方變虛弱。就像大財團對地球做的事情一樣！ \\n\\n核心材料是：&2毒馬鈴薯&r。沒錯，這法術就是這麼北爛。 \\n\\n卷軸是淡綠色配深綠色文字。"]
+	quest.000C1ECD781F3F81.title: "&2&l自然魔法"
+	quest.00D80AA4CDD8335C.quest_desc: ["覺得普通的 &6&l牧師&r 衣服不夠帥？快去搓一件 &6光明使者胸甲&r。 \\n\\n你需要祕銀織物（祕銀加鐵鍊）還有一塊神聖靈魂碎片。 \\n\\n這件衣服不只防禦更高，還加了一堆魔力和法術強度。穿上去後你就是全村最亮眼的仔。"]
+	quest.00D80AA4CDD8335C.title: "&6光明使者胸甲"
+	quest.01119871B1D5C576.quest_desc: [
+		"基本上每個村莊都有機率住著一位 &6&l牧師&r。 \\n\\n牠們通常混在市集中心。如果沒看到，可能是去隔壁村出差了。"
+		"{image:atm:textures/questpics/iron_spells/spells_village.png width:200 height:100 align:center}"
+	]
+	quest.01119871B1D5C576.title: "&6魔法村莊"
+	quest.0436DF3308681913.quest_desc: [
+		"在王座上坐著一具老國王的骸骨。如果你手賤去摸牠，牠就會跳起來教你做人。 \\n\\n&4&l亡靈之王&r 是這模組最強的 Boss，自帶血條跟專屬 BGM。牠會用各系的法術，還會瞬移、召喚殭屍、拿血紅法杖戳你。 \\n\\n殺了牠會掉一堆高級卷軸、空白符文，如果你運氣好，連那把法杖都能搶過來。"
+		"{image:atm:textures/questpics/iron_spells/spells_king.png width:100 height:200 align:center}"
+	]
+	quest.0436DF3308681913.title: "&4&l亡靈之王"
+	quest.0474C15D3AE3C2C9.quest_desc: ["&c破舊鐮刀&r 是 Boss 用的山寨版。雖然小了一號，但攻速還不錯。 \\n\\n你可以用火焰金屬去升級它，把它變成「地獄使者」。升級後會自帶「地獄降臨」法術，按下去會在你周圍噴出一大圈火波，刷怪超爽。"]
+	quest.0474C15D3AE3C2C9.title: "&c破舊鐮刀"
+	quest.05DBDD86FCFF3BA8.title: "&5雷電&r 升級寶珠"
+	quest.06F2C42E6408149E.quest_desc: ["希望這不是你從路邊的 &c&l火焰法師&r 身上扒下來的，人家可是好人。"]
+	quest.06F2C42E6408149E.title: "&c火焰法師套裝"
+	quest.06F8EDF7513F8611.title: "&d史詩級&r 墨水"
+	quest.08767A1E6D48A5EA.quest_desc: ["&7灰鬍子法杖&r 就是個便宜貨。 \\n\\n傷害只有 3，但加了 25% 回魔跟一點點法強。適合給剛入門的窮鬼法師用。"]
+	quest.08767A1E6D48A5EA.quest_subtitle: "什麼時候才會變白鬍子？"
+	quest.08767A1E6D48A5EA.title: "&7灰鬍子法杖"
+	quest.0CE1F6DE5FD6A6D9.title: "&a召喚&r 升級寶珠"
+	quest.0E594BC58CC7476F.quest_desc: ["雖然牠是壞人，但這套衣服穿起來真的滿潮的。"]
+	quest.0E594BC58CC7476F.title: "&a至尊喚魔者套裝"
+	quest.0EED5D755D2C866A.quest_desc: ["&d&l終界系&r 魔法就是把終界龍跟小黑的能力通通搶過來用。 \\n\\n瞬移、噴火、龍息... 只要有終界珍珠，你也能當終界戰士。 \\n\\n卷軸是紫色配粉色文字。"]
+	quest.0EED5D755D2C866A.title: "&d&l終界魔法"
+	quest.0F8B349EBC9110D6.quest_desc: ["這招超中二：先做個避雷針跟充能核心。 \\n\\n等到打雷的時候，把核心塞進避雷針，一道雷劈下來，你就得到了「雷霆法杖」！ \\n\\n雖然基礎法強降低了，但它會大幅強化你的雷電法術。這就是雷神索爾的感覺。"]
+	quest.0F8B349EBC9110D6.title: "&5雷霆法杖"
+	quest.12498F8B5740F66E.quest_desc: ["&b法師套裝&r 是這模組最基礎的制服。 \\n\\n以後所有的神裝都是從這件開始搓的。它只需要祕法布料，數值跟鑽石裝差不多，但加魔力。"]
+	quest.12498F8B5740F66E.title: "&b法師制服"
+	quest.1338EED4F26F3EFF.quest_desc: ["&3破法者 (Spellbreaker)&r 是把很貴的劍。 \\n\\n它有一個內建技能：反制法術。如果對方想對你噴火或射冰，按下去直接讓牠沈默。這是對付法師 Boss 的神兵利器。"]
+	quest.1338EED4F26F3EFF.title: "&3破法者 (沈默之劍)"
+	quest.13F77C38AC015E9F.quest_desc: [
+		"高聳入雲的 &b雪山高塔&r。光是靠近就能感受到一股寒氣。 \\n\\n裡面住著冰霜法師。記得去地下室找找看，那裡通常藏著更變態的東西。 \\n\\n高塔裡有一堆銘文台跟紫水晶，洗劫時別客氣。"
+		"{image:atm:textures/questpics/iron_spells/spells_mountaintower.png width:200 height:100 align:center}"
+	]
+	quest.13F77C38AC015E9F.title: "&b雪山高塔"
+	quest.161477ABCC437BD2.quest_desc: ["&b北境之刃&r 是一把冷到不行的帥劍。 \\n\\n用冰毒、祕銀跟武器零件合成。它打人超痛（16 顆心！），但揮起來像斧頭一樣慢。 \\n\\n內建「凍傷」法術，能讓敵人體會到什麼叫絕對零度。"]
+	quest.161477ABCC437BD2.title: "&b北境之刃"
+	quest.19542103E042BDB5.title: "&d影行者套裝"
+	quest.19B057DFF331E41C.quest_desc: ["&4稻草人套裝&r 比流浪法師強一點。魔力多三倍，還加防。 \\n\\n但你需要一堆乾草塊跟南瓜來搓。穿上去後，你就是田野裡的守護神。"]
+	quest.19B057DFF331E41C.title: "&4稻草人套裝"
+	quest.1A0368CB49B8CBFF.quest_desc: ["這本咒語書是從烈焰使者身上噴出來的。 \\n\\n它會強化所有的火系法術，還有 10 個法術槽位。這就是你的防火手冊。"]
+	quest.1A0368CB49B8CBFF.quest_subtitle: "燙！燙！燙！"
+	quest.1A0368CB49B8CBFF.title: "&c烈焰使者教戰手冊"
+	quest.1BE69992D2C5085B.quest_desc: ["&a&l召喚系&r 魔法就是喚魔者的那一套。 \\n\\n召喚地刺、召喚惱鬼，總之就是叫一堆小弟出來圍毆別人。 \\n\\n核心材料：&a綠寶石&r。卷軸是白色配黑色文字。"]
+	quest.1BE69992D2C5085B.title: "&a&l召喚魔法"
+	quest.1CAEC4C273EDDB99.quest_desc: ["到處都有這本爛書！腐爛味超重。 \\n\\n雖然能裝 8 個法術，但會降低你的法術抗性。適合給不怕死的學徒用。"]
+	quest.1CAEC4C273EDDB99.title: "腐爛的咒語書"
+	quest.204B969DA081056A.quest_desc: ["這些死靈法師會隨機生在野外。 \\n\\n牠們會在地上下地刺，還會丟雪球跟召喚殭屍。雖然不是 Boss，但一群圍上來也是很煩。殺了牠們會掉祕法精華。"]
+	quest.204B969DA081056A.title: "野外死靈法師"
+	quest.24150DE600C2D761.quest_desc: ["這魔法直接把遊戲等級拉到限制級。 &4&l血系&r 魔法就是用對方的血來補自己的血。 \\n\\n核心材料：&4血瓶&r（把怪丟進大釜煮出來的液體，真香）。 \\n\\n卷軸是棕色配暗紅色文字。"]
+	quest.24150DE600C2D761.title: "&4&l血魔法"
+	quest.24BAC1C0392E950E.title: "&6牧師套裝"
+	quest.258B4890CF13D199.quest_desc: ["&a獵法者&r 是一把專門殺法師的劍。 \\n\\n你得去喚魔者要塞的二樓找那個衛道士單挑才能搶到。 \\n\\n它會提供額外的法術抗性，幫你對抗那些煩人的火球跟冰塊。"]
+	quest.258B4890CF199.title: "&a獵法者"
+	quest.25F79B40579B3909.quest_desc: ["這是古代騎士愛用的長劍。 \\n\\n看起來像獄髓劍，但劍身有點歪歪扭扭的。打人很痛，但揮起來慢半拍。"]
+	quest.25F79B40579B3909.title: "&5舊式斬劍"
+	quest.2664373E8977E7BE.quest_desc: ["沒人比吸血鬼更懂血！ \\n\\n這本書要用祕法錠跟血染羊皮紙合成。它會強化「鮮血斬擊」跟「鮮血步」，讓你在戰場上像個吸血鬼一樣閃來閃去。"]
+	quest.2664373E8977E7BE.title: "&4吸血鬼咒語書"
+	quest.27CF1A2587321A2C.quest_desc: ["最強咒語書！15 個槽位！ \\n\\n這玩意兒要用 ATM 礦石加一堆樣板才能搓出來。做出來後你就是全服法術最多的男人。"]
+	quest.27CF1A2587321A2C.title: "&5難得錠&r 咒語書"
+	quest.294418130521FDF4.quest_desc: ["&b祕銀&r 躲在世界的最深處（Y-40 附近）。 \\n\\n那邊滿地都是岩漿，記得帶好水桶。你需要獄髓搞頭才能挖動它。這可是做高級法師裝的關鍵原料。"]
+	quest.294418130521FDF4.title: "挖掘祕銀"
+	quest.29605960803BE885.quest_desc: ["&d紫水晶細劍&r 便宜又好用。 \\n\\n它的攻速極快，內建「回聲打擊」法術。按 V 鍵啟動後，你戳怪的時候會產生震盪波，把周圍的怪一起震飛。"]
+	quest.29605960803BE885.title: "&d紫水晶細劍"
+	quest.29BDCF3C1B11B4C6.quest_desc: ["&6火焰金屬法杖&r 是目前的傷害之王。 \\n\\n雖然很難搓（要去要塞開保險箱拿材料），但它加了爆多的火系傷害跟減冷卻。火法師必備。"]
+	quest.29BDCF3C1B11B4C6.title: "&6火焰金屬法杖"
+	quest.2A787B99A8B0C767.quest_desc: ["法師的標配家具！ \\n\\n這台機器用來幫咒語書「插卡」或是「拔卡」。想學新招或是想把廢招拔掉，通通來這裡。"]
+	quest.2A787B99A8B0C767.title: "銘文台"
+	quest.2B901ECF97FFA181.quest_desc: ["當你湊齊古代知識碎片後，就能解鎖 &9怪奇系 (Eldritch)&r 魔法。 \\n\\n這是目前最強大的魔法類別，要用回聲碎片來搓。每份手稿只能用一次，學會後你就是半個邪神了。"]
+	quest.2B901ECF97FFA181.quest_subtitle: "第九階層魔法"
+	quest.2B901ECF97FFA181.title: "&9&l怪奇魔法"
+	quest.2BB910B217DF3A12.title: "&d終界&r 升級寶珠"
+	quest.2D84DA544D7A24FA.quest_desc: ["這任務是由 &6ATM 員工&r 或某個 &2爆肝網友&r 寫的。如果你看得到這行，代表你現在正在窺視開發者的內心世界（編輯模式）。"]
+	quest.2E6F1C8718EB8C66.title: "&4血系&r 升級寶珠"
+	quest.3009018DEC1EC952.quest_desc: ["主世界有 6 種法師建築等著你去拆遷！每一種裡面都住著一位不想被你打擾的 Boss。"]
+	quest.3009018DEC1EC952.title: "&l冒險時間！"
+	quest.300F2E45D185A9A1.quest_desc: ["鋼鐵咒術是一個超好玩的魔法模組。 \\n\\n這一切都跟卷軸、等級、類別有關。別想著用鐵錠跟紅石就能搓出神技，快出門去跟那些法師 Boss 打架，搶牠們的書！"]
+	quest.300F2E45D185A9A1.title: "鋼鐵咒術與咒語書"
+	quest.30B7AF815D9D7553.quest_desc: [
+		"&c焦黑高塔&r 是火焰法師的家。如果你看到塔尖冒煙，代表 Boss 在家。 \\n\\n去地下室找找看，火焰法師通常喜歡在那邊燒東西（或是燒你）。"
+		"{image:atm:textures/questpics/iron_spells/spells_pyromancertower.png width:200 height:100 align:center}"
+	]
+	quest.30B7AF815D9D7553.title: "&c焦黑高塔"
+	quest.32D2CE292E088939.title: "&c火焰&r 升級寶珠"
+	quest.34FC02F47F52887F.quest_desc: ["這本書要用冰毒、祕銀跟一堆稀有布料合成。 \\n\\n它有 12 個槽位，而且對冰系法術有加成。拿著它，你就是這個冬天的國王。"]
+	quest.34FC02F47F52887F.title: "&b霜刻咒語書"
+	quest.36B283532D70776A.quest_desc: ["&a神速之靴&r 是這模組最香的裝飾品。 \\n\\n它不只加魔力，還能讓你跑得更快、施法速度也更快。天下武功，唯快不破！"]
+	quest.36B283532D70776A.title: "&a神速之靴"
+	quest.36F87173D8CD1D68.quest_desc: ["跟雷神索爾一樣玩閃電！ &5&l雷電系&r 魔法能麻痺敵人或是召喚天雷。 \\n\\n核心材料：&5瓶裝閃電&r（拿空瓶對著被雷劈過的苦力怕點右鍵，祝你好運）。 \\n\\n卷軸是灰色配淺藍色文字。"]
+	quest.36F87173D8CD1D68.title: "&5&l雷電魔法"
+	quest.373EBEB2E96D9361.quest_desc: ["雪山 Biome 裡有種看起來像廢棄教堂的地方。 \\n\\n下去地下室你會看到一堆冰蜘蛛卵。敲破它們，蜘蛛女王就會跳出來找你算帳。"]
+	quest.373EBEB2E96D9361.title: "&b冰蜘蛛巢穴"
+	quest.395A33977B18B9AD.quest_desc: [
+		"如果你看到一堆盔甲疊在地上，千萬別亂動。 \\n\\n那是古代騎士的化身。牠們有 60 滴血，會拿著劍瘋狂衝撞。殺了牠們可以拿到祕法精華跟一些舊零件。"
+		"{image:atm:textures/questpics/iron_spells/spells_knight.png width:100 height:150 align:center}"
+	]
+	quest.395A33977B18B9AD.title: "&5&l古代騎士"
+	quest.3A85110725E81CDF.quest_desc: ["這裡的防具不只擋傷害，還能幫你加法強、魔力跟元素屬性。穿得越像法師，你就越強。"]
+	quest.3A85110725E81CDF.title: "&l魔法防具"
+	quest.3DCD38634176BD92.title: "&3震動錠&r 咒語書"
+	quest.3E8077AB45C79E6A.quest_desc: [
+		"這才是鍊金術師該用的大鍋！ \\n\\n它可以煮血、升級藥水，甚至能把 4 個低級墨水合成 1 個高級墨水。比原版那個只能裝水的廢物強多了。"
+	]
+	quest.3E8077AB45C79E6A.title: "鍊金大釜"
+	quest.401BB95B740385B7.title: "&6神聖&r 升級寶珠"
+	quest.4104ABDC0E577350.title: "&2自然&r 升級寶珠"
+	quest.420CB9502DF8E1BC.quest_desc: ["冰蜘蛛女王會把你噴成冰棒。 \\n\\n牠會噴冰繭把你定住，或是召喚地刺冰塊。殺了牠拿冰毒去搓那把帥劍吧。"]
+	quest.420CB9502DF8E1BC.title: "&b&l冰蜘蛛女王"
+	quest.4407BD7B5F033765.quest_desc: ["這本書要用附魔書來搓。它加魔力很多，算是中後期的好夥伴。"]
+	quest.4407BD7B5F033765.title: "附魔咒語書"
+	quest.445C21949ADA1FE3.title: "&6始源錠&r 咒語書"
+	quest.44E8D5DAD7E22724.quest_desc: ["這就是把法師制服拿去貼獄髓。防禦力變強了，但法術加成竟然沒變... 果然法師還是要靠腦袋不是靠殼。"]
+	quest.44E8D5DAD7E22724.title: "&c獄髓戰法師套裝"
+	quest.4567A27C53A01903.quest_desc: [
+		"&c&l泰羅斯之影&r 是你遇到的第一個硬骨頭。 \\n\\n牠有 1000 滴血，還會召喚古代騎士來圍毆你。 \\n\\n牠會用大鐮刀噴火波、丟火球、召喚火劍。血量低於 300 會進入狂暴模式。打死牠搶走牠的鐮刀，這才是真正的男人浪漫。"
+		"{image:atm:textures/questpics/iron_spells/spells_echo.png width:125 height:100 align:center}"
+	]
+	quest.4567A27C53A01903.title: "&c&l泰羅斯之影 (初代傳火者)"
+	quest.489833A2A6C39151.title: "&b冰霜法師套裝"
+	quest.48C68664319B0294.quest_desc: ["殺死亡靈之王才能拿到的神書。 \\n\\n內建四個強力血系法術，雖然不能拔，但這幾招本來就很強。"]
+	quest.48C68664319B0294.title: "亡靈之書 (Necronomicon)"
+	quest.4CCA1E2AAA9AB9D9.title: "&5雷電法師套裝"
+	quest.4E3355FDCB65BB63.quest_desc: ["喚魔者的咒語書。內建地刺跟惱鬼群，適合喜歡躲在後面叫小弟的玩家。"]
+	quest.4E3355FDCB65BB63.title: "&a召喚大典"
+	quest.541446863A72B96C.title: "&7普通級&r 墨水"
+	quest.548F85EE6B6F1811.quest_desc: ["這位豬人藥劑師很友善，只要你不手賤打牠。 \\n\\n你可以跟牠換藥水或自然卷軸。如果你真的要打牠，準備好面對一堆負面效果藥水吧。"]
+	quest.548F85EE6B6F1811.title: "&2&l藥劑師"
+	quest.551A4916F032ACCF.quest_desc: ["這台鐵砧能幹的事情太多了： \\n- 升級法術等級。 \\n- 把法術灌進劍裡。 \\n- 幫戒子加屬性。 \\n簡直是法師的 3C 維修中心。"]
+	quest.551A4916F032ACCF.title: "祕法鐵砧"
+	quest.555ED1E39131D91B.quest_desc: ["冰霜法師脾氣很差，看到人就噴冰塊。 \\n\\n牠還會拿無辜的小動物當祭品來增強法力，簡直是冷酷無情。打死牠拿點冰之符文吧。"]
+	quest.555ED1E39131D91B.title: "&b&l冰霜法師"
+	quest.59E68086A8B99EA7.quest_desc: ["火焰法師也滿友善的，只要你別靠太近被燒到。 \\n\\n牠可以跟你交易火系物品跟墨水。打架的話牠會瘋狂丟火球，小心你的頭髮。"]
+	quest.59E68086A8B99EA7.title: "&c&l火焰法師"
+	quest.5B013A3A37D6902B.quest_desc: ["去遠古城市偷寶箱拿古代碎片。這過程很安靜（如果不小心引發驚動就跑吧），但獎勵絕對值得。"]
+	quest.5B013A3A37D6902B.title: "深入地底遺蹟"
+	quest.5DE863C3FB6492BE.title: "&4邪教徒套裝"
+	quest.5ED368C926E5F32C.quest_desc: ["還有個神祕的第九系法術... 雖然大家都忘了它是啥，但聽說藏在遠古城市裡。去尋找那些遺落的記憶吧。"]
+	quest.5ED368C926E5F32C.title: "失落的最終階級..."
+	quest.6046CA1F6AFE2AEA.quest_desc: ["這就是國王手上那一根。傷害超高，還能強化血系法術跟召喚物。拿著它你就是新一代的亡靈之王。"]
+	quest.6046CA1F6AFE2AEA.title: "&4亡靈王法杖"
+	quest.60FAD8BF235E381B.title: "&b稀有級&r 墨水"
+	quest.615C3E012B2DECD3.quest_desc: ["咒語書就是法師的彈夾。 \\n\\n去銘文台把卷軸塞進去，你就能循環施法。別擔心卷軸會不見，它只是被轉錄進書裡了。"]
+	quest.615C3E012B2DECD3.title: "&e咒語書系統"
+	quest.6187837A51BA09DC.quest_desc: ["這模組最大的地城！整座都是黑色石頭。 \\n\\n裡面有一堆古代騎士守著保險箱。頂樓是競技場，準備好大幹一場了嗎？"]
+	quest.6187837A51BA09DC.title: "&c黑石衛城"
+	quest.637C87D8968CD51A.title: "&a不普通級&r 墨水"
+	quest.639531AB27DCD267.quest_desc: ["符文是區分流派的關鍵。 \\n\\n你想玩火、玩冰還是玩召喚？先去弄個對應的符文吧。這就是你的轉職證明。"]
+	quest.639531AB27DCD267.title: "&l魔法流派 (Class)"
+	quest.641888DC7BC40AA9.quest_desc: ["喚魔者的大本營。裡面住著至尊喚魔者跟牠的一堆保鏢。 \\n\\n你要一路過關斬將爬到屋頂，才能跟 Boss 單挑。戰利品非常香喔。"]
+	quest.641888DC7BC40AA9.title: "&a喚魔者要塞"
+	quest.652A14E17DDE97E6.quest_desc: ["用龍皮做的咒語書。12 個槽位，加強終界法術。適合喜歡瞬移來瞬移去的玩家。"]
+	quest.652A14E17DDE97E6.title: "&d龍皮咒語書"
+	quest.660D8AD3EE975340.title: "&b武器零件"
+	quest.66762A4743104157.quest_desc: ["用豬布林皮做的咒語書。雖然只有 8 格，但比那本腐爛的好多了。"]
+	quest.66762A4743104157.title: "學徒咒語書"
+	quest.67308C5DDF4A10D2.quest_desc: ["這就是皮革裝加點魔法粉末。說真的，除了耍帥之外，趕快升級成下一階吧。"]
+	quest.67308C5DDF4A10D2.title: "&9流浪法師套裝"
+	quest.67439337E29A308B.quest_desc: ["比灰鬍子好一點的長杖。加了法強跟減冷卻。也就是說，從路人甲法師升級成路人乙。"]
+	quest.67439337E29A308B.title: "&e工藝長杖"
+	quest.67A587F4BAD76C70.title: "破爛日記 (初始書)"
+	quest.67D40A1A9332C03D.title: "&6傳說級&r 墨水"
+	quest.68B44B9E939F4228.quest_desc: ["要塞的 Boss。會噴煙火、會開盾、還會用風把你吹走。打死牠有機會拿到最強的召喚大典。"]
+	quest.68B44B9E939F4228.title: "&a&l至尊喚魔者"
+	quest.6963EC8A71D66AE3.quest_desc: ["在泥濘的沼澤裡住著一位隱居的藥劑師。 \\n\\n那裡有一堆大釜跟釀造台，如果你想學點自然魔法，去那邊拜訪一下吧。"]
+	quest.6963EC8A71D66AE3.title: "&2沼澤藥劑師小屋"
+	quest.69763C2E2F454A73.quest_desc: ["&c&l火焰系&r 魔法就是放火燒山...我是說燒怪物。 \\n\\n核心材料：&c烈焰棒&r。卷軸是淺紅色配灰色文字。"]
+	quest.69763C2E2F454A73.title: "&c&l火焰魔法"
+	quest.69838E3F12218D68.quest_desc: ["這機器用來搓卷軸。 \\n\\n放墨水決定稀有度，放紙決定載體，放素材決定流派。這才是正統的法術製作流程。"]
+	quest.69838E3F12218D68.title: "卷軸鍛造機"
+	quest.6CE7115DA2B23776.title: "鐵皮日記 (加強版)"
+	quest.6D232F6D8E8DA546.title: "&2瘟疫套裝"
+	quest.6DB5732177AABB87.quest_desc: ["這模組最難的挑戰。深埋地底的迷宮，裡面住著亡靈之王。帶上你最強的法術去挑戰吧！"]
+	quest.6DB5732177AABB87.title: "&4亡靈地下城"
+	quest.6F5F1C525CF08F96.title: "各式法杖、長棍與短杖"
+	quest.71F0E9C36AA02B46.quest_desc: ["想挑戰要塞裡的隱藏 Boss？你需要這枚「焦黑靈魂符文」。 \\n\\n這就像是開門鑰匙，用 Cinder Essence、獄髓殘骸跟回聲碎片搓出來。拿到它，就能在競技場召喚真 Boss 了。"]
+	quest.71F0E9C36AA02B46.title: "&c焦黑靈魂召喚器"
+	quest.7270A37E31A70C91.quest_desc: ["&6&l神聖系&r 魔法是給補師用的。 \\n\\n回血、上 Buff，你是全隊的希望（雖然在 ATM 裡大家通常都單幹）。 \\n\\n核心材料：&6神聖珍珠&r。卷軸是白色配金色文字。"]
+	quest.7270A37E31A70C91.title: "&6&l神聖魔法"
+	quest.72AB70FD8D8FABBF.title: "通往地獄的快速道路"
+	quest.73D6B980D35082A0.quest_desc: ["這任務超麻煩： \\n1. 去要塞找研究書。 \\n2. 找被俘虜的商人幫你翻譯。 \\n3. 拿去給村裡的牧師換。 \\n這本書會大幅強化神聖法術，簡直是魔法界的聖經。"]
+	quest.73D6B980D35082A0.title: "&6村民聖經"
+	quest.7408CCF998D9CD37.quest_desc: ["古代法典。12 個法術槽位，要用血瓶、閃電瓶跟破爛書合成。非常實用。"]
+	quest.7408CCF998D9CD37.title: "古代法典"
+	quest.76558D23A70AFF78.title: "&b冰霜&r 升級寶珠"
+	quest.78AA7BFABBFB9973.title: "&2德魯伊古籍"
+	quest.794D6F9B8DB31E7D.quest_desc: ["用北境之冰跟凍骨合成。 \\n\\n雖然傷害不高，但回魔超快，還加強冰系法術。推薦給喜歡一直噴冰塊的玩家。"]
+	quest.794D6F9B8DB31E7D.title: "&b冰霜法杖"
+	quest.79EC8A49368421BF.quest_desc: ["火焰金屬要從要塞的保險箱拿。 \\n\\n普通的鑰匙打不開喔，你得去殺古代騎士拿到「破舊鑰匙」才行。這就叫黑吃黑。"]
+	quest.79EC8A49368421BF.title: "&6火焰金屬"
+	quest.7C79BCE482A06199.quest_desc: ["&b&l冰霜系&r 魔法讓你體會冬天的惡意。 \\n\\n核心材料：&b凍骨&r（打流浪者掉的）。卷軸是淺藍色配深藍色文字。"]
+	quest.7C79BCE482A06199.title: "&b&l冰霜魔法"
+	quest.7F85669FEA41CD97.quest_desc: ["村莊的保護者。牠會用法術揍怪物，還會幫自己補血。如果你想打牠，準備好面對永無止盡的治療術吧。"]
+	quest.7F85669FEA41CD97.title: "&6&l魔法牧師"
+	quest.7FC54AF87CBDD222.quest_desc: ["古代戰場只剩下斷垣殘壁。 \\n\\n那邊滿地都是盔甲堆，去挖一挖可以拿到不少祕法布料跟祕法錠。這就是所謂的撿現成的。"]
+	quest.7FC54AF87CBDD222.title: "&5古代戰場"
+	task.00C6A5CB44392D7E.title: "不準偷拿 (版權所有)"
+	task.1CC0E97BB8DC4F35.title: "宰了 5 個死靈法師"
+	task.6D7DD99A02A8F451.title: "去深暗之域逛逛"
+	task.76B722B1AE7B6CF2.title: "不準偷拿 (版權所有)"
+}
