@@ -4,33 +4,33 @@
 const $BuiltInRegistries = Java.loadClass("net.minecraft.core.registries.BuiltInRegistries")
 
 StartupEvents.registry('block', allthemods => {
-    allthemods.create('magical_soil').displayName('§bMagical Soil').grassSoundType().mapColor('grass').hardness(0.6);
+    allthemods.create('magical_soil').displayName('魔法土壤').grassSoundType().mapColor('grass').hardness(0.6);
 
-    allthemods.create('air_essence_block').displayName('Air Essence Block').stoneSoundType().mapColor('stone').hardness(0.6).renderType('translucent').notSolid();
-    allthemods.create('earth_essence_block').displayName('Earth Essence Block').stoneSoundType().mapColor('stone').hardness(0.6).renderType('translucent').notSolid();
-    allthemods.create('fire_essence_block').displayName('Fire Essence Block').stoneSoundType().mapColor('stone').hardness(0.6).renderType('translucent').notSolid();
-    allthemods.create('water_essence_block').displayName('Water Essence Block').stoneSoundType().mapColor('stone').hardness(0.6).renderType('translucent').notSolid();
+    allthemods.create('air_essence_block').displayName('空氣精華塊').stoneSoundType().mapColor('stone').hardness(0.6).renderType('translucent').notSolid();
+    allthemods.create('earth_essence_block').displayName('大地精華塊').stoneSoundType().mapColor('stone').hardness(0.6).renderType('translucent').notSolid();
+    allthemods.create('fire_essence_block').displayName('火焰精華塊').stoneSoundType().mapColor('stone').hardness(0.6).renderType('translucent').notSolid();
+    allthemods.create('water_essence_block').displayName('寒冰精華塊').stoneSoundType().mapColor('stone').hardness(0.6).renderType('translucent').notSolid();
 
-    allthemods.create('blaze_powder_block').displayName('Blaze Powder Block').stoneSoundType().mapColor('stone').hardness(1);
+    allthemods.create('blaze_powder_block').displayName('烈焰粉塊').stoneSoundType().mapColor('stone').hardness(1);
     // allthemods.create('blaze_block').displayName('Blaze Block').stoneSoundType().mapColor('stone').hardness(1);
-    allthemods.create('saltpeter_block').displayName('Saltpeter Block').stoneSoundType().mapColor('stone').hardness(1);
+    allthemods.create('saltpeter_block').displayName('硝石塊').stoneSoundType().mapColor('stone').hardness(1);
 })
 
 StartupEvents.registry('item', allthemods => {
     
     if (Platform.isLoaded("eternal_starlight")) {
-        allthemods.create('starlight_prediction').displayName('Generalized Starlight Prediction');
+        allthemods.create('starlight_prediction').displayName('通用星光預測值');
     }
 
-    allthemods.create('silent_allthemodium_plate').displayName('Silent Allthemodium Plate').glow(true);
-    allthemods.create('silent_vibranium_plate').displayName('Silent Vibranium Plate').glow(true);
-    allthemods.create('silent_unobtainium_plate').displayName('Silent Unobtainium Plate').glow(true);
+    allthemods.create('silent_allthemodium_plate').displayName('沈默始源板材').glow(true);
+    allthemods.create('silent_vibranium_plate').displayName('沈默震動板材').glow(true);
+    allthemods.create('silent_unobtainium_plate').displayName('沈默難得板材').glow(true);
 
-    allthemods.create('atm_star_shard_1').displayName('ATM Star Fragment')
-    allthemods.create('atm_star_shard_2').displayName('ATM Star Fragment')
-    allthemods.create('atm_star_shard_3').displayName('ATM Star Fragment')
-    allthemods.create('atm_star_shard_4').displayName('ATM Star Fragment')
-    allthemods.create('atm_star_shard_5').displayName('ATM Star Fragment')
+    allthemods.create('atm_star_shard_1').displayName('ATM 之星碎片')
+    allthemods.create('atm_star_shard_2').displayName('ATM 之星碎片')
+    allthemods.create('atm_star_shard_3').displayName('ATM 之星碎片')
+    allthemods.create('atm_star_shard_4').displayName('ATM 之星碎片')
+    allthemods.create('atm_star_shard_5').displayName('ATM 之星碎片')
     allthemods.create('modularium_plate').color(0xe64200).texture('alltheores:item/iron_plate')
 
     allthemods.create('inferium_enchanting_base').texture('minecraft:item/enchanted_book').color(0x55FF55)
@@ -46,8 +46,8 @@ StartupEvents.registry('item', allthemods => {
 	allthemods.create('ice_eye').use((level, player, hand) => global.iceAndFirePearls(level, player, hand)).texture('kubejs:item/ice_eye')
     allthemods.create('ice_pearl').texture('kubejs:item/ice_pearl')
     
-    allthemods.create("allthemodium_solar_sail_package").displayName("Allthemodium Solar Sail Package").component("dysoncubeproject:sphere_component_solar_sail", Java.cast("java.lang.Integer", 64))
-    allthemods.create("allthemodium_beam_package").displayName("Allthemodium Beam Package").component("dysoncubeproject:sphere_component_beam", Java.cast("java.lang.Integer", 16))
+    allthemods.create("allthemodium_solar_sail_package").displayName("始源太陽帆包裝").component("dysoncubeproject:sphere_component_solar_sail", Java.cast("java.lang.Integer", 64))
+    allthemods.create("allthemodium_beam_package").displayName("始源射線包裝").component("dysoncubeproject:sphere_component_beam", Java.cast("java.lang.Integer", 16))
 
     if (!Platform.isLoaded('modular_machinery_reborn')) {
         allthemods.create('modularium').color(0xe64200).texture('minecraft:item/iron_ingot')
@@ -129,7 +129,7 @@ global.iceAndFirePearls = (/** @type {$ServerLevel_}} */ level, /** @type {$Play
         // console.log(`IceAndFire Pearl event took: ${currentStopwatch.elapsed("milliseconds")} ms`)
         return true
     } else {
-        player.statusMessage = "Dragon or Dragon Roost not found nearby..."
+        player.statusMessage = "附近找不到巨龍或是龍巢... 哭啊"
         // console.log(`IceAndFire Pearl event took: ${currentStopwatch.elapsed("milliseconds")} ms`)
         return false
     }
@@ -138,17 +138,17 @@ global.iceAndFirePearls = (/** @type {$ServerLevel_}} */ level, /** @type {$Play
 StartupEvents.registry('fluid', allthemods => {
     allthemods.create('liquid_souls', 'thin')
         .tint(0xc9eaff)
-        .displayName('Liquid Souls')
+        .displayName('液態靈魂')
         .noBlock()
 
     allthemods.create('unrefined_liquid_souls', 'thin')
         .tint(0xccebff)
-        .displayName('Unrefined Liquid Souls')
+        .displayName('粗製液態靈魂')
         .noBlock()
 
     allthemods.create('liquid_aureal', 'thin')
         .tint(0x7abaff)
-        .displayName('Liquid Aureal')
+        .displayName('液態光輝精華')
         .noBlock()
 })
 

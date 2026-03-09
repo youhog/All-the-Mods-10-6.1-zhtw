@@ -5,53 +5,53 @@ StartupEvents.registry('item', allthemods => {
     allthemods.create('allthemodium_drill')
         .texture('kubejs:item/allthemodium_drill')
         .maxStackSize(64)
-        .displayName('Allthemodium Drill');
+        .displayName('始源鑽頭');
     allthemods.create('allthemodium_drill_head')
         .texture('kubejs:item/allthemodium_drill_head')
         .maxStackSize(64)
-        .displayName('Allthemodium Drill Head');
+        .displayName('始源鑽頭頭');
     allthemods.create('allthemodium_curved_plate')
         .texture('kubejs:item/allthemodium_curved_plate')
         .maxStackSize(64)
-        .displayName('Allthemodium Curved Plate');
+        .displayName('始源彎曲板材');
     allthemods.create('allthemodium_bolt')
         .texture('kubejs:item/allthemodium_bolt')
         .maxStackSize(64)
-        .displayName('Allthemodium Bolt');
+        .displayName('始源螺栓');
         
     allthemods.create('vibranium_drill')
         .texture('kubejs:item/vibranium_drill')
         .maxStackSize(64)
-        .displayName('Vibranium Drill');
+        .displayName('震動鑽頭');
     allthemods.create('vibranium_drill_head')
         .texture('kubejs:item/vibranium_drill_head')
         .maxStackSize(64)
-        .displayName('Vibranium Drill Head');
+        .displayName('震動鑽頭頭');
     allthemods.create('vibranium_curved_plate')
         .texture('kubejs:item/vibranium_curved_plate')
         .maxStackSize(64)
-        .displayName('Vibranium Curved Plate');
+        .displayName('震動彎曲板材');
     allthemods.create('vibranium_bolt')
         .texture('kubejs:item/vibranium_bolt')
         .maxStackSize(64)
-        .displayName('Vibranium Bolt');
+        .displayName('震動螺栓');
             
     allthemods.create('unobtainium_drill')
         .texture('kubejs:item/unobtainium_drill')
         .maxStackSize(64)
-        .displayName('Unobtainium Drill');
+        .displayName('難得鑽頭');
     allthemods.create('unobtainium_drill_head')
         .texture('kubejs:item/unobtainium_drill_head')
         .maxStackSize(64)
-        .displayName('Unobtainium Drill Head');
+        .displayName('難得鑽頭頭');
     allthemods.create('unobtainium_curved_plate')
         .texture('kubejs:item/unobtainium_curved_plate')
         .maxStackSize(64)
-        .displayName('Unobtainium Curved Plate');
+        .displayName('難得彎曲板材');
     allthemods.create('unobtainium_bolt')
         .texture('kubejs:item/unobtainium_bolt')
         .maxStackSize(64)
-        .displayName('Unobtainium Bolt');
+        .displayName('難得螺栓');
 })
 
 // This File has been authored by AllTheMods Staff, or a Community contributor for use in AllTheMods - AllTheMods 10.

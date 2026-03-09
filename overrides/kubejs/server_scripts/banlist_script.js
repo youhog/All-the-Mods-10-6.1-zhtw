@@ -40,7 +40,7 @@ if (!Platform.isClientEnvironment()) {
     let $EntityJoinLevelEvent = Java.loadClass("net.neoforged.neoforge.event.entity.EntityJoinLevelEvent")
     NativeEvents.onEvent($EntityJoinLevelEvent, event => {
       if (bannedEntities.contains(event.entity.type)) {
-        event.level.server.tell(Text.red("Removed banned entity: " + event.entity.type + " at " + event.entity.blockPosition().toShortString()))
+        event.level.server.tell(Text.red("已移除禁用實體： " + event.entity.type + " 位元於 " + event.entity.blockPosition().toShortString()))
         event.setCanceled(true)
       }      
     })
@@ -79,7 +79,7 @@ if (!Platform.isClientEnvironment()) {
 	  let pos
 	  while ((pos = blocksToRemove.poll()) != null) {
 		  addSignToPos(event.level, pos)
-		  event.level.server.tell("Removing banned block entity at " + pos.toShortString())
+		  event.level.server.tell("正在移除禁用的方塊實體： " + pos.toShortString())
 	  }
     })
 	LevelEvents.unloaded(event => {
@@ -91,7 +91,7 @@ if (!Platform.isClientEnvironment()) {
 function sendMessageAndCancel(/** @type {$ItemClickedKubeEvent_} */event, type) {
   switch (type) {
     case "item":
-      event.player.setStatusMessage(Text.red("This server does not allow you to use this item!"))
+      event.player.setStatusMessage(Text.red("這伺服器禁用這個物品啦！別想偷渡！"))
       event.cancel()
       break
     default:
@@ -133,6 +133,6 @@ let addSignToPos = (/** @type {$ServerLevel_} */level, /** @type {$BlockPos_} */
   let oakSignBlockEntity = level.getBlockEntity(pos)
   let namespace = `'${beRL.split(":")[0]}:'`
   let path = beRL.split(":")[1]
-  let nbt = {is_waxed: 1, front_text: {has_glowing_text: 1, color: "black", messages: [namespace, path, '"is banned on this"', "server"]}}
+  let nbt = {is_waxed: 1, front_text: {has_glowing_text: 1, color: "black", messages: [namespace, path, '"在該伺服器"', "已被禁用"]}}
   oakSignBlockEntity.loadWithComponents(nbt, level.registryAccess())  
 }
