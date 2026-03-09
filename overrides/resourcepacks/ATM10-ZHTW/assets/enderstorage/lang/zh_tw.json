@@ -1,0 +1,4 @@
+{
+    "enderstorage.serverop": "操作者",
+    "enderstorage.command.usage": "enderstorage <freq>|(<颜色> <颜色> <颜色>) [持有人]"
+}

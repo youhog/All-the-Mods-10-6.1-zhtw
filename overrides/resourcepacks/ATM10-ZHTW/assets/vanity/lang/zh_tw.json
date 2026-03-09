@@ -1,0 +1,20 @@
+{
+    "block.vanity.styling_table": "造型台",
+    "container.vanity.styling_table": "造型台",
+    "screen.vanity.styling_table.styling": "為物品造型",
+    "screen.vanity.styling_table.design": "設计藝術仓库",
+    "screen.vanity.styling_table.original": "移除造型",
+    "screen.vanity.styling_table.auto_rotate": "自動旋轉",
+    "screen.vanity.styling_table.storage.tooltip": "此仓库只接受設计藝術",
+    "entity.minecraft.villager.stylist": "造型师",
+    "entity.minecraft.villager.vanity.stylist": "造型师",
+    "item.vanity.design": "設计藝術",
+    "itemGroup.vanity.designs": "Vanity丨設计藝術",
+    "subtitles.ui.vanity.styling_table.take_result": "造型台：使用",
+    "subtitles.item.vanity.design.open": "設计藝術：打开",
+    "text.vanity.design.fail": "你已经拥有了此設计藝術",
+    "gamerule.vanityUnlockableDesigns": "設计藝術可解鎖",
+    "gamerule.vanityLockDesignStorage": "鎖定設计藝術仓库",
+    "jei.vanity.designs": "設计藝術",
+    "jei.vanity.designs.always_available": "一直可用"
+}

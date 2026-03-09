@@ -1,0 +1,6 @@
+{
+    "itemGroup.create_cobblestone": "機械動力：造石機",
+    "block.createcobblestone.mechanical_generator": "動力造石機",
+    "block.createcobblestone.generators.hovertext.itemprefix": "生產： ",
+    "block.createcobblestone.generators.hovertext.no_item": "拿一種石材對造石機右击以設置造石種類。"
+}

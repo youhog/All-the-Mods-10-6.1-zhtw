@@ -1,0 +1,15 @@
+{
+    "block.filteredchests.small": "小型滤物箱",
+    "block.filteredchests.normal": "滤物箱",
+    "block.filteredchests.medium": "鐵滤物箱",
+    "block.filteredchests.large": "金滤物箱",
+    "block.filteredchests.huge": "鑽石滤物箱",
+    "title.filteredchests.filter": "過滤器",
+    "button.filteredchests.blacklist": "黑名單",
+    "button.filteredchests.whitelist": "白名單",
+    "button.filteredchests.locked": "過滤器已鎖定",
+    "button.filteredchests.unlocked": "過滤器已解鎖",
+    "button.filteredchests.item_filter_type": "物品",
+    "button.filteredchests.stack_filter_type": "NBT",
+    "button.filteredchests.group_filter_type": "创造模式標簽页"
+}

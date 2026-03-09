@@ -1,0 +1,21 @@
+{
+    "item.gildednetherite.golden_core": "黃金核心",
+    "item.gildednetherite.gilded_netherite_helmet": "镶金下界合金頭盔",
+    "item.gildednetherite.gilded_netherite_chestplate": "镶金下界合金胸甲",
+    "item.gildednetherite.gilded_netherite_leggings": "镶金下界合金護腿",
+    "item.gildednetherite.gilded_netherite_boots": "镶金下界合金靴子",
+    "item.gildednetherite.gilded_netherite_sword": "镶金下界合金剑",
+    "item.gildednetherite.gilded_netherite_pickaxe": "镶金下界合金鎬",
+    "item.gildednetherite.gilded_netherite_axe": "镶金下界合金斧",
+    "item.gildednetherite.gilded_netherite_shovel": "镶金下界合金鍬",
+    "item.gildednetherite.gilded_netherite_hoe": "镶金下界合金锄",
+    "advancements.nether.gildednetherite.obtain_golden_core.title": "也许他们喜歡我裝甲上的纹飾？",
+    "advancements.nether.gildednetherite.obtain_golden_core.description": "获得黃金核心",
+    "advancements.nether.gildednetherite.gilded_netherite_armor.title": "新朋友！",
+    "advancements.nether.gildednetherite.gilded_netherite_armor.description": "获得一套完整的镶金下界合金護甲",
+    "advancements.husbandry.gildednetherite.obtain_gilded_netherite_hoe.title": "頂級奉献",
+    "advancements.husbandry.gildednetherite.obtain_gilded_netherite_hoe.description": "好吧, 當你能做到的時候！？",
+    "tooltip.gildednetherite.golden_core_from_piglin": "与猪灵交易来获得它",
+    "tooltip.gildednetherite.golden_core_from_nether_chests": "从下界箱子中获得它",
+    "tooltip.gildednetherite.gilded_netherite_armor": "猪灵將不會主動攻击你"
+}

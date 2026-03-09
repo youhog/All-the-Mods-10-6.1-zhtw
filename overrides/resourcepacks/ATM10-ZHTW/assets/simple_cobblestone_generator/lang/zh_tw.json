@@ -1,0 +1,9 @@
+{
+    "block.simple_cobblestone_generator.wooden_cobblestone_generator": "木造石機",
+    "itemGroup.tabsimple_cobblestone_generator": "簡易造石機",
+    "block.simple_cobblestone_generator.iron_cobblestone_generator": "鐵造石機",
+    "block.simple_cobblestone_generator.gold_cobblestone_generator": "金造石機",
+    "block.simple_cobblestone_generator.diamond_cobblestone_generator": "鑽石造石機",
+    "block.simple_cobblestone_generator.emerald_cobblestone_generator": "绿宝石造石機",
+    "block.simple_cobblestone_generator.netherite_cobblestone_generator": "下界合金造石機"
+}
