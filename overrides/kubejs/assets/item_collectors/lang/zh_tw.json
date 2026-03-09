@@ -1,0 +1,17 @@
+{
+    "gui.itemcollectors.advanced_collector.durability.off": "忽略NBT",
+    "gui.itemcollectors.advanced_collector.durability.on": "匹配NBT",
+    "gui.itemcollectors.advanced_collector.filter": "過滤",
+    "gui.itemcollectors.advanced_collector.show_area.off": "隱藏範围",
+    "gui.itemcollectors.advanced_collector.show_area.on": "顯示範围",
+    "gui.itemcollectors.advanced_collector.whitelist.off": "黑名單",
+    "gui.itemcollectors.advanced_collector.whitelist.on": "白名單",
+    "gui.itemcollectors.basic_collector.range": "範围 ($numberx$x$numbery$x$numberz$)",
+    "gui.itemcollectors.basic_collector.range.decrease": "缩小範围",
+    "gui.itemcollectors.basic_collector.range.increase": "扩大範围",
+    "itemcollectors.advanced_collector.info": "可拾取周围的物品,可過滤物品",
+    "itemcollectors.basic_collector.info": "可拾取周围的物品",
+    "itemcollectors.basic_collector.info.range": "範围:%s格",
+    "itemcollectors.block.advanced_collector": "高級物品收集器",
+    "itemcollectors.block.basic_collector": "基礎物品收集器"
+}

@@ -1,0 +1,9 @@
+{
+    "item.mob_bottle.tooltip_empty": "用玻璃瓶右击被缩放的实體以捕捉它",
+    "item.shrink.mob_bottle": "玻璃瓶",
+    "item.shrink.shrinking_device": "個人缩放裝置",
+    "itemGroup.shrink": "缩放",
+    "key.shrink.category": "缩放",
+    "key.shrink.shrink": "切换缩放模式",
+    "shrink.deny_shrink": "對实體的缩放因拒绝標簽被阻止"
+}

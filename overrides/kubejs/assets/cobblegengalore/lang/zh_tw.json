@@ -1,0 +1,12 @@
+{
+    "block_gen.tooltip": "速度修飾符:%s",
+    "block.cobblegengalore.block_gen_copper": "銅質方块制造機",
+    "block.cobblegengalore.block_gen_diamond": "鑽石方块制造機",
+    "block.cobblegengalore.block_gen_emerald": "绿宝石方块制造機",
+    "block.cobblegengalore.block_gen_gold": "金質方块制造機",
+    "block.cobblegengalore.block_gen_iron": "鐵質方块制造機",
+    "block.cobblegengalore.block_gen_netherite": "下界合金方块制造機",
+    "block.cobblegengalore.block_gen_stone": "石質方块制造機",
+    "jei.cobblegengalore.blockgen": "方块制造機",
+    "jei.cobblegengalore.consumed": "源方块會被消耗"
+}
