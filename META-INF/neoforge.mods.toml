@@ -1,0 +1,13 @@
+modLoader="javafml"
+loaderVersion="[2,)"
+license="All Rights Reserved"
+
+[[mods]]
+modId="atm10_zhtw_patch"
+version="1.0.0"
+displayName="ATM10 北爛化繁體中文補丁"
+description='''
+這是一個將 All the Mods 10 翻譯為具有台灣在地特色、北爛且口語化繁體中文的補丁。
+包含核心模組介面與 FTB Quests 任務書。
+'''
+authors="Gemini CLI & Community"
