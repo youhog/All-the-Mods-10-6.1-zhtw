@@ -1,0 +1,62 @@
+name: ATM-10 翻譯自動打包工具
+
+# 觸發條件
+on:
+  push:
+    branches: [ "main" ]  # 當你推送到 main 分支時觸發
+    tags: [ "v*" ]        # 當你推送版本號標籤 (如 v1.0) 時觸發
+  workflow_dispatch:       # 允許你在 GitHub 網頁上手動點擊執行
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    # 給予寫入權限，以便自動建立 Release
+    permissions:
+      contents: write
+
+    steps:
+      - name: 1. 檢出程式碼 (Checkout)
+        uses: actions/checkout@v4
+
+      - name: 2. JSON 格式深度檢查
+        run: |
+          echo "🔍 正在檢查 assets 資料夾下的所有 JSON 翻譯檔..."
+          # 找出所有 .json 並驗證其格式，若有錯會直接停止打包並噴出錯誤行號
+          find assets -name "*.json" -type f -exec python3 -m json.tool {} + > /dev/null
+          if [ $? -eq 0 ]; then
+            echo "✅ 語法檢查通過！"
+          else
+            echo "❌ JSON 語法錯誤！請檢查是否有漏掉逗號或括號。"
+            exit 1
+          fi
+
+      - name: 3. 獲取目前日期 (用於命名)
+        id: date
+        run: echo "today=$(date +'%Y%m%d')" >> $GITHUB_OUTPUT
+
+      - name: 4. 打包成 .jar 檔案
+        run: |
+          # 檔案名稱：ATM10_CHT_日期.jar
+          # 打包範圍：assets 資料夾、pack.mcmeta
+          # 排除範圍：所有 git 隱藏檔、workflows 腳本、README 等
+          zip -r "ATM10-CHT-Package-${{ steps.date.outputs.today }}.jar" assets/ pack.mcmeta -x "*.git*" ".github/*" "README.md" ".gitignore"
+
+      - name: 5. 上傳成品至 Actions Artifacts (供臨時下載)
+        uses: actions/upload-artifact@v4
+        with:
+          name: ATM10-Chinese-Mod-Jar
+          path: "ATM10-CHT-Package-${{ steps.date.outputs.today }}.jar"
+          retention-days: 7
+
+      - name: 6. 自動建立 GitHub Release (僅在推送 Tag 時執行)
+        if: startsWith(github.ref, 'refs/tags/v')
+        uses: softprops/action-gh-release@v2
+        with:
+          files: "ATM10-CHT-Package-${{ steps.date.outputs.today }}.jar"
+          body: |
+             ## ATM-10 繁體中文翻譯包更新
+             - 自動打包日期: ${{ steps.date.outputs.today }}
+             - 相容版本: AllTheMods 10 (Minecraft 1.21.1)
+             - 使用方法: 將 .jar 放入 `mods` 資料夾即可。
+          draft: false
+          prerelease: false
