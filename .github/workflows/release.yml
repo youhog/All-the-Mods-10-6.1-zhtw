@@ -29,7 +29,8 @@ jobs:
           echo "🔍 檢查 SNBT 任務檔是否完整..."
           # 檢查引號是否成對 (簡單的防斷頭檢查)
           find overrides/config/ftbquests/quests/lang/zh_tw -name "*.snbt" -type f | while read file; do
-            if [[ $(grep -o '"' "$file" | wc -l) % 2 -ne 0 ]]; then
+            COUNT=$(grep -o '"' "$file" | wc -l)
+            if (( COUNT % 2 != 0 )); then
               echo "❌ $file 發現引號未閉合，可能翻譯內容被截斷！"
               exit 1
             fi
