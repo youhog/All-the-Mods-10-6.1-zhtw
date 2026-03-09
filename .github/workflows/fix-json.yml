@@ -1,0 +1,38 @@
+name: 自動修復翻譯語法 (JSON/SNBT)
+
+on:
+  workflow_dispatch: # 允許手動觸發
+  push:
+    paths:
+      - 'overrides/kubejs/assets/**/zh_tw.json'
+      - 'overrides/config/ftbquests/quests/lang/zh_tw/**/*.snbt'
+
+permissions:
+  contents: write
+
+jobs:
+  fix:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 檢出程式碼
+        uses: actions/checkout@v4
+
+      - name: 設定 Python
+        uses: actions/setup-python@v5
+        with:
+          python-python-version: '3.x'
+
+      - name: 執行修復腳本
+        run: python fix_translations.py
+
+      - name: 檢查變更並提交
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add .
+          if git diff --staged --quiet; then
+            echo "沒有需要修復的檔案。"
+          else
+            git commit -m "Auto-fix: Translation syntax (JSON/SNBT)"
+            git push
+          fi
