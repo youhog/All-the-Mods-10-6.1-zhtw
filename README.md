@@ -2,8 +2,8 @@
 
 <div align="center">
 
-![GitHub Release](https://img.shields.io/github/v/release/youhog/All-the-Mods-10-6.1-zhtw?style=for-the-badge&color=blue)
-![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/youhog/All-the-Mods-10-6.1-zhtw/release.yml?style=for-the-badge&label=Build%20Status)
+![GitHub Release](https://img.shields.io/github/v/tag/youhog/All-the-Mods-10-6.1-zhtw?label=Latest%20Version&style=for-the-badge&color=blue&sort=semver)
+![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/youhog/All-the-Mods-10-6.1-zhtw/release.yml?branch=main&style=for-the-badge&label=Build%20Status)
 ![Minecraft Version](https://img.shields.io/badge/Minecraft-1.21.1-brightgreen?style=for-the-badge&logo=minecraft)
 ![Modloader](https://img.shields.io/badge/Modloader-NeoForge-informational?style=for-the-badge)
 
