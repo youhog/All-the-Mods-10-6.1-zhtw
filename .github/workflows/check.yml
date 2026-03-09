@@ -14,7 +14,6 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-
       - name: 檢出程式碼
         uses: actions/checkout@v4
 
@@ -26,52 +25,53 @@ jobs:
       - name: 檢查 JSON 語法
         run: |
           echo "檢查 JSON 語法"
-          find overrides -name "*.json" -print -exec python3 -m json.tool {} > /dev/null \;
+          find overrides -name "*.json" -exec python3 -m json.tool {} > /dev/null \;
 
       - name: 檢查翻譯缺失
         run: |
-          python3 << 'EOF'
+          python3 - <<PY
 import json, os, sys
 
-missing=False
+missing = False
 
-for root,dirs,files in os.walk("overrides"):
+for root, dirs, files in os.walk("overrides"):
     for f in files:
         if f.endswith(".json"):
-            p=os.path.join(root,f)
+            p = os.path.join(root, f)
 
-            data=json.load(open(p))
+            with open(p, encoding="utf-8") as file:
+                data = json.load(file)
 
-            for k,v in data.items():
-                if isinstance(v,str) and v.strip()=="":
+            for k, v in data.items():
+                if isinstance(v, str) and v.strip() == "":
                     print(f"缺少翻譯 {p} -> {k}")
-                    missing=True
+                    missing = True
 
 if missing:
     sys.exit(1)
-EOF
+PY
 
       - name: JSON 排序
         run: |
-          python3 << 'EOF'
+          python3 - <<PY
 import json, os
 
-for root,dirs,files in os.walk("overrides"):
+for root, dirs, files in os.walk("overrides"):
     for f in files:
         if f.endswith(".json"):
-            p=os.path.join(root,f)
+            p = os.path.join(root, f)
 
-            with open(p) as file:
-                data=json.load(file)
+            with open(p, encoding="utf-8") as file:
+                data = json.load(file)
 
-            with open(p,"w") as file:
-                json.dump(data,file,indent=2,ensure_ascii=False,sort_keys=True)
+            with open(p, "w", encoding="utf-8") as file:
+                json.dump(data, file, indent=2, ensure_ascii=False, sort_keys=True)
                 file.write("\n")
-EOF
+PY
 
       - name: 翻譯完成度統計
         run: |
-          TOTAL=$(grep -roh '"' overrides | wc -l)
+          TOTAL=$(grep -roh ':' overrides | wc -l)
           EMPTY=$(grep -roh '": ""' overrides | wc -l)
 
           DONE=$((TOTAL-EMPTY))
