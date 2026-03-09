@@ -1,0 +1,106 @@
+{
+	quest.00C95A190BE2CBF9.quest_desc: ["想弄到 &#994ABA苯乙烯&r？你得拿鐵粉跟乙苯加蒸汽來反應。乙苯則是從石腦油蒸餾出來的。化學連鎖反應，真香。"]
+	quest.00C95A190BE2CBF9.title: "高級蒸餾技術"
+	quest.011B8BD02D80DDD4.quest_desc: ["鎢礦到處都是。挖掉它，拿到原鎢。這是通往終局的關鍵。"]
+	quest.024BD22824C7F53A.quest_desc: ["蒸餾蒸汽裂解石腦油可以得到甲苯。這可是做工業 TNT 的好東西。"]
+	quest.09BE81548CD81068.quest_desc: ["恭喜！你終於開始接觸製作 &#FFEB6EATM 之星&r 的零件了！離當神不遠了（大概還要幾百個小時）。"]
+	quest.0B60DA8F65E5DF06.quest_desc: ["把原鎢磨成粉。這步驟很基本，不多說了。"]
+	quest.0C229BE9B57269EF.quest_desc: ["&#EBA844康泰爾 (Kanthal)&r 粉一定要在電力高爐裡燒。這合金耐熱度一流。"]
+	quest.0CD36928116E868E.quest_desc: ["氯乙烯加點鉛或鉻碎粉，變成了 &#F36EF5PVC&r。現在你可以做各種高級塑料了。"]
+	quest.0EA327E405EDFF02.quest_desc: ["乙炔加鹽酸變氯乙烯。這化學課還沒下課喔。"]
+	quest.1A83615B7E1D3540.quest_desc: ["把水丟進裝了燃料的 &#45BF56反應爐&r，你會得到 &#8F49C4氘&r。反應爐是目前最快的方法，別想用手摳。"]
+	quest.226187AA3F1B6DB1.quest_desc: ["沙子、打火石、氮氣加甲苯... 砰！&#D66D40工業級 TNT&r 完工。威力驚人，請小心服用。"]
+	quest.22B8D57337944D9C.quest_desc: ["&#DF9DE0鈦金屬&r 燒完一樣很燙。丟進真空冷凍機，把它變成能用的狀態吧。"]
+	quest.22B8D57337944D9C.title: "&#F069F0鈦錠"
+	quest.23DB52ECA259F36D.quest_desc: [
+		"重水在反應爐裡會變成 &#EB5266氚&r 跟重水蒸汽。"
+		""
+		"氚可以用來做高級零件，重水蒸汽則可以用熱交換器回收成重水。這就是永續經營。"
+	]
+	quest.267A357B28228694.quest_desc: ["&#4DB85E記憶體 (RAM)&r 是在化學反應爐裡搓出來的。材料有：丁苯橡膠、氬氣、銻粉、鋁粉跟矽晶圓。材料越複雜，科技感越重。"]
+	quest.282A23C3E7561796.quest_desc: [
+		"&#94C0E3處理陣列&r 是一個巨大的多方塊結構，讓你「模擬」多台機器同時跑。最大平行數量是 &#94E3A264 台&r！"
+		""
+		"先在控制器介面選好你要模擬的數量。"
+		""
+		"{image:atm:textures/questpics/modernindustrialization/proc_array_gui.png width:175 height:100 align:center}"
+		""
+		"{@pagebreak}"
+		"然後把你想模擬的「機器本身」塞進右邊的格子。你有幾台機器，就能跑幾倍速。"
+		""
+		"它也支援各種升級模組喔。這才是真正的工業自動化。"
+	]
+	quest.2A95F4F998835B43.quest_subtitle: "9 粒 -> 1 錠"
+	quest.3003598CE8B1FAAA.quest_subtitle: "科技進步的代價"
+	quest.3003598CE8B1FAAA.title: "更高級的電子零件"
+	quest.31CB278B4BA7B25E.quest_desc: ["把液態空氣丟進離心機，你會得到氧、氮跟氬。我們接下來會用到爆量的氬。"]
+	quest.31CB278B4BA7B25E.quest_subtitle: "這很科學"
+	quest.31CB278B4BA7B25E.title: "空氣離心技術"
+	quest.352A226915809E1B.quest_desc: ["&#A57DE3打包機&r 現在可以把不鏽鋼、鎢跟鈦合成 &#3946E3混合防爆合金&r。聽名字就知道很耐操。"]
+	quest.35FDC436DE07635F.quest_desc: ["&#DB62DE內爆壓縮機&r 利用爆炸的力量強行把資源揉在一起。它是做出高效 &#8762DE混合防爆合金&r 的唯一途徑。記得離遠點。"]
+	quest.3601DD545E1D11B4.quest_desc: [
+		"氬氣加矽粉加銥碎粉... 蹦！&#919191單晶矽&r 出爐。"
+		""
+		"銥礦可以在主世界找到，雖然量不多。"
+	]
+	quest.36D35C35BBC0A555.quest_subtitle: "最高效率版"
+	quest.386ABEB4249D157D.quest_desc: ["一塊 &#919191單晶矽&r 可以切成 32 片 &#8FA4B5矽晶圓&r。這良率簡直是台積電等級。"]
+	quest.3891F8D4201E6BFD.quest_desc: [
+		"把康泰爾錠拉成細線、做成電纜，最後繞成線圈。"
+		""
+		"&#EBA844康泰爾線圈&r 讓電力高爐的 &#F76D6D溫度&r 上限大幅提升，解鎖更多高溫配方。"
+		""
+		"記得在電力高爐介面裡點按鈕切換線圈類型喔。"
+		""
+		"{image:atm:textures/questpics/modernindustrialization/switch_to_kanthal.png width:150 height:75 align:center}"
+	]
+	quest.39A0BA6E2A72A681.quest_desc: ["不鏽鋼、鋁跟鉻粉混合變康泰爾粉。這是目前最強的電阻合金。"]
+	quest.3A0C8BCE197A448B.quest_desc: ["丁苯橡膠加點鉛或鉻，就是我們的高級橡膠啦。"]
+	quest.3ACC27B786CDCF22.quest_desc: ["用電力壓縮機把鎢碎粉壓成鎢粒。別問為什麼要這麼麻煩，這就是工業。"]
+	quest.3B1CDC2DD05CAE80.quest_desc: ["PVC、鉑板、鎘電池、退火銅線加數位電路板... 恭喜你做出 &#EBE56E處理器單元&r。你的電腦終於能跑 4K 遊戲了（誤）。"]
+	quest.3CB05026BC4C5577.quest_desc: ["目前你可以用低效率的方式在電力壓縮機裡做出防爆合金板。雖然很虧，但初期沒辦法。"]
+	quest.3FE2A649F07DF28D.quest_subtitle: "拿去敲碎極限反應爐的 Plutonium 也能拿到鈽粉喔"
+	quest.3FE489E6B1FAC24B.quest_subtitle: "回收那些廢掉的燃料棒"
+	quest.3FE489E6B1FAC24B.title: "獲取鈽資源"
+	quest.40F2EDB9384CE782.quest_desc: ["蒸餾蒸汽裂解輕油可以得到乙炔。"]
+	quest.4A06CCE1FE0F333C.quest_desc: ["把進氣口裝在真空冷凍機裡，你就能免費吸到液態空氣。這叫大自然的饋贈。"]
+	quest.4A618CA66AD6223D.quest_subtitle: "輸入更多電力"
+	quest.4F870252E9FB1A41.quest_desc: ["反應爐吃燃料棒。這是最基礎的那一款。"]
+	quest.50F97171D25CD2EE.quest_desc: ["&#6EDDFF渦輪升級 (Turbo)&r 每顆增加 &#FFEB6E512EU/t&r 的上限。"]
+	quest.56A4F5D301BC1E93.quest_desc: ["&#6EDDFF渦輪升級 (Turbo)&r 每顆增加 &#FFEB6E64EU/t&r 的上限。"]
+	quest.58F7C11C241DD7A4.quest_desc: [
+		"&#6AADD9蒸餾塔&r 是蒸餾器的完成體。它的好處是一個輸入能同時噴出多個輸出。"
+		""
+		"蓋越高，能處理的輸出就越多。加工原油建議蓋 3 格高。"
+	]
+	quest.58F7C11C241DD7A4.quest_subtitle: "效率就是一切"
+	quest.5A4406F89DB802F0.quest_desc: ["苯乙烯加丁二烯變丁苯。化學課還沒下課。"]
+	quest.5B45AB96953FA61C.title: "數位時代"
+	quest.633D6361DA680C75.quest_desc: ["輕油加蒸汽變蒸汽裂解輕油。"]
+	quest.66E78F599CD50579.quest_desc: [
+		"&#49C472核反應爐&r 讓你產出終局資源。我們會用它來生氘跟氚。"
+		""
+		"建議直接蓋「大型」以上的。蓋太小速度太慢，你的肝會撐不住。"
+		"{@pagebreak}"
+		"核反應爐的配置超複雜，窩直接給你最強配置圖。照著擺就對了。"
+		""
+		"這是產氘的「大型」配置圖："
+		"{image:atm:textures/questpics/modernindustrialization/large_reactor.png width:100 height:100 align:center}"
+		""
+		"這是產氚的「極限」配置圖："
+		""
+		"{image:atm:textures/questpics/modernindustrialization/largest_reactor.png width:100 height:100 align:center}"
+	]
+	quest.66E78F599CD50579.quest_subtitle: "放心，它們不會炸掉"
+	quest.672B69448F1D458B.quest_desc: ["熱交換器是渦輪發電機愛好者的天堂。它能產出多到爆掉的蒸汽。"]
+	quest.672B69448F1D458B.quest_subtitle: "蒸汽噴發！"
+	quest.6A9AE3514B5151C9.quest_desc: ["康泰爾線圈讓你能在電力高爐裡燒鈦。這過程需要錳硫酸溶液。"]
+	quest.6F183B06683D1213.quest_desc: ["幫康泰爾錠降溫。"]
+	quest.6F3974CAAA555FD0.quest_subtitle: "管理你的記憶體"
+	quest.75619C7174C6703C.quest_desc: ["離心鈾粉可以得到鈾同位素，用來做更好的燃料棒。"]
+	quest.75619C7174C6703C.title: "鈾粉離心技術"
+	quest.78EC7D19BE24FE06.quest_subtitle: "真的不會炸，相信我"
+	quest.7AF6C95816E82861.quest_desc: ["氘加氧氣變重水。循環利用，環保小尖兵就是你。"]
+	quest.7C73740F1B515F2C.quest_desc: ["鎢粉要碎成超細粉才能進行後續加工。這就是細工出慢活。"]
+	task.08F68CC089765088.title: "繞道小技巧"
+}

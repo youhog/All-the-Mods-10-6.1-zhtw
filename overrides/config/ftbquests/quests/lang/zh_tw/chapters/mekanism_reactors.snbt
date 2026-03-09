@@ -1,0 +1,216 @@
+{
+	quest.008E65AF545A706E.quest_desc: [
+		"雖然這是 &5&lMekanism&r 裡最貴的機器之一，但其實沒那麼難用啦！ \\n\\n首先，蓋好它後，你要餵它吃 &a釙 (Polonium)&r。拿管子接到 &dSPS 連接埠&r，因為我們要幫釙「充能」變回 &d反物質&r！ \\n\\n為了充能，你需要幫 &d超荷線圈 (Supercharged Coils)&r 供電。拿一堆電纜把「天文數字」等級的電塞進連接埠裡。 \\n一台機器可以裝 2 個線圈，雖然 1 個也能動，但拜託，我們是今年要拿到反物質，不是明年！ \\n\\n當你用幾百萬 FE 轟炸完釙之後，反物質就出來了。等等，這只是「化學態」的反物質？！我們還需要..."
+	]
+	quest.008E65AF545A706E.quest_subtitle: "&d&lSPS"
+	quest.008E65AF545A706E.title: "&d&l超臨界相變移位器 (SPS)"
+	quest.00E19377BAE5DD6A.quest_desc: ["幫你的 &dMeka-Tool&r 裝個除草剪！ \\n\\n注意：這東西不能跟耕作模組或傳送模組一起裝。這工具也太挑食了吧。"]
+	quest.00E19377BAE5DD6A.title: "&7剪刀模組"
+	quest.011D8CADA29C9C70.quest_desc: ["&eQIO 磁碟&r 決定了你的雲端倉庫容量。 \\n\\n一台機架最多塞 12 張卡。系統會自動從第一張開始填滿。 \\n\\n- &a普通版&r：1.6 萬個東西，128 種項目。這是唯一不需要核反應爐就能做的。 \\n- &c超密集版&r：開始要爆肝核能了。12.8 萬個東西，256 種項目。 \\n- &b時空膨脹版&r：100 萬個東西，1024 種項目。 \\n- &d超大質量版&r：要用到反物質。160 億個東西... 基本上這張卡就是個黑洞。"]
+	quest.011D8CADA29C9C70.title: "&eQIO 磁碟卡"
+	quest.0133DA323E24A455.quest_desc: ["既然都要換裝了，把潛水裝也換了吧！ \\n\\n幫 &a&lMekaSuit 頭盔&r 裝上這個，你就能在水底自由呼吸。 \\n\\n如果你胸甲有裝噴射背包，它在水裡還會自動幫你補氫氣。這才是黑科技。"]
+	quest.0133DA323E24A455.title: "&9電解呼吸模組"
+	quest.02C6132919DEAF2A.quest_desc: ["在開始發電前，先讓蒸汽跑起來。 \\n\\n在 &9轉動組件 (Rotational Complex)&r 周圍擺滿 &9壓力擴散器&r。 \\n\\n再上一層擺滿 &a電磁線圈&r。轉動組件帶動線圈，這就是水力發電的原理啦！ \\n\\n最頂層用 &9飽和冷凝器&r，它會把蒸汽回收變回 &9水&r。這叫循環利用，環保小尖兵就是你。"]
+	quest.02C6132919DEAF2A.title: "&9&l渦輪機&r 發電工程"
+	quest.0306D25C7407FE88.quest_desc: ["啟動 &c&l核融合反應爐&r 還有個關鍵：&6熱量&r！ \\n\\n我們可以用 &4雷射&r 暴力加熱。你需要一個 &4雷射放大器&r，存夠 1G FE 的能量後，對準反應爐的 &c雷射對焦矩陣&r 開火。 \\n\\n聽起來很多電？別擔心，反應爐動起來後隨便都能賺回來。 \\n\\n建議用一堆雷射射進放大器來存電，不然你要等到明年才夠 1G。"]
+	quest.0306D25C7407FE88.title: "&c雷射對焦矩陣"
+	quest.03840E4C74731E0C.quest_desc: ["聽著，雖然窩一直叫你用電動幫浦... \\n\\n但你現在長大了，反應爐需要「巨量」的水。所以窩准許你使用 &9水槽 (Sink)&r！ \\n\\n這玩意兒有無限的水，搭配整合動力 (ID) 的管子，一秒能抽 20 億 mB。幫浦可以退休去領勞保了。"]
+	quest.03840E4C74731E0C.title: "&9水槽 (無限冷卻劑)"
+	quest.05DA7F48E2A1B77F.quest_desc: ["這是 &a&l小蘿蔔 (Robit)&r！你的全能機器人小跟班！ \\n\\n把它放在充電座上當家。它會幫你撿東西、跟著你跑，還內建了工作台、熔爐跟維修功能。 \\n\\n簡直是移動版的工具箱，雖然它有時候會卡在草叢裡發呆。"]
+	quest.05DA7F48E2A1B77F.title: "&a&l小蘿蔔 (Robit)"
+	quest.078B69E9362A5496.quest_desc: ["沒錯，&5&lMekanism&r 就是這麼大！ \\n\\n想玩核反應爐跟無敵裝甲？你來對地方了。 \\n\\n第一步：我們要做 &2可裂變燃料&r。這需要一連串化學反應：硫磺變二氧化硫，水變氧氣，最後混成三氧化硫。化學老師在看你，別接錯管子了。"]
+	quest.078B69E9362A5496.title: "&5&lMekanism：核能篇"
+	quest.09D7D3CF61E156B1.quest_desc: ["&2燃料棒組件&r 是用來存燃料的。 \\n\\n它們可以往上疊，也可以並排。但重點是：每一疊的最上面一定要放一個 &2控制棒組件&r！ \\n\\n沒控制棒，反應爐就不會動。這就是職場規則：沒老闆帶隊，員工就不上班。"]
+	quest.09D7D3CF61E156B1.title: "&2燃料棒與控制棒"
+	quest.0EBE20E44A7AEC7E.quest_desc: ["幫你的腳裝個液壓系統。 \\n\\n跑得更快、跳得更高，連一格高的階梯都能直接走上去。你現在就是 Minecraft 界的體育老師。"]
+	quest.0EBE20E44A7AEC7E.title: "&e液壓推進模組"
+	quest.0F97EFAFD6E68F8D.quest_desc: ["讓你的 &dMeka-Tool&r 挖礦速度快到像開外掛。 \\n\\n裝越多越快，這就是效率的極致。"]
+	quest.0F97EFAFD6E68F8D.title: "&e挖掘強化模組"
+	quest.106C4EB6002B8B41.quest_desc: ["嫌普通電解機太慢？來試試多方塊版！ \\n\\n它能更快速地拆解水跟重水。雖然很大一台，但看它噴氣體的樣子真的很療癒。"]
+	quest.106C4EB6002B8B41.title: "&9&l多方塊電解機"
+	quest.123C0417D85B9DB2.quest_desc: ["幫頭盔裝個太陽能板。 \\n\\n只要太陽公公在，你的裝甲就有用不完的電。當然，晚上或是地底你就只能靠電池了。"]
+	quest.123C0417D85B9DB2.title: "&e太陽能充電模組"
+	quest.13A5748DF69D832E.quest_desc: ["機架蓋好了，但怎麼拿東西？你需要 &eQIO 面板&r。 \\n\\n這就是你的雲端介面。支援搜尋、過濾、還能直接在裡面合成。 \\n\\n這功能強大到 RS 跟 AE2 都要叫它一聲大哥。"]
+	quest.13A5748DF69D832E.title: "&eQIO 雲端面板"
+	quest.141D68BAD039784B.quest_desc: ["&6&l熱電鍋爐&r 幫你把過熱鈉變回普通鈉，順便產出蒸汽。 \\n\\n你需要用設定器把連接埠調成輸入或輸出。別讓蒸汽塞在管子裡，會爆的（誤）。"]
+	quest.141D68BAD039784B.title: "&6鍋爐連接埠"
+	quest.14385D3D359224BC.quest_desc: ["&dMeka-Tool&r 是這模組最強的工具。 \\n\\n它能做原子分解機的所有工作，而且還能插一堆功能模組。挖礦、砍樹、除草、打怪，一把搞定。"]
+	quest.14385D3D359224BC.title: "&dMeka-Tool (萬用神兵)"
+	quest.16DDAE318535D0F9.quest_desc: ["原子分解機是 MK 版的萬用鏟。 \\n\\n它有四種模式：正常、慢速（省電）、快速（爆肝）、關閉。 \\n\\n快速模式挖起來比你阿嬤趕集還快，小心別挖到地殼去了。"]
+	quest.16DDAE318535D0F9.title: "&b原子分解機"
+	quest.17E2C05C48B03043.quest_desc: ["除了水，你還可以用 &6鈉&r 來當冷卻劑。 \\n\\n鈉的熱傳導效率更高，可以讓反應爐跑得更兇。缺點是你得先去蒸餾一堆鹽水。這叫高端冷卻。"]
+	quest.17E2C05C48B03043.title: "&6鈉冷卻系統"
+	quest.18EB2170CAC48E99.quest_desc: ["看哪裡，飛哪裡。 \\n\\n對準目標按右鍵，直接瞬移過去。趕路神器，雖然有點耗電。"]
+	quest.18EB2170CAC48E99.title: "&5瞬移模組"
+	quest.1C87535D3CDCDA5F.quest_desc: ["雷射放大器就像是個大電容。 \\n\\n它可以吸收一堆小雷射，然後一次噴出一發大的。 \\n\\n你可以設定延遲、最小值跟最大值。這就是所謂的「集氣」攻擊！"]
+	quest.1C87535D3CDCDA5F.title: "&4雷射集氣工程"
+	quest.1FC88A3BFCE6C9D7.quest_desc: ["這就是「潛行速度」附魔的模組版。讓你在蹲著走的時候也跟飛的一樣快。"]
+	quest.1FC88A3BFCE6C9D7.title: "&8伺服馬達潛行模組"
+	quest.20054D077AFE3F56.quest_desc: ["終於拿到 &3鈽 (Plutonium)&r 了！ \\n\\n配上水跟螢石粉，做成鈽球。這可是做終極零件的關鍵材料。"]
+	quest.20054D077AFE3F56.title: "&3鈽球"
+	quest.22171982D22CE15F.quest_desc: ["讓你的四件裝甲共享電量。 \\n\\n這樣你就不會發生「鞋子沒電結果摔死，但帽子電還是滿的」這種蠢事了。"]
+	quest.22171982D22CE15F.title: "&a電力分配模組"
+	quest.234C2C3144817018.quest_desc: ["連 PRC 都有多方塊版！一次做 32 個釙球，這效率才是我們要的。"]
+	quest.234C2C3144817018.title: "&2&l多方塊壓力反應槽"
+	quest.23B68F19A04AF5D7.quest_desc: ["同時具備水下跟空中挖掘加成。不管是在游、在飛還是在掉，挖礦速度通通不受影響。"]
+	quest.23B68F19A04AF5D7.title: "陀螺儀穩定模組"
+	quest.24E800EEC2CAD626.quest_desc: ["偵測周圍環境的輻射量。如果數值狂飆，代表反應爐要爆了或是管子漏了，快跑！"]
+	quest.24E800EEC2CAD626.title: "&2蓋革計數器模組"
+	quest.27195E9A3482C158.quest_desc: ["幫你擋掉魔法傷害，還能自動過濾藥水效果。 \\n\\n你可以設定哪些藥水要留著（Buff），哪些要擋掉（Debuff）。法師殺手就是你。"]
+	quest.27195E9A3482C158.title: "&b呼吸淨化模組"
+	quest.2747AEE1F7F97848.quest_desc: ["跑更快、跳更高。裝越多越強，但小心別一頭撞在牆上。"]
+	quest.2747AEE1F7F97848.title: "&e火車推進模組"
+	quest.298A7BED5C2C7582.quest_desc: ["儲能單元決定了你的矩陣能存多少電。 \\n\\n最高級的 &5究極儲能單元&r 一顆能存 1.6T FE。疊幾顆上去，你就能存下整個太陽系的電（誤）。"]
+	quest.298A7BED5C2C7582.title: "&a電感儲能單元"
+	quest.2DC4446A644A4079.quest_desc: ["防護服是玩核能的基本人權。 \\n\\n沒穿整套就去摸核廢料，保證你幾秒內就領便當。穿上去雖然醜了點，但命比較重要。"]
+	quest.2DC4446A644A4079.title: "&6核能防護服"
+	quest.302E9BC711779A4A.quest_desc: ["來點輻射吧！ \\n\\n去挖鈾礦，做成「黃餅」。這名字聽起來很好吃，但請絕對不要吃它。 \\n\\n拿去燒成二氧化鈾，準備餵飽你的反應爐。"]
+	quest.302E9BC711779A4A.title: "製作 &a鈾燃料"
+	quest.32ABE5D734703B9C.quest_desc: ["在胸甲裡內建鞘翅。現在你穿著全服最強防具還能飛，這就是課金大佬的待遇。"]
+	quest.32ABE5D734703B9C.title: "&7鞘翅模組"
+	quest.3526D444F81AD6D9.quest_desc: ["幫你的工具加傷害。裝滿後，砍怪就像切菜一樣簡單。"]
+	quest.3526D444F81AD6D9.title: "&4攻擊強化模組"
+	quest.3561A33758A1E8C3.quest_desc: [
+		"&c&l核融合反應爐&r 是目前最強的產電方式。 \\n\\n它不會爆，也不會漏輻射，簡直是完美的發電機。 \\n\\n你需要餵它吃氘跟氚。啟動時要用雷射轟炸 Hohlraum。一旦動起來，它產的電多到你想把所有的機器都開超頻。"
+	]
+	quest.3561A33758A1E8C3.title: "&c&l核融合反應爐"
+	quest.359934E888495E5E.quest_desc: ["清洗礦泥的多方塊版。雖然配方有點奇怪，但一次洗爆量的礦就是爽。"]
+	quest.359934E888495E5E.title: "&a&l多方塊洗礦機"
+	quest.35D9CD19EAADED6C.quest_desc: ["有了這個，你就不用再穿那套醜死人的防護服了。裝在 MekaSuit 上，輻射區就像你家後花園。"]
+	quest.35D9CD19EAADED6C.title: "&a輻射防護模組"
+	quest.369DADE3B3D8416F.quest_desc: ["&a氚 (Tritium)&r 比較難拿。你需要蒸餾鋰，再拿去曬太陽（中子活化）。 \\n\\n所以這玩意在晚上是停產的。記得多蓋幾個儲氣槽備用。"]
+	quest.369DADE3B3D8416F.title: "&a氚 (Tritium)"
+	quest.3B936CA3F0F7B26B.quest_desc: ["&l&7數位採礦機&r 是這模組包最卑鄙的發明。 \\n\\n設定好你要的礦（或是標籤），它就會隔空幫你把地底的寶物挖上來，還會順便幫你把坑填好。 \\n\\n這不是挖礦，這是魔法。"]
+	quest.3B936CA3F0F7B26B.title: "&l&7數位採礦機"
+	quest.3CCBE9BBCA8ADA38.quest_desc: ["幫 SPS 供電的關鍵。線圈越多，轉化越快。"]
+	quest.3CCBE9BBCA8ADA38.title: "&d超荷線圈"
+	quest.3D2B4D9FD2086B9B.quest_desc: ["反應爐的邏輯接口。可以用紅石來監控溫度、廢料跟損壞程度。 \\n\\n強烈建議設定成「過熱時自動停機」，除非你真的很想看家裡噴輻射。"]
+	quest.3D2B4D9FD2086B9B.title: "&2反應爐邏輯接口"
+	quest.3E5BE6D6422F682C.quest_desc: ["渦輪機的接口。蒸汽進去，電力跟水出來。"]
+	quest.3E5BE6D6422F682C.title: "&9渦輪連接埠"
+	quest.40B24676E11D9410.quest_desc: ["工具內建時運。挖礦更香。"]
+	quest.40B24676E11D9410.title: "&d礦物精煉模組"
+	quest.40E8940C92668D4F.quest_desc: ["&c氘 (Deuterium)&r 從重水裡電解出來。重水則是要用幫浦在普通水池裡慢慢濾。這過程很和平，一點都不核能。"]
+	quest.40E8940C92668D4F.title: "&c氘 (Deuterium)"
+	quest.4211F29561F21643.quest_desc: ["渦輪機裡面要擺葉片。葉片越多轉越快。這就是大人的螺旋槳。"]
+	quest.4211F29561F21643.title: "渦輪內部組件"
+	quest.438F734D16DA9638.quest_desc: ["把釙加工成球。這是邁向神裝的第一步。"]
+	quest.438F734D16DA9638.title: "&a釙球"
+	quest.43DB0CFC5F5B0967.quest_desc: ["顯示你體內累積了多少輻射。如果紅條滿了，請準備好後事。"]
+	quest.43DB0CFC5F5B0967.title: "&a輻射劑量計"
+	quest.4447EEEB8D762721.quest_desc: ["穿上它，你就不怕被雷射射死了。你甚至還能吸收雷射的能量。這招叫借力使力。"]
+	quest.4447EEEB8D762721.title: "&4雷射消散模組"
+	quest.459AEC4C2A611824.quest_desc: ["內建夜視。雖然沒什麼技術含量，但總比喝藥水方便。"]
+	quest.459AEC4C2A611824.title: "&a視覺強化模組"
+	quest.46932D87871BE12F.quest_desc: ["多方塊結晶機。一次產出一整疊反物質球，這才是效率！"]
+	quest.46932D87871BE12F.title: "&5&l多方塊結晶機"
+	quest.4869D9DBDD1A15CD.quest_desc: ["讓你的裝甲變色！你可以把它染成電子花車那樣閃閃發亮。帥是一輩子的事。"]
+	quest.4869D9DBDD1A15CD.title: "&c調色模組"
+	quest.48F496BD0FFE5A34.quest_desc: ["內建磁鐵。走路路過垃圾通通吸進來。"]
+	quest.48F496BD0FFE5A34.title: "&4磁吸模組"
+	quest.4926C95DD02F1410.quest_desc: ["這雷射射程超遠，而且碰到東西會直接破壞掉。你可以用它來防禦基地，或是單純拿來烤雞。"]
+	quest.4926C95DD02F1410.title: "&4雷射發射器"
+	quest.4B2835706B593E9A.quest_desc: ["這台機器能用反物質「無中生有」出稀有物品。 \\n\\n龍蛋、附魔金蘋果、甚至是一些不能合成的東西通通都能搓出來。這才是鍊金術的終點。"]
+	quest.4B2835706B593E9A.title: "&d&l反質子核素合成機"
+	quest.4BAF44FCA0894DE8.quest_desc: ["這機器吃的是陽光。晚上它就下班了。建議多蓋幾個儲氣槽，不然半夜你的產線會卡住。"]
+	quest.4BAF44FCA0894DE8.title: "中子活化工程"
+	quest.4E18E28BDF6B7983.quest_desc: ["核融合反應爐的接口。燃料進去，電出來。"]
+	quest.4E18E28BDF6B7983.title: "&c融合反應爐連接埠"
+	quest.4F9C8D90ACF563F5.quest_desc: ["在水裡游得跟魚一樣快。"]
+	quest.4F9C8D90ACF563F5.title: "&9靜水推進模組"
+	quest.505799C894C771B2.quest_desc: ["有些機器原本不能升級，但 ATM 的開發者幫它們做了多方塊版！一次滿足你的大容量需求。"]
+	quest.505799C894C771B2.title: "超大容量多方塊機器"
+	quest.50B62CF314648881.quest_desc: ["多方塊化學混合機。處理效率翻倍！"]
+	quest.50B62CF314648881.title: "&c&l多方塊化學混合機"
+	quest.50F23B2688D7E699.quest_desc: ["恭喜！你拿到了這模組包最值錢的東西！ \\n\\n反物質球可以用來做 MekaSuit、超大磁碟，還有最關鍵的 ATM 之星！為了這一小顆，你可能已經燒掉了幾百萬桶核燃料。值得啦！"]
+	quest.50F23B2688D7E699.title: "&d反物質球"
+	quest.5194A067BEA98E79.quest_desc: ["離心核廢料來產鈽。這過程超慢，建議多蓋幾台。"]
+	quest.5194A067BEA98E79.title: "獲取 &3鈽"
+	quest.52B3955A80DB0B4A.quest_desc: ["讓你的工具挖礦範圍變大。 1x1、3x3 到 9x9 任你挑。挖一整座山只要幾秒鐘。"]
+	quest.52B3955A80DB0B4A.title: "&6範圍挖掘模組"
+	quest.53E929BF89209CFC.quest_desc: ["QIO 的物流官。設定好過濾器，它就會自動幫你存取東西。"]
+	quest.53E929BF89209CFC.title: "QIO 進出口工程"
+	quest.54255B7820A0F0B1.quest_desc: ["多方塊離心機。一次處理爆量的核廢料。"]
+	quest.54255B7820A0F0B1.title: "&l&5多方塊離心機"
+	quest.54E0B946BAC13654.quest_desc: ["矩陣是目前遊戲裡存電量最高的多方塊結構。蓋滿 18x18x18 的話，存電量多到你阿公那一代都用不完。"]
+	quest.54E0B946BAC13654.title: "&a&l能量矩陣"
+	quest.55702BE0151D33FE.quest_desc: ["矩陣的接口。"]
+	quest.55702BE0151D33FE.title: "&a矩陣連接埠"
+	quest.56DB53F255100136.quest_desc: ["神褲！穿上去後你就是全服腿最長的仔（誤）。 \\n\\n這褲子能擋掉幾乎所有的物理傷害，只要它還有電。"]
+	quest.56DB53F255100136.title: "&a&lMekaSuit 護腿"
+	quest.58B5EF8EB72934C2.quest_desc: ["內建噴射背包。按兩次跳躍起飛！記得幫它灌氫氣。"]
+	quest.58B5EF8EB72934C2.title: "&c噴射背包模組"
+	quest.593CB120B657126C.quest_desc: ["核能好玩歸好玩，輻射可是會要命的。 \\n\\n千萬別手賤把裝滿核廢料的桶子敲掉，不然你家會變成下一個車諾比。"]
+	quest.593CB120B657126C.title: "&a輻射警報"
+	quest.5A088F8402230BA5.quest_desc: ["反應爐的接口。分別處理燃料、冷卻劑跟廢料。記得接好管子，別把廢料接到冷卻水管去了。"]
+	quest.5A088F8402230BA5.title: "&2核裂變反應爐接口"
+	quest.5A4C9F7F81D6B9DB.quest_desc: ["重力模組的升級版。讓你在空中能瞬間停住，加速上升。你現在就是超人。"]
+	quest.5A4C9F7F81D6B9DB.title: "&5重力增強模組"
+	quest.5AC68C8A4024F4C9.quest_desc: ["增加裝甲的存電上限。裝滿後，你的電量條會長到看不到邊。"]
+	quest.5AC68C8A4024F4C9.title: "&a電量擴充模組"
+	quest.5AEA705D6A64A982.quest_desc: ["既然釙球要陽光才能做，那晚上乾脆把反應爐關了省燃料。用日光感測器連紅石，自動化節能。"]
+	quest.5AEA705D6A64A982.title: "自動節能開關"
+	quest.5B18676A77CD6069.quest_desc: ["QIO 是 Mekanism 的虛擬存儲系統。 \\n\\n它最大的優點是「零延遲」且支援「無限遠」的跨維度存取。這才是真的雲端。"]
+	quest.5B18676A77CD6069.title: "&e&lQIO 虛擬存儲系統"
+	quest.5B9F3F32AB28A83A.quest_desc: ["鍋爐內部要裝加熱元件。越多越熱，蒸汽噴越多。"]
+	quest.5B9F3F32AB28A83A.title: "鍋爐核心組件"
+	quest.5CE7756D80E051CC.quest_desc: ["在靈魂砂上面走路不但不會變慢，還會變快！這招叫靈魂漂移。"]
+	quest.5CE7756D80E051CC.title: "&8靈魂奔跑者模組"
+	quest.60A1AEEDB0C44663.quest_desc: ["多方塊溶礦機。處理速度快到你看不見進度條。"]
+	quest.60A1AEEDB0C44663.title: "&3&l多方塊溶礦機"
+	quest.62B29AEF8468750E.quest_desc: ["踩在岩漿或火上面會自動回電！這才是真正的「熱能發電」。"]
+	quest.62B29AEF8468750E.title: "&6地熱發電模組"
+	quest.63B0E39CA4B25A7E.quest_desc: ["把食物打成漿灌進頭盔。系統會自動幫你補飽食度。雖然聽起來有點噁心，但這叫「營養液注射」。"]
+	quest.63B0E39CA4B25A7E.title: "&d營養注射模組"
+	quest.6518480251F0565A.quest_desc: ["讓 Meka-Tool 也能鋤地、鏟地、剝皮。"]
+	quest.6518480251F0565A.title: "&2耕作模組"
+	quest.67A9329C05F98633.quest_desc: ["如果你的渦輪機滿了，蒸汽沒地方去會導致反應爐停機。懶得處理的話，直接蓋個垃圾桶把它刪了。"]
+	quest.67A9329C05F98633.title: "蒸汽大掃除"
+	quest.6A1174845810C7A1.quest_desc: ["這是幫裝備裝模組的工作台。你需要電，還需要把裝備跟模組放進去合體。"]
+	quest.6A1174845810C7A1.title: "&l&7模組工作台"
+	quest.6B3BD54A34EB02C2.quest_desc: ["决定了矩陣充放電的速度。越多越快。"]
+	quest.6B3BD54A34EB02C2.title: "&a矩陣電力接口"
+	quest.6B56F92E28C92A0F.quest_desc: ["多方塊太陽能中子活化器。一次曬一堆核廢料，真香。"]
+	quest.6B56F92E28C92A0F.title: "&e&l多方塊中子活化器"
+	quest.6B7E13AB3BF2C5C8.quest_desc: ["這鍋爐用來把冷卻劑的熱量轉化為蒸汽。它是發電鏈的中轉站。"]
+	quest.6B7E13AB3BF2C5C8.title: "&6&l熱電鍋爐"
+	quest.6C1F7A0B330B3F42.quest_desc: ["神甲！穿上去後你基本上就是無敵的，只要還有電。 \\n\\n它能擋掉核輻射、物理傷害、甚至是掉落傷害。這可是你爆肝幾百小時的成果。"]
+	quest.6C1F7A0B330B3F42.title: "&a&lMekaSuit 胸甲"
+	quest.6CCE920735187234.quest_desc: ["渦輪機把蒸汽轉成電。它是整個核能系統的最終產出點。"]
+	quest.6CCE920735187234.title: "&9&l工業渦輪機"
+	quest.6D7D0A5313284B53.quest_desc: ["神鞋！再也不怕摔死，還能跑得飛快。"]
+	quest.6D7D0A5313284B53.title: "&a&lMekaSuit 靴子"
+	quest.71766BD7321FCB13.quest_desc: ["反應爐的主食。餵飽它，它就會給你爆多的電跟廢料。"]
+	quest.71766BD7321FCB13.title: "&2可裂變燃料"
+	quest.7177653B736AB10E.quest_desc: ["核融合反應爐的點火料。你需要把它裝在 Hohlraum 裡點火。這東西能量超高，小心存放。"]
+	quest.7177653B736AB10E.title: "&5D-T 燃料"
+	quest.72B7C09AFA2245E1.quest_desc: ["多方塊化學氧化機。處理速度快到你阿嬤都認不出來。"]
+	quest.72B7C09AFA2245E1.title: "&c&l多方塊氧化機"
+	quest.7310BBC4A90EDA9D.quest_desc: ["隨身版的 QIO 面板。隨時隨地連結你的雲端倉庫。"]
+	quest.7310BBC4A90EDA9D.title: "&e隨身 QIO 面板"
+	quest.77B6A7151B3E5980.quest_desc: ["挖一個噴一坨。懶人挖礦的極致。"]
+	quest.77B6A7151B3E5980.title: "&a連鎖挖礦模組"
+	quest.7846B7FFC3DD85C5.quest_desc: ["SPS 的接口。電進去，反物質出來。"]
+	quest.7846B7FFC3DD85C5.title: "&dSPS 連接埠"
+	quest.7864C8F2CBC910CB.quest_desc: ["神帽！顯示座標、電量，還能讓你呼吸、喝漿。這帽子戴上去後，你整個人都變聰明了（誤）。"]
+	quest.7864C8F2CBC910CB.title: "&a&lMekaSuit 頭盔"
+	quest.795B80BF12D23897.quest_desc: ["在水面上走路變冰塊。"]
+	quest.795B80BF12D23897.title: "&b霜行者模組"
+	quest.7B0764DDE94E73D0.quest_desc: ["如果反應爐真的要爆了，這個系統會自動切斷燃料供應。這叫救命錢不能省。"]
+	quest.7B0764DDE94E73D0.title: "高級自動停機系統"
+	quest.7B385FD1CBE02C85.quest_desc: ["這是反應爐產電的靈魂。送去渦輪機換電吧。"]
+	quest.7B385FD1CBE02C85.title: "蒸汽"
+	quest.7C7BD54624ED9AC2.quest_desc: ["讓你像創造模式一樣飛。這才是真正的自由。"]
+	quest.7C7BD54624ED9AC2.title: "&d重力調節模組"
+	quest.7D279FC39DA5C630.quest_desc: ["這一連串化學反應終於要到盡頭了。做出氫氟酸，你離燃料就不遠了。"]
+	quest.7D279FC39DA5C630.title: "&cSulfur Trioxide 轉 &7氫氟酸"
+	quest.7E3C84D7FCEC9D52.quest_desc: ["核裂變反應爐。它是你獲取核廢料（進而獲取釙、鈽、反物質）的唯一來源。 \\n\\n這玩意兒「真的會爆炸」，而且炸完後你家會有一整個月的輻射。請務必接好冷卻水，並裝好自動停機裝置。祝你安全。"]
+	quest.7E3C84D7FCEC9D52.title: "&2&l核裂變反應爐"
+	quest.7ECE00D12CFC50A4.quest_desc: ["讓工具自帶絲綢觸摸。"]
+	quest.7ECE00D12CFC50A4.title: "&b絲綢觸摸模組"
+	task.11151860F09B78E1.title: "&eQIO 磁碟卡"
+	task.151AF2F49AAEBBDA.title: "&a電感儲能單元"
+	task.363BADA865C39474.title: "不準偷拿 (版權所有)"
+	task.496C4FDD2515EB24.title: "&a矩陣電力接口"
+	task.59F0226D83026397.title: "不準偷拿 (版權所有)"
+}

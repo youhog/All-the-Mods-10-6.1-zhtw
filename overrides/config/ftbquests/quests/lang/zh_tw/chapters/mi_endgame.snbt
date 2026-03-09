@@ -1,0 +1,13 @@
+{
+	quest.0AE83A6CC21F96D4.quest_desc: ["電解一個 &#3127F5奇點 (Singularity)&r 會得到 &#DA27F5UU 物質&r。別擔心，奇點在過程中 &n&a不會&r 被消耗掉。這才是真‧鍊金術。"]
+	quest.1E22A0D5F4B2EB0D.quest_subtitle: "用氦氣冷凍氬氣，聽起來就很冷"
+	quest.27826D74ADC73556.quest_desc: ["銅粉加氧氣燒一燒變成退火銅。這導電性更好，是後期電路板的標配。"]
+	quest.3AB0822F02350DA3.quest_subtitle: "毀天滅地的傷害"
+	quest.3B99290BE63F2968.quest_subtitle: "壓扁那堆碳粉"
+	quest.4F780343E3FFA43E.quest_subtitle: "這是終結，也是開始"
+	quest.53C167AF34694F8F.quest_desc: ["釔、退火銅、釹跟銥... 恭喜你做出 &#5EDEE0超導體粉&r。這東西能傳導無限的電力（大概啦）。燒完記得降溫。"]
+	quest.53C167AF34694F8F.quest_subtitle: "超級傳導！"
+	quest.54C852CA6E056589.quest_subtitle: "核能電池，用到你當阿公"
+	quest.732DA855AFF62907.quest_desc: ["離心煤炭變碳粉。這就是石墨烯的前身。"]
+	task.121A74E938A0320C.title: "UU 物質"
+}

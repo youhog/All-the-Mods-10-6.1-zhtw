@@ -1,0 +1,213 @@
+{
+	quest.00F2C4A528873A6B.quest_desc: ["&l&b符文大釜&r 需要 &d源質 (Source)&r 才能動。可惜我們沒有專用的倉口。沒關係，我們有「源質冷凝器」！只要把滿滿一罐源質放在冷凝器旁邊，它就會幫你把源質轉成液體。這樣就能用普通液體管搬運了。這叫魔法數位化。"]
+	quest.00F2C4A528873A6B.title: "&l&d源質冷凝工程"
+	quest.02F2DF9D9DA7833A.quest_desc: ["想要 &9腐化靈魂&r？那就得玩點 &5附魔&r 啦！ \\n\\n你需要「靈魂掠奪 (Soul Looting)」附魔。把它貼在武器上，殺怪時就有機會生出腐化靈魂。 \\n\\n靈魂一出現就會想逃跑，快點補一刀把牠變成物品。別讓你的午餐飛了！"]
+	quest.02F2DF9D9DA7833A.title: "&5靈魂掠奪附魔"
+	quest.03C54B07106091DD.quest_desc: ["&c熔煉稜鏡&r 可能是這模組最常用的東西，因為它是做 &6&lATM 之星&r 的原料！ \\n\\n配方：4 個烈焰粉、2 個煤炭加一個秘法水晶塊。別忘了還要放個元件 Relic！ \\n\\n除了做星星，你也可以把它裝在工具上，讓你挖礦自帶熔煉效果。雖然它也能當燃料，但效果爛到哭，完全對不起它的名字。"]
+	quest.03C54B07106091DD.title: "&c熔煉稜鏡"
+	quest.0447551EF7FB171B.quest_desc: ["這不是在驗血！這只是燃料！ \\n\\n把 &4鮮血&r 直接用管子接到 &c&l鍛造台&r 裡，看著那紅通通的液體流進去，是不是很有邪教的感覺？"]
+	quest.0447551EF7FB171B.title: "&4鮮血 (Blood)"
+	quest.050CD33E92601651.quest_desc: [
+		"覺得 &c&l一階&r 太廢嗎？那就升級吧！ \\n\\n中間放艾德木板，周圍擺 4 個秘法水晶跟 4 個生怪磚碎片。 \\n\\n拿木槌用力給它敲下去，你的鍛造台就變成 &3&l二階&r 啦！ \\n\\n現在你可以玩更強的儀式，存更多精華，還能多塞一個 Relic 飾品。"
+		"{image:atm:textures/questpics/forbidden/forbidden_tier1.png width:100 height:100 align:center}"
+	]
+	quest.050CD33E92601651.title: "&l&3二階 &6火神鍛造台"
+	quest.07BEE6FEC14765DC.quest_desc: ["配方很簡單，黏土、鐵、史萊姆球... 但與其自己搓，窩建議你去地獄開寶箱，那邊滿地都是磁石。 \\n\\n「蠟 (Wax)」是這模組的新東西，用蜂蜜瓶加史萊姆球做的。 \\n\\n把它抹在底座上可以變成磁力底座，會自動吸旁邊的東西進去。抹在靴子上還能增加你的磁鐵範圍，懶人救星。"]
+	quest.092BB595F75D5536.quest_desc: ["歡迎來到 &6&l禁忌與秘術 (Forbidden \\& Arcanus)&r！ \\n\\n想開始這趟黑魔法之旅，你得先學會當個鼴鼠。去 Y 層 1 以下瘋狂挖礦吧。"]
+	quest.092BB595F75D5536.title: "&6&l禁忌與秘術"
+	quest.0AC8FE3B59D1B09D.quest_desc: ["量子捕捉器是移動怪物的神物。 \\n\\n右鍵抓怪，再按一次放生。 \\n\\n抓怪是要收「手續費」的，怪物的血越厚，扣的 &b光輝值 (Aureal)&r 就越多。放生倒是免費。 \\n\\n對了，生怪磚碎片是拿不帶絲綢觸摸的搞頭去砸生怪磚掉的。這叫暴力拆遷。"]
+	quest.0BCC79C1D002F532.quest_desc: ["要把秘法水晶粉變成液態光輝，你需要這世界上最重要的液體... 沒錯，就是 &9水&r！ \\n\\n直接拉個水槽，水是無限的，別客氣。"]
+	quest.0BCC79C1D002F532.title: "無限的 &9水&r!!!"
+	quest.0C25F73C0E0FB22A.quest_desc: ["自動鍛造台還需要 &a經驗值&r！準確來說是 Dire 模組裡的 &a液態 XP&r。 \\n\\n做個經驗收集器，設定好區域，它就會幫你吸乾周圍的經驗球。 \\n\\n別擔心，被尖刺殺掉的怪一樣會掉經驗。把收集器放在刷怪場旁邊，你就有用不完的燃料了。"]
+	quest.0C25F73C0E0FB22A.title: "自動化 &a經驗值"
+	quest.0D61473D7A09CD48.quest_desc: [
+		"這是最變態的 &l多方塊結構&r 之一。 \\n\\n你需要一堆流體入口（每個只能裝一種液體，所以你要蓋一排）、電力入口、還有物品進出口。 \\n\\n這台大機器能自動幫你跑所有的火神鍛造儀式。想要做 &6ATM 之星&r 的零件？你絕對會需要它。準備好爆量的鮮血、光輝、靈魂跟電力吧！"
+		"{@pagebreak}"
+		"{image:atm:textures/questpics/chap3/creative_forge1.png width:150 height:100 align:center}"
+		"第一層：磨製深層石加樓梯。別忘了正中間那個發光的 &5鍛造塊&r。"
+		"{image:atm:textures/questpics/chap3/creative_forge2.png width:150 height:100 align:center}"
+		"第二層：更多的深層石跟飾金方塊。還有四根壯觀的 &b秘法水晶方尖碑&r。"
+		"{image:atm:textures/questpics/chap3/creative_forge3.png width:150 height:100 align:center}"
+		"第三層：把你的 &9&l五階鍛造台&r 擺中間，底座圍一圈。"
+		"{image:atm:textures/questpics/chap3/creative_forge4.png width:150 height:100 align:center}"
+		"跳過一層空位後，在正上方懸空擺個 &7量子注入器&r。"
+		"{image:atm:textures/questpics/chap3/creative_forge5.png width:200 height:100 align:center}"
+		"{image:atm:textures/questpics/chap3/creative_forge6.png width:200 height:100 align:center}"
+		"最後把各種入口倉口補齊就完工了！懶得手動蓋？按 Shift+右鍵控制器，它會幫你自動蓋好。"
+	]
+	quest.0DC0E236C8213050.quest_desc: ["500mB 的粗製靈魂加一顆靈魂，就能提煉出 500mB 的液態靈魂。 \\n\\n這過程需要的源質比光輝多一倍。靈魂果然比較貴。"]
+	quest.0DC0E236C8213050.title: "液態靈魂"
+	quest.0FD638380EECFFBD.quest_desc: [
+		"{image:atm:textures/questpics/forbidden/forbidden_forge1.png width:100 height:100 align:center}"
+		"照著這圖案擺好深層石跟飾金石。 "
+		"{image:atm:textures/questpics/forbidden/forbidden_forge2.png width:100 height:100 align:center}"
+		"\"中間擺個鍛造台（Smithing Table），拿 &c秘術粉末&r 點它，它就會變成 &6&l火神鍛造台&r 了！\\n\\n最後在周圍 8 格擺上底座，邪教儀式會場完成！\""
+	]
+	quest.0FD638380EECFFBD.title: "蓋一座 &6&l鍛造台"
+	quest.12256A90B1CE3F90.quest_desc: ["雖然可以用礦車慢慢挖，但最快的產法其實是靠 &6&l蜜蜂&r！ \\n\\n餵鑽石蜂吃個秘法水晶塊，牠就會變身成 &b秘術蜂&r。 \\n\\n讓牠在水晶塊旁邊飛一飛，牠就會產出秘術蜂巢，拿去壓一壓就有水晶了。這才叫綠能產礦。"]
+	quest.12256A90B1CE3F90.title: "自動化 &b秘法水晶"
+	quest.15849165CA8C00F9.quest_desc: [
+		"這是最強、也是最貴的鍛造台等級。 \\n\\n你需要 2 個 &5深色下界之星&r、2 片 &d龍鱗&r、4 個 &3傳導觸媒&r 還有一塊 &2恆星方塊&r。 \\n\\n這等級能讓你玩到這模組包所有的終局配方。你的肝準備好了嗎？"
+		"{image:atm:textures/questpics/forbidden/forbidden_tier5.png width:100 height:100 align:center}"
+	]
+	quest.15849165CA8C00F9.title: "&l&9五階 &6火神鍛造台"
+	quest.185DBBDD252CBA0C.quest_desc: [
+		"鍛造台是這模組的靈魂。 \\n\\n你需要餵它吃四種精華：&b光輝&r、靈魂、&4鮮血&r 和 &a經驗值&r。 \\n\\n材料擺好後，中間放核心物品，旁邊放配角物品。如果數值都滿了，就能啟動儀式。"
+		"{image:atm:textures/questpics/forbidden/forbidden_gui.png width:135 height:100 align:center}"
+		"{image:atm:textures/questpics/forbidden/forbidden_tier3.png width:100 height:100 align:center}"
+	]
+	quest.185DBBDD252CBA0C.title: "&l&c一階 &6火神鍛造台"
+	quest.198E9E90CC9606C4.quest_desc: ["東西都擺好了，數值也夠了，但為什麼不動？ \\n\\n你少了一個「法官」！拿把木槌（Gavel）對著鍛造台按右鍵，儀式才會正式啟動。這木槌有次數限制，省點敲。"]
+	quest.198E9E90CC9606C4.title: "啟動儀式"
+	quest.1D94F59F13667DCF.quest_desc: ["拿流體抽取器對著靈魂木瘋狂榨汁。 \\n\\n靈魂樹苗不能培育，只能去終界城裡偷。這樹種起來有一股淡淡的哀傷感。"]
+	quest.1D94F59F13667DCF.title: "粗製液態靈魂"
+	quest.2002AB7D061007FA.quest_desc: ["「工匠 Relic」躲在村莊的房子裡。 \\n\\n裝在大釜裡可以做黑曜石鋼。 \\n\\n裝在鍛造台裡，還能幫你的經驗值消耗打折！這簡直是魔法界的折價券。"]
+	quest.2002AB7D061007FA.title: "&6工匠 Relic"
+	quest.22F5F931D38E5187.quest_desc: ["深紅石隱藏在掠奪者前哨站裡。滿稀有的，因為一間前哨站只有兩個箱子。 \\n\\n這玩意兒裝在鍛造台上，可以幫你省點靈魂。"]
+	quest.22F5F931D38E5187.title: "&c深紅石"
+	quest.230EEE4671B46D0C.quest_desc: ["&9深層石 (Darkstone)&r 出現在地底深處岩漿湖旁邊（Y -54 附近）。 \\n\\n它是這模組最常用的方塊，所有的機器基座都要用到它。沒事多挖幾組，反正以後一定會用到。"]
+	quest.230EEE4671B46D0C.title: "&9深層石"
+	quest.29434DB0CC2E30E6.quest_desc: ["把秘術粉、水晶粉、木炭跟金錠合在一起，恭喜你得到第一種合金：&6黃金錠 (Deorum)&r！ \\n\\n它是這模組的基礎材料，你以後會需要幾百個。快去開火吧！"]
+	quest.29434DB0CC2E30E6.title: "&6神聖黃金"
+	quest.2ADA491A2485061C.quest_desc: [
+		"經驗值是鍛造台需要的第四種能量。 \\n\\n你可以塞三種東西進去： \\n1. &a經驗礦球&r：給最多的經驗。 \\n2. &a附魔之瓶&r：雖然給的不多，但很好弄。 \\n3. &5附魔裝備&r：鍛造台會把上面的附魔「洗掉」變成經驗值。這叫資源回收。"
+		"{image:atm:textures/questpics/forbidden/forbidden_experience.png width:135 height:100 align:center}"
+	]
+	quest.2ADA491A2485061C.title: "&a經驗值"
+	quest.2D3C8905B783A212.quest_desc: ["拿怪物的掉落物加點水晶粉，就是 &c秘術粉末 (Mundabitur Dust)&r 了！ \\n\\n這是做所有多方塊機器的啟動材料。如果你懶得搓，終界城的箱子裡也有一堆。"]
+	quest.2D3C8905B783A212.title: "&c秘術粉末"
+	quest.31AD9826FB036C98.quest_desc: ["&7符文&r 躲在岩層深處。雖然沒水晶那麼常用，但也是很多高級配方的必需品。"]
+	quest.31AD9826FB036C98.quest_subtitle: "以前這東西是紫色的說！"
+	quest.31AD9826FB036C98.title: "&7符文"
+	quest.3227846235A60B58.quest_desc: ["想自動化產 XP 跟鮮血？你需要一個好的生怪磚！ \\n\\n窩推薦用豬布林蠻兵，牠們血厚經驗多，CP 值最高。 \\n\\n記得餵牠們吃個紫影果，讓牠們沒 AI 乖乖站著讓你放血。這畫面太殘酷窩不敢看。"]
+	quest.3227846235A60B58.title: "血與經驗的農場"
+	quest.356102D5B5F3CA1E.quest_desc: ["「黑曜石鋼」是在大釜裡結合鐵跟黑曜石做成的。 \\n\\n你一定要裝工匠 Relic 才能啟動這個配方。 \\n\\n產物還會附贈一些銅... 窩也不知道為什麼鐵加黑曜石會變出銅，可能這就是魔法吧。"]
+	quest.356102D5B5F3CA1E.title: "&5黑曜石鋼"
+	quest.3999AE0921641E60.quest_desc: [
+		"拿艾德木去燒可以得到暗物質。 \\n\\n把黑曜石鋼加點怪手怪腳搓成腐化粉末。 \\n\\n兩樣東西一起丟地上... 蹦！一個 &8黑洞&r 就出現了！ \\n\\n這黑洞會吃掉靠近的所有東西，但如果你餵它吃 &a經驗值&r，它會回報你超濃縮的 &a經驗礦球&r。這就是所謂的等價交換。"
+		"{image:atm:textures/questpics/forbidden/forbidden_blackhole.png width:150 height:100 align:center}"
+	]
+	quest.3999AE0921641E60.title: "&8小型黑洞"
+	quest.3B5DEB942752B3BF.quest_desc: [
+		"所有的自動配方都有一個最低電量門檻。 \\n\\n你可以透過升級模組來提升機器的功率上限。"
+		""
+		"{@pagebreak}"
+		"1. &n&#A839ED符文調和水晶&r：直接加 512 EU/t。懶得跑 MI 進度的人選這個就對了。"
+		""
+		"2. &n&#2278F2MI 升級模組&r：從基礎到量子級通通支援。最強的量子升級能提供十億 EU/t... 基本上就是無限電了。"
+	]
+	quest.3B5DEB942752B3BF.quest_subtitle: "不裝升級這台機器就不會動"
+	quest.3B5DEB942752B3BF.title: "電力升級工程"
+	quest.3C5A5432E6B1EF9E.quest_desc: [
+		"怪生出來了，怎麼放血？ \\n\\n你需要「血腥底座」配上「尖刺壓板」。 \\n\\n把怪引到壓板上面，尖刺會慢慢戳牠們，噴出來的血會自動存到底座裡。這過程非常慢，建議蓋一整排尖刺。 \\n\\n最後再用管子把血抽到鍛造台。恭喜你，你現在是一個合格的血魔了。"
+		"{image:atm:textures/questpics/forbidden/forbidden_pedestal.png width:100 height:100 align:center}"
+	]
+	quest.3C5A5432E6B1EF9E.title: "自動化放血"
+	quest.3D82C6639A6371CB.quest_desc: ["拿 4 個量子核心加秘術粉，就能得到量子注入器。 \\n\\n雖然現在看起來沒啥用，但後期它是你最不能缺少的零件。"]
+	quest.3D82C6639A6371CB.title: "&7量子注入器"
+	quest.3DF1435A15515DA9.quest_desc: [
+		"想自動化產靈魂，你需要 Dire 的機器幫忙： \\n\\n1. 放置器：瘋狂擺靈魂沙。 \\n2. 高級點擊器：拿著靈魂抽取器對著沙子瘋狂吸。 \\n3. 高級破壞器：把吸乾的「無魂沙」拆掉。 \\n\\n這樣你就有源源不絕的靈魂了。這操作聽起來就很高級。"
+		"{@pagebreak}"
+		"{image:atm:textures/questpics/forbidden/forbidden_autosoul.png width:150 height:100 align:center}"
+		"圖裡左邊是拆的，下面是擺的，右邊是吸的。位子隨便你放，會動就好。"
+	]
+	quest.3DF1435A15515DA9.title: "自動化靈魂提煉"
+	quest.40B757772D0FBAC9.quest_desc: [
+		"鮮血是鍛造台需要的第三種液體。 \\n\\n你可以直接在鍛造台旁邊殺怪來「充血」。 \\n\\n或是副手拿著試管，殺怪把試管裝滿後再灌進去。這動作很有實驗室的感覺。"
+		"{image:atm:textures/questpics/forbidden/forbidden_blood.png width:135 height:100 align:center}"
+	]
+	quest.40B757772D0FBAC9.title: "&4鮮血"
+	quest.414A35A72AFB5FF5.quest_desc: ["這配方超級煩人，要海磷石、龜殼、青金石跟海洋之心。 \\n\\n雖然這東西是用來跟頭盔合體的，但窩目前還沒搞懂它有啥用... 可能戴上去會變美男魚吧？"]
+	quest.414A35A72AFB5FF5.title: "&9海洋稜鏡"
+	quest.46567ED894E9883C.quest_desc: [
+		"好玩的來了！ \\n\\n用 4 個黃金錠、4 個秘法水晶加一塊磨製深層石，升級到 &e&l三階&r！ \\n\\n現在你的鍛造台不只變帥，能做的東西也更多了。"
+		"{image:atm:textures/questpics/forbidden/forbidden_tier2.png width:100 height:100 align:center}"
+	]
+	quest.46567ED894E9883C.title: "&e&l三階 &6火神鍛造台"
+	quest.4707FB01F15F6E1F.quest_desc: [
+		"&b&l大釜 (Clibano)&r 就像是一個超級巨大的工業熔爐。蓋法如下："
+		"{image:atm:textures/forbidden/forbidden_clibano1.png width:100 height:100 align:center}"
+		"底層：3x3 區域，角落用深層石，中間填滿磚塊。"
+		"{image:atm:textures/forbidden/forbidden_clibano2.png width:100 height:100 align:center}"
+		"中層：圍一圈磚塊，中間放核心方塊。記得中間要是空的喔。"
+		"{image:atm:textures/forbidden/forbidden_clibano3.png width:100 height:100 align:center}"
+		"頂層：跟底層一模一樣。"
+		"{image:atm:textures/forbidden/forbidden_clibano4.png width:100 height:100 align:center}"
+		"最後拿秘術粉末點一下，大機器就活過來了！"
+	]
+	quest.4707FB01F15F6E1F.title: "&b&l秘術大釜 (Clibano)"
+	quest.487C70679535DDDB.quest_desc: ["受夠了量子捕捉器抓不了大怪？ \\n\\n加點恆星碎片跟下界之星，把它升級成「魔王捕捉器」！ \\n\\n現在連監守者都能被你塞進球裡帶回家。去嚇死你的朋友們吧！"]
+	quest.49D0B6D3ED3DCCCD.quest_desc: ["秘法水晶粉很簡單，把水晶丟進去燒就對了。 \\n\\n或者你可以用大釜來熔煉，產量會好一點。"]
+	quest.49D0B6D3ED3DCCCD.title: "&b秘法水晶粉"
+	quest.4A564E8FE587C7E4.quest_desc: ["想要靈魂？去搶啊！ \\n\\n做個「靈魂抽取器」對著靈魂沙按住右鍵。沙子裡的靈魂會被你吸乾，剩下一堆白花花的「無魂沙」。 \\n\\n雖然窩不知道無魂沙能幹嘛，但至少你有靈魂了。"]
+	quest.4BE209D5DAF1F321.quest_desc: [
+		"光輝值是鍛造台最重要的數值。 \\n\\n你可以蓋水晶方尖碑來自動生壓，或是直接拿光輝瓶/藥水灌進去。 \\n\\n藥水可以用再生藥水 II 加水晶粉搓出來。這顏色真漂亮。"
+		"{image:atm:textures/questpics/forbidden/forbidden_aureal.png width:135 height:100 align:center}"
+	]
+	quest.4BE209D5DAF1F321.title: "&b光輝值 (Aureal)"
+	quest.4CFE097D0A8683C8.quest_desc: ["「黑曜石頭骨」是一頂能防火、防岩漿的帽子。 \\n\\n戴著戴著會壞掉，記得拿黑曜石鋼去修。這帽子戴上去後你就是全服最硬的男人。"]
+	quest.4CFE097D0A8683C8.title: "&5黑曜石頭骨"
+	quest.4E014B495668A601.quest_desc: ["經驗值存好了？直接拿管子接過去自動鍛造台吧。效率生活，從現在開始。"]
+	quest.4E014B495668A601.title: "&a液態經驗值"
+	quest.52472667678E10D1.quest_desc: ["&2恆星碎片 (Stellarite)&r 躲在地殼深處（Y 42 到 -44 之間）。 \\n\\n雖然範圍很大，但它真的「爆幹難找」。 \\n\\n挖的時候小心點，這玩意兒脾氣不好，挖開會「自爆」！請穿好防爆裝。"]
+	quest.52472667678E10D1.title: "&2恆星碎片"
+	quest.52D4FCE72B15BC46.quest_desc: ["嫌水桶太小？試試這款艾德木水桶！ \\n\\n它一次能裝 4 桶水或牛奶。連岩漿都能裝 3 桶（因為岩漿比較重嘛，合理）。這才是專業法師該用的桶子。"]
+	quest.539266A1C03C2EBA.quest_desc: [
+		"靈魂格只需要 10 個靈魂就能填滿。 \\n\\n普通靈魂跟腐化靈魂算 1 點，但如果你能弄到「附魔靈魂」，一秒直接填滿 10 點！這效率差別待遇真大。"
+		"{image:atm:textures/questpics/forbidden/forbidden_souls.png width:135 height:100 align:center}"
+	]
+	quest.539266A1C03C2EBA.title: "靈魂精華"
+	quest.53E2BEA626B35BFC.quest_desc: ["這配方很貴，但絕對物超所值。 \\n\\n戴上這款護身符，你會開啟「透視之眼」。方圓 100 格內所有的生物通通都會「發光」！ \\n\\n找地城、找前哨站、甚至是找躲起來的 Axolotl 都超好用。簡直是官方外掛。"]
+	quest.53E2BEA626B35BFC.quest_subtitle: "ATM6 的人氣商品回歸啦！"
+	quest.53E2BEA626B35BFC.title: "&6幽靈之眼護身符"
+	quest.580148D1141446A6.quest_desc: [
+		"地獄太可怕不敢去？那就在主世界找吧。 \\n\\n在黑森林裡偶爾會看到遊蕩的「迷失靈魂」。你可以把牠們殺了拿靈魂。 \\n\\n雖然這方法慢到哭，但至少安全。如果你真的缺靈魂，去幫你的劍附魔「靈魂掠奪」吧。"
+	]
+	quest.580148D1141446A6.title: "迷失靈魂"
+	quest.5A6FF0D4BA894306.quest_desc: ["這模組最變態的東西：&a永恆之星 (Eternal Stella)&r！ \\n\\n配方：1 個 ATM 錠、3 個經驗礦球、1 個恆星碎片。 \\n\\n這玩意兒能幹嘛？把它跟帶耐久度的物品合體，那個物品就會變成「無限耐久」！ \\n\\n鑽石斧、釣魚竿、甚至是噴射背包，只要有耐久條通通能變永恆。注意：吃電的東西不適用喔。"]
+	quest.5A6FF0D4BA894306.title: "&a永恆之星 (耐久不消耗)"
+	quest.5CD0E6F349F2F32D.quest_desc: ["別怕，這不是什麼怪物，這只是長大的艾德木（Edelwood）。 \\n\\n砍它的樹枝可以拿到艾德棒。樹幹是空心的，你可以把它當成天然的大釜來裝水。非常環保。"]
+	quest.5ED0DA95BAE43D88.quest_desc: ["最後一種稜鏡...好吧，這其實是顆水晶。 \\n\\n你需要從異界（The Other）找來的 Relic，配上終界珍珠碎、紫水晶跟石英。 \\n\\n最難的部分：你得找個迷失靈魂，對牠丟「光輝噴濺藥水」。牠會變身成「附魔靈魂」，殺了牠才能拿到材料。 \\n\\n這水晶能幫裝備加上「靈魂綁定」效果。死掉後裝備不會噴掉，會乖乖留在你包包裡。這可是保命神器。"]
+	quest.5ED0DA95BAE43D88.title: "&d靈魂綁定水晶"
+	quest.5F00A66CC1FE1F9F.quest_desc: ["這配方最難的地方在於「蝙蝠翅膀」。誰會整天去殺蝙蝠啊？ \\n\\n這是目前版本的新東西，主要是拿來做終局道具的原料。"]
+	quest.62C60FF24B2F7290.quest_desc: ["秘法水晶躲在 Y 14 到 -40 之間。 \\n\\n雖然不算太難找，但相信窩，你以後會需要「幾千個」。在 Y -13 附近挖產量最高。"]
+	quest.62C60FF24B2F7290.title: "&b秘法水晶"
+	quest.63C95FDAA447CA47.quest_desc: ["需要二階鍛造台才能做的「地裂稜鏡」。 \\n\\n配方：鐘乳石、燧石加鑽石塊。當然還要有 Relic。 \\n\\n這玩意兒裝在工具上，讓你挖礦變 3x3。一下抵九下，這才是效率！"]
+	quest.63C95FDAA447CA47.title: "&7地裂稜鏡 (3x3 挖礦)"
+	quest.66FE4552E09B5EFF.quest_desc: ["稜鏡是很多高級配方的關鍵材料。 \\n\\n你得去叢林神廟、沙漠金字塔或海底遺跡偷這些「元件 Relic」。 \\n\\n窩覺得直接說哪裡沒有還比較快一點。"]
+	quest.66FE4552E09B5EFF.title: "&3元件 Relic (稜鏡基底)"
+	quest.67258590FA14BE44.quest_desc: ["250mB 的水加 2 個水晶粉，攪一攪變 250mB 的液態光輝。 \\n\\n這過程需要 1000 點液態源質當催化劑喔。"]
+	quest.67258590FA14BE44.title: "&b液態光輝"
+	quest.67CCEFEBA4D79429.quest_desc: ["「神聖契約」是這模組最難拿的飾品。你去異界的豬布林村莊或是古代金字塔翻翻看。 \\n\\n它是做靈魂綁定水晶的必備材料。"]
+	quest.67CCEFEBA4D79429.title: "&e神聖契約"
+	quest.692183ACBB2AABF7.quest_desc: ["Relic 是躲在世界各地的稀有寶物。 \\n\\n它們可以塞在鍛造台周圍的小格子裡提供加成。等級越高，能塞的格子就越多。 \\n\\n有些甚至能大幅提升大釜的效率。去冒險吧，少年！"]
+	quest.692183ACBB2AABF7.title: "&l古代 Relic"
+	quest.6BA2BC09E23B34A9.quest_desc: [
+		"用 4 個符文跟 4 個恆星碎片升級到 &e&l四階&r！ \\n\\n這已經是普通玩家能達到的極限了。所有的 Relic 格子通通解鎖，快把它們塞滿吧！"
+		"{image:atm:textures/questpics/forbidden/forbidden_tier4.png width:100 height:100 align:center}"
+	]
+	quest.6BA2BC09E23B34A9.title: "&l&d四階 &6火神鍛造台"
+	quest.6F57BE412A7BE84E.quest_desc: ["腐化靈魂有兩個用途： \\n1. 做四階鍛造台的升級材料。 \\n2. 「種樹」！ \\n\\n它是艾德木唯一的發芽方式。把靈魂塞進土裡，看它長出一棵陰森森的樹。這很合理。"]
+	quest.6F57BE412A7BE84E.title: "&9腐化靈魂"
+	quest.7671AFAA1EFD287F.quest_desc: ["想在鍛造台裡自動生光輝？你需要方尖碑！ \\n\\n配方：秘法水晶塊、飾金深層石加秘術粉。 \\n\\n把它蓋成 1x3x1 的柱子，用秘術粉點一下。然後把它擺在鍛造台的底座位子，它就會慢慢幫你生光輝了。"]
+	quest.7671AFAA1EFD287F.title: "&b秘法水晶方尖碑"
+	quest.798B592E956AD28C.quest_desc: [
+		"&b&l符文坩堝&r 是你通往自動化黑魔法的大門。液態靈魂跟液態光輝通通靠它生。 \\n\\n看下一頁教你怎麼蓋！ \\n\\n你需要幫它接好管子，灌進液態源質。它是這台機器的能量來源。"
+		"{@pagebreak}"
+		"{image:atm:textures/chap3/creative_crucible1.png width:100 height:100 align:center}"
+		"第一層：中間放飾金深層石，周圍用深層石。角落擺符文塊，側面放倒放的樓梯。"
+		"{image:atm:textures/chap3/creative_crucible2.png width:100 height:100 align:center}"
+		"第二層：中間擺顆秘法水晶，周圍用樓梯圍起來。側面放柱子跟入口（Hatches）。"
+		"{image:atm:textures/chap3/creative_crucible3.png width:100 height:100 align:center}"
+		"第三層：四個角落各擺一塊秘法水晶塊。結束。"
+		"{image:atm:textures/chap3/creative_crucible4.png width:100 height:100 align:center}"
+		"最後在正上方懸空擺個 &7量子注入器&r。這台大鍋就完成了。同樣可以按 Shift+右鍵控制器自動建築喔。"
+	]
+	quest.798B592E956AD28C.title: "&b&l秘術符文坩堝"
+	quest.79C9875A1A494762.quest_desc: ["如果你懶得殺怪拿靈魂種樹，那就去賭人品吧！ \\n\\n流浪商人有機會賣艾德樹苗。雖然他常常不知道跑哪去，但在地上鋪點地毯或許能吸引他過來。"]
+	quest.79C9875A1A494762.quest_subtitle: "跟流浪商人搏感情"
+	quest.79C9875A1A494762.title: "買棵艾德樹"
+	task.0B79080463C860ED.title: "流浪商人地毯"
+	task.3C7296E2E064C061.title: ""
+	task.6B772FA03562537D.title: "去 Y 層 1 挖礦"
+}

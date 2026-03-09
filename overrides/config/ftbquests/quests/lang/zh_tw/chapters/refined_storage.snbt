@@ -1,0 +1,128 @@
+{
+	quest.01F18150EC923482.quest_desc: ["&3精緻存儲 (Refined Storage)&r 是一個基於網路的存儲系統。 \\n\\n想開始玩？你得先做個 &3控制器 (Controller)&r。 \\n\\n它是整個網路的「心臟」。給它電，它就能讓所有連著的 RS 零件活過來。沒電它就只是個發光的裝飾品。"]
+	quest.01F18150EC923482.quest_subtitle: "第二代存儲技術"
+	quest.01F18150EC923482.title: "&3精緻存儲"
+	quest.03C78165C5CBD9E1.title: "&a16k 儲存零件"
+	quest.0945EC53626F58E6.quest_desc: ["除了物品跟流體，&3精緻存儲&r 還能存 &a化學品&r（感謝 Mekanism 連動）。 \\n\\n甚至連 &4能量&r、&5源質&r 跟 &9靈魂&r 都能存。這模組現在什麼都能裝進磁碟裡，簡直是黑洞。"]
+	quest.0945EC53626F58E6.title: "&5其他奇奇怪怪的儲存卡"
+	quest.0D4FE97640F2CA60.quest_desc: ["&b終極破壞機&r 有 36 個過濾格，速度快 5 倍，還內建了堆疊升級。拆房子、挖地、清垃圾首選。"]
+	quest.0D4FE97640F2CA60.title: "&b終極破壞機"
+	quest.0F00BBDF3618B3BA.quest_desc: ["&3合成網格&r 讓你在領東西的時候順便合成！ \\n\\n說實話，除了前期窮的時候，誰會去用那種不能合成的普通網格？"]
+	quest.0F00BBDF3618B3BA.title: "&3這才叫網格 (帶合成功能)"
+	quest.1187F9D4F4E0D254.quest_desc: ["這把 &3扳手&r 有兩個用途： \\n- 旋轉方塊。 \\n- 拆掉 RS 的蓋板。 \\n\\n蹲下按右鍵就對了。"]
+	quest.1187F9D4F4E0D254.quest_subtitle: "轉吧轉吧七彩霓虹燈"
+	quest.1187F9D4F4E0D254.title: "&3扳手"
+	quest.123807F4BBE75120.title: "&b16384k 儲存零件"
+	quest.12A43F82FC67A289.quest_desc: ["想存東西，你要先做磁碟，然後塞進 &9磁碟機 (Disk Drive)&r 裡。 \\n\\n一台磁碟機可以塞 8 張卡。這就像是你的伺服器機架。"]
+	quest.12A43F82FC67A289.quest_subtitle: "插卡時間！"
+	quest.13A0714444BA79AB.quest_desc: ["&b終極輸入機&r 有 36 個過濾格，速度快 5 倍。吸東西的速度比你家吸塵器還猛。"]
+	quest.13A0714444BA79AB.title: "&b終極輸入機"
+	quest.15ECBC8E174FA39B.quest_desc: ["讓你在外面也能連回基地領東西。"]
+	quest.15ECBC8E174FA39B.quest_subtitle: "行動網格，走到哪領到哪"
+	quest.17920C436DDBBD07.title: "&2262kB 流體儲存零件"
+	quest.189018F641FBB44E.quest_desc: ["&4巨量自動合成機&r 有 54 個樣板格，速度快 8 倍。合成東西快到你看不見進度條。"]
+	quest.189018F641FBB44E.title: "&4巨量自動合成機"
+	quest.1D2700821045CCF2.title: "&565536k 儲存零件"
+	quest.1F55A483008F74FE.quest_desc: ["&b終極輸出機&r 有 36 個過濾格，速度快 5 倍。噴東西的速度快到像是水管爆掉。"]
+	quest.1F55A483008F74FE.title: "&b終極輸出機"
+	quest.22F80D267321BFC5.quest_desc: ["&3自動合成管理員&r 讓你在一個方塊裡看到所有的合成任務。 \\n\\n希望你不會被那一堆進度條搞到強迫症發作。"]
+	quest.22F80D267321BFC5.title: "&3合成總管"
+	quest.23F691FC053F2319.quest_desc: ["磁碟介面可以幫你把這張磁碟的東西通通搬到另一張磁碟裡。資料轉移好夥伴。"]
+	quest.23F691FC053F2319.quest_subtitle: "不用再手動搬了，累死人"
+	quest.24D3F605315ADB03.quest_desc: ["&9無線萬用網格&r 集所有功能於一身：存儲、合成、監控合成任務。這才是真‧旗艦手機（誤）。"]
+	quest.24D3F605315ADB03.title: "&d無線萬用網格"
+	quest.253657BE5D9D9162.quest_desc: ["&3外部存儲 (External Storage)&r 是這模組最重要的零件之一。 \\n\\n它可以把網路連到外部容器（像是箱子、抽屜）。RS 會直接「看進去」那個箱子，讓你在網格裡直接點到裡面的東西。 \\n\\n如果你家滿地都是抽屜或是箱子，這東西就是你的救星！"]
+	quest.2B27E4E04A628C60.quest_desc: ["&e速度升級&r 就是字面上的意思，讓機器跑快點。 \\n\\n&e堆疊升級&r 讓機器一次搬一整疊物品，而不是一個一個搬。兩款合體效果更佳！"]
+	quest.2B27E4E04A628C60.title: "&e全速前進！"
+	quest.2CFEE04BA574921E.quest_desc: ["&b構築機&r 會朝它對準的方向擺放指定的方塊。 \\n\\n自動化蓋房子的好幫手。"]
+	quest.2CFEE04BA574921E.quest_subtitle: "幫你擺方塊！"
+	quest.2E2811D1A0F2A492.quest_desc: ["想在更遠的地方連回系統？你需要 &b距離升級&r。 \\n\\n發射器最多只能塞 4 個。"]
+	quest.2E2811D1A0F2A492.quest_subtitle: "WiFi 訊號加強工程"
+	quest.2E2811D1A0F2A492.title: "&b增加 WiFi 範圍"
+	quest.30700E99091B712A.quest_desc: ["&c調節升級&r 讓機器維持指定的數量。例如設定讓熔爐裡永遠有 64 個煤炭。 \\n\\n&6合成升級&r 則是如果東西沒了，它會自動叫網路去「搓」一個出來。 \\n\\n配合使用，你就能實現真正的懶人全自動。"]
+	quest.30700E99091B712A.title: "&c調節與合成升級"
+	quest.33105698C75093C2.quest_desc: ["&4巨量破壞機&r 有 54 個過濾格，速度快 8 倍。簡直是拆遷隊隊長。"]
+	quest.33105698C75093C2.title: "&4巨量破壞機"
+	quest.34F7325C2AFA6DA7.quest_desc: ["這任務是由 &6ATM 員工&r 或某個 &2爆肝網友&r 寫的。如果你看得到這行，代表你現在正在窺視開發者的內心世界（編輯模式）。"]
+	quest.3751015CD5C84134.title: "&b4096B 流體儲存零件"
+	quest.39C8E1705EF1CD31.title: "&e256B 流體儲存零件"
+	quest.3B062B9EC2CEF592.quest_desc: ["&4巨量輸出機&r 有 54 個過濾格，速度快 8 倍。噴東西像機關槍一樣。"]
+	quest.3B062B9EC2CEF592.title: "&4巨量輸出機"
+	quest.3B84215240D9F2CB.quest_desc: ["&3權限管理器&r 用來管理誰能領東西。 \\n\\n你需要為每個玩家設定一張 &3權限卡&r。沒卡的話預設是大家都能進。 \\n\\n如果你怕家產被偷，快裝一個吧。"]
+	quest.3B84215240D9F2CB.quest_subtitle: "鎖好你的網格！"
+	quest.3B84215240D9F2CB.title: "&3權限管理器"
+	quest.3E890BABC4C41370.quest_desc: ["因為控制器有數量限制，你可能會想用無線的方式把不同區塊的網路連起來。 \\n\\n用 &3網路發射器&r 跟 &3網路接收器&r 就能辦到。 \\n\\n記得拿網路卡在接收器上點一下，再插進發射器裡。這就是設定 IP 的過程。"]
+	quest.3E890BABC4C41370.quest_subtitle: "跨區網路連線"
+	quest.3E890BABC4C41370.title: "&3區域網路連動"
+	quest.3F8EEE1AD4420702.title: "&b64k 儲存零件"
+	quest.3FD801D7DE9176FB.title: "&e4k 儲存零件"
+	quest.4101F8275B41C79B.title: "&61k 儲存零件"
+	quest.43E8912CB307E421.quest_desc: ["存好了，但怎麼看？ \\n\\n你需要一個 &3網格 (Grid)&r。這是最基本的顯示介面。 \\n\\n它可以顯示物品、液體、能量...甚至是你的靈魂。"]
+	quest.43E8912CB307E421.quest_subtitle: "別跟社會脫節 (Off the Grid)"
+	quest.43E8912CB307E421.title: "&3網格介面"
+	quest.44881E39AB1D62AA.quest_desc: ["&3自動合成機&r 存著樣板，教網路怎麼搓東西。 \\n\\n把機器對準其他機器，還能玩「處理樣板」。只要連上 Importer，你就能直接在網格裡點一下就做出燒好的處理器。"]
+	quest.44881E39AB1D62AA.quest_subtitle: "自動化萬歲！"
+	quest.44881E39AB1D62AA.title: "&3自動合成機"
+	quest.45FF08E4DB6F7F0E.quest_desc: ["精銳自動合成機，有 18 個格子，速度翻倍。"]
+	quest.4966162FBA933453.title: "&4262m 儲存零件"
+	quest.49772923B8AF0F1F.title: "&b1048kB 流體儲存零件"
+	quest.4A198E875A6B0A64.quest_desc: ["&b終極自動合成機&r 有 36 個格子，速度快 5 倍。"]
+	quest.4A198E875A6B0A64.title: "&b終極自動合成機"
+	quest.4A99CAB529BB9F75.quest_desc: ["&4巨量構築機&r 有 54 個過濾格，速度快 8 倍。蓋房子快到變違建。"]
+	quest.4A99CAB529BB9F75.title: "&4巨量構築機"
+	quest.4B81E84CAE814BA9.title: "&664B 流體儲存零件"
+	quest.4C1F13F5A0E273EF.title: "&6256k 儲存零件"
+	quest.4CD83943865018EA.quest_desc: ["&9輸出機 (Exporter)&r 把東西從網路裡塞進機器。 \\n\\n像是把煤炭塞進熔爐。你可以設定過濾，別塞錯東西了。"]
+	quest.4CD83943865018EA.quest_subtitle: "把東西噴出去！"
+	quest.52ACADDFCB0E22AB.title: "&a4096k 儲存零件"
+	quest.532229D285CA4858.quest_desc: ["&9輸入機 (Importer)&r 把東西從機器吸回網路。 \\n\\n像是把燒好的東西收回來。這就是自動化的循環。"]
+	quest.532229D285CA4858.quest_subtitle: "把東西吸進來！"
+	quest.53CA0D6B4D5A17D5.title: "&616384B 流體儲存零件"
+	quest.59F5ED931FD70C55.quest_desc: ["&9樣板 (Patterns)&r 是自動合成的靈魂。沒有它，網路連個木棍都不會做。"]
+	quest.59F5ED931FD70C55.quest_subtitle: "照著樣板走"
+	quest.59F5ED931FD70C55.title: "自動合成原理"
+	quest.5BB7648DC10E1E08.quest_desc: ["&b終極輸出機&r 有 36 個過濾格，速度快 5 倍。"]
+	quest.5BB7648DC10E1E08.title: "&b終極輸出機"
+	quest.5CAC395680027354.quest_desc: ["&b跨維度無線發射器&r 是發射器的升級版，距離無限，還能跨維度。 \\n\\n簡單說：就是收訊超好的 WiFi。"]
+	quest.5CAC395680027354.quest_subtitle: "超強 WiFi"
+	quest.5CAC395680027354.title: "&d跨維度無線發射器"
+	quest.5EAD916C4F15335F.quest_desc: ["&4巨量輸入機&r 有 54 個過濾格，速度快 8 倍。"]
+	quest.5EAD916C4F15335F.title: "&4巨量輸入機"
+	quest.60244F26B9ABED49.title: "&a1024B 流體儲存零件"
+	quest.6092490EC9008A05.quest_desc: ["&4破壞機&r 會自動拆掉它對準的方塊。 \\n\\n拿來自動刷圓石或是拆牆很好用。"]
+	quest.6092490EC9008A05.quest_subtitle: "拆遷辦公室！"
+	quest.616B6046EF5DDF21.quest_desc: ["精銳輸入機，有 18 個過濾格，速度翻倍。"]
+	quest.64D6C395B6304F40.title: "&e65536B 流體儲存零件"
+	quest.64E85274D24FE394.quest_desc: ["&9存儲監視器&r 用來顯示系統裡某個物品的數量。貼在牆上看起來很有科技感。"]
+	quest.65C8A43FEDBA3835.quest_desc: ["&3樣板網格&r 用來製作樣板。 \\n\\n最簡單的方法是去 JEI 查配方，點右下角的「+」，它就會幫你填好。然後按個箭頭印在空白樣板上就好。"]
+	quest.65C8A43FEDBA3835.title: "&3樣板網格"
+	quest.66D85424EC74EDCC.quest_desc: ["&9可攜式網格&r 是一個獨立的系統。 \\n\\n讓你在沒插電的地方也能打開磁碟看裡面的東西。"]
+	quest.6904EC449FBEE387.quest_desc: ["&9線纜&r 是連動所有零件的血管。 \\n\\n初期你可以方塊貼方塊，但基地變大之後，你一定會需要這些線來延伸你的網路。"]
+	quest.6904EC449FBEE387.quest_subtitle: "血管系統"
+	quest.6904EC449FBEE387.title: "連線用線纜"
+	quest.6973A5923AF7BF05.quest_desc: ["精銳輸出機，有 18 個過濾格，速度翻倍。"]
+	quest.6B04FC81351CD1AB.quest_desc: ["想玩無線網格？先做個 &3無線發射器&r 貼在你的網路上吧。"]
+	quest.6B04FC81351CD1AB.quest_subtitle: "進入 21 世紀"
+	quest.6B04FC81351CD1AB.title: "&5無線存取點"
+	quest.6D81DF90E9C2C049.quest_desc: ["精銳破壞機，有 18 個過濾格，速度翻倍。"]
+	quest.6DB06E3984D0CF97.quest_desc: ["精銳構築機，有 18 個過濾格，速度翻倍。"]
+	quest.7044EAB5EDF32BBC.quest_desc: ["&9合成監視器&r 讓你看到現在網路在幫你搓什麼。 \\n\\n如果某個任務卡住了，來這裡手動取消它。"]
+	quest.7044EAB5EDF32BBC.title: "&3監控自動合成"
+	quest.718A2040D868E09F.title: "&21048m 儲存零件"
+	quest.723E0CD3C8DD36B1.quest_desc: ["精銳磁碟介面，有 18 個過濾格，速度翻倍。"]
+	quest.723F67A9C6993018.quest_desc: ["&b終極磁碟介面&r 有 36 個過濾格，速度快 5 倍。"]
+	quest.723F67A9C6993018.title: "&b終極磁碟介面"
+	quest.744842B2AED28344.quest_desc: ["無線合成網格：領東西、搓東西、裝逼，一次滿足。"]
+	quest.7604D8B3C9FCCFD9.quest_desc: ["磁碟就是 RS 的「硬碟」。 \\n\\n你需要先做儲存零件，再塞進儲存外殼裡。 \\n\\n注意：磁碟就算丟地上也不會消失，資料很安全（大概）。"]
+	quest.787415570026FFAA.quest_desc: ["幫你的破壞機加點附魔吧！ \\n\\n想像一下，讓構築機擺礦石，再讓附帶時運的破壞機把它拆掉。這就是無痛洗礦。"]
+	quest.787415570026FFAA.title: "破壞機魔改工程"
+	quest.796E922CA69BAE82.quest_desc: ["&4巨量磁碟介面&r 有 54 個過濾格，速度快 8 倍。"]
+	quest.796E922CA69BAE82.title: "&4巨量磁碟介面"
+	quest.7C94F6AE2A793858.title: "&e1024k 儲存零件"
+	quest.7DD638E4111D66E7.quest_desc: ["想做高等級磁碟？你得先升級你的磁碟外殼。"]
+	quest.7DD638E4111D66E7.title: "&8進階儲存外殼"
+	quest.7FA85713C86166DA.quest_desc: ["無線合成監視器：讓你不用跑回基地就能取消掉那個卡住的任務。"]
+	task.086992D773D34C15.title: "時運升級"
+	task.2AEFA81B8D7EB62B.title: "不準偷拿 (版權所有)"
+	task.7D72E6723FFA5BB7.title: "不準偷拿 (版權所有)"
+}

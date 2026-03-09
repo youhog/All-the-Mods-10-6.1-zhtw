@@ -1,0 +1,177 @@
+{
+	quest.02DEAB3F1198BFBE.quest_desc: ["&b遠古歪曲森林&r 是 &b&l異界 (The Other)&r 裡的另一種森林。 \\n\\n地板是歪曲蕈岩，下面是地獄石。 \\n\\n這裡不長普通樹，而是長滿了 &b靈魂樹&r！看起來就很陰森。"]
+	quest.02DEAB3F1198BFBE.title: "&b遠古歪曲森林"
+	quest.03326C2FF16F64C3.quest_desc: ["&8巨魔皮革套裝&r 是用巨魔掉的皮做的。不同種類的巨魔只是顏色不一樣，功能都一樣。 \\n\\n防禦力介於鐵裝跟鑽石裝之間。重點是：它能「減免遠程傷害」！ \\n\\n這就像是內建了遠程保護附魔一樣。穿上去你就是個硬梆梆的巨魔。"]
+	quest.03326C2FF16F64C3.title: "&8巨魔皮革套裝"
+	quest.0481E975F317F64D.quest_desc: ["冰龍要冰，火龍要火，那 &5雷龍蛋&r 要幹嘛？丟雨裡淋雨啊！ \\n\\n沒錯，把蛋丟在戶外，只要下雨，它就會開始孵化。 \\n\\n大約 6 分鐘後，一道雷劈下來，你的 &5&l雷龍寶寶&r 就出生了。小心雷劈可能會起火，別把寶寶燒焦了。"]
+	quest.0481E975F317F64D.title: "讓蛋淋雨吧"
+	quest.05113AC92BC1B192.quest_desc: [
+		"&a&l九頭蛇 (Hydras)&r 是這模組最難纏的 Boss 之一。 \\n\\n牠們血量高達 450 顆心，而且最機車的是：如果你沒用 &c火&r 燒牠，牠斷了一個頭會長出兩個頭！ \\n\\n最高可以長到 9 個頭。那畫面簡直是噩夢。所以請務必帶上火源，不然你會打到明年。"
+	]
+	quest.05113AC92BC1B192.title: "&a&l九頭蛇"
+	quest.06ECF443FBCC12FC.quest_desc: ["想要養一隻 &e死亡蠕蟲&r 當寵物嗎？殺死成蟲拿到蛋，丟地上面就有機會孵出聽話的小蟲。 \\n\\n牠們不會跟著你，但會守護家園，殺死所有靠近的怪物。 \\n\\n你還能拿著釣竿騎在牠們背上當「沙漠騎士」。按 G 鍵還能叫牠發動攻擊，超帥。"]
+	quest.06ECF443FBCC12FC.title: "&e死亡蠕蟲&r 衝浪！"
+	quest.07AF1D5C24B069DD.quest_desc: ["用雞蛇的眼睛跟凋零零件做的神祕法杖。 \\n\\n按下去可以讓前方的怪物進入 &0凋零 III&r 狀態。這射程有 20 格遠，是遠距離陰人的好東西。"]
+	quest.07AF1D5C24B069DD.title: "&8雞蛇法杖"
+	quest.09ABD5D978373A54.quest_desc: ["九頭蛇之心是超稀有的寶物！ \\n\\n把它放在快捷列裡，它會給你永久的再生效果。 \\n\\n最猛的是：你的血量越低，再生的等級就越高！這簡直是鎖血外掛。"]
+	quest.09ABD5D978373A54.title: "&a九頭蛇之心"
+	quest.0B3AC4E923332AC6.quest_desc: ["最強的 &b&l冰龍&r 躲在深山的洞穴裡（4 級跟 5 級）。 \\n\\n這些龍大到靠北，血量幾百顆心，護甲比獄髓還厚。 \\n\\n如果你能殺死 4 級以上的母龍，你有機會拿到蛋！這是你唯一能擁有冰龍寵物的方法。加油，屠龍者。"]
+	quest.0B3AC4E923332AC6.title: "&l第 4-5 階 &b冰龍"
+	quest.0C176F04D32B75DD.quest_desc: ["&c火龍鋼&r 是把龍血跟鐵丟進龍之鍛造台做的。 \\n\\n這是目前最強的材料之一。做的武器自帶火屬性跟超高擊退。 \\n\\n穿上全套火龍鋼裝，你就是地獄的主宰。連龍看到你都要退避三舍。"]
+	quest.0C176F04D32B75DD.title: "&c火龍鋼"
+	quest.0DABAD0803DCEA1E.quest_desc: ["龍養好了，怎麼教？ \\n\\n你需要「指令棒」下命令，「龍角」把牠收起來，還有「龍笛」叫飛在天上的龍降落。 \\n\\n你可以命令牠待命、跟隨或是自由巡邏。記住，你是牠的主人（雖然牠看起來比較像老大）。"]
+	quest.0DABAD0803DCEA1E.title: "馴龍高手"
+	quest.0F9DCF36112C9922.quest_desc: ["&9潮汐守衛套裝&r 是用海妖鱗片做的。 \\n\\n防禦力比獄髓還強！而且每一件裝備都加 1 級力量。穿全套直接送你力量 IV！ \\n\\n這就是所謂的電子花車戰衣，強得沒道理。"]
+	quest.0F9DCF36112C9922.title: "&9潮汐守衛套裝"
+	quest.0FE94BE5ADB6E595.quest_desc: ["九頭蛇洞穴藏在歪曲森林裡。雖然很隱密，但裡面住著那尊大佛。進去前請確保你帶了火。"]
+	quest.0FE94BE5ADB6E595.title: "&a九頭蛇洞穴"
+	quest.1042A0DC0A9321BB.quest_desc: ["雷龍是這模組傷害最高的龍。 \\n\\n牠們躲在洞穴裡，看到人就噴電。打贏 4 級以上的母龍可以拿蛋。祝你的電抗藥水夠用。"]
+	quest.1042A0DC0A9321BB.title: "&l第 4-5 階 &5雷龍"
+	quest.10642351AD9A9907.quest_desc: ["用風神翼龍羽毛做的箭。內建「擊退 II」效果。 \\n\\n一箭下去，怪物直接飛上天跟太陽肩並肩。"]
+	quest.10642351AD9A9907.title: "&3風神翼龍箭"
+	quest.10CA52D15EAB71A3.quest_desc: ["&e異界沙漠&r 是個鳥不生蛋的地方。 \\n\\n除了沙子還是沙子。不過這裡住著獨眼巨人，沒事別亂逛。"]
+	quest.10CA52D15EAB71A3.title: "&e異界沙漠"
+	quest.121DE9824813D558.quest_desc: ["蛇髮女妖梅杜莎的家。裡面有很多「石化的受害者」。 \\n\\n記得戴上眼罩再進去，不然你會成為下一座雕像。"]
+	quest.121DE9824813D558.title: "&2蛇髮女妖神廟"
+	quest.131164DA08BB87B3.quest_desc: ["獅鷲獸可以用兔子腳馴服。 \\n\\n牠們是很棒的坐騎，能飛能跑。還能裝箱子幫你背垃圾。"]
+	quest.131164DA08BB87B3.title: "馴服獅鷲獸"
+	quest.136C40D8350651DC.quest_desc: ["海面上的小島，住著會唱歌的海妖。 \\n\\n聽說歌聲很好聽，但聽完你命就沒了。記得戴耳塞。"]
+	quest.136C40D8350651DC.title: "&c海妖島"
+	quest.14CF23064A6035CD.quest_desc: ["幽靈會從墳場或是被詛咒的箱子裡噴出來。 \\n\\n牠們能穿牆，很煩人。殺了會掉電漿，是用來做高級武器的材料。"]
+	quest.14CF23064A6035CD.title: "&a幽靈"
+	quest.1713E5D74658F095.quest_desc: ["海妖長得像美人魚，但脾氣差很多。 \\n\\n牠們會用歌聲把你吸過去，然後把你撕碎。戴上耳塞是唯一的解藥。"]
+	quest.1713E5D74658F095.title: "&c海妖 (Sirens)"
+	quest.176D31AF1B0925AA.quest_desc: ["火龍鍛造台要蓋 3x3x3。 \\n\\n你需要一隻 Tamed 的火龍對著它噴火來提供熱量。這才是真正的「火力全開」。"]
+	quest.176D31AF1B0925AA.title: "&c&l火龍鍛造台"
+	quest.1CB063BBEC35712B.quest_desc: ["雷龍洞穴裡滿地都是電金跟紫水晶。當然，還有一隻隨時會把你電焦的老大。"]
+	quest.1CB063BBEC35712B.title: "&5雷龍洞穴"
+	quest.210542B036255FBF.quest_desc: ["雷龍鍛造台。一樣要找雷龍來噴電。 \\n\\n做出來的雷龍鋼武器，每一下都會召喚天雷劈死敵人。中二病首選。"]
+	quest.210542B036255FBF.title: "&5&l雷龍鍛造台"
+	quest.2738184B6A688D2C.quest_desc: ["用怪鳥羽毛做的箭。飛得更快更直，適合拿來狙擊。"]
+	quest.2738184B6A688D2C.title: "&8怪鳥箭"
+	quest.2A26CE0E88B62002.quest_desc: ["殺死獨眼巨人拿到的眼睛。 \\n\\n拿在手上會讓周圍的怪變虛弱。雖然有點噁心，但真的好用。"]
+	quest.2A26CE0E88B62002.title: "&4獨眼巨人之眼"
+	quest.2B2BB53FA86A07B7.quest_desc: ["把冰龍蛋丟進水裡，它會把水結成冰。 \\n\\n等 6 分鐘，冰塊碎掉，小冰龍就出來了。"]
+	quest.2B2BB53FA86A07B7.title: "孵化冰龍蛋"
+	quest.2B84A4377688B189.quest_desc: ["殺掉海蛇拿鱗片。這是做海王套裝（潮汐守衛）的材料。"]
+	quest.2B84A4377688B189.title: "&9海蛇鱗片"
+	quest.2B90982E3B1E545C.quest_desc: ["這是模組的說明書。你可以把撿到的稿件放進去解鎖更多怪物資料。"]
+	quest.2B90982E3B1E545C.title: "怪物百科全書"
+	quest.2D71532A99C167AA.quest_desc: ["風神翼龍是異界沙漠的霸主。 \\n\\n牠們動作超快，會把你撞飛。雖然很煩，但掉的羽毛很有用。"]
+	quest.2D71532A99C167AA.title: "&3風神翼龍"
+	quest.2E0FBBE43D92CA42.quest_desc: ["鐵鍊比韁繩強 87 倍。連龍都拉得動！ \\n\\n如果你想把龍栓在家門口當保全，一定要用這個。"]
+	quest.2E0FBBE43D92CA42.title: "堅固鐵鍊"
+	quest.2E7D6A54B361B727.quest_desc: ["怪鳥羽毛做的匕首。傷害一般但攻速快到爆炸。"]
+	quest.2E7D6A54B361B727.title: "&8怪鳥匕首"
+	quest.315913D32319F010.quest_desc: ["把妖精塞進罐子裡。牠們會慢慢產出妖精粉。 \\n\\n雖然這聽起來很殘酷，但為了魔法，忍耐一下吧。"]
+	quest.315913D32319F010.title: "罐中妖精 (產粉工廠)"
+	quest.3166CA00032C18F7.quest_desc: ["大部分怪物都能馴服。指令很簡單：待命、跟隨、巡邏。"]
+	quest.3166CA00032C18F7.title: "怪物管教指南"
+	quest.32992E3534B86521.quest_desc: ["初級火龍（1-3 級）。 \\n\\n牠們會在地表築巢。雖然比起老龍弱一點，但噴起火來也是會把你烤焦的。殺了拿血拿鱗片。"]
+	quest.32992E3534B86521.title: "&l第 1-3 階 &c火龍"
+	quest.32C45C6C811FB5F9.quest_desc: ["給妖精吃蛋糕，牠們就會跟你當好朋友。 \\n\\n不同顏色的妖精會給你不同的 Buff。帶著牠們就像帶著一堆永久藥水。"]
+	quest.32C45C6C811FB5F9.title: "跟妖精交朋友"
+	quest.37DB7871590921CF.quest_desc: ["海馬可以用海帶馴服。 \\n\\n水底跑最快的坐騎。還內建氧氣供應，水下觀光必備。"]
+	quest.37DB7871590921CF.title: "馴服海馬"
+	quest.3804364077F4BAD4.quest_desc: ["用妖精翅膀做的法杖。射出的光彈會讓怪飛起來。"]
+	quest.3804364077F4BAD4.title: "&d妖精法杖"
+	quest.38CAB3EF0D89B8F4.quest_desc: ["雞蛇長得像公雞但有龍的尾巴。 \\n\\n別看牠長得滑稽，牠的眼睛會瞪死人。如果你不想變虛弱，記得別跟牠對視。"]
+	quest.38CAB3EF0D89B8F4.title: "&8雞蛇"
+	quest.39107884D6C80D41.quest_desc: ["用幽冥錠做的劍。 \\n\\n可以穿牆打怪。對付那些躲在牆後的煩人小黑超好用。"]
+	quest.39107884D6C80D41.title: "&a幽冥之刃"
+	quest.395417A7ABC3658F.quest_desc: ["砍下蛇髮女妖的頭。 \\n\\n對準怪物按右鍵，直接把牠變成石頭。雖然是消耗品，但殺 Boss 超強。"]
+	quest.395417A7ABC3658F.title: "&2蛇髮女妖的頭"
+	quest.3C0671BE5E94730E.quest_desc: ["獨眼巨人很大隻，會把你抓起來啃。 \\n\\n弱點是那顆大眼睛。拿弓箭射牠眼睛會讓牠致盲，趁機輸出吧！"]
+	quest.3C0671BE5E94730E.title: "&4獨眼巨人"
+	quest.406433F7FF3B0E7B.quest_desc: ["冰龍鋼武器會凍結敵人。穿上全套你就是冰雪奇緣的主角（大誤）。"]
+	quest.406433F7FF3B0E7B.title: "&b冰龍鋼"
+	quest.41C7DEAB41F4B700.quest_desc: ["梅杜莎。這東西超陰險，看一眼就石化。記得戴上眼罩。"]
+	quest.41C7DEAB41F4B700.title: "&2蛇髮女妖"
+	quest.41F9CC26C7D86AE9.quest_desc: ["用海馬尾巴做的... 扇子？ \\n\\n打人會讓人反胃跟緩速。這武器純粹是拿來惡搞隊友的吧。"]
+	quest.41F9CC26C7D86AE9.title: "&b海馬耳光扇"
+	quest.42626A0CD814353D.quest_desc: ["雷龍的地表巢穴。滿地都是銅礦。"]
+	quest.42626A0CD814353D.title: "&5雷龍巢穴"
+	quest.43008E93B34F4F06.quest_desc: ["海蛇零件做的箭。在水裡射箭不會減速！"]
+	quest.43008E93B34F4F06.title: "&9海蛇箭"
+	quest.435890CE1A1B3C04.quest_desc: ["獨眼巨人的家。裡面有一堆羊，還有巨人的寶藏。"]
+	quest.435890CE1A1B3C04.title: "&4獨眼巨人洞穴"
+	quest.43630EF0B85AE7E1.quest_desc: ["地底深處的大火爐。裡面住著最兇殘的火龍。"]
+	quest.43630EF0B85AE7E1.title: "&c火龍洞穴"
+	quest.43922DB543DC05C0.quest_desc: ["地表的冰龍（1-3 級）。 \\n\\n住在雪山上。會噴冰息把你凍住。"]
+	quest.43922DB543DC05C0.title: "&l第 1-3 階 &b冰龍"
+	quest.445DB66B81146E91.quest_desc: ["用翼龍毛做的黑曜石木劍。 \\n\\n每一下都能讓人眩暈，破盾神器。"]
+	quest.445DB66B81146E91.title: "&3風神馬誇威特爾"
+	quest.45068FB6758D3BA1.quest_desc: ["蓋個冰龍鍛造台。找冰龍來噴冰。 \\n\\n做出的冰龍鋼是目前防禦力最高的材料之一。"]
+	quest.45068FB6758D3BA1.title: "&b&l冰龍鍛造台"
+	quest.45084D3A3E5DB63B.quest_desc: ["巨魔掉的皮跟牙齒。可以用來做那套遠程減傷甲。"]
+	quest.45084D3A3E5DB63B.title: "&8巨魔零件"
+	quest.46AADB01BBD156D2.quest_desc: ["盯著雞蛇看直到牠屈服。或者是孵蛋。 \\n\\n養一隻雞蛇當護衛，牠會瞪死所有想靠近你的怪。"]
+	quest.46AADB01BBD156D2.title: "馴服雞蛇"
+	quest.47A7F4972D58A7D5.quest_desc: ["嫌龍長太慢？餵牠吃龍餐！ \\n\\n一餐長一歲，幾組下去你的龍就變巨無霸了。"]
+	quest.47A7F4972D58A7D5.title: "高級龍飼料"
+	quest.47E4BA6643A4BA85.quest_desc: ["想當沙漠騎兵？去馴服一隻風神翼龍吧。"]
+	quest.47E4BA6643A4BA85.title: "馴服風神翼龍"
+	quest.48B1BD7D86CAC4A0.quest_desc: ["滿地靈魂砂的地方。小心別陷進去。"]
+	quest.48B1BD7D86CAC4A0.title: "&7異界靈魂砂谷"
+	quest.4A84C8578C2F7F71.quest_desc: ["用蠕蟲舌頭做的手套。 \\n\\n可以像奪魂鋸一樣把怪抓過來。超爽快。"]
+	quest.4A84C8578C2F7F71.title: "&e死亡蠕蟲手套"
+	quest.4AFDC9ACAC926654.quest_desc: ["母雞有機率生出這種黑蛋。丟出來就是聽話的小雞蛇。"]
+	quest.4AFDC9ACAC926654.title: "&0雞蛇蛋"
+	quest.4B65720872B062F8.quest_desc: ["地表的雷龍（1-3 級）。 \\n\\n牠們是夜貓子，白天在睡覺。趁牠們睡覺的時候去偷箱子吧。"]
+	quest.4B65720872B062F8.title: "&l第 1-3 階 &5雷龍"
+	quest.4ED6B18DF7D51E13.quest_desc: ["沙子底下的殺手。如果你看到沙子在動，快跑！ \\n\\n或者餵牠吃 TNT，看牠從內部爆炸。"]
+	quest.4ED6B18DF7D51E13.title: "&e死亡蠕蟲"
+	quest.59D91C5E11F67FC3.quest_desc: ["紅通通的森林。裡面長著惡魔樹。"]
+	quest.59D91C5E11F67FC3.title: "&c遠古緋紅森林"
+	quest.5D6A4E574823446F.quest_desc: ["巨魔躲在山洞裡。牠們怕光，所以只在晚上或是陰影下出沒。 \\n\\n雖然長得醜，但掉的東西滿香的。"]
+	quest.5D6A4E574823446F.title: "&8巨魔"
+	quest.5E45C9C2D72EDBCC.quest_desc: ["妖精的家。很漂亮但別亂偷東西，牠們會生氣的。"]
+	quest.5E45C9C2D72EDBCC.title: "&d妖精小鎮"
+	quest.6009E239E2E15236.quest_desc: ["獅鷲獸。很帥氣的坐騎。"]
+	quest.6009E239E2E15236.title: "獅鷲獸"
+	quest.617C6D6C35B4917D.quest_desc: ["妖精很可愛但會偷你東西。記得把口袋鎖好。"]
+	quest.617C6D6C35B4917D.title: "&d妖精"
+	quest.65E98FCE27B552F4.quest_desc: ["九頭蛇牙齒做的箭。內建「吸血」效果。"]
+	quest.65E98FCE27B552F4.title: "&a九頭蛇箭"
+	quest.661114AFCBBD5F28.quest_desc: ["墳場。裡面有一堆死人骨頭跟幽靈。"]
+	quest.661114AFCBBD5F28.title: "&a古代墳場"
+	quest.666FFDFDB7C869F5.quest_desc: ["金屬做的怪鳥。成群結隊攻擊人。"]
+	quest.666FFDFDB7C869F5.title: "&8怪鳥 (Stymphalian Birds)"
+	quest.6774BBE7C7C5D7EB.quest_desc: ["蠕蟲的殼。可以用來做蠕蟲裝。"]
+	quest.6774BBE7C7C5D7EB.title: "&e死亡蠕蟲殼"
+	quest.6800E0113DE9A4DB.quest_desc: ["龍的等級越高越難殺。 \\n\\n但也越值得。畢竟誰不想騎著一頭 5 級巨龍去炸隊友的家呢？"]
+	quest.6800E0113DE9A4DB.title: "巨龍進化史"
+	quest.69211D34F8182976.quest_desc: ["用獅鷲爪子做的劍。內建橫掃效果。"]
+	quest.69211D34F8182976.title: "&6獅鷲爪之劍"
+	quest.6ECB27052FCB874E.quest_desc: ["有些海生怪物還沒搬到異界去。去主世界的深海找找看吧。"]
+	quest.6ECB27052FCB874E.title: "搬家延遲公告"
+	quest.6FE6F50029D690C0.quest_desc: ["海蛇叉子。在水裡傷害超高。"]
+	quest.6FE6F50029D690C0.title: "&9潮汐三叉戟"
+	quest.70099F9B69F9D055.quest_desc: ["極寒之地的地洞。裡面住著最兇殘的冰龍。"]
+	quest.70099F9B69F9D055.title: "&b冰龍洞穴"
+	quest.703790CCCE440946.quest_desc: ["這是異界裡最正常的生態系了。也就是說，怪一樣很多。"]
+	quest.703790CCCE440946.title: "&3異界高原"
+	quest.70AD5D79881EE1B5.quest_desc: ["雪山上的龍巢。滿地都是銀礦。"]
+	quest.70AD5D79881EE1B5.title: "&b冰龍巢穴"
+	quest.72FB345F3A7E7288.quest_desc: ["雷龍鋼。每一下都帶電。"]
+	quest.72FB345F3A7E7288.title: "&5雷龍鋼"
+	quest.74C648FC8733310B.quest_desc: ["海裡的巨大毒蛇。體型越大越危險。"]
+	quest.74C648FC8733310B.title: "&9海蛇"
+	quest.760864EE43FB33AC.quest_desc: ["海馬。溫順的水中坐騎。"]
+	quest.760864EE43FB33AC.title: "&b海馬"
+	quest.765CD913CC3896B2.quest_desc: ["地底火龍王。打贏牠你就是這模組的王者。"]
+	quest.765CD913CC3896B2.title: "&l第 4-5 階 &c火龍"
+	quest.77793642678CB886.quest_desc: ["把蛋放在火堆裡烤。 6 分鐘後，小火龍就出生了。"]
+	quest.77793642678CB886.title: "烤龍蛋"
+	quest.7B21D2FAD5F3246A.quest_desc: ["這是一個會讓你死到懷疑人生的模組。歡迎！"]
+	quest.7B21D2FAD5F3246A.title: "&b&l冰與火之歌"
+	quest.7C5FC2015F1E6DB1.quest_desc: ["巨魔拿的大柱子。揮起來很慢但打人超痛。"]
+	quest.7C5FC2015F1E6DB1.title: "&8巨魔大槌"
+	quest.7CBF22CCCF599F26.quest_desc: ["海妖眼淚做的笛子。吹一下怪物就愛上你了。"]
+	quest.7CBF22CCCF599F26.title: "&c海妖笛"
+	quest.7D086BC5AC152E27.quest_desc: ["亮晶晶的鱗片。"]
+	quest.7D086BC5AC152E27.title: "&b亮晶晶鱗片"
+	quest.7FA9EA93602A98EC.quest_desc: ["地表火龍巢穴。滿地都是金幣。"]
+	quest.7FA9EA93602A98EC.title: "&c火龍巢穴"
+	task.73AE639A41A16778.title: "不準偷拿 (版權所有)"
+}

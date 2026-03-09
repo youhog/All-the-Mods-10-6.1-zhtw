@@ -1,0 +1,92 @@
+{
+	quest.0450060852F290CA.quest_desc: [
+		"&9深淵之地 (Deeplands)&r 是最像「深暗之域」的地方。 \\n\\n這裡滿地都是 &3 Sculk&r、感測器跟尖叫體。沒錯，那隻瞎子 &9&l監守者&r 一樣會出來找你泡茶。 \\n\\n這裡還有更多奇怪的 Sculk 生物跟植物，還有這維度唯一的遺跡建築。"
+	]
+	quest.0450060852F290CA.title: "&9深淵之地"
+	quest.0850F88E2205623F.quest_desc: ["&3Sculk 觸手&r 就像是 Sculk 版的垂藤。偶爾會出現在深淵之地的天花板上。"]
+	quest.0850F88E2205623F.title: "&3Sculk 觸手"
+	quest.0B11EAB8D76529E0.quest_desc: ["&6遠古城市&r 是主世界最危險的地方。 \\n\\n這裡有爆量的 Sculk、寶藏，還有那個手很重的監守者。你要找的傳送門框就在城市正中央。"]
+	quest.0B11EAB8D76529E0.title: "探訪 &6遠古城市"
+	quest.0B718FC37699B822.quest_desc: ["&a回聲木&r 長在回聲森林裡。 \\n\\n樹葉是紫色的，木頭則是優雅的薄荷綠。做出來的家具很有科幻感。"]
+	quest.0B718FC37699B822.title: "&a回聲之樹"
+	quest.10E025288BB00657.quest_desc: ["&b淤泥怪&r 長得像史萊姆，但顏色很噁心。 \\n\\n大的打死會變中的，中的打死會變小的。這就是所謂的子孫滿堂。"]
+	quest.10E025288BB00657.title: "&b淤泥怪"
+	quest.13B338F377951032.quest_desc: ["想學監守者噴音波嗎？ \\n\\n做出 &b迴響法杖&r，你就能射出強力的音波砲！ \\n\\n你需要監守者的心臟、潛伏者的靈魂水晶，還有碎裂者的骨頭。這法杖拿在手上，你就是地下之王。"]
+	quest.13B338F377951032.title: "&b迴響法杖"
+	quest.16A2CC83C99B1F86.quest_desc: ["這魚長得很有個性（指很醜）。牠們會主動咬你，殺了什麼都不會掉。純粹是來亂的。"]
+	quest.16A2CC83C99B1F86.title: "&9安格勒魚"
+	quest.183F6A790EC006B8.quest_desc: ["&b綻放木&r 長得不像樹，比較像巨大化的雜草。 \\n\\n它是綻放洞窟唯一的木材來源。顏色是亮藍色的，非常顯眼。"]
+	quest.183F6A790EC006B8.title: "&b綻放木材"
+	quest.196003E1486ABB31.quest_desc: ["想把裝備升級成 &9監守者級&r？你得先去遠古城市偷樣板。 \\n\\n拿到一個後可以用 7 顆鑽石無限複製。這開銷真的很大。"]
+	quest.196003E1486ABB31.title: "&9監守者級鍛造樣板"
+	quest.1A2EA742FDED54FF.quest_desc: ["森林的地板。雖然叫土，但不能種普通花草。"]
+	quest.1A2EA742FDED54FF.title: "&5回聲土壤"
+	quest.1BFE6745F49B4AB0.quest_desc: ["Sculk 版的螢光石。照亮地底的好夥伴。"]
+	quest.201E3E41018F9521.quest_desc: ["這仙人掌長在過熱區域。可以燒成橘色染料。手賤去摸一樣會扣血。"]
+	quest.201E3E41018F9521.title: "&6陰鬱仙人掌"
+	quest.21398F45428CD1D1.quest_desc: ["綻放洞窟唯一的食物。雖然看起來有點毒，但吃下去飽食度還不錯。"]
+	quest.21398F45428CD1D1.title: "&6綻放漿果"
+	quest.35629CB10DBDE340.quest_desc: ["蓋得像馬雅金字塔的巨大建築。 \\n\\n裡面有一堆寶箱，還有很多古老的花瓶。裡面住著不少「潛伏者」，記得放輕腳步。"]
+	quest.35629CB10DBDE340.title: "&6古代神廟"
+	quest.36149E69A8C264E4.quest_desc: ["長在水面上的花。可以用剪刀剪下來裝飾你家。"]
+	quest.36149E69A8C264E4.title: "&b寒冰睡蓮"
+	quest.39100B3867E9C01E.quest_desc: ["踩上去會把你噴到天上的天然跳跳床。 \\n\\n記得穿好帶有輕盈落下的鞋子，不然你會變成一灘肉泥。"]
+	quest.39100B3867E9C01E.title: "&c陰鬱噴泉"
+	quest.39BED5DD9D24F98E.quest_desc: ["這維度的黏土。可以做成漂亮的磚塊。"]
+	quest.39BED5DD9D24F98E.title: "&3Sculk 淤泥"
+	quest.3CF2DFB7F0CE065B.quest_desc: ["這裡超熱！到處都是岩漿跟發光的方塊。 \\n\\n雖然這環境很糟糕，但產出的方塊顏色非常漂亮。"]
+	quest.3CF2DFB7F0CE065B.title: "&c陰鬱岩柱"
+	quest.3D579A1F7EFEDD5C.quest_desc: ["那個瞎子 Boss。牠沒眼睛，全靠耳朵聽。 \\n\\n蹲著走就不會被發現。如果你跑起來... 準備好迎接那一發無視護甲的音波吧。"]
+	quest.3D579A1F7EFEDD5C.title: "宰了那個 &9&l監守者"
+	quest.44F9B8F285546B2C.quest_desc: ["長在洞窟地上的地毯。"]
+	quest.44F9B8F285546B2C.title: "&b綻放苔蘚"
+	quest.45C9D975E3731DFE.quest_desc: ["強化版的回聲碎片。用來做最強的裝備跟武器。"]
+	quest.45C9D975E3731DFE.title: "&9強化回聲碎片"
+	quest.4A01C5F5DCF32C19.quest_desc: ["這鞘翅比普通的好用多了。 \\n\\n防禦更高，耐久更高。你現在就像是一隻飛行的監守者。"]
+	quest.4A01C5F5DCF32C19.title: "&3靈魂鞘翅"
+	quest.4D57A07592AED307.quest_desc: ["牠躲在花瓶裡！如果你敲破花瓶，這隻 Boss 就會跳出來。 \\n\\n牠動作很快，還會召喚小弟圍毆你。殺了牠拿靈魂水晶。"]
+	quest.4D57A07592AED307.title: "&3&l潛伏者 (Stalker)"
+	quest.56D41A4605C42EB5.quest_desc: ["裝飾用礦石。"]
+	quest.56D41A4605C42EB5.title: "&6結晶琥珀"
+	quest.5866438E5D19AB69.quest_desc: ["噁心的蟲子。會從牆壁裡鑽出來咬你。"]
+	quest.5866438E5D19AB69.title: "&3Sculk 螞蟥"
+	quest.59AF80E8EE17C769.quest_desc: ["這裡長滿了回聲之樹。環境雖然昏暗，但有一種靜謐的美感（如果不去管那些怪的話）。"]
+	quest.59AF80E8EE17C769.title: "&5回聲森林"
+	quest.5C983A41886A2B75.quest_desc: ["玩膩了嗎？想回家？ \\n\\n去神廟底層找傳送門，拿心臟點一下就能回主世界了。"]
+	quest.5C983A41886A2B75.title: "我要回家！"
+	quest.5CCF573B67317591.quest_desc: ["純裝飾。"]
+	quest.5CCF573B67317591.title: "&b螢光根鬚"
+	quest.5E287410EE969244.quest_desc: ["長得像監守者的迷你版。雖然不會噴波，但打人一樣很痛。"]
+	quest.5E287410EE969244.title: "&9碎裂者 (Shattered)"
+	quest.60721C9B94B36C24.quest_desc: ["長長的、有很多腳。如果你不去惹牠們，牠們通常不會理你。"]
+	quest.60721C9B94B36C24.title: "&3Sculk 蜈蚣"
+	quest.67D38E8A57949B34.quest_desc: ["地上的陷阱。踩到會被咬掉一大塊肉。建議拿絲綢觸摸挖回家放門口當防盜。"]
+	quest.67D38E8A57949B34.title: "&3Sculk 大顎"
+	quest.68446510A1B0D9B8.quest_desc: ["最漂亮的生態系。到處都是藍色的光跟奇特的植物。"]
+	quest.68446510A1B0D9B8.title: "&b綻放洞窟"
+	quest.6BB948F44B0950E8.quest_desc: ["這維度的石頭。"]
+	quest.6BB948F44B0950E8.title: "&3Sculk 岩石"
+	quest.6E38CF6E7360E9CA.quest_desc: ["殺死監守者的核心獎勵。可以用來開啟傳送門前往「異界 (Otherside)」。"]
+	quest.6E38CF6E7360E9CA.title: "&9深淵之心"
+	quest.6E901EF1CB411088.quest_desc: ["最強防具！穿上去你就是縮小版的監守者。防禦力爆表，還能擋掉不少負面效果。"]
+	quest.6E901EF1CB411088.title: "&9監守者套裝"
+	quest.716FF64ACF896D50.quest_desc: ["深層石的陰暗版。"]
+	quest.716FF64ACF896D50.title: "&cGloomslate"
+	quest.726A627BD7654E0C.quest_desc: ["挖得更快、打得更痛。這就是監守者科技。"]
+	quest.726A627BD7654E0C.title: "&9監守者級工具"
+	quest.72EC845C19645AFC.quest_desc: [" Sculk 版的藤蔓。"]
+	quest.72EC845C19645AFC.title: "&3Sculk 藤蔓"
+	quest.736F4A43EEBDD7B3.quest_desc: ["長得像螃蟹的 Sculk 生物。"]
+	quest.736F4A43EEBDD7B3.title: "&3Sculk 飛龍 (Snapper)"
+	quest.76F14C2B866B4EAD.quest_desc: ["歡迎來到 &3&l異界 (The Otherside)&r！ \\n\\n這裡就是 Sculk 的老家。準備好你的鋤頭跟膽子，我們要去拆監守者的台了！"]
+	quest.76F14C2B866B4EAD.title: "歡迎來到 &3&l異界"
+	quest.774D61FEFABEFD9A.quest_desc: ["這蟲子很煩，咬人超痛。如果不小心踩到感染塊，牠就會跳出來嚇死你。"]
+	quest.774D61FEFABEFD9A.title: "叫體蠕蟲"
+	quest.78BCED8699ADEDF4.quest_desc: ["隔音效果一流。這玻璃蓋在感測器旁邊，牠就成了聾子。非常實用。"]
+	quest.78BCED8699ADEDF4.title: "&3隔音玻璃"
+	quest.7CBAA67204CC258C.quest_desc: ["這劍揮起來有音波特效（誤）。傷害是真的高。"]
+	quest.7CBAA67204CC258C.title: "&9監守者級武器"
+	quest.7FF3EA602FE7A546.quest_desc: ["超稀有的傳送器！對準一個有介面的機器按一下連結，以後你人在異界也能遙控家裡的熔爐或箱子。簡直是魔法版 TeamViewer。"]
+	quest.7FF3EA602FE7A546.title: "&3Sculk 遠端控制器"
+	task.5B7FD7C2F05FA64D.title: "不準偷拿 (版權所有)"
+}

@@ -1,0 +1,113 @@
+{
+	quest.068128395837AF4F.quest_subtitle: "跟蒸汽的一樣用法啦"
+	quest.08C870DC50CA49FC.quest_desc: [
+		"&#5C5C5C原油&r 直接燒沒啥用，但丟進蒸餾器，它就變成了寶。"
+		""
+		"我們可以弄出重油、輕油跟石腦油。這些都是工業的血液。"
+	]
+	quest.08C870DC50CA49FC.title: "&#5C5C5C原油加工"
+	quest.0903F0D8642449B7.quest_desc: ["告別類比，進入數位！現在我們能處理更多資訊，這代表... 更多的機器等著你蓋。"]
+	quest.0A9ADDE68342B987.quest_desc: [
+		"要做 &#43DEC2聚乙烯&r，你要跑這一長串化學反應："
+		""
+		"&8原油&r -> 含硫輕油 -> 輕油 -> 蒸汽裂解輕油 -> &#44D1DB乙烯&r -> &#43DEC2聚乙烯&r。加油，化學老師在看你。"
+	]
+	quest.0C94D76B87E49FFD.title: "鋼鐵加工"
+	quest.103728F2BAD5AE84.title: "進階零件"
+	quest.1351D0594F1E6551.quest_desc: ["這些基礎電子零件是通往未來的門票。"]
+	quest.1351D0594F1E6551.title: "電路板零件"
+	quest.162807D14C173CB4.quest_desc: ["&#5599ED離心機&r 證明了一個理論：只要轉得夠快，什麼髒東西都會被甩出來。你會需要它來處理鉻跟獨居石。"]
+	quest.162807D14C173CB4.quest_subtitle: "轉吧！轉吧！七彩離心機"
+	quest.1745124F83D033B9.title: "基礎零件"
+	quest.18C0EF38430C3E67.quest_subtitle: "數位時代來臨"
+	quest.1A84DF4478D55C41.quest_subtitle: "跟蒸汽的一樣用法啦"
+	quest.1B4CD5AC8F6C3307.quest_desc: ["&#4497DB超頻模組&r 讓機器就算沒在工作也能保持效率。代價是這台機器會被鎖定在那個配方上。這叫專心致志。"]
+	quest.1E0EF28175A7424F.quest_desc: ["既然你都煮了這麼多蒸汽，不拿來發電太可惜了吧？弄台 &#6363DB渦輪機&r，蒸汽進去，電力出來。真香。"]
+	quest.1E0EF28175A7424F.quest_subtitle: "蒸汽變電力"
+	quest.1F21B578FAF4CCAC.quest_subtitle: "跟蒸汽的一樣用法啦"
+	quest.1F3E18129B871C49.quest_subtitle: "跟蒸汽的一樣用法啦"
+	quest.22AD9DF2BCC04575.quest_subtitle: "發電囉！"
+	quest.22AD9DF2BCC04575.title: "電力生成"
+	quest.256C3DBA392B4236.quest_desc: ["電解那些酸性溶液，你就能得到錳跟鉻粉。這是後期合金的關鍵。"]
+	quest.256C3DBA392B4236.quest_subtitle: "9 碎粉 = 1 粉，這公式要背熟"
+	quest.2EF0C033C540A7B1.title: "紅寶石加工"
+	quest.32D585D9F73CD9FD.quest_desc: ["&#EDDF55電力高爐&r 能燒一堆高級資源。注意：有些配方需要特定的線圈才能啟動。"]
+	quest.374C06B3999BB0D3.quest_desc: ["把鐵、鉻、鎳跟錳混在一起，恭喜你得到 &#ADF0EE不鏽鋼粉&r。這東西超難燒。"]
+	quest.3A03852E282DAA4D.quest_desc: ["&#ED8055電解機&r 用強大的電流把物質強行拆解成最原始的形態。暴力拆解的極致。"]
+	quest.3B9D9CB589DB2003.quest_desc: [
+		"&#71EBB4&n現代工業&r 的機器邏輯很特別。每台機器都有個 &#E5EB71效率加成&r。只要讓它一直跑同一個配方，它就會越來越快。一旦換配方，效率就會歸零。這就是為什麼你要蓋幾百台機器的原因。"
+		""
+		"建議：一個機器只跑一個配方。別想著省錢，這模組包錢不值錢，時間（TPS）才值錢。"
+		""
+		"{image:atm:textures/questpics/modernindustrialization/prod_line.png width:100 height:100 align:center}"
+		""
+		"{@pagebreak}"
+		"所有機器都吃 FE 電量。&c16 FE&r = &#E1EB591 EU&r。這匯率要記好。"
+	]
+	quest.3B9D9CB589DB2003.quest_subtitle: "不看這行你一定會後悔"
+	quest.3CE72DAF431269CD.quest_desc: ["&#D6AC2F極化機&r 會幫金屬充磁。"]
+	quest.401A3FD6A3511870.quest_subtitle: "開門！"
+	quest.401A3FD6A3511870.title: "邏輯門"
+	quest.401B559649C54C5C.quest_desc: ["把氫氣跟氯氣混在一起變鹽酸。別喝下去，那是拿來洗鉻粉的。"]
+	quest.408EBED932656006.quest_desc: ["給 &7矽&r 摻點雜質（Doping），產量會比純矽好得多。這就是半導體產業的祕密。"]
+	quest.408EBED932656006.title: "摻雜矽"
+	quest.413F338DB07BA88C.quest_subtitle: "跟蒸汽的一樣用法啦"
+	quest.4A5A143A79809BB6.quest_desc: [
+		"喔！你終於熬過蒸汽時代了。歡迎來到電力時代，這才是真正的遊戲開始。"
+		""
+		"首先，我們先來做電池合金... 為了做電池。這名字取得真有創意。"
+	]
+	quest.4A5A143A79809BB6.quest_subtitle: "電池合金"
+	quest.4A5A143A79809BB6.title: "電力時代"
+	quest.4E7B1B16C7CDA84C.quest_subtitle: "跟蒸汽的一樣用法啦"
+	quest.532BCAB3FBF91B1D.quest_desc: [
+		"&#44DB9C升級模組&r 讓機器進入「超頻」狀態，大幅提升最高速。"
+		""
+		"一個機器最多能塞一整疊升級。&#CEDB44基礎升級&r 每顆增加 &#F7F448+2EU/t&r 的功耗上限。"
+	]
+	quest.548274CC00E67EC4.quest_desc: ["傳電很簡單，拿線連起來就好。LV 電纜最多只能傳 &#EEFA3C256 EU/t&r。別讓它過載，不然線會燒掉（誤）。"]
+	quest.548274CC00E67EC4.quest_subtitle: "傳電上限"
+	quest.548274CC00E67EC4.title: "LV 電纜"
+	quest.54CE9493B63620C4.quest_desc: ["&#AC59EB柴油發電機&r 能燒各種液體燃料。初期燒雜酚油或合成油是最划算的選擇。"]
+	quest.54CE9493B63620C4.quest_subtitle: "燃油發電"
+	quest.55BB4005BB4CA316.title: "獨居石加工"
+	quest.5A62260FB3850092.quest_desc: ["硫、氧加水變硫酸。拿去洗錳粉吧。"]
+	quest.5AA8D2A1F3618615.quest_subtitle: "電力物流"
+	quest.5B50AC47957F0CD7.quest_desc: ["&7鑽油井&r 會幫你挖出頁岩油跟原油。"]
+	quest.5B50AC47957F0CD7.quest_subtitle: "老鷹尖叫聲 (美式工業)"
+	quest.5D404ED40C6C2690.quest_subtitle: "餵它更多電"
+	quest.604C003EE6B1CC6B.quest_subtitle: "跟蒸汽的一樣用法啦"
+	quest.6256612D46C88C0C.quest_desc: [
+		"&#723CFA變壓器&r 用來轉換電力等級。"
+		""
+		"LV 轉 MV：5 進 1 出。把 5 條低壓線湊成 1 條中壓線。"
+		""
+		"MV 轉 LV：1 進 5 出。中壓電分流給 5 台低壓機。"
+	]
+	quest.6256612D46C88C0C.quest_subtitle: "博派還是狂派？"
+	quest.6256612D46C88C0C.title: "LV-MV 變壓器"
+	quest.6647A9652EFDDCDF.quest_desc: ["幫那塊 &#ADF0EE紅通通的不鏽鋼錠&r 降溫。丟進真空冷凍機，它就變回能用的狀態了。"]
+	quest.66D4256F79D5B30B.quest_subtitle: "跟蒸汽的一樣用法啦"
+	quest.6A25ED4059E224D2.quest_desc: [
+		"&#ED5585蒸餾器&r 用來提煉液體。一個輸入可以有多個輸出。"
+		""
+		"你「必須」鎖定配方！點介面裡的鎖頭圖標，選好你要的配方按 &7'+'&r。不然它會亂吐東西。"
+	]
+	quest.6A25ED4059E224D2.quest_subtitle: "鎖定你的配方"
+	quest.6E7DF4AF86A036EC.title: "頁岩油加工"
+	quest.72FFD9E471242D68.quest_desc: ["不鏽鋼要燒很久、很熱。普通熔爐燒不動，去用電力高爐吧。"]
+	quest.744E620B7DEBB483.quest_desc: ["&#27CFF5真空冷凍機&r 專門對付那些燙死人的金屬錠或是液體。這效率比你吹風扇快多了。"]
+	quest.744E620B7DEBB483.quest_subtitle: "吃冰囉"
+	quest.76660075F254597E.quest_desc: ["&#F5B758進階升級&r 每顆增加 &#EDE02F16 EU/t&r 的上限。"]
+	quest.7E3B19796870C2B1.quest_desc: ["&#9955ED化學反應爐&r 是你接下來最常看到的機器。所有的酸甜苦辣...我是說化學物質通通在這裡產。"]
+	quest.7EDBE88A2CFAB353.quest_desc: [
+		"&#562FD6組裝機&r 自動合成的好幫手。"
+		"而且它有些配方比你在工作台搓還要 &a便宜超多&r。省材料就是賺錢。"
+	]
+	quest.7EDBE88A2CFAB353.quest_subtitle: "你會需要幾百台"
+	quest.7FE5864E59D7B827.quest_desc: ["&#6784EB機殼 (Hulls)&r 決定了機器的承載能力。當你塞了一堆升級模組後，如果機殼等級太低，機器會因為「電力不足」而罷工。這就是硬體限制。"]
+	quest.7FE5864E59D7B827.quest_subtitle: "基礎結構"
+	task.12433760FD40CB3A.title: "這行字一定要看"
+	task.1489DD401D237541.title: "電力基礎"
+	task.1FE598387B609AE5.title: "傳電指南"
+}

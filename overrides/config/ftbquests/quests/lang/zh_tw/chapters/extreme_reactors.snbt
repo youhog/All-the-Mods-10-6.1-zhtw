@@ -1,0 +1,68 @@
+{
+	quest.0B1DF8A040826D87.quest_desc: ["拿到 &cRossinite&r 了？很好，把它跟 &aBenitoite&r 混在一起就能做出 &dInsanite&r 錠。 \\n\\nBenitoite 礦石躲在地獄裡，去那邊找找看。"]
+	quest.0B1DF8A040826D87.title: "瘋狂之錠 (Insanite)"
+	quest.14E5349DD740D026.quest_desc: ["幫你的反應爐加燃料。你需要對準 &9固體存取埠&r 塞鈾礦。 \\n\\n建議接個抽屜或是箱子自動補貨，不然你要整天蹲在那邊餵它。"]
+	quest.14E5349DD740D026.title: "餵飽你的被動反應爐"
+	quest.186731580B14F9D2.quest_desc: ["渦輪機的接口。分別處理蒸汽進去跟水出來。 \\n\\n別忘了裝個電源輸出埠，不然電產出來也拿不到。"]
+	quest.186731580B14F9D2.title: "渦輪機連接埠"
+	quest.2598273041353196.quest_desc: ["蓋再處理機時，收集器放底部中間，廢料注入器放頂部中間。 \\n\\n這是規定，別亂擺，不然機器不會動。"]
+	quest.2598273041353196.title: "廢料注入工程"
+	quest.25D4406CB86C8CBB.quest_desc: ["要把錠變成流體？你需要「流體化機」。 \\n\\n這是邁向高級燃料的必經之路。你可以透過介面看到目前的電力跟儲存量。"]
+	quest.25D4406CB86C8CBB.title: "流體化機"
+	quest.2A20000FAEC2E16A.quest_desc: ["這三個方塊是反應爐的標配：電源輸出埠（拿電）、存取埠（進燃料/出廢料）。 \\n\\n建議一個反應爐裝兩個存取埠，一個進一個出，才不會塞車。"]
+	quest.2A20000FAEC2E16A.title: "反應爐互動補件"
+	quest.2AF31F1769085641.quest_desc: ["再處理機是 3x3x7 的多方塊結構。 \\n\\n控制器可以放垂直面的任何位置，只要別放在邊框上就好。"]
+	quest.2D592669F4D41793.quest_desc: ["渦輪機的邊框要用外殼，牆面可以用玻璃。這樣你就能欣賞裡面葉片瘋狂旋轉的樣子了。"]
+	quest.2D592669F4D41793.title: "渦輪機建築工程"
+	quest.354086C858E10154.quest_desc: ["反應爐產出的廢料（藍色那個）別亂丟！ \\n\\n把它丟進「再處理機」裡加工成有用的東西。這叫循環經濟。"]
+	quest.354086C858E10154.title: "廢料再利用"
+	quest.3C3FE45CEF5E242B.quest_desc: ["這些零件可以隨便擺在垂直面上。 \\n\\n電力、流體、物品輸出... 只要你高興，擺哪都行。"]
+	quest.3F9D553C9FA64F2A.quest_desc: ["反應爐的大小隨你訂！ \\n\\n基礎零件上限 5x5x5，強化零件上限 32x32x48。 \\n\\n越高的發電越多，越寬的效率越高。這就是所謂的「大就是好」。"]
+	quest.3F9D553C9FA64F2A.title: "反應爐擴張計畫"
+	quest.4415C9F8DA2D7E68.quest_desc: ["有了廢料加工出的材料，就能做渦輪機了。 \\n\\n它能把反應爐產出的蒸汽轉成爆量的電。如果你家缺電，這就是最終答案。"]
+	quest.4415C9F8DA2D7E68.title: "製作渦輪機"
+	quest.4745152F6FF242B3.quest_subtitle: "廢料不是垃圾，是錢"
+	quest.4745152F6FF242B3.title: "處理核廢料"
+	quest.476755275B948A5F.quest_desc: ["想產蒸汽？你需要「主動冷卻」反應爐。 \\n\\n灌水進去，熱騰騰的蒸汽就出來了。記得用強化零件蓋，不然會炸（誤）。"]
+	quest.476755275B948A5F.title: "蒸汽反應爐"
+	quest.4AD8363D7359A072.quest_desc: [
+		"我們先從最基本的 3x3x3 被動反應爐開始。 \\n\\n外框用外殼，牆面可以混搭玻璃。中間擺燃料棒，頂部擺控制棒。 \\n\\n接好電、塞進鈾礦，點開介面按啟動。恭喜你，你現在是核能工程師了！"
+	]
+	quest.4AD8363D7359A072.title: "&d我們的第一座反應爐"
+	quest.4B9E9497E44D0096.quest_desc: ["蓋反應爐要用外殼。基礎零件有大小限制，以後想蓋大的記得換成強化版。"]
+	quest.4B9E9497E44D0096.title: "反應爐建材"
+	quest.4ED36AA3766E842B.quest_desc: ["渦輪機的設計是一門學問。 \\n\\n你要根據反應爐的蒸汽產量來決定渦輪的大小跟葉片數量。轉速維持在 900 或 1800 RPM 是最划算的。"]
+	quest.4ED36AA3766E842B.title: "&d極限渦輪發電"
+	quest.4FA6BEA4E646B742.quest_desc: ["開工前先燒點石墨。把它跟鐵混在一起做成外殼材料。"]
+	quest.4FA6BEA4E646B742.title: "石墨加工"
+	quest.501C6B7580453410.quest_desc: ["流體化機至少要 3x3x3。蓋法跟反應爐差不多。"]
+	quest.501C6B7580453410.title: "流體化機建築"
+	quest.55DCA040C84DCEF3.quest_desc: ["接口一定要裝，不然東西拿不出來也沒電可用。"]
+	quest.5914D015D8543875.quest_desc: ["流體化機有三種模式：固體變液體、固體加固體、液體加液體。 \\n\\n這決定了你以後能做出多強的黑科技燃料。去查 JEI 吧。"]
+	quest.5914D015D8543875.title: "運作模式"
+	quest.5A615BB74A5CD332.quest_desc: ["用再處理機把之前的材料混在一起，做出更好的錠。"]
+	quest.5A615BB74A5CD332.title: "高級合金錠"
+	quest.5AD80D3242DD3F60.quest_desc: ["這模組最難拿的材料！也是做 ATM 之星的原料之一。為了它，你得燒掉不知道多少組鈾礦。"]
+	quest.5AD80D3242DD3F60.title: "&d瘋狂之塊 (Insanite Block)"
+	quest.67AFCBCE7AAC3089.quest_desc: ["渦輪機內部要擺轉動軸跟葉片。葉片越多，能處理的蒸汽就越多。"]
+	quest.67AFCBCE7AAC3089.title: "製作渦輪轉軸"
+	quest.69642A3618E86DED.quest_desc: ["再處理機要蓋 3x3x7。這就像是工廠裡的摩天大樓。"]
+	quest.69642A3618E86DED.title: "再處理機外框"
+	quest.6ADDFD55AD0DF7D4.quest_desc: ["最後一種錠。拿到了它，代表你離這模組的終點不遠了。"]
+	quest.6ADDFD55AD0DF7D4.title: "虛無之錠 (Inanite)"
+	quest.75AD0CEBC1335915.quest_desc: ["控制器是反應爐的大腦。你可以隨時開關、查看溫度跟發電效率。"]
+	quest.75AD0CEBC1335915.title: "反應爐大腦 (控制器)"
+	quest.775D176081DD75F5.quest_desc: ["渦輪機的介面顯示了一堆數據。最重要的是轉速跟蒸汽流量。"]
+	quest.775D176081DD75F5.title: "渦輪機面板"
+	quest.7B4AAC741F0A6073.quest_desc: ["控制棒越多，燃料燒越多，電產越多。 \\n\\n但相對的，溫度也會飆高。記得在介面裡手動調整棒子的深淺來控制熱量。這叫「手動溫控」。"]
+	quest.7B4AAC741F0A6073.title: "反應爐控制棒"
+	quest.7C4D8AA107780795.quest_desc: ["利用流體化機做出特殊的燃料。這燃料燒出來的廢料才是我們最想要的。"]
+	quest.7C4D8AA107780795.title: " Rossinite 燃料"
+	quest.7C4E4793DA887DE4.quest_desc: ["歡迎來到 &9Extreme Reactors&r！這是一個讓你瘋狂燒鈾礦換電的模組。 \\n\\n別怕，這模組的反應爐很安全，只要你不亂敲方塊就不會炸（大概）。"]
+	quest.7C4E4793DA887DE4.title: "歡迎來到極限反應爐"
+	quest.7E07C5A6FA6B6B1F.quest_desc: ["再處理機做出來的高級燃料。燒這東西的效率比鈾礦強多了。"]
+	quest.7E07C5A6FA6B6B1F.title: "高級燃料 (Blutonium)"
+	task.27D8027E1B88F02A.title: "不準偷拿 (版權所有)"
+	task.2905C4386A407A1E.title: "渦輪機介面"
+	task.4851C74261B5FA25.title: "不準偷拿 (版權所有)"
+}

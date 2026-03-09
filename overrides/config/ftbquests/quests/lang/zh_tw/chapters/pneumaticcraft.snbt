@@ -1,0 +1,337 @@
+{
+	quest.00075A5F9AC120ED.quest_desc: ["這會把東西從你的輸入箱子裡掏出來。"]
+	quest.00075A5F9AC120ED.quest_subtitle: "基本配備"
+	quest.002163B909070CF8.quest_desc: [
+		"讓你穿牆看透特定的方塊或流體。 \\n"
+		"{image:atm:textures/questpics/pneumaticcraft/block_tracker.png width:150 height:150 align:center}"
+	]
+	quest.002163B909070CF8.quest_subtitle: "最大數量：1"
+	quest.00D7BCC68D971A53.quest_desc: ["自動追蹤周圍的生物（穿牆可見）。如果有怪物盯上你了，還會發出警報提醒你。這是你的蜘蛛感應。"]
+	quest.00D7BCC68D971A53.quest_subtitle: "最大數量：1"
+	quest.02643BAD1AE747C6.quest_desc: ["&3進階液體壓縮機&r 的用法跟普通版一樣，但效率強到飛天！"]
+	quest.04BE9F63E6003475.quest_desc: ["&3液化石油氣 (LPG)&r 可以用來做熔融塑膠。"]
+	quest.04BE9F63E6003475.quest_subtitle: "我們需要的那個"
+	quest.04BE9F63E6003475.title: "LPG"
+	quest.0672462DA3599484.quest_subtitle: "512,000mb"
+	quest.09BA45CBBFB4AE26.quest_desc: ["接下來要搞的是 &3組裝流水線&r。核心組件就是這個 &3組裝控制器&r。 \\n\\n這是壓力進去的地方。"]
+	quest.09BA45CBBFB4AE26.quest_subtitle: "基本配備"
+	quest.0A912B2E2BE34920.quest_desc: [
+		"雖然地表有原油，但直接在地底鑽探才是王道。先用 &3地震感測器&r 找油，然後用 &3氣體升降機&r 瘋狂鑽探（需要壓力）。 \\n"
+		"{image:pneumaticcraft:textures/patchouli/oil_pumping.png width:200 height:200 align:right fit:true}"
+	]
+	quest.0A912B2E2BE34920.quest_subtitle: "地底石油大亨"
+	quest.0AEAEA976ED0C470.quest_desc: ["&3充電站&r 用氣壓幫你所有的氣動工具跟小玩意充電。這就是氣壓版的 3C 充電器。"]
+	quest.0AEAEA976ED0C470.quest_subtitle: "插頭在哪？"
+	quest.0CC48C2AA553A314.quest_desc: ["&3鑽頭頭&r 可以裝在氣動電鑽上面。"]
+	quest.0D2F5CC96269F9E3.quest_desc: ["製作 PCB 的下一步：用 &3蝕刻槽&r 配上蝕刻酸。這過程需要加熱，別讓它涼了。"]
+	quest.0D2F5CC96269F9E3.quest_subtitle: "蝕刻時間到！"
+	quest.0D31CD79BE6CC8D2.quest_desc: ["為什麼普通麵包不用酵母？這個問題困擾了窩三秒鐘。"]
+	quest.0D31CD79BE6CC8D2.quest_subtitle: "你最小的麻煩"
+	quest.0D31CD79BE6CC8D2.title: "酵母"
+	quest.0D5015B8FF482D0A.quest_desc: [
+		"想要繼續進度，你得去 &3Amadron&r 購物網站買點東西。用 &3Amadron 平板&r 點一下箱子跟儲液槽，付錢（綠寶石之類的），然後等無人機送貨到府。這服務比 PChome 還快。"
+		""
+		"{image:atm:textures/questpics/pneumaticcraft/amadron_drone.png width:300 height:150 align:center}"
+	]
+	quest.0D5015B8FF482D0A.quest_subtitle: "不知道有沒有 24 小時到貨？"
+	quest.0D5015B8FF482D0A.title: "Amadron 購物網"
+	quest.0D50BDEFA0319EA1.quest_desc: ["這會把做好的成品吐進你的輸出箱子。"]
+	quest.0D50BDEFA0319EA1.quest_subtitle: "基本配備"
+	quest.0D9560C8E247F9E7.quest_desc: ["右鍵點一個地方，它會顯示一條路徑帶你回基地。路痴法師的救星。"]
+	quest.0D9560C8E247F9E7.quest_subtitle: "最大數量：1"
+	quest.0E65BE9460B74000.quest_desc: [
+		"物流框架要連上 &3物流模組&r 才會動。 \\n"
+		"{image:pneumaticcraft:textures/patchouli/logistics_module.png width:100 height:100 align:left fit:true}"
+	]
+	quest.0F49E9167B5E97C9.quest_desc: ["從天而降的掌法！你摔下去受到的傷害（無視護甲那種）會直接震飛周圍的怪物。"]
+	quest.0F49E9167B5E97C9.quest_subtitle: "最大數量：1"
+	quest.0FF050EC1EA6EAED.quest_desc: ["&3液體漏斗&r 就是漏斗，只是它是裝液體的。不是拿來取代管子的喔。"]
+	quest.0FF050EC1EA6EAED.quest_subtitle: "誰需要管子？"
+	quest.122EDEC12C9A05D2.quest_desc: ["窩是不是忘了說，這模組的東西壓力太大是會「爆炸」的？ ... \\n\\n別怕，有解藥！裝個 &3安全升級&r，機器就不會自爆了。如果你不想家被炸掉，請務必塞滿這些東西。"]
+	quest.122EDEC12C9A05D2.quest_subtitle: "要是這世界上有簡單的解決方案就好了..."
+	quest.122EDEC12C9A05D2.title: "如何防止自爆？"
+	quest.132DF9ECEFFB3B71.quest_desc: ["&3模組擴充卡&r 讓充電模組變得更強。"]
+	quest.13F68CA518CD287C.quest_desc: ["&3柴油&r 可以用來做煤油或是潤滑油。"]
+	quest.13F68CA518CD287C.quest_subtitle: "可憐的 Sel (Diesel 梗)"
+	quest.13F68CA518CD287C.title: "柴油"
+	quest.1427B3AB09510D20.quest_desc: ["把未組裝 PCB 加上 2 個電容跟 2 個電阻，恭喜你得到 &3成品 PCB&r！你終於像個工程師了。"]
+	quest.1427B3AB09510D20.quest_subtitle: "你做到了！"
+	quest.142C67218BD16867.quest_desc: ["幫你的格林機槍裝上這款彈藥就能開火了。"]
+	quest.15007DCAF701B361.quest_desc: ["自動幫你背包裡所有耗氣的東西補氣。這就是隨身氣瓶。"]
+	quest.15007DCAF701B361.quest_subtitle: "最大數量：6"
+	quest.15D355EB164EBE68.quest_subtitle: "成品 PCB 的必備零件"
+	quest.15D355EB164EBE68.title: "電容"
+	quest.187816477B732517.quest_desc: ["&3傳輸小裝置&r 就像是一個可以塞在方塊縫隙裡的微型漏斗。"]
+	quest.187816477B732517.quest_subtitle: "更小的漏斗"
+	quest.21624A6500545C42.quest_desc: [
+		"&3作物支架&r 放在植物上面可以讓它們長更快。 \\n"
+		"{image:atm:textures/questpics/pneumaticcraft/crop_support.png width:200 height:100 align:center}"
+	]
+	quest.21624A6500545C42.quest_subtitle: "植物加速器"
+	quest.22572456571C3F8D.quest_desc: ["&3充電模組&r 會幫它對準的容器裡的氣動設備洩壓...我是說充電。"]
+	quest.230463E830D6FFEB.quest_desc: ["拿到塑膠了？下一步就是做 PCB 了。先去壓力室裡搓幾個 &3空白 PCB&r 出來。"]
+	quest.230463E830D6FFEB.quest_subtitle: "PCB 的養成之路"
+	quest.2338E5269CA23C91.quest_desc: ["&3獄髓鑽頭頭&r 是目前最強的款式，比鑽石的還耐操。"]
+	quest.2338E5269CA23C91.quest_subtitle: "最強鑽頭"
+	quest.23737103592776C2.quest_desc: ["&3煤油燈&r 亮度超高（用煤油最亮）。普通火把在它面前就像是螢火蟲。"]
+	quest.23737103592776C2.quest_subtitle: "超大火把算什麼！"
+	quest.24042326B4632DD4.quest_desc: ["想玩物流自動化？先做個 &3物流核心&r 吧。強烈建議去看說明書，這東西有點複雜。"]
+	quest.24042326B4632DD4.quest_subtitle: "物品與流體搬運工程"
+	quest.24042326B4632DD4.title: "物流系統"
+	quest.26BEA64C80ECE1A6.quest_desc: ["每種 &3物流框架&r 都能設定不同的自動化模式。"]
+	quest.2745297337E13E9E.quest_desc: ["&3進階空氣壓縮機&r 效果拔群！"]
+	quest.2745297337E13E9E.quest_subtitle: "誰還在用老古董壓縮機？"
+	quest.2801B7B6BF61E978.quest_desc: ["&3煤油&r 可以做汽油，或是拿去點燈。"]
+	quest.2801B7B6BF61E978.quest_subtitle: "你看過這款油嗎？"
+	quest.2801B7B6BF61E978.title: "煤油"
+	quest.2AED15E3AC0346FE.quest_desc: [
+		"這裡有一堆好用的 &3升級模組&r。滑鼠移上去按 Shift 可以看這東西能裝在哪。 \\n\\n注意：小標題會告訴你每個零件最多能裝幾個。別裝過頭了，會炸（誤）。"
+	]
+	quest.2AED15E3AC0346FE.quest_subtitle: "超實用的補件"
+	quest.2AED15E3AC0346FE.title: "基礎升級模組"
+	quest.2C5D78630C7AD57F.quest_desc: ["增加範圍。裝在不同的機器上有不同的驚喜。"]
+	quest.2C5D78630C7AD57F.quest_subtitle: "再靠近一點點"
+	quest.2CC56A4F06E53307.quest_desc: [
+		"把空白 PCB 丟進 &3UV 曝光機&r 裡充電。這需要壓力跟陽光。 \\n"
+		"{image:atm:textures/questpics/pneumaticcraft/uv_charging.png width:300 height:150 align:center}"
+	]
+	quest.2CC56A4F06E53307.quest_subtitle: "記得戴墨鏡！"
+	quest.2CC56A4F06E53307.title: "日光浴充電"
+	quest.2DE7CC686B56881F.quest_desc: ["防止 Mekanism 的輻射污染。法師也是怕輻射的。"]
+	quest.2DE7CC686B56881F.quest_subtitle: "最大數量：1"
+	quest.2E8F851A4E98F741.quest_desc: [
+		"&3氣壓裝甲&r 基礎數值普通，但裝了升級後你就是鋼鐵人。按 'U' 打開裝甲選單。 \\n\\n同樣的，升級裝甲也需要充電站跟壓力。 \\n\\n注意：看好最大安裝數量喔。"
+	]
+	quest.2E8F851A4E98F741.quest_subtitle: "氣壓版鋼鐵人"
+	quest.2E8F851A4E98F741.title: "氣壓動力裝甲"
+	quest.30AD7B15682E4D0E.quest_desc: ["聰明的告示牌。文字會自動縮放填滿。右鍵可以染色，邊框跟背景還能分開染，非常有質感。"]
+	quest.30AD7B15682E4D0E.quest_subtitle: "告示牌？沒聽過這玩意"
+	quest.312331F6DB0CE5F4.quest_desc: ["比一階還快。"]
+	quest.312331F6DB0CE5F4.quest_subtitle: "最大數量：1"
+	quest.31BCE63F5E016323.quest_desc: ["&3太陽能壓縮機&r 利用陽光生壓。越熱生越多。 \\n\\n小心：如果太熱它會故障，到時候你就得手動修機器了。太陽公公的愛很沈重的。"]
+	quest.31BCE63F5E016323.quest_subtitle: "掌握太陽的力量..."
+	quest.31BCE63F5E016323.title: "太陽能氣壓"
+	quest.325483DEB0C602F8.quest_desc: ["這任務是由 &6ATM 員工&r 寫的。如果你看得到這行，代表你現在正在窺視開發者的內心世界。"]
+	quest.32C3E14578D48E6C.quest_desc: ["就像普通管子，但能承受 10 bar 的壓力。安全第一。"]
+	quest.32C3E14578D48E6C.quest_subtitle: "高級氣壓管"
+	quest.3334D15766A47A46.quest_desc: ["用雷射組裝程式可以加速 PCB 生產。把空白 PCB 丟進輸入箱，給它壓力和雷射，然後坐著等收錢。"]
+	quest.3334D15766A47A46.title: "PCB 自動化工程"
+	quest.36D72D759C4E8823.quest_desc: ["可能快到你跟不上。"]
+	quest.36D72D759C4E8823.quest_subtitle: "最大數量：1"
+	quest.371A34B297C8A8EF.quest_desc: ["氣壓動力模組包（PNC:R）的核心就是「壓力」！這些任務帶你入門。 \\n\\n第一步：做點 &3壓縮鐵錠&r！最北爛的方法是在地上挖個洞，把鐵錠丟進去，然後用 TNT 炸掉！ \\n\\n雖然有機會炸不見，但這就是男人的浪漫（與風險）。"]
+	quest.371A34B297C8A8EF.quest_subtitle: "空氣的力量"
+	quest.371A34B297C8A8EF.title: "氣壓動力：重新充能"
+	quest.39F142224D5210A9.quest_desc: ["&3生質柴油&r 可以做潤滑油或是塑膠。"]
+	quest.39F142224D5210A9.quest_subtitle: "生質還是柴油？"
+	quest.39F142224D5210A9.title: "生質柴油"
+	quest.3A9AC6AB4407DC32.quest_desc: ["雖然每個配方要的東西不一樣，但你可以直接蓋一整條全配版的流水線。加上速度升級，產量快到你阿嬤都認不出來。"]
+	quest.3A9AC6AB4407DC32.quest_subtitle: "需要一些組裝"
+	quest.3A9AC6AB4407DC32.title: "玩轉流水線"
+	quest.3CFE522A4B7CC2EC.quest_desc: [
+		"&3強化箱&r 是防爆的箱子，有 36 格。雖然不能合體變大箱，但它可以像潛影盒一樣打包。 \\n"
+		"{image:atm:textures/questpics/pneumaticcraft/reinforced_chest_ui.png width:200 height:100 align:center}"
+	]
+	quest.3CFE522A4B7CC2EC.quest_subtitle: "比你家箱子強多了"
+	quest.3D819550074CA376.quest_desc: ["物品在被撿走前會先放在這。"]
+	quest.3D819550074CA376.quest_subtitle: "基本配備"
+	quest.3E16CF590C911129.quest_desc: ["&3空氣壓縮機&r 是生壓最簡單的方法。餵它吃煤炭，它就給你壓力。建議一次蓋 3 台才夠用。"]
+	quest.3E16CF590C911129.quest_subtitle: "壓力山大"
+	quest.3E16CF590C911129.title: "生產壓力"
+	quest.3F9CCCFEF4E84166.quest_desc: ["想加速熱能產出？在渦輪管的冷端擺個 &3散熱片&r 就對了。"]
+	quest.3F9CCCFEF4E84166.quest_subtitle: "更熱一點"
+	quest.3F9CCCFEF4E84166.title: "極限加熱工程"
+	quest.40924F0D64253A38.quest_desc: ["讓機器可以噴出物品。"]
+	quest.40924F0D64253A38.quest_subtitle: "不見了！"
+	quest.40F634AC38F42B88.quest_desc: ["想搬移壓力？做點 &3氣壓管&r 吧。至於壓力能幹嘛？繼續看下去啊。"]
+	quest.40F634AC38F42B88.quest_subtitle: "什麼壓力？"
+	quest.40F634AC38F42B88.title: "輸送壓力"
+	quest.423B8DA485C1308C.quest_desc: ["&3汽油&r 用來做 LPG。"]
+	quest.423B8DA485C1308C.quest_subtitle: "衝！衝！衝！"
+	quest.423B8DA485C1308C.title: "汽油"
+	quest.42951D14ADCD9332.quest_desc: ["老闆，一份炸魚薯條，加點豆泥，謝謝。"]
+	quest.42951D14ADCD9332.quest_subtitle: "想吃炸魚薯條嗎？"
+	quest.42951D14ADCD9332.title: "炸魚薯條！"
+	quest.43CDC28DC56BB3E2.quest_subtitle: "128,000mb"
+	quest.43EF5513A1C52A37.quest_desc: ["&3熱氣壓加工廠&r 用來做熔融塑膠。灌進 LPG、煤炭跟熱量，然後等它噴漿。"]
+	quest.43EF5513A1C52A37.quest_subtitle: "名字越長越厲害"
+	quest.43EF5513A1C52A37.title: "熱氣壓加工技術"
+	quest.440B1E1D4951F808.quest_desc: [
+		"&3智慧箱&r 有 72 格，內建萬向漏斗，防爆還能裝升級。這是箱子界的學霸。 \\n"
+		"{image:atm:textures/questpics/pneumaticcraft/smart_chest_ui.png width:200 height:100 align:center}"
+	]
+	quest.440B1E1D4951F808.quest_subtitle: "箱子界的阿宅"
+	quest.456B9DD108CF340F.quest_desc: ["就是要快。"]
+	quest.456B9DD108CF340F.quest_subtitle: "神速！"
+	quest.461C8F1E88AA58D9.quest_desc: [
+		"儲液槽可以連在一起變大。用扳手點一下就好。 \\n"
+		"{image:pneumaticcraft:textures/patchouli/small_tanks.png width:250 height:250 align:center fit:true}"
+	]
+	quest.461C8F1E88AA58D9.quest_subtitle: "32,000mb"
+	quest.46BE62C20C720D10.quest_desc: ["戴上去後小黑就不會對你生氣了。跟南瓜頭一樣醜但好用。"]
+	quest.46BE62C20C720D10.quest_subtitle: "最大數量：1"
+	quest.482E558BCFEE6B7E.quest_desc: ["&3建築磚&r 很帥，但踩上去會痛（像樂高一樣）。再合一次可以變平滑。"]
+	quest.482E558BCFEE6B7E.quest_subtitle: "世界上最痛的事情莫過於踩到這個"
+	quest.495DCA49B4E80852.quest_desc: ["&3格林機槍&r 需要壓力和彈藥。射起來噠噠噠的很解壓。"]
+	quest.495DCA49B4E80852.quest_subtitle: "噠噠噠！"
+	quest.4A076530297F4A97.quest_desc: [
+		"用這三樣東西蓋出超帥的 &3電梯&r。 \\n"
+		"{image:pneumaticcraft:textures/patchouli/elevator.png width:1 height:1 align:left fit:true}"
+	]
+	quest.4A076530297F4A97.title: "氣壓電梯"
+	quest.4B4F5341D6DBDD19.quest_desc: ["水底呼吸器。氣泡剩 5 格時自動幫你補滿。還能讓你在水底看得很清楚。"]
+	quest.4B4F5341D6DBDD19.quest_subtitle: "最大數量：1"
+	quest.4C0D00B5305117A1.quest_desc: [
+		"&3自動砲塔&r 會自動攻擊範圍內的倒楣鬼。記得幫它裝彈。 \\n"
+		"{image:pneumaticcraft:textures/patchouli/sentry_turret.png width:100 height:100 align:left fit:true}"
+	]
+	quest.4C0D00B5305117A1.quest_subtitle: "自動噴臉"
+	quest.4CA17B0A80020B2F.quest_desc: ["&3壓力計&r 用來顯示機器的詳細參數。數據控必備。"]
+	quest.4CA17B0A80020B2F.quest_subtitle: "我要更多數據！"
+	quest.4E1E31EDD544EE10.quest_subtitle: "64,000mb"
+	quest.4F5348D0C83C3B0D.quest_desc: ["&3太陽能板&r 是太陽能壓縮機的核心。"]
+	quest.4F5348D0C83C3B0D.quest_subtitle: "曬太陽就能動"
+	quest.4F5348D0C83C3B0D.title: "太陽能板"
+	quest.4FCC20D9F8F87B2F.quest_desc: ["&3氣壓扳手&r：用來調整或拆掉機器跟管子。別拿去敲人的頭。"]
+	quest.4FCC20D9F8F87B2F.quest_subtitle: "聊聊工具！"
+	quest.5103C817381181DE.quest_desc: ["讓你在穿著氣動胸甲的時候也能用鞘翅。飛向宇宙，浩瀚無垠。"]
+	quest.5103C817381181DE.quest_subtitle: "最大數量：1"
+	quest.520EFA7F446AFBF2.quest_desc: ["&3潤滑油&r 可以做鑽頭頭。這名字聽起來就很順滑。"]
+	quest.520EFA7F446AFBF2.quest_subtitle: "生產潤滑油！"
+	quest.520EFA7F446AFBF2.title: "潤滑油"
+	quest.521656D425E2FDBA.quest_desc: ["比二階更快。"]
+	quest.521656D425E2FDBA.quest_subtitle: "最大數量：1"
+	quest.52D3697F1F5625C7.quest_desc: ["&3蝕刻酸&r 在壓力室裡做出來的。拿來洗 PCB 用。別問成分是啥，很恐怖。"]
+	quest.52D3697F1F5625C7.quest_subtitle: "別問..."
+	quest.5303509A1C2B1CCD.quest_desc: ["&3氣壓電鑽&r 挖礦超快。升級後你就是礦坑之王。"]
+	quest.5303509A1C2B1CCD.quest_subtitle: "抱歉啦，傑克！"
+	quest.53518D4ED99A242F.quest_desc: ["&3迷彩噴槍&r 幫你的機器偽裝成別的方塊。這招叫「看不見窩」。"]
+	quest.53518D4ED99A242F.quest_subtitle: "想讓基地變帥嗎？"
+	quest.54169B69725C49DF.quest_desc: ["把液態塑膠倒地上或是丟進裝了熱量框架的箱子，你就得到了 &3塑膠片&r！這可是跨入 21 世紀的象徵。"]
+	quest.54169B69725C49DF.quest_subtitle: "終於拿到了！"
+	quest.54169B69725C49DF.title: "&f塑膠"
+	quest.5A0860631323B5E3.quest_desc: ["麵糰。可以做鮭魚天婦羅或是酸麵包。這模組連廚師的工作都搶了。"]
+	quest.5A0860631323B5E3.quest_subtitle: "揉麵時間"
+	quest.5A9D6672385D3D82.quest_desc: ["省錢補件。本來要 4 個青金石，現在只要 1 個。"]
+	quest.5A9D6672385D3D82.quest_subtitle: "節省青金石"
+	quest.5AEE86EB39FD4087.quest_desc: ["&3渦流管&r 把氣壓拆成冷跟熱。藍色那頭出冷氣，紅色那頭噴火。"]
+	quest.5AEE86EB39FD4087.quest_subtitle: "雖然不是電力，但也夠熱了"
+	quest.5AEE86EB39FD4087.title: "熱量生產"
+	quest.5B9F933ECD6B24FD.quest_desc: ["跳得比二階還高。"]
+	quest.5B9F933ECD6B24FD.quest_subtitle: "最大數量：1"
+	quest.5C7D9BCDF19B86BD.quest_desc: ["防爆。安全第一。"]
+	quest.5C7D9BCDF19B86BD.quest_subtitle: "安全鎖！"
+	quest.5D64250B940BC8FD.quest_desc: ["壓縮鐵可以做裝甲。數值跟鐵裝一樣，但韌性跟抗擊退更好。路邊的寶箱也常看到這套垃圾...我是說裝備。"]
+	quest.5D64250B940BC8FD.quest_subtitle: "不錯的抗擊退"
+	quest.5D64250B940BC8FD.title: "壓縮鐵裝甲"
+	quest.5D71ED16FD4E725A.quest_desc: ["讓豬布林對你友善（跟穿金裝一樣）。裝一件就好，別穿整套。"]
+	quest.5D71ED16FD4E725A.quest_subtitle: "最大數量：1"
+	quest.5D7B34761E8FD212.quest_desc: [
+		"&3靜電壓縮機&r 利用雷劈生壓。威力驚人。 \\n"
+		"{image:pneumaticcraft:textures/patchouli/electrostatic_compressor.png width:100 height:100 align:left fit:true}"
+	]
+	quest.5D7B34761E8FD212.title: "雷神索爾氣壓機"
+	quest.5E71F8A046C60346.quest_desc: ["誰說氣壓不能發電？ &3氣壓發電機&r 幫你把壓力轉成 FE。這叫氣電聯產。"]
+	quest.5E71F8A046C60346.quest_subtitle: "壓力變電力"
+	quest.5E71F8A046C60346.title: "氣動發電"
+	quest.602C3E88D96F8843.quest_desc: ["把空白 PCB 丟進蝕刻槽洗一洗，你就得到了 &3未組裝 PCB&r。快成功了，撐住。"]
+	quest.602C3E88D96F8843.quest_subtitle: "就快成功了！"
+	quest.61AD2207E770CD7F.quest_desc: ["隔空取物。吸物品、吸經驗球。"]
+	quest.61AD2207E770CD7F.quest_subtitle: "最大數量：6"
+	quest.61B479079DC1C69C.quest_desc: ["跳得比一階高。"]
+	quest.61B479079DC1C69C.quest_subtitle: "最大數量：1"
+	quest.61BA2932EC86DA2E.quest_desc: ["跳得超高！"]
+	quest.61BA2932EC86DA2E.quest_subtitle: "最大數量：1"
+	quest.63F6F4EBCEB914B0.quest_desc: ["&3壓力室&r 是最重要的多方塊結構。大小從 3x3x3 到 5x5x5 隨你便。 \\n\\n記得裝安全升級！不同配方要的壓力不一樣，別炸了。 \\n\\n藍色介面進貨，金色介面出貨。這就是你的黑箱工作室。"]
+	quest.63F6F4EBCEB914B0.quest_subtitle: "加壓中！"
+	quest.63F6F4EBCEB914B0.title: "壓力室"
+	quest.649167FC31EB916E.quest_desc: ["&3植物油&r：把作物或種子丟進加工廠弄出來的油。"]
+	quest.649167FC31EB916E.quest_subtitle: "更好的油"
+	quest.649167FC31EB916E.title: "植物油"
+	quest.64D34A6C3487C5DF.quest_desc: ["&3天線介面&r：無線幫你身上的氣動設備補壓！以後出門再也不用帶氣瓶了。這也是做 ATM 之星的原料。"]
+	quest.64D34A6C3487C5DF.quest_subtitle: "無線氣壓！"
+	quest.64E2E05B228EA53E.quest_desc: ["&3進階氣壓管&r：能承受 20 bar 壓力。頂配管線，值得擁有。"]
+	quest.64E2E05B228EA53E.quest_subtitle: "另一個境界！"
+	quest.657DB994B029F61C.quest_desc: [
+		"把熱量框架貼在容器上並降溫，它就會把液體「凝固」成物品。 \\n\\n- 熔融塑膠 -> 塑膠。 \\n- 水 -> 冰。 \\n- 岩漿 -> 黑曜石。"
+	]
+	quest.65E2AF881709C896.quest_desc: ["&3強化石&r 是這模組最常用的建材。先做 32 個備用吧。"]
+	quest.65E2AF881709C896.quest_subtitle: "你會需要爆多這個"
+	quest.65E2AF881709C896.title: "強化石"
+	quest.6674270897997BF7.quest_desc: ["彈跳靴。讓你跳更高、跑更快。"]
+	quest.6674270897997BF7.quest_subtitle: "最大數量：1"
+	quest.681A3F31FB242555.quest_desc: ["&3乙醇&r 可以做生質柴油。"]
+	quest.681A3F31FB242555.title: "乙醇"
+	quest.68F92455A9483AD6.quest_desc: ["噴射靴。用了絕對會受傷，別問為什麼，這就是代價。"]
+	quest.68F92455A9483AD6.quest_subtitle: "你以為鞘翅很難飛嗎？"
+	quest.68F92455A9483AD6.title: "噴射靴"
+	quest.6B1C06C753C10E44.quest_desc: ["物流設定器。幫你設定框架跟傳輸器。"]
+	quest.6CA01DCE1F4A0EC3.quest_desc: ["接下來要收集 &3原油&r。去地表找找看那些黑漆漆的池子吧。"]
+	quest.6CA01DCE1F4A0EC3.quest_subtitle: "塑膠之路"
+	quest.6CA01DCE1F4A0EC3.title: "原油"
+	quest.6D124ACF4AE80490.quest_desc: ["微型導彈！遠距離轟炸敵人。這也是做 ATM 之星的原料。"]
+	quest.6D124ACF4AE80490.quest_subtitle: "遠距離炸臉！"
+	quest.6EB53CDCB80D4B66.quest_desc: [
+		"&3氣動門&r：自動開關，還可以設定只認你一個主人。這才是豪宅該有的門。"
+	]
+	quest.6FD65139CD50A8C0.quest_desc: ["如果你討厭一直炸鐵錠，可以去種田（神祕農業）或是養蜂。或者是... 蓋個自動化炸藥廠。"]
+	quest.6FD65139CD50A8C0.quest_subtitle: "炸膩了嗎？"
+	quest.7040CA41C0A3C2F2.quest_desc: [
+		"&3PCB 藍圖&r 特價中！只要 8 個綠寶石。數量有限，欲購從速。"
+	]
+	quest.7040CA41C0A3C2F2.quest_subtitle: "謝啦 Amadron！"
+	quest.7040CA41C0A3C2F2.title: "&9PCB 藍圖"
+	quest.715B86DC82EA636B.quest_desc: [
+		"&3液體壓縮機&r 燒油生壓。直接灌油進去就好。 \\n"
+		"{image:pneumaticcraft:textures/gui/gui_liquid_compressor.png width:200 height:200 align:center fit:true}"
+	]
+	quest.715B86DC82EA636B.title: "液體氣壓機"
+	quest.7177E49BF9ECA5CF.quest_desc: [
+		"&3熱力壓縮機&r 利用溫差生壓。一頭冷一頭熱，壓力就噴出來了。 \\n"
+		"{image:pneumaticcraft:textures/patchouli/thermal_compressor.png width:100 height:100 align:left fit:true}"
+	]
+	quest.7177E49BF9ECA5CF.title: "熱力氣壓機"
+	quest.718DABA6C9E5982A.quest_desc: ["戴上去就有夜視效果。"]
+	quest.718DABA6C9E5982A.quest_subtitle: "最大數量：1"
+	quest.72C09FD89C28B1EC.quest_desc: [
+		"1x1x5 的 &3煉油廠&r。下面控制器上面四個輸出。灌進油跟熱，噴出四種燃料。側邊包點隔熱層可以保溫。 \\n"
+		"{image:atm:textures/questpics/pneumaticcraft/oil_refinery.png width:300 height:150 align:center}"
+	]
+	quest.72C09FD89C28B1EC.quest_subtitle: "總算有點進展了"
+	quest.72C09FD89C28B1EC.title: "煉油廠"
+	quest.7386A8433698946C.quest_desc: ["物品搜尋升級。幫你找附近箱子或地上的東西。要配上追蹤器才會動喔。"]
+	quest.7386A8433698946C.quest_subtitle: "最大數量：1"
+	quest.7395B41685F4BC1A.quest_desc: ["&3電力壓縮機&r：把 FE 轉成壓力。如果你電多到沒地方花，這是生壓最快的方法。"]
+	quest.7395B41685F4BC1A.quest_subtitle: "電力變壓力"
+	quest.7395B41685F4BC1A.title: "電力氣壓機"
+	quest.74015945716FD10A.quest_desc: ["&3萬向漏斗&r：各個面都能進貨，速度比普通漏斗快 N 倍。"]
+	quest.74015945716FD10A.quest_subtitle: "可自訂的漏斗"
+	quest.74AE214747A3DB1A.quest_desc: ["增加壓力的上限。"]
+	quest.74AE214747A3DB1A.quest_subtitle: "轉大聲點！"
+	quest.75D3F3C1D4A3EAA2.quest_desc: ["想搬運熱量？做點 &3熱量管&r 吧。"]
+	quest.75D3F3C1D4A3EAA2.quest_subtitle: "我們有熱量可以搬了 :)"
+	quest.75D3F3C1D4A3EAA2.title: "輸送熱量"
+	quest.762B8309E1A31B99.quest_desc: ["每顆加防禦跟韌性。"]
+	quest.762B8309E1A31B99.quest_subtitle: "最大數量：4"
+	quest.7770F0D62457096D.quest_desc: ["無人機雖然很強但這任務不教你。自己去研究啦！"]
+	quest.7770F0D62457096D.title: "無人機程式設計"
+	quest.795143471F31A64A.quest_subtitle: "雷射配方的必備零件"
+	quest.7953C87C488A2AF7.quest_desc: ["像鋼鐵人一樣飛！等級越高越耗氣。"]
+	quest.7953C87C488A2AF7.quest_subtitle: "最大數量：1"
+	quest.7B2008977702D0C8.quest_desc: ["如果你壓縮了半天沒接管子，壓力會直接消失喔。別白忙一場。"]
+	quest.7B2008977702D0C8.quest_subtitle: "FE 跟 RF 去哪了？"
+	quest.7BFC24607189B6D0.quest_desc: ["游得更快。"]
+	quest.7BFC24607189B6D0.quest_subtitle: "最大數量：1"
+	quest.7BFE7DAF18981843.quest_subtitle: "電鑽配方的必備零件"
+	quest.7D6B4AEF806AF62E.quest_desc: ["100% 太快了！別把自己玩死。"]
+	quest.7D6B4AEF806AF62E.quest_subtitle: "最大數量：1"
+	quest.7D81F2381516204D.quest_subtitle: "成品 PCB 的必備零件"
+	quest.7D81F2381516204D.title: "電晶體"
+	quest.7FB12EC3A5888123.quest_desc: ["管線分接頭。讓你自由控制氣體走向。"]
+	quest.7FB12EC3A5888123.quest_subtitle: "不，往這邊走！"
+	task.0B54EDC9E21F2E77.title: "物流框架"
+	task.13266875BDB5077D.title: "不準偷拿 (版權所有)"
+	task.1EEC7B67E037F766.title: "理解壓力機制"
+	task.25FF884779D98BAD.title: "建築磚™"
+	task.2C268116DA162155.title: "不準偷拿 (版權所有)"
+	task.49A8320F9EA7F4BD.title: "壓縮鐵自動化工程"
+}

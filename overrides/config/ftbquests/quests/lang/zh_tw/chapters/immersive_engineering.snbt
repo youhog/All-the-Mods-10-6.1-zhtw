@@ -1,0 +1,331 @@
+{
+	quest.007A11C49E06F15F.quest_desc: ["&9工程零件藍圖&r 是最重要的藍圖之一。 \\n\\n在 &6工程師工作台&r 裡使用它，能用更便宜的價格做出各種零件、燈泡甚至是電路板。比在普通工作台裡搓省多了。"]
+	quest.007A11C49E06F15F.title: "&9工程零件藍圖"
+	quest.04DD3F761C210822.quest_desc: [
+		"&c&l初級高爐&r 是我們生產 &8鋼鐵&r 的第一步。 \\n\\n給它鐵錠跟木炭（或焦炭）。焦炭的燃燒時間比較久，建議用焦炭。 \\n\\n你會得到鋼鐵跟一堆沒啥用的爐渣。這過程超慢，請耐心等候。"
+		"{@pagebreak}"
+		"蓋法：用 &c高爐磚&r 疊成 3x3x3 的立方體。然後拿槌子點正中間的面塊。"
+		"{image:atm:textures/questpics/immersive/immersive_crude.png width:100 height:100 align:center}"
+	]
+	quest.04DD3F761C210822.title: "&l&c初級高爐"
+	quest.063241B72BB3403E.quest_desc: ["&0&l重裝護盾&r 就是高級版的盾。 \\n\\n耐久更高，擋傷更猛。還能在工作台裡裝升級零件。"]
+	quest.063241B72BB3403E.title: "&8&l重裝護盾"
+	quest.066B8A75B299AED8.quest_desc: [
+		"&9&l壓榨機&r 把種子榨成油。 \\n\\n主要用來榨植物油（做生質柴油的原料）。 \\n\\n還可以用 8 個焦炭粉榨出 Graphite 粉。這台機器就是瘋狂「榨乾」它能拿到的所有東西。"
+		"{@pagebreak}"
+		"蓋法：這台結構跟發酵機很像，只是把釜鍋換成桶子。最後拿槌子點活塞下面的桶子。"
+		"{image:atm:textures/questpics/immersive/immersive_squeezer.png width:100 height:100 align:center}"
+	]
+	quest.066B8A75B299AED8.title: "&9&l壓榨機"
+	quest.0A7B0D0B81E138DE.quest_desc: ["&e&l工程師工具箱&r 就是個有分類功能的保險箱。 \\n\\n它有食物區、工具區、配線區跟雜項區。別把水桶塞進去，它會漏（誤）。"]
+	quest.0A7B0D0B81E138DE.title: "&e&l工程師工具箱"
+	quest.0ACC0092A8F722C6.quest_desc: ["電線是 IE 的血液。 \\n\\n拿電線圈點一下連接頭，再點下一個連接頭就能連起來。 \\n\\n路徑中間不能有方塊擋住，不然會斷線。想要回收？用剪線鉗吧。"]
+	quest.0ACC0092A8F722C6.title: "&c電線圈"
+	quest.0AE6AD813928DE4F.quest_desc: ["外部加熱器可以貼在原版熔爐旁邊。 \\n\\n給它電，它就會幫熔爐加熱。這叫用電燒菜，省下木炭錢。"]
+	quest.0D212038C0A45E0B.quest_desc: ["普通子彈、穿甲彈、散彈跟銀彈。 \\n\\n想殺殭屍？用銀彈。想打裝甲怪？用穿甲彈。想噴臉？用散彈。"]
+	quest.0D212038C0A45E0B.title: "常用彈藥"
+	quest.0D2D1F99945BA209.quest_desc: ["聽說快速按兩次 S 鍵可以裝備護盾... 只是聽說啦，因為這模組還在測試中，如果有 Bug 也是正常的（攤手）。"]
+	quest.0F14270F0A718C01.quest_desc: ["岩漿跟鈾。放在發電機旁邊會很熱，別燒到屁股。"]
+	quest.0F14270F0A718C01.title: "&c高溫物質"
+	quest.13471E64CDE49D27.quest_desc: [
+		"&a&l煉油廠&r 把兩種液體混在一起變成更好的液體。 \\n\\n最常用來把植物油跟乙醇混成生質柴油。 \\n\\n別忘了在介面裡放催化劑，不然它不會動。"
+		"{@pagebreak}"
+		"蓋法：這台很大，你要先鋪好管線跟鋼架。最後拿槌子點頂層的重型工程塊。"
+		"{image:atm:textures/questpics/immersive/immersive_refinery.png width:100 height:100 align:center}"
+	]
+	quest.13471E64CDE49D27.title: "&l&a煉油廠"
+	quest.135A16EDEEE27FA9.quest_desc: ["電壓有三種：低壓 (LV)、中壓 (MV)、高壓 (HV)。 \\n\\n電壓越高，傳輸量越大。別想把低壓線連到高壓機，會爆的（大概）。"]
+	quest.135A16EDEEE27FA9.title: "電壓分級"
+	quest.13AF35A3108B02AF.quest_desc: ["就是要快！"]
+	quest.1759A4E2AF0D2C88.quest_desc: ["重型工程塊是做高級機器的核心。 \\n\\n你需要電金、鋼板跟鋼製機械零件。這東西搓起來很貴，但值得。"]
+	quest.1759A4E2AF0D2C88.title: "&7重型工程塊"
+	quest.18A9392BBCF5A871.quest_desc: ["工業浪漫就是管線。 \\n\\n輸入、輸出、配置... 拿螺絲起子去搞定它們吧。"]
+	quest.18A9392BBCF5A871.title: "&8&lIE&r 物流系統"
+	quest.1A13039D6302ADA5.quest_desc: ["發電機塊用來做發電機。你需要電金線圈跟鋼材。這就是把動力轉成電力的關鍵。"]
+	quest.1A13039D6302ADA5.title: "&6發電機塊"
+	quest.1A3F053E0F693002.quest_desc: ["進階潤滑系統。簡單說，就是給你的鑽頭跟鋸片上油，讓它們不會壞那麼快。別想歪了。"]
+	quest.1A3F053E0F693002.quest_subtitle: "名字很有趣對吧？"
+	quest.1A6A383B4EF26B20.quest_desc: ["鑽頭有鐵的跟鋼的。 \\n\\n鋼鑽頭可以挖 3x3 區域，數值跟鑽石搞一樣。既然有自動鑽頭，誰還要手挖？"]
+	quest.1A6A383B4EF26B20.title: "&8鑽頭頭"
+	quest.1A8F2408970BFCCF.quest_desc: ["電金 (Electrum) 是金跟銀的合金。 \\n\\n導電性超好，電力零件通通都要用到它。"]
+	quest.1A8F2408970BFCCF.title: "&e電金錠"
+	quest.1BF02D43986ABB03.quest_desc: ["輸送帶有垂直的、分流的、掉落的跟提取的。 \\n\\n這才是工廠的感覺！雖然比 AE2 慢，但看著東西在那邊跑真的很療癒。"]
+	quest.1BF02D43986ABB03.title: "各式輸送帶"
+	quest.1C76E244AE3582E6.quest_desc: [
+		"&5&l組裝機&r 把一堆零件湊成成品。 \\n\\n你可以設定三種配方。給它電，它就會自動幫你搓東西。 \\n\\n連上輸送帶，你就能擁有一條真正的流水線。"
+		"{@pagebreak}"
+		"蓋法：用一堆工程塊、鋼架跟輸送帶組成。最後拿槌子點第一條輸送帶。"
+		"{image:atm:textures/questpics/immersive/immersive_assembler.png width:100 height:100 align:center}"
+	]
+	quest.1C76E244AE3582E6.title: "&5&l組裝機"
+	quest.1D4E7F548431263A.quest_desc: ["紅石工程塊。用來控制機器的啟動跟停止。基礎中的基礎。"]
+	quest.1D4E7F548431263A.title: "&4紅石工程塊"
+	quest.1F7DA060792D716A.quest_desc: [
+		"&d&l攪拌機&r 把物品跟液體混在一起。 \\n\\n就像你媽做蛋糕一樣，只是這台攪拌的是化學品。 \\n\\n混合出來的東西會從前面噴出來。"
+		"{@pagebreak}"
+		"蓋法：結構像 WiFi 符號。最後拿槌子點側邊的鐵皮。"
+		"{image:atm:textures/questpics/immersive/immersive_mixer.png width:100 height:100 align:center}"
+	]
+	quest.1F7DA060792D716A.title: "&l&d攪拌機"
+	quest.1FA44E8FEE004AB4.quest_desc: ["麻繩跟鋼纜。不能傳電，但可以讓你用滑鉤飛來飛去。"]
+	quest.1FA44E8FEE004AB4.title: "滑鉤專用鋼纜"
+	quest.2224AA108FC006F3.quest_desc: ["左輪快速填彈器。讓你一秒填滿 6 發子彈，再也不用在那邊慢慢塞。"]
+	quest.2224AA108FC006F3.quest_subtitle: "你還有幾發子彈？"
+	quest.2262AB9F934165D0.quest_desc: ["鋼鐵是 IE 的靈魂。 \\n\\n沒鋼鐵你什麼都蓋不出來。快去蓋高爐吧！"]
+	quest.2262AB9F934165D0.title: "&8鋼鐵錠"
+	quest.231E0C0A9B0C0509.quest_desc: ["幫你的儲能背包裝個磁鐵，走路路過垃圾通通吸進來。"]
+	quest.23FDFA44A162023A.quest_desc: ["&6工程師工作台&r 是 IE 的核心。 \\n\\n這裡用來處理藍圖配方跟改裝你的槍械工具。你看，把零件擺上去的樣子超專業。"]
+	quest.23FDFA44A162023A.title: "&6工程師工作台"
+	quest.251464B43353D4C6.quest_desc: ["&a溫室玻璃罩 (Garden Cloche)&r 是一個超強的自動農場。 \\n\\n給它電、給它水、給它種子跟泥土，它就會瘋狂生長。效率高到嚇人。"]
+	quest.251464B43353D4C6.title: "&a溫室玻璃罩"
+	quest.252A24CED69C1882.quest_desc: ["熱電發電機利用溫差發電。 \\n\\n一邊擺冰，一邊擺岩漿，中間就會生電。溫差越大電越多。懶人發電首選。"]
+	quest.252A24CED69C1882.title: "溫差發電"
+	quest.257C80468B080B3C.quest_desc: ["電磁鐵可以把地上的東西吸到輸送帶上面。"]
+	quest.27FA2DB7839172BB.quest_desc: ["感應充電器升級。讓你背包裡的電子產品也能一起充電。"]
+	quest.288406DE6DA31BA6.quest_desc: ["想玩電？先做把剪線鉗。把金屬板剪成細細的電線才能接。"]
+	quest.288406DE6DA31BA6.title: "&8&lIE&r 玩電指南"
+	quest.28847A536C38EEA0.quest_desc: ["&c變壓器&r 用來轉換電壓。 \\n\\n別想著一步登天，低壓要轉高壓一定要經過中壓。這就是工業的嚴謹。"]
+	quest.28847A536C38EEA0.quest_subtitle: "不是會變身的那種"
+	quest.28847A536C38EEA0.title: "&c變壓器"
+	quest.28E99A6E17E86709.quest_desc: ["搬運液體也是一門藝術。 \\n\\n液體管可以用槌子調方向，還能貼上裝飾外殼。"]
+	quest.28E99A6E17E86709.title: "液體搬運"
+	quest.29C9F8719DA63D8D.quest_desc: ["&2&l電動鋸 (Buzzsaw)&r 是伐木神器。 \\n\\n鋸開樹幹，整棵樹連葉子通通掉下來。比你拿斧頭慢慢砍快多了。注意：它吃的是生質柴油。"]
+	quest.29C9F8719DA63D8D.title: "&2&l電動鋸"
+	quest.2A1BFB2E0F1F3312.quest_desc: ["電磁軌道砲可以用各種奇奇怪怪的東西當子彈。 \\n\\n終界棒、珍珠、三叉戟甚至是烈焰棒。射出去的威力絕對對得起它的造價。"]
+	quest.2A1BFB2E0F1F3312.title: "&5&l軌道砲&r 的奇怪彈藥"
+	quest.2E89A03BA809634E.title: "&9特種彈藥藍圖"
+	quest.2E9D1131DC21CC5B.quest_desc: ["歡迎來到 &8&l沉浸工程 (Immersive Engineering)&r！ \\n\\n這裡沒有 AE2 那種科幻的發光方塊，只有硬派的鐵鏽、電線跟大型多方塊機器。 \\n\\n第一步：做把 &6工程師槌子&r。它是你拆遷跟建築的靈魂工具。準備好當個真正的工人了嗎？"]
+	quest.2E9D1131DC21CC5B.title: "&8&l沉浸工程"
+	quest.2F19529214CA9559.quest_subtitle: "閃光彈？"
+	quest.2F8D117F802FEAF0.title: "突擊兵"
+	quest.30EA16BB8C169F86.title: "&6青銅錠"
+	quest.31324A6F96CAC112.quest_desc: ["液體幫浦幫你抽水。給它電，它抽的速度會讓你懷疑人生。"]
+	quest.31324A6F96CAC112.title: "&b液體幫浦"
+	quest.320EE52EB022FAD3.quest_desc: ["液體噴頭。自動把管子裡的液體噴在地上。自動化岩漿池不是夢。"]
+	quest.320EE52EB022FAD3.title: "&b液體噴頭"
+	quest.32384DE59539557D.quest_desc: [
+		"&4&l粉碎機&r 很大、很吵、很危險。 \\n\\n把原礦丟進去會變成粉。如果你不小心掉進去，也會變成「粉」。別說窩沒警告你。 \\n\\n它比槌子磨粉更有效率，還能噴出額外的副產品。"
+		"{@pagebreak}"
+		"蓋法：結構很複雜，有一堆漏斗。最後拿槌子點中間的鐵柵欄。"
+		"{image:atm:textures/questpics/immersive/immersive_crusher.png width:100 height:100 align:center}"
+	]
+	quest.32384DE59539557D.title: "&l&4粉碎機"
+	quest.33732EE8110A0911.quest_desc: ["鑽頭用的時運藥水。噴一點在鑽頭上，挖礦更香。"]
+	quest.340F93695FFF8D76.quest_desc: ["化學噴射器增距鏡。讓你的化學武器射得更準、更遠。"]
+	quest.341BB1353A1E45EA.quest_desc: ["自動砲塔就像是一把會自動瞄準的左輪手槍。 \\n\\n你可以設定白名單，防止它把你自己或你的貓打成蜂窩。"]
+	quest.34D09336FA3E272A.quest_desc: ["化學噴射砲塔。自動噴灑液體對付敵人。裝上火油，這就是自動化噴火器。"]
+	quest.35E399D88D2EDCB6.quest_subtitle: "碰撞？"
+	quest.36EB83BB41A9E621.quest_desc: [
+		"&b&l大型儲液槽&r 可以裝 512 桶液體。 \\n\\n它是單一液體存儲的王者。蓋起來非常霸氣。"
+		"{@pagebreak}"
+		"蓋法：跟儲物倉很像。拿槌子點第二層中間的鐵皮。"
+		"{image:atm:textures/questpics/immersive/immersive_tank.png width:100 height:120 align:center}"
+	]
+	quest.36EB83BB41A9E621.title: "&b&l大型儲液槽"
+	quest.373668AE257A7A94.quest_desc: ["高爆彈、龍息彈、藥水彈... 每一種都能讓你的敵人後悔出生在這個世界上。"]
+	quest.373668AE257A7A94.title: "特種彈藥"
+	quest.38C98FCB6A2D4226.quest_desc: ["迷你特斯拉線圈。穿在身上，任何敢靠近你的生物都會被電到發抖。這就是隨身版電網。"]
+	quest.38F01BAEC74D5D68.quest_desc: ["預熱器。為了對稱所以蓋兩個，強迫症福音。"]
+	quest.39DAC0592300992A.quest_desc: ["衝壓機模具藍圖。用來做各種形狀的金屬板或零件。"]
+	quest.39DAC0592300992A.title: "&9衝壓模具藍圖"
+	quest.3A4A8EAA3022C7BA.quest_desc: ["水車發電。最經典的 IE 發電方式。 \\n\\n讓水流過水車，帶動發電機生電。你可以連裝三台水車在同一個發電機上，發電量倍增。"]
+	quest.3DE14F16F3109229.quest_desc: ["把木頭浸在雜酚油裡就成了防腐木。 \\n\\n這是 IE 所有機器的基礎建材。它聞起來有一股濃濃的... 工業味。"]
+	quest.3DE14F16F3109229.title: "防腐木"
+	quest.3E32450DBB7529AA.quest_desc: ["物品定量器。讓輸送帶上的東西湊滿指定的數量才放行。對付那些機車的 Mekanism 機器超好用。"]
+	quest.3E32450DBB7529AA.title: "&e物品定量器"
+	quest.3E89034E0CB8D687.quest_desc: ["木箱跟強化木箱。 \\n\\n可以存 27 格物品，而且可以「打包」帶著走。這就是 IE 版的保險箱。"]
+	quest.3E89034E0CB8D687.title: "工業儲物箱"
+	quest.3ED40CC40458087E.quest_desc: ["&c&l儲能背包&r 是一個隨身電池。 \\n\\n穿在背上可以幫你手上的工具充電。再也不用擔心鑽頭挖到一半沒電了。"]
+	quest.3ED40CC40458087E.title: "&c&l儲能背包"
+	quest.3EDDF96EA5056D28.title: "&6康銅錠"
+	quest.3EE95747CA6DFB1A.quest_desc: [
+		"&7&l衝壓機&r 是做金屬板、線材的利器。 \\n\\n把模具裝上去，給它電，然後把錠丟在輸送帶上。看著它被壓扁的樣子超爽。 \\n\\n它甚至能壓出西瓜片，窩不知道為什麼這模組要支援這個功能。"
+		"{@pagebreak}"
+		"蓋法：很簡單的小結構。最後拿槌子點那個活塞。"
+	]
+	quest.3EE95747CA6DFB1A.title: "&l&7衝壓機"
+	quest.407C2D00F22BD89D.quest_desc: ["擴充彈夾。讓你的左輪可以塞 14 發子彈。午時已到，誰還在跟你慢慢填彈？"]
+	quest.4104C5D003D4705A.quest_desc: [
+		"&6&l自動化工作台&r 讓你的藍圖配方全自動化。 \\n\\n餵它材料跟藍圖，它就會源源不絕地生產。這是工廠化的終極表現。"
+		"{@pagebreak}"
+		"蓋法：結構比較歪，要注意工程塊的位置。最後拿槌子點木板。"
+		"{image:atm:textures/questpics/immersive/immersive_automated.png width:100 height:100 align:center}"
+	]
+	quest.4104C5D003D4705A.title: "&l&6自動化工作台"
+	quest.41B99DBD03EB74FF.quest_desc: [
+		"&l&4改良型高爐&r 終於可以自動化了！ \\n\\n它可以從上面餵料，從後面出貨。還能裝預熱器加速度。這才是真正的煉鋼廠。"
+		"{@pagebreak}"
+		"蓋法：用強化高爐磚疊成 3x3x3，頂部裝個漏斗。拿槌子點側面。"
+		"{image:atm:textures/questpics/immersive/immersive_blast.png width:100 height:150 align:center}"
+	]
+	quest.41B99DBD03EB74FF.title: "&l&4改良型高爐"
+	quest.4295C863C9A81F28.quest_desc: ["特斯拉線圈。最強大的守家利器。 \\n\\n任何敢靠近它的活物都會被電成黑炭。這可是高壓電，請勿觸摸。"]
+	quest.431C62A6F8ECB4EC.title: "&5&l軌道砲&r 的 IE 彈藥"
+	quest.442B1A1900BADAFC.quest_desc: ["這些是一塊方塊大小的單機機器。雖然小，但功能俱全。"]
+	quest.442B1A1900BADAFC.title: "小型單機"
+	quest.452EF09F6CB4AD99.quest_desc: ["電線接力器。用來延長電線距離或分流。"]
+	quest.452EF09F6CB4AD99.title: "&c電線接力器"
+	quest.458265FCD6B3068E.quest_desc: ["&6工程師合成台&r 內建 18 格儲存空間，而且關掉介面後東西不會噴出來。 \\n\\n簡直是合成界的勞斯萊斯。"]
+	quest.458265FCD6B3068E.title: "&6工程師合成台"
+	quest.47656073894224AF.quest_desc: ["&5&l軌道砲 (Railgun)&r 是一把超科幻的武器。 \\n\\n它需要充電才能射擊。子彈可以用各種金屬棒。按住右鍵充能到 99%，放開後就是毀天滅地的威力。"]
+	quest.47656073894224AF.title: "&5&l電磁軌道砲"
+	quest.47E32A084CAA1512.title: "&9常用彈藥藍圖"
+	quest.481735FE3164C8D5.quest_desc: ["冰、雪、冷水。用來冷卻熱電發電機。"]
+	quest.481735FE3164C8D5.title: "&b低溫物質"
+	quest.4AAB3899F530CC19.quest_desc: ["溜槽。幫你快速垂直搬運物品。"]
+	quest.4AAB3899F530CC19.quest_subtitle: "不用梯子？"
+	quest.4B42D962FE910CB3.quest_desc: ["幫你的子彈加點料，打中人會讓對方暈眩。"]
+	quest.4BA2F4AC2A08C294.quest_desc: [
+		"&c&l挖掘機 (Excavator)&r 是 IE 裡最貴、最大的機器。 \\n\\n它是自動採礦機的極致。它會在地底下挖出你一輩子都用不完的礦石。 \\n\\n注意：它非常吃電，請確保你的電力系統撐得住這台巨獸。"
+		"{@pagebreak}"
+		"蓋法：這結構大到會讓你懷疑人生。拿槌子點後面的重型工程塊。"
+		"{image:atm:textures/questpics/immersive/immersive_excavator.png width:125 height:100 align:center}"
+	]
+	quest.4BA2F4AC2A08C294.title: "&l&c挖掘機"
+	quest.4BBF987FEF639801.quest_desc: [
+		"&6&l合金窯&r 用來製作合金。 \\n\\n把兩種金屬放進去，給它煤炭燒一燒。這是你獲得電金跟康銅的唯一管道。"
+		"{@pagebreak}"
+		"蓋法：2x2x2 的合金磚。槌子點一下。簡單。"
+		"{image:atm:textures/questpics/immersive/immersive_alloy.png width:100 height:100 align:center}"
+	]
+	quest.4BBF987FEF639801.title: "&l&6合金窯"
+	quest.4C4C9ADAC6107F89.quest_desc: ["輕型工程塊。用鐵、銅跟一些零件合成。做 IE 機器的基本組件。"]
+	quest.4C4C9ADAC6107F89.title: "&e輕型工程塊"
+	quest.4D193D60A3CAF435.quest_desc: [
+		"&2&l柴油發電機&r 是這模組的主力發電設備。 \\n\\n餵它吃生質柴油，它會回報你爆多的電力。聲音很大，很有重工業的感覺。"
+		"{@pagebreak}"
+		"蓋法：一堆工程塊、散熱器跟發電機塊。槌子點中間的發電機塊。"
+		"{image:atm:textures/questpics/immersive/immersive_diesel.png width:100 height:100 align:center}"
+	]
+	quest.4D193D60A3CAF435.title: "&2&l柴油發電機"
+	quest.4D8190E94851C546.quest_desc: ["通電的電線很危險！ \\n\\n幫你的滑鉤裝個絕緣握把，不然滑一滑會被電成焦炭。"]
+	quest.4E297778DCEEC963.quest_desc: ["進階散熱片。讓你的軌道砲充電速度飛快。"]
+	quest.4E8860056D068610.quest_desc: ["石墨電極藍圖。這東西超難拿，要去村莊找機械師換。有了它你才能玩電弧爐。"]
+	quest.4E8860056D068610.title: "&9電弧爐電極藍圖"
+	quest.4F56BFE6E4716F6D.quest_desc: [
+		"&8&l電弧爐&r 是最強大的回收機器。 \\n\\n它可以把各種金屬製品、裝備、甚至是壞掉的工具，通通熔回成錠。 \\n\\n它還能超快地製作合金。這台機器就是工廠裡的終端機。"
+		"{@pagebreak}"
+		"蓋法：大到靠北。準備好幾組材料。拿槌子點那個大釜。"
+		"{image:atm:textures/questpics/immersive/immersive_arc.png width:100 height:100 align:center}"
+	]
+	quest.4F56BFE6E4716F6D.title: "&8&l電弧爐"
+	quest.50326B1D6EE8FA0B.quest_desc: ["&c儲能箱 (Accumulators)&r 就是大型電池。 \\n\\n用槌子可以切換輸入跟輸出模式。別接反了。"]
+	quest.50326B1D6EE8FA0B.title: "&c電力儲能箱"
+	quest.506F20AF8E857559.quest_desc: ["動能發電機。把水車或風車掛在上面，它就會開始生電。它是所有綠能發電的核心。"]
+	quest.506F20AF8E857559.title: "動能發電機"
+	quest.50F1C4521D282C60.title: "堡壘兵"
+	quest.520904C106D7D93D.quest_subtitle: "從天而降的掌法"
+	quest.5218DAE147AC9F44.quest_desc: ["鋸片盒。讓你可以在鋸子上切換不同種類的鋸片。隨時應付各種樹木。"]
+	quest.553ADA7040B652CD.quest_desc: ["加大型油箱。讓你的工具可以存兩倍的燃料。"]
+	quest.5585130028BB8298.quest_desc: ["&d&l左輪手槍&r 是 IE 裡最經典的武器。 \\n\\n拿起來超帥，射起來超爽。還能裝各種刺刀、瞄準鏡。快去當個牛仔吧。"]
+	quest.5585130028BB8298.quest_subtitle: "你有沒有覺得運氣很好，混帳？"
+	quest.5585130028BB8298.title: "&d&l工程師左輪手槍"
+	quest.56CE6CF9C99FB522.quest_desc: ["散熱器塊。用來幫巨大的發電機組降溫。裡面要裝水桶喔。"]
+	quest.56CE6CF9C99FB522.title: "&8散熱器塊"
+	quest.56E30438AE512475.quest_desc: ["高爐預熱器。貼在改良型高爐旁邊給它電，鋼鐵生產速度直接飛天。"]
+	quest.573C2242EAB85B49.quest_desc: [
+		"&0&l煉焦爐&r 用來把煤炭變成焦炭。 \\n\\n它是鋼鐵工業的基石。副產品「雜酚油」也很有用。建議多蓋幾個，不然焦炭永遠不夠用。"
+		"{@pagebreak}"
+		"蓋法：3x3x3 的煉焦磚。槌子點中間。簡單好用。"
+		"{image:atm:textures/questpics/immersive/immersive_coke.png width:100 height:100 align:center}"
+	]
+	quest.573C2242EAB85B49.title: "&l&8煉焦爐"
+	quest.586F6FD38CF85DCA.quest_desc: ["&4&l手持鑽頭&r 是 IE 冒險者的標配。 \\n\\n吃油的機器，挖礦超快。還能幫它裝升級套件。"]
+	quest.586F6FD38CF85DCA.quest_subtitle: " Would you kindly? (生化奇兵梗)"
+	quest.586F6FD38CF85DCA.title: "&4&l手持鑽頭"
+	quest.591E6964ABCC638C.quest_desc: ["輸送帶。不只是搬東西，連玩家跟怪物都能搬。做個陷阱把怪通通送進粉碎機吧！"]
+	quest.591E6964ABCC638C.quest_subtitle: "連你也能搬！"
+	quest.591E6964ABCC638C.title: "物品搬運系統"
+	quest.598DE7CEDA864B50.quest_desc: ["幫你的化學噴射器換個三聯裝油箱，一次裝三種毒藥。"]
+	quest.5A2A718C569F3C19.quest_desc: ["焦炭是煤炭的上位替代品。燒得更久，也是煉鋼的必備燃料。"]
+	quest.5A2A718C569F3C19.title: "&8焦炭"
+	quest.5C5546A5103BCF55.quest_desc: ["化學噴射器。可以用來噴火、噴毒或是噴治療藥水。只是窩現在還搞不懂怎麼讓它動起來..."]
+	quest.5C5546A5103BCF55.title: "&b&l化學噴射器"
+	quest.5DE3F2A96715BA2E.quest_desc: [
+		"&e&l儲物倉&r 是大型單一物品存儲。 \\n\\n可以存四萬多個東西。這就像是一個超級巨大的抽屜。"
+		"{@pagebreak}"
+		"蓋法：一堆鐵皮加防腐木柵欄。最後拿槌子點第二層面塊。"
+		"{image:atm:textures/questpics/immersive/immersive_silo.png width:100 height:125 align:center}"
+	]
+	quest.5DE3F2A96715BA2E.title: "&l&e儲物倉"
+	quest.5E228ACA1B13AD04.title: "現在它會射也會捶了！"
+	quest.5EE1DF1C8F0C1FF9.quest_desc: [
+		"&5&l閃電收集器&r 是一場豪賭。 \\n\\n在上面插滿避雷針，等雷劈下來那一瞬間，你就能得到爆表的電力。 \\n\\n想控制大自然？這就是你的終極武器。"
+		"{@pagebreak}"
+		"蓋法：超大一座。槌子點前面的輕型工程塊。"
+		"{image:atm:textures/questpics/immersive/immersive_lightning.png width:100 height:100 align:center}"
+	]
+	quest.5EE1DF1C8F0C1FF9.title: "&5&l閃電收集器"
+	quest.5F4F7637044BD4F1.quest_desc: [
+		"&2&l發酵機&r 把食物變成乙醇。 \\n\\n給它蘋果、馬鈴薯或西瓜。這是你實現能源自給自足的第一步。"
+		"{@pagebreak}"
+		"蓋法：一堆散熱器跟釜鍋。拿槌子點中間的釜鍋。"
+		"{image:atm:textures/questpics/immersive/immersive_fermenter.png width:100 height:100 align:center}"
+	]
+	quest.5F4F7637044BD4F1.title: "&l&2發酵機"
+	quest.607D9B53C632DEDE.quest_desc: ["液體閥門。用紅石訊號控制開關。"]
+	quest.607D9B53C632DEDE.title: "&b液體閥門"
+	quest.6140EAA6E042EF7C.quest_desc: ["滑鉤讓你像《生化奇兵：無限》一樣在電線上飛。 \\n\\n它是 IE 裡最潮的移動方式。裝上強力馬達，你連上坡都能滑。"]
+	quest.6140EAA6E042EF7C.quest_subtitle: "Booker, 接好！"
+	quest.6140EAA6E042EF7C.title: "&6&l工程師滑鉤"
+	quest.63F5314A1072FA05.quest_desc: [
+		"&e&l鋸木機&r 自動把原木變成木板。 \\n\\n它會先剝皮，再切割。效率比你自己在那邊合成高多了。還會掉鋸屑可以做紙。"
+		"{@pagebreak}"
+		"蓋法：槌子點中間的鐵皮。"
+		"{image:atm:textures/questpics/immersive/immersive_saw.png width:100 height:100 align:center}"
+	]
+	quest.63F5314A1072FA05.title: "&e&l鋸木機"
+	quest.662DD269B027B6C8.quest_desc: ["充電天線。只要走在電線下面就能自動幫背包充電。這就是無線電力傳輸（有線版）。"]
+	quest.67940C0774E73217.quest_desc: ["物品路由器。幫你把東西分送到不同的箱子。"]
+	quest.67940C0774E73217.title: "&e物品路由器"
+	quest.679E80EBB9A2AE7E.quest_desc: ["液體路由器。用來分類不同的液體。"]
+	quest.679E80EBB9A2AE7E.title: "&b液體路由器"
+	quest.67FB03BE6685AFE1.quest_desc: ["拿著左輪手槍對著路過的掠奪者開一槍吧！ \\n\\n這會觸發 IE 專屬的戰爭機制，更強的敵軍會開始找你麻煩。"]
+	quest.67FB03BE6685AFE1.title: "開戰宣言"
+	quest.6B2BD6F939136F50.quest_desc: ["轉盤。給紅石訊號就會轉。可以用來做自動化刷礦場或是單純裝逼用的旋轉裝飾。"]
+	quest.6BD348735C27BB44.quest_desc: [
+		"&b&l裝罐機&r 會自動幫輸送帶上的容器裝水（或是裝化學品）。 \\n\\n這是做某些配方的關鍵。看著瓶子在那邊跑真的很療癒。"
+		"{@pagebreak}"
+		"蓋法：拿槌子點中間那條輸送帶。"
+		"{image:atm:textures/questpics/immersive/immersive_bottler.png width:100 height:100 align:center}"
+	]
+	quest.6BD348735C27BB44.title: "&b&l裝罐機"
+	quest.6D42D0102D1CBC19.quest_desc: ["鑽頭用的鋒利附魔。讓你鑽怪更痛、挖礦更快。"]
+	quest.6F3C82072672FD17.quest_desc: ["這任務是由 &6ATM 員工&r 或某個 &2爆肝網友&r 寫的。如果你看得到這行，代表你現在正在窺視開發者的內心世界（編輯模式）。"]
+	quest.7060290E107D92AB.quest_desc: ["充電站。幫你的軌道砲、左輪跟電池充電。這就是你的 3C 充電器。"]
+	quest.72CE46D28C9E7452.title: "精密瞄準鏡"
+	quest.73110103EF23BFDF.title: "&6黃銅錠"
+	quest.763AE58CF620695E.title: "&9旗幟圖案藍圖"
+	quest.767E4FC03B6F6534.title: "&7因瓦合金錠"
+	quest.7744BEC5CD328262.quest_desc: ["水下挖掘補件。讓你當個深海礦工。"]
+	quest.78DA970F97002975.quest_desc: ["儲存液體的桶子。木桶不能裝氣體跟熱水，金屬桶則全能。"]
+	quest.78DA970F97002975.title: "液體儲存桶"
+	quest.79BEECD4E545793F.quest_desc: ["刮刀鐵絲網。比蜘蛛網更痛，還能通電。這才是真正的居家防衛。"]
+	quest.7A1E3E7E2DF17AD2.title: "&2&l電動鋸&r 的各式鋸片"
+	quest.7A41038180C06B00.quest_desc: ["連接頭。連線用的端點。"]
+	quest.7A41038180C06B00.title: "&c電線連接頭"
+	quest.7AE85F4FF4DDF4F2.quest_desc: ["風車發電。環保綠能的最佳選擇。 \\n\\n放得越高越空曠，轉得越快。你可以插 8 片帆布來加速度。這才是真正的農場風情。"]
+	quest.7B447E986493AD6B.quest_desc: ["雜酚油。煉焦爐的副產品。 \\n\\n除了做防腐木之外，聞起來還有一種讓你覺得「我正在工作」的感覺。"]
+	quest.7B447E986493AD6B.title: "&7雜酚油 (Creosote Oil)"
+	quest.7B9672C4FCFFB887.title: "&9警告標語藍圖"
+	quest.7FE273141D3DFFFD.title: "火槍兵"
+	task.02B26D0D73E5E361.title: "輸送帶"
+	task.0837FA64B9C50048.title: "電動鋸鋸片"
+	task.0B62C759781950A1.title: "IE 軌道砲彈藥"
+	task.0CD67A3D64E9B49B.title: "裝飾用電線"
+	task.0D7C60D7BFBD8CF0.title: "不準偷拿 (版權所有)"
+	task.15795AB2872E2DEE.title: "溜槽"
+	task.173B725A839DEEAA.title: "常用彈藥"
+	task.20D0DB49AFA7976F.title: "任何儲能箱"
+	task.4025792887CB9BE2.title: "電線圈"
+	task.43FDC45CF464047E.title: "高溫物質"
+	task.440F173D6B5EE74E.title: "接力器"
+	task.529FFD7D692AEFA5.title: "特種彈藥"
+	task.5580FF146C9E7EA0.title: "桶子"
+	task.56D7513E9D02F900.title: "鑽頭頭"
+	task.59DC19A11848EFE1.title: "連接頭"
+	task.5CEB2D56A9EA74D0.title: "低溫物質"
+	task.603A16080675C348.title: "不準偷拿 (版權所有)"
+	task.79F67E07C28F8E97.title: "原版軌道砲彈藥"
+	task.7FED013A7F667CC6.title: "木箱"
+}
