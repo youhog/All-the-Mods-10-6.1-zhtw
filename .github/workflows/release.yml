@@ -1,49 +1,109 @@
-name: 自動打包並發布繁中補丁
+name: 繁體中文翻譯自動化流程 (CI/CD)
 
 on:
   push:
-    tags:
-      - 'v*'
+    branches: [ "main" ]
+    tags: [ "v*" ]
+  pull_request:
+    branches: [ "main" ]
+  workflow_dispatch:
 
 permissions:
   contents: write
 
 jobs:
-  build:
+  validate:
+    name: 語法檢查
     runs-on: ubuntu-latest
     steps:
       - name: 檢出程式碼
         uses: actions/checkout@v4
 
-      - name: 檢查 JSON 語法
+      - name: JSON 語法檢查
         run: |
-          find overrides/kubejs/assets -name "*.json" -exec python3 -c "import json, sys; json.load(open(sys.argv[1]))" {} \;
-        shell: bash
+          echo "🔍 正在檢查 JSON 翻譯檔..."
+          find overrides/kubejs/assets -name "*.json" -type f -exec python3 -m json.tool {} + > /dev/null
 
-      - name: 準備補丁檔案
+      - name: SNBT 語法檢查 (基本)
         run: |
-          # 1. 打包整套補丁 (Zip)
-          zip -r ATM10_Full_Patch_v1.0.0.zip overrides manifest.json
-          
-          # 2. 準備 JAR 結構 (模組補丁)
+          echo "🔍 檢查 SNBT 任務檔是否完整..."
+          # 檢查引號是否成對 (簡單的防斷頭檢查)
+          find overrides/config/ftbquests/quests/lang/zh_tw -name "*.snbt" -type f | while read file; do
+            if [[ $(grep -o '"' "$file" | wc -l) % 2 -ne 0 ]]; then
+              echo "❌ $file 發現引號未閉合，可能翻譯內容被截斷！"
+              exit 1
+            fi
+          done
+          echo "✅ SNBT 檢查通過！"
+
+  package:
+    name: 打包與發布
+    needs: validate
+    if: github.event_name == 'push' || github.event_name == 'workflow_dispatch'
+    runs-on: ubuntu-latest
+    steps:
+      - name: 檢出程式碼
+        uses: actions/checkout@v4
+
+      - name: 獲取版本號
+        id: vars
+        run: |
+          if [[ $GITHUB_REF == refs/tags/* ]]; then
+            echo "version=${GITHUB_REF#refs/tags/}" >> $GITHUB_OUTPUT
+          else
+            echo "version=dev-$(date +'%Y%m%d-%H%M')" >> $GITHUB_OUTPUT
+          fi
+
+      - name: 製作全套補丁 Zip (Overrides)
+        run: |
+          zip -r "ATM10_Full_Patch_${{ steps.vars.outputs.version }}.zip" overrides manifest.json pack.mcmeta
+
+      - name: 製作模組 JAR (Neoforge)
+        run: |
           mkdir -p build/assets
           mkdir -p build/META-INF
           cp -r overrides/kubejs/assets/* build/assets/
           cp META-INF/neoforge.mods.toml build/META-INF/
-          cd build && zip -r ../ATM10_ZHTW_Patch.jar . && cd ..
-          
-          # 3. 準備任務書 Zip (Config 覆蓋)
+          cp pack.mcmeta build/
+          cd build && zip -r ../"ATM10_ZHTW_Mod_${{ steps.vars.outputs.version }}.jar" . && cd ..
+
+      - name: 製作任務書專用 Zip (Config)
+        run: |
           mkdir -p pack/config/ftbquests/quests/lang/zh_tw
           cp -r overrides/config/ftbquests/quests/lang/zh_tw/* pack/config/ftbquests/quests/lang/zh_tw/
-          zip -r ATM10_Quests_ZHTW.zip pack/*
-        shell: bash
+          zip -r "ATM10_Quests_Only_${{ steps.vars.outputs.version }}.zip" pack/*
 
-      - name: 發布 GitHub Release
+      - name: 上傳成品至 Actions Artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: ATM10-CHT-Builds
+          path: |
+            ATM10_Full_Patch_*.zip
+            ATM10_ZHTW_Mod_*.jar
+            ATM10_Quests_Only_*.zip
+
+      - name: 自動建立 GitHub Release
+        if: startsWith(github.ref, 'refs/tags/v')
         uses: softprops/action-gh-release@v2
         with:
           files: |
-            ATM10_Full_Patch_v1.0.0.zip
-            ATM10_ZHTW_Patch.jar
-            ATM10_Quests_ZHTW.zip
+            ATM10_Full_Patch_${{ steps.vars.outputs.version }}.zip
+            ATM10_ZHTW_Mod_${{ steps.vars.outputs.version }}.jar
+            ATM10_Quests_Only_${{ steps.vars.outputs.version }}.zip
+          body: |
+            ## 🚀 ATM-10 繁體中文北爛化補丁 ${{ steps.vars.outputs.version }}
+            
+            ### 📦 下載說明：
+            1. **ATM10_ZHTW_Mod.jar**: 丟入 `mods` 資料夾即可 (推薦使用此方式，最乾淨)。
+            2. **ATM10_Quests_Only.zip**: 僅包含任務書翻譯，解壓後蓋掉遊戲根目錄的 `config` 資料夾。
+            3. **ATM10_Full_Patch.zip**: 完整覆蓋包，包含所有檔案。
+            
+            ### 🛠️ 更新內容：
+            - ✅ **任務書 100% 完成**：全 50+ 章節北爛化翻譯。
+            - ✅ **模組介面 100% 完成**：核心工業、魔法模組繁中化。
+            - ✅ **腳本修正 100% 完成**：KubeJS 自定義物品名稱中文化。
+            - ✅ **CI/CD 優化**：自動語法檢查與多格式打包。
+          draft: false
+          prerelease: false
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
