@@ -1,10 +1,12 @@
 {
-  "machine.compactmachines.colossal": "縮小空間 (極大)",
-  "machine.compactmachines.giant": "縮小空間 (巨大)",
-  "machine.compactmachines.large": "縮小空間 (大型)",
-  "machine.compactmachines.normal": "縮小空間 (普通)",
-  "machine.compactmachines.small": "縮小空間 (小型)",
-  "machine.compactmachines.tiny": "縮小空間 (微型)",
-  "machine.compactmachines.soaryn": "縮小空間 (Soaryn)",
-  "machine.compactmachines.farming": "縮小空間 (農業型)"
+    "gamerule.compactmachines.damage_psd_on_exit": "退出时损坏压缩装置",
+    "gamerule.compactmachines.allow_creative_oob": "允许创造模式玩家越界",
+    "gamerule.compactmachines.allow_survival_oob": "允许生存模式玩家越界",
+    "gamerule.compactmachines.allow_spectator_oob.description": "允许旁观者超出边界",
+    "gamerule.compactmachines.allow_creative_oob.description": "允许创造模式玩家超出边界",
+    "gamerule.compactmachines.damage_oob": "对越界玩家造成伤害",
+    "gamerule.compactmachines.damage_psd_on_exit.description": "通过离开房间来损坏压缩装置",
+    "gamerule.compactmachines.damage_oob.description": "对超出边界的玩家造成伤害",
+    "gamerule.compactmachines.allow_survival_oob.description": "允许生存模式玩家超出边界",
+    "gamerule.compactmachines.allow_spectator_oob": "允许旁观模式玩家越界"
 }

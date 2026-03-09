@@ -1,0 +1,7 @@
+{
+    "block.replication_rs2_bridge.rep_rs2_bridge": "Replication RS2桥接器",
+    "itemGroup.replication_rs2_bridge": "Replication RS2桥接器",
+    "block.replication_rs2_bridge.rep_rs2_bridge.priority": "樣板材优先級",
+    "block.replication_rs2_bridge.rep_rs2_bridge.priority.help": "自動合成時會优先使用高优先級的樣板材。可用此設置讓系統首選使用物質複制，而非普通配方。",
+    "block.replication_rs2_bridge.rep_rs2_bridge.tooltip": "將Replication的物質網络連接至精致存储2。複制配方公开為RS2的自動合成配方。右击以設置樣板材优先級。"
+}

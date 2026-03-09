@@ -1,0 +1,14 @@
+{
+    "item.rep_ae2_bridge.earth": "大地物質",
+    "item.rep_ae2_bridge.nether": "下界物質",
+    "item.rep_ae2_bridge.organic": "有機物質",
+    "item.rep_ae2_bridge.ender": "終界物質",
+    "item.rep_ae2_bridge.metallic": "金屬物質",
+    "item.rep_ae2_bridge.precious": "珍宝物質",
+    "item.rep_ae2_bridge.living": "生命物質",
+    "item.rep_ae2_bridge.quantum": "量子物質",
+    "block.rep_ae2_bridge.rep_ae2_bridge": "AE2-Replication桥接器",
+    "block.rep_ae2_bridge.repae2bridge": "RepAE2Bridge",
+    "item.rep_ae2_bridge.repae2bridge": "RepAE2Bridge",
+    "item.rep_ae2_bridge.universal_matter.warning": "警告：此處顯示的是通用占位物質；如需修正，請重启用戶端和服务端。自定義的物質仍需自行创建纹理、物品模型，以及本地化鍵。"
+}

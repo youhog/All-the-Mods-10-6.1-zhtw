@@ -1,0 +1,4 @@
+{
+    "block.redstonepen.control_box.error.parse_error": "解析错误",
+    "redstonepen.overlay.remote_saved": "链接已保存 %4$s [%1$s, %2$s, %3$s]"
+}

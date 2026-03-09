@@ -1,0 +1,10 @@
+{
+    "warning.underrecommended": "分配的内存(%s mb)低于系统的推荐值,推荐值为:%s mb.\n",
+    "warning.recommendedbelowmin": "您系统的推荐值%s低于此包所需的最低值%s mb.您可能会遇到频繁卡顿等问题.\n",
+    "button.howto": "打开指南",
+    "warning.toomuch": "为此包分配的内存(%s mb)超过了推荐值,最大值为:%s mb.您系统的推荐值为:%s mb.\n",
+    "warning.toolow": "为此包分配的内存(%s mb)低于推荐值,最小值为:%s mb.您系统的推荐值为:%s mb.\n",
+    "warning.32bit": "您正在64位系统上使用32位Java,请安装64位Java.",
+    "button.stopremind": "停止显示",
+    "warning.overrecommended": "分配的内存(%s mb)超过了系统的推荐值,推荐值为:%s mb.\n"
+}

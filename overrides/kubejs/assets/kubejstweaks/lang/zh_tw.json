@@ -1,0 +1,6 @@
+{
+    "kubejstweaks.chat.mod_id": "[KubeJS优化] %s",
+    "kubejstweaks.chat.click_to_open_markdown": "点击打开Markdown文件",
+    "kubejstweaks.debug.erroring_recipes_summary": "已生成包含错误配方的Markdown文件:%s",
+    "kubejstweaks.chat.click_here": "[点击此处]"
+}

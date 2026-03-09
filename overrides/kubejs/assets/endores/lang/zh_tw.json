@@ -1,0 +1,19 @@
+{
+    "block.endores.end_ore_coal": "終界煤礦石",
+    "block.endores.end_ore_copper": "終界銅礦石",
+    "block.endores.end_ore_iron": "終界鐵礦石",
+    "block.endores.end_ore_gold": "終界金礦石",
+    "block.endores.end_ore_lapis": "終界青金石礦石",
+    "block.endores.end_ore_redstone": "終界红石礦石",
+    "block.endores.end_ore_diamond": "終界鑽石礦石",
+    "block.endores.end_ore_emerald": "終界绿宝石礦石",
+    "block.endores.nether_ore_coal": "下界煤礦石",
+    "block.endores.nether_ore_copper": "下界銅礦石",
+    "block.endores.nether_ore_iron": "下界鐵礦石",
+    "block.endores.nether_ore_gold": "下界金礦石",
+    "block.endores.nether_ore_lapis": "下界青金石礦石",
+    "block.endores.nether_ore_redstone": "下界红石礦石",
+    "block.endores.nether_ore_diamond": "下界鑽石礦石",
+    "block.endores.nether_ore_emerald": "下界绿宝石礦石",
+    "itemGroup.endores": "終界礦石"
+}

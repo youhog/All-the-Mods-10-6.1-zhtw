@@ -1,13 +1,14 @@
 {
-  "itemGroup.iceandfire": "冰與火之歌 (Ice and Fire)",
-  "advancements.iceandfire.root.title": "冰與火之歌",
-  "advancements.iceandfire.root.description": "充滿巨龍與神話生物的世界",
-  "advancements.iceandfire.tame_hippocampus.title": "威鯨闖天關 (Free Willy)",
-  "advancements.iceandfire.tame_hippocampus.description": "透過餵食海帶馴服一隻馬頭魚尾怪",
-  "entity.iceandfire.hippocampus": "馬頭魚尾怪",
-  "item.iceandfire.manuscript": "手稿",
-  "item.iceandfire.bestiary": "奇幻生物大百科",
-  "item.iceandfire.dragon_scales_red": "火龍鱗片",
-  "item.iceandfire.dragon_scales_blue": "冰龍鱗片",
-  "item.iceandfire.dragon_scales_white": "閃電龍鱗片"
+    "advancements.iceandfire.tame_pixie.title": "属于你的那个人来了",
+    "advancements.iceandfire.kill_ghost.title": "你要叫谁来?",
+    "modifier.in_the_garage": "在车库里",
+    "advancements.iceandfire.jar_pixie.title": "冲浪者罗莎",
+    "advancements.iceandfire.pixie_wand.title": "吾心何归?",
+    "modifier.sweater_song": "未完成",
+    "modifier.surf_wax_america": "冲浪蜡美国",
+    "material.weezer": "韦泽",
+    "item.iceandfire.weezer_blue_album": "韦泽",
+    "item.iceandfire.weezer_blue_album.desc_0": "韦泽",
+    "item.iceandfire.air_pods": "苹果AirPods",
+    "message.iceandfire.dragonGrownEnd": "龙已成长为成年龙!"
 }

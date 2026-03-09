@@ -1,0 +1,18 @@
+{
+    "spell.irons_spellbooks.wololo": "沃洛洛",
+    "fluid_type.irons_spellbooks.ice_spider_pheromone": "冰蜘蛛信息素",
+    "death.attack.irons_spellbooks.throw": "%1$s 被 %2$s 击杀",
+    "commands.irons_spellbooks.generic.unknown_spell": "未知法术ID:%s",
+    "item.irons_spellbooks.ice_spider_pheromones": "冰蜘蛛信息素",
+    "jukebox_song.irons_spellbooks.dead_king_lullaby": "Caner Crebes - 国王的摇篮曲",
+    "commands.irons_spellbooks.config.cant_override": "配置 %s 已存在.请删除文件或在命令中添加 \"override\" 以继续.",
+    "effect.irons_spellbooks.ice_spider_lure": "冰蜘蛛诱饵",
+    "jukebox_song.irons_spellbooks.flame_still_burns": "Caner Crebes - 火焰依旧燃烧",
+    "commands.irons_spellbooks.generic.create_file": "成功创建文件 %s",
+    "tooltip.irons_spellbooks.shift_tooltip": "[Shift+]键",
+    "death.attack.irons_spellbooks.throw.item": "%1$s 被 %2$s 投掷的 %3$s 击杀",
+    "item.irons_spellbooks.music_disc_whispers_of_ice": "音乐唱片",
+    "jukebox_song.irons_spellbooks.whispers_of_ice": "Caner Crebes - 冰之低语",
+    "effect.irons_spellbooks.ice_spider_lure.description": "效果结束时将生成一只冰蜘蛛并追杀你",
+    "item.irons_spellbooks.unchained_book": "解放之书"
+}

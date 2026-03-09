@@ -1,0 +1,19 @@
+{
+    "block.sliceanddice.fertilizer": "肥料",
+    "block.sliceanddice.slicer": "切片機",
+    "block.sliceanddice.sprinkler": "喷灌器",
+    "block.sliceanddice.wet_air": "湿润空氣",
+    "fluid.sliceanddice.fertilizer": "液態肥料",
+    "item.sliceanddice.fertilizer_bucket": "液態肥料桶",
+    "sliceanddice.gui.contraptions.wrong_direction": "该%s正以_錯误的方向_旋轉。",
+    "sliceanddice.ponder.slicer.header": "使用切片機切割物品",
+    "sliceanddice.ponder.slicer.text_1": "使用有效刀具右击切片機主體",
+    "sliceanddice.ponder.slicer.text_2": "切片機也可与工作盆配合工作",
+    "sliceanddice.ponder.sprinkler/intro.header": "頂部喷灌",
+    "sliceanddice.ponder.sprinkler/intro.text_1": "將喷灌器安裝於流體管道下方",
+    "sliceanddice.ponder.sprinkler/uses.header": "喷灌類型",
+    "sliceanddice.ponder.sprinkler/uses.text_1": "不同流體會對生物產生不同影响",
+    "sliceanddice.recipe.assembly.slicer": "使用切片機切割",
+    "sliceanddice.recipe.slicer": "切片",
+    "sliceanddice.tooltip.rotationDirection": "旋轉方向"
+}

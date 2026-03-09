@@ -1,10 +1,3 @@
 {
-    "entity.sophisticatedstorageinmotion.chested_horse_with_storage": "帶%s的%s",
-    "entity.sophisticatedstorageinmotion.storage_boat": "帶%2$s的%1$s船",
-    "entity.sophisticatedstorageinmotion.storage_minecart": "帶%s的礦车",
-    "entity.sophisticatedstorageinmotion.storage_raft": "帶%2$s的%1$s筏",
-    "item.sophisticatedstorageinmotion.storage_boat": "帶%2$s的%1$s船",
-    "item.sophisticatedstorageinmotion.storage_minecart": "帶%s的礦车",
-    "item.sophisticatedstorageinmotion.storage_raft": "帶%2$s的%1$s筏",
-    "itemGroup.sophisticatedstorageinmotion": "精妙存储:礦车物流"
+    "entity.sophisticatedstorageinmotion.chested_horse_with_storage": "带%s的%s"
 }

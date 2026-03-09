@@ -1,0 +1,18 @@
+{
+    "tooltip.glassential.painter.pass_entity": "◈ 实体穿透",
+    "gui.glassential.pass_player": "玩家可穿透",
+    "tooltip.glassential.colorable": "使用玻璃画笔更改颜色与属性",
+    "block.glassential.colorable_stained_glass": "可染色染色玻璃",
+    "gui.glassential.apply": "应用",
+    "gui.glassential.pass_entity": "所有实体可穿透",
+    "block.glassential.colorable_glass": "可染色玻璃",
+    "gui.glassential.emit_light": "发光",
+    "tooltip.glassential.painter.usage": "右键点击以配置",
+    "gui.glassential.emit_redstone": "发出红石信号",
+    "tooltip.glassential.painter.color": "颜色:%s",
+    "tooltip.glassential.painter.pass_player": "◯ 玩家穿透",
+    "tooltip.glassential.painter.emit_redstone": "⚡ 发出红石信号",
+    "tooltip.glassential.painter.emit_light": "✦ 发光",
+    "gui.glassential.glass_painter": "玻璃画笔调校",
+    "item.glassential.glass_painter": "玻璃画笔"
+}

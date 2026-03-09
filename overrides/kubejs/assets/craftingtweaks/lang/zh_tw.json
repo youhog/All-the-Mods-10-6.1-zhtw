@@ -1,0 +1,17 @@
+{
+    "config.craftingtweaks.common.compressDenylist": "压缩拒绝列表",
+    "config.craftingtweaks.client.disabledAddons": "禁用的插件",
+    "config.craftingtweaks.client.rightClickCraftsStack": "右键点击制作整组",
+    "config.craftingtweaks.client.mode.tooltip": "设置为'DEFAULT'以同时启用按钮和热键.设置为'BUTTONS'以仅启用按钮.设置为'HOTKEYS'以仅启用热键.设置为'DISABLED'以完全禁用.",
+    "config.craftingtweaks.common": "通用",
+    "config.craftingtweaks.client.hideVanillaCraftingGuide": "隐藏原版制作指南",
+    "config.craftingtweaks.common.compressDenylist.tooltip": "一个modid:name条目的列表,将不会通过压缩键进行制作.",
+    "config.craftingtweaks.title": "制作调整",
+    "config.craftingtweaks.client.mode": "模式",
+    "config.craftingtweaks.client": "客户端",
+    "config.craftingtweaks.common.compressRequiresCraftingGrid": "压缩需要制作网格",
+    "config.craftingtweaks.client.rightClickCraftsStack.tooltip": "如果设置为true,在制作台的结果槽中右键点击将制作整组物品.",
+    "config.craftingtweaks.client.disabledAddons.tooltip": "在这里添加您希望禁用制作调整支持的mod id.",
+    "config.craftingtweaks.client.hideVanillaCraftingGuide.tooltip": "我们都知道JEI更好.此选项隐藏原版的制作书按钮而不是移动它.",
+    "config.craftingtweaks.common.compressRequiresCraftingGrid.tooltip": "如果您希望(解)压缩功能在制作界面之外也能使用,请将其设置为false(仅在安装在服务器上并在玩家背包中时有效)"
+}

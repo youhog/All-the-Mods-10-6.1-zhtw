@@ -1,0 +1,7 @@
+{
+    "block.createimmersiveunnecessaryshaft.treated_shaft": "防腐木傳動杆",
+    "createimmersiveunnecessaryshaft.ponder.shaft.header": "使用防腐木傳動杆在機械動力和沉浸工程間傳遞旋轉力",
+    "createimmersiveunnecessaryshaft.ponder.shaft.text_1": "防腐木傳動杆能直线傳遞旋轉力",
+    "createimmersiveunnecessaryshaft.ponder.shaft.text_2": "它可以將沉浸工程和機械動力的機器相連，比如動能發電機",
+    "createimmersiveunnecessaryshaft.ponder.shaft.text_3": "相連的動能發電機會產生尽可能多的应力影响值，但不會導致網络過載"
+}

@@ -1,0 +1,23 @@
+{
+    "text.nea.line.holdup": "手持效果",
+    "text.nea.line.rotation": "旋转",
+    "text.nea.tab.holdup": "手持物品",
+    "text.nea.tab.lantern": "灯笼",
+    "text.nea.enable.customBowRotationLock.tooltip": "使用自定义弓动画时使身体倾斜一定角度",
+    "text.nea.line.smoothing": "平滑处理",
+    "text.nea.line.fixes": "修复",
+    "text.nea.enable.clampCrossbowAnimations.tooltip": "限制动画播放幅度",
+    "text.nea.line.animations": "动画效果",
+    "text.nea.enable.applyRotationLockToEveryone": "对所有人应用旋转锁定",
+    "text.nea.animateLanterns.tooltip": "为手持的灯笼添加摆动动画",
+    "text.nea.animateLanterns": "动态灯笼",
+    "text.nea.line.fun": "趣味功能",
+    "text.nea.tab.settings": "设置",
+    "text.nea.enable.customBowRotationLock": "自定义弓身旋转锁定",
+    "text.nea.enable.enableHorseLegAnimation.tooltip": "骑马时动作的腿部以不同的姿势动画",
+    "text.nea.enable.applyRotationLockToEveryone.tooltip": "将旋转锁定应用于所有人,而不仅仅是玩家",
+    "text.nea.line.legacy": "未完成/已弃用",
+    "text.nea.enable.enableHorseLegAnimation": "骑马腿部动画",
+    "text.nea.holdUpItemsMode.CONFIG_INVERTED": "非配置物品",
+    "text.nea.enable.clampCrossbowAnimations": "限制弩动画"
+}

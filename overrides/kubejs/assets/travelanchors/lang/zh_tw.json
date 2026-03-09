@@ -1,0 +1,21 @@
+{
+    "itemGroup.travelanchors": "旅行錨",
+    "item.travelanchors.travel_staff": "旅行权杖",
+    "enchantment.travelanchors.range": "範围",
+    "enchantment.travelanchors.range.desc": "每個等級增加傳送範围",
+    "enchantment.travelanchors.teleportation": "傳送",
+    "enchantment.travelanchors.teleportation.desc": "將傳送能力应用於旅行权杖以外的其他工具",
+    "block.travelanchors.travel_anchor": "旅行錨",
+    "screen.travelanchors.travel_anchor": "旅行錨",
+    "screen.travelanchors.search": "搜索",
+    "screen.travelanchors.nameless": "需設置名称来使用",
+    "tooltip.travelanchors.travel_anchor_block": "使用旅行权杖或傳送附魔進行移動",
+    "tooltip.travelanchors.travel_staff": "按住Shift+右击来傳送一小段距離或傳送到旅行錨",
+    "travelanchors.tp.success": "傳送到 %s",
+    "travelanchors.tp.fail": "找不到旅行錨",
+    "travelanchors.hop.fail": "目的地被阻挡",
+    "travelanchors.lock.button": "鎖定",
+    "travelanchors.lock.locked": "此錨點已鎖定",
+    "travelanchors.lock.unlocked": "此錨點已解鎖",
+    "travelanchors.lock.interact": "此錨點已鎖定。使用木棍右击以解鎖"
+}

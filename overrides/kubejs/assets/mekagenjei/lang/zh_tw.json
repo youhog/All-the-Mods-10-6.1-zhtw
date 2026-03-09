@@ -1,0 +1,12 @@
+{
+    "mekagenjei.jei.bio_fuel": "生物能發電機燃料",
+    "mekagenjei.jei.fusion_fuels": "聚变反应堆燃料",
+    "mekagenjei.jei.gas_burning": "燃氣發電機燃料",
+    "mekagenjei.jei.pump_output": "泵產出",
+    "mekagenjei.jei.radioactive_gas": "放射性氣體",
+    "mekagenjei.jei.rate": "FE產量",
+    "mekagenjei.jei.time": "持续時間",
+    "mekagenjei.jei.total": "FE生產總量",
+    "mekagenjei.jei.turbine_steam": "多方块涡轮機燃料",
+    "mekagenjei.waste.decay": "會衰变"
+}

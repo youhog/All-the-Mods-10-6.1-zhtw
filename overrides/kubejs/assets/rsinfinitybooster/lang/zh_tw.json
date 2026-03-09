@@ -1,0 +1,7 @@
+{
+    "item_group.rsinfinitybooster.tab": "RS無限增幅器",
+    "item.rsinfinitybooster.infinity_card": "無限範围增幅器",
+    "item.rsinfinitybooster.dimension_card": "维度卡",
+    "item.rsinfinitybooster.tooltip.infinity_card.help": "將無线發送器的發送範围扩大至∞格",
+    "item.rsinfinitybooster.tooltip.dimension_card.help": "將無线發送器的發送範围扩大至∞格，同時可在任何维度訪問存储網络。"
+}

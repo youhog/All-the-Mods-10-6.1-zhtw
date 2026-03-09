@@ -1,0 +1,21 @@
+{
+    "energy.mekanism.joules.short": "焦耳",
+    "configuration.mekanism.projecte.mapper.item_to_chemical": "Mekanism 物品转化学品(I2C)",
+    "direction.mekanism.west.short": "西",
+    "temperature.mekanism.celsius.short": "摄氏度",
+    "_mekanism_force_utf8": "我是注释,以下内容使用up主柠娜的汉化工具生成",
+    "gui.mekanism.rgba": "RGBA(红绿蓝透明度):",
+    "configuration.mekanism.projecte.mapper.chemical_to_chemical": "Mekanism 化学品转化学品(C2C)",
+    "advancements.mekanism.configuration_copying.title": "复制配置(Ctrl+C,Ctrl+V)",
+    "height_shape.mekanism.trapezoid": "梯形分布",
+    "direction.mekanism.south.short": "南",
+    "configuration.mekanism.projecte.mapper.pressurized_reaction": "Mekanism 加压反应(PRC)",
+    "configuration.mekanism.projecte.mapper.chemical_chemical_to_chemical": "Mekanism 化学品转化学品(CC2C)",
+    "temperature.mekanism.fahrenheit.short": "华氏度缩写:F",
+    "temperature.mekanism.ambient.short": "标准温度压力",
+    "direction.mekanism.east.short": "东",
+    "configuration.mekanism.projecte.mapper.item_chemical_to_item": "Mekanism 物品化学品转物品(IC2I)",
+    "direction.mekanism.north.short": "北",
+    "energy.mekanism.forge": "Forge能量",
+    "configuration.mekanism.gear.meka_suit": "Meka套装"
+}

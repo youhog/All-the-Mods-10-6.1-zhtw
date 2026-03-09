@@ -1,0 +1,12 @@
+{
+    "cropTier.mysticalagriculture.1": "1级",
+    "tooltip.mysticalagriculture.machine_fuel_usage": "燃料消耗:%s",
+    "cropTier.mysticalagriculture.3": "3级",
+    "cropTier.mysticalagriculture.4": "4级",
+    "cropTier.mysticalagriculture.2": "2级",
+    "tooltip.mysticalagriculture.requires_effective_farmland": "必须种植在%s上",
+    "crop.mysticalagriculture.sculk": "幽匿",
+    "augment.mysticalagriculture.haste_ii": "加速 II",
+    "tooltip.mysticalagriculture.chance": "%s 几率",
+    "tooltip.mysticalagriculture.machine_scan_fuel_usage": "扫描燃料消耗:%s"
+}

@@ -1,0 +1,12 @@
+{
+    "hexxyattributes.entry.attributes": "屬性",
+    "hexxyattributes.entry.attributes.entry": "我的研究表明，并非所有此派精妙魔藝的研習者都有同樣的能力。换句话说，世上的学者具有不同的$(italic)屬性$(clear)。$(br2)我一直都以為$(italic)天赋$(clear)只是個假说。好吧⋯⋯",
+    "hexcasting.action.hexxyattributes:domain_reflection": "界域之精思",
+    "hexxyattributes.page.domain_reflection": "將我的影响範围入栈。",
+    "hexcasting.action.hexxyattributes:sentinel_domain_reflection": "哨卫界域之精思",
+    "hexxyattributes.page.sentinel_domain_reflection": "將我哨卫的影响範围入栈。",
+    "hexcasting.action.hexxyattributes:media_reflection": "媒質之精思",
+    "hexxyattributes.page.media_reflection": "將我的媒質消耗速率入栈。我认為基礎值应當等於 1。很適合收住我對自身能力的過度高估！",
+    "hexcasting.action.hexxyattributes:mind_purification": "意識之精思",
+    "hexxyattributes.page.mind_purification": "將栈中的玩家轉变為布尔值。此圖案會向目標的大脑送入一小股媒質。如果他有研習咒法学的潜能，返回 True；否则返回 False。"
+}

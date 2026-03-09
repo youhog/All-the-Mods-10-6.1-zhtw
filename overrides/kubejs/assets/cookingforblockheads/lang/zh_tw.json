@@ -1,0 +1,17 @@
+{
+    "tooltip.cookingforblockheads.sort_by_eatenness": "按食用程度排序",
+    "tag.item.cookingforblockheads.kitchen_item_providers": "厨房物品提供者",
+    "config.cookingforblockheads.excludedRecipes": "排除的配方",
+    "container.cookingforblockheads.cutting_board": "切菜板",
+    "tooltip.cookingforblockheads.kitchen_upgrade": "厨房升级",
+    "config.cookingforblockheads.excludedRecipes.tooltip": "应从配方书中排除的配方 ID 列表.",
+    "config.jade.plugin_cookingforblockheads.preservation_chamber": "保存室",
+    "tag.item.cookingforblockheads.utensils": "厨具",
+    "tag.item.cookingforblockheads.foods": "食物",
+    "tag.item.cookingforblockheads.milk": "牛奶",
+    "tag.item.cookingforblockheads.water": "水",
+    "gui.cookingforblockheads.moved_to_oven": "移至烤箱",
+    "tag.item.cookingforblockheads.ingredients": "食材",
+    "block.cookingforblockheads.white_oven": "烤箱",
+    "tooltip.cookingforblockheads.connector.description": "在拐角处连接厨房方块."
+}

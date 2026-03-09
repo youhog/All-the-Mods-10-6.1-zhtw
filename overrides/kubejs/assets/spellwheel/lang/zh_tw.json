@@ -1,0 +1,19 @@
+{
+    "widget.spellwheel.page": "第%s页",
+    "widget.spellwheel.page.suffix": "（第%s页）",
+    "widget.spellwheel.chapter": "第%s章",
+    "widget.spellwheel.empty": "空",
+    "widget.spellwheel.empty.desc": "未分配。",
+    "key.spellwheel.open": "打开法術书轮盤",
+    "category.spellwheel.main": "咒法法術轮盤",
+    "text.spellwheel.no_icon": "無法為未命名的书页設置圖標！",
+    "text.spellwheel.you_sure": "你確定要更改此槽的圖標吗？",
+    "text.spellwheel.not_artifact": "不是造物或缀品：%s",
+    "config.spellwheel.title": "咒法法術轮盤（Hex Spell Wheel）配置",
+    "config.spellwheel.compact": "压缩轮盤？",
+    "config.spellwheel.open_last": "打开上一次訪問的章節？",
+    "config.spellwheel.outer.spread": "外层轮盤散布",
+    "config.spellwheel.outer.size": "外层轮盤尺寸",
+    "config.spellwheel.inner.spread": "内层轮盤散布",
+    "config.spellwheel.inner.size": "内层轮盤尺寸"
+}

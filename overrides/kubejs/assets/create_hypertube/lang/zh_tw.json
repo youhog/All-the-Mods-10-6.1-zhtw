@@ -1,0 +1,22 @@
+{
+    "create_hypertube.ponder.accelerator.text_2": "你可以通过右键点击加速器切换到制动模式.",
+    "create_hypertube.ponder.accelerator.header": "超高速管道加速器",
+    "create_hypertube.ponder.entrance.header": "超高速管道入口",
+    "create_hypertube.ponder.attachments.header": "超高速管道附件",
+    "create_hypertube.ponder.simple_tube.header": "创建超高速管道",
+    "create_hypertube.ponder.tag.hypertube_systems": "超高速管道系统",
+    "create_hypertube.ponder.simple_tube.text_5": "你可以使用扳手更改管道段的数量.",
+    "create_hypertube.ponder.entrance.text_3": "旋转得越快,你旅行的速度就越快.",
+    "create_hypertube.ponder.entrance.text_4": "你可以通过用扳手右键点击入口来更改入口模式.",
+    "create_hypertube.ponder.entrance.text_1": "超高速管道入口连接到超高速管道网络,允许高速旅行.",
+    "create_hypertube.ponder.attachments.text_1": "扫描仪附件允许你检测在超高速管道中旅行的实体.(婴儿需要8点能量,成人需要15点)",
+    "create_hypertube.ponder.entrance.text_2": "要能够进入超高速管道,你需要以至少16 RPM的转速为其提供动力.",
+    "create_hypertube.ponder.simple_tube.text_1": "要创建超高速管道连接,只需手持另一根管道时右键点击管道.",
+    "create_hypertube.ponder.tag.hypertube_systems.description": "用于超高速管道运输系统的方块和物品.",
+    "create_hypertube.ponder.attachments.text_2": "你也可以在加速器中放置附件,同时可以在任何一侧放置.",
+    "create_hypertube.ponder.attachments.text_3": "红石探测器附件允许你通过红石信号更改加速器/入口模式.",
+    "create_hypertube.ponder.simple_tube.text_2": "然后放置第二根管道.",
+    "create_hypertube.ponder.simple_tube.text_4": "你可以连接已经放置好的管道.",
+    "create_hypertube.ponder.accelerator.text_1": "超高速管道加速器增加在超高速管道中旅行的实体的速度.",
+    "create_hypertube.ponder.simple_tube.text_3": "这样你就有了一个超高速管道连接!"
+}

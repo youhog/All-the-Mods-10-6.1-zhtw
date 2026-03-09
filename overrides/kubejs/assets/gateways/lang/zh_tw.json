@@ -1,0 +1,14 @@
+{
+    "tooltip.gateways.shift": "按住Shift以查看波次信息",
+    "tooltip.gateways.ctrl": "按住Ctrl以查看最终奖励",
+    "tooltip.gateways.alt": "按住Alt以查看惩罚",
+    "subtitle.gateways.gate_ambient": "传送门环境音",
+    "rule.gateways.requires_nearby_player": "需要附近玩家:%s",
+    "subtitle.gateways.gate_start": "传送门打开",
+    "error.gateways.no_nearby_player": "传送门因附近没有玩家而坍缩",
+    "rule.gateways.lives": "生命值:%s",
+    "error.gateways.out_of_lives": "传送门因生命值耗尽而坍缩",
+    "text.gateways.errored_gate_pearl": "未知传送门:%s",
+    "subtitle.gateways.gate_end": "传送门结束",
+    "subtitle.gateways.gate_warp": "传送门生成了一个物体"
+}

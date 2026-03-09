@@ -1,0 +1,14 @@
+{
+    "debugify.name": "Debugify",
+    "debugify.basic": "基礎修複",
+    "debugify.gameplay": "游戏修複",
+    "debugify.gameplay.warning": "警告：此類别可能包含對他人来说不公平的修複功能！",
+    "debugify.gameplay.enable_in_multiplayer": "在多人游戏中启用",
+    "debugify.error.conflict.single": "%s与%s冲突",
+    "debugify.error.conflict.multiple": "%s与模組%s冲突",
+    "debugify.misc": "杂項",
+    "debugify.misc.default_disabled": "默认禁用新的修複功能",
+    "debugify.misc.default_disabled.description": "默认禁用新的錯误修複功能。",
+    "debugify.env.client": "用戶端",
+    "debugify.env.server": "服务端"
+}

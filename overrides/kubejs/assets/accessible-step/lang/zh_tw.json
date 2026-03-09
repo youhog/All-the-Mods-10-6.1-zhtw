@@ -1,0 +1,23 @@
+{
+    "options.accessiblestep.title": "無障碍上坡",
+    "key.accessiblestep.mode": "上坡輔助",
+    "key.category.accessible-step.title": "無障碍上坡",
+    "category.accessiblestep.title": "無障碍上坡",
+    "options.accessiblestep.mode": "上坡輔助",
+    "options.accessiblestep.perworld": "配置隔離",
+    "options.accessiblestep.fullrange": "全範围取值",
+    "options.accessiblestep.height": "行走上坡高度",
+    "options.accessiblestep.sneakheight": "潜行上坡高度",
+    "options.accessiblestep.sprintheight": "疾跑上坡高度",
+    "options.accessiblestep.step": "自動上坡",
+    "options.accessiblestep.default.mod": "默认",
+    "options.accessiblestep.default.vanilla": "原版",
+    "options.accessiblestep.off.tooltip": "無輔助",
+    "options.accessiblestep.autojump.tooltip": "接近方块時自動跳跃。",
+    "options.accessiblestep.step.tooltip": "接近方块時自動上坡。",
+    "options.accessiblestep.perworld.tooltip": "在當前存档或伺服器上使用獨立配置\n未启用此選項则使用默认配置。",
+    "options.accessiblestep.fullrange.tooltip": "允许上坡高度滑块達到最大取值範围，这可能會導致難以選择特定值\n警告：過高的上坡高度可能在伺服器中出現問題，請谨慎使用。",
+    "options.accessiblestep.height.tooltip": "行走時觸發自動上坡的高度（格）。",
+    "options.accessiblestep.sneakheight.tooltip": "潜行時觸發自動上坡的高度（格）\n最大有效值受行走上坡高度限制。",
+    "options.accessiblestep.sprintheight.tooltip": "疾跑時觸發自動上坡的高度（格）\n最小有效值受行走上坡高度限制。"
+}

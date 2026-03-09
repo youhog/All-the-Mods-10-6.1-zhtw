@@ -1,0 +1,16 @@
+{
+    "packet.clockwork.client_message.is_flying": "%1$s已進入飛行状態",
+    "packet.clockwork.client_message.is_walking": "%1$s已進入步行状態",
+    "key.clockwork.toggle_dragonfly_flight": "切换蜻蜓飛行模式",
+    "key.categories.clockwork": "Clockwork",
+    "creativetab.clockwork.title": "Clockwork",
+    "item.clockwork.clockwork_gear": "發条齒輪",
+    "item.clockwork.crossbow_barrel": "弩箭匣",
+    "item.clockwork.clockwork_arrow": "發条箭",
+    "item.clockwork.barrel_crossbow": "自動弩",
+    "item.clockwork.scope_crossbow": "配鏡弩",
+    "item.clockwork.clockwork_potion_sprayer": "药水喷枪",
+    "item.clockwork.clockwork_wings": "發条翼翅",
+    "entity.clockwork.dragonfly": "蜻蜓",
+    "entity.clockwork.broken_dragonfly": "破损的蜻蜓"
+}

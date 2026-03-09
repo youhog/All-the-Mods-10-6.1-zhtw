@@ -1,0 +1,9 @@
+{
+    "block.create_mechanical_extruder.mechanical_extruder": "動力造石機",
+    "create.recipe.extruding": "造石配方",
+    "create_mechanical_extruder.ponder.extruder.header": "方块生成",
+    "create_mechanical_extruder.ponder.extruder.text_1": "造石機使用应力生產方块。",
+    "create_mechanical_extruder.ponder.extruder.text_2": "配方取决於側邊和下方流體或方块。",
+    "create_mechanical_extruder.ponder.extruder.text_3": "此過程完成后，可右击获取產物",
+    "create_mechanical_extruder.ponder.extruder.text_4": "也可以通過物流系統（傳送帶等）来導出產出。"
+}

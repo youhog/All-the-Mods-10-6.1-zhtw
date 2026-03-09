@@ -1,4 +1,5 @@
 {
+    "trophymanager.tooltip.trophy.scale": "规模:%s",
     "block.trophymanager.trophy": "奖杯",
-    "trophymanager.tooltip.trophy.scale": "規模:%s"
+    "gui.apply": "应用"
 }

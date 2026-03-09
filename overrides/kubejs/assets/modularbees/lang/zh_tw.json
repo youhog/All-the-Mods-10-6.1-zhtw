@@ -1,0 +1,10 @@
+{
+    "modularbees.chat.data_corrupted": "控制器方块数据损坏,请尝试破坏并重新放置",
+    "modularbees.gui.modular_beehive_alveary.no_food": "缺少花朵",
+    "modularbees.gui.fluid_tank.amount": "%s/%s 毫桶",
+    "block.modularbees.bee_extractor": "蜜蜂提取器",
+    "modularbees.chat.multiple_heater": "同一离心机内检测到多个加热器",
+    "block.modularbees.modular_beehive_stacker": "蜂箱堆叠器",
+    "modularbees.chat.block_invalid": "在坐标 X:%s, Y:%s, Z:%s 处存在无效方块",
+    "modularbees.gui.energy_bar.amount": "FE能量:%s/%s"
+}

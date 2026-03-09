@@ -1,0 +1,8 @@
+{
+    "config.jade.plugin_dimstorage.dim_block_base": "启用自定义可视化界面,适用于DimChest",
+    "message.dimstorage.press": "按下",
+    "message.dimstorage.for_details": "查看详细信息",
+    "config.jade.plugin_dimstorage.dim_tank": "启用自定义可视化界面,适用于DimTank",
+    "message.dimstorage.bind_dimchest": "右击绑定一个DimChest",
+    "message.dimstorage.hold": "按住"
+}

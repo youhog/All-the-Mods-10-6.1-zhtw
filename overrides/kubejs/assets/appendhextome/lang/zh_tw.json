@@ -1,0 +1,11 @@
+{
+    "death.attack.appendicitis": "%s的阑尾涨裂了",
+    "death.attack.appendicitisInstant": "%s的阑尾不足以容纳%s的灵魂",
+    "appendhextome.entry.appendix": "阑尾附录",
+    "appendhextome.page.readwrite.1": "我在我的身體裡發現了一個奇怪的器官；从它的位置看来，它可能會参与到消化過程中。我称其為“阑尾”，因為它只是附在大肠末端的一個小挂件⋯⋯后页的圖案可向其读写任意 iota，但仍要多加小心。要是生物體内存了過多的 iota 信息，阑尾大概會出現严重的炎症。甚至可能致死。",
+    "appendhextome.page.readwrite.2": "从我的考察看来，阑尾中 iota 的大小和深度的乘積大於 20 時會开始出現炎症症状，每次跨越此界限時炎症會加深。由於该 iota 存储位置就在我的體内，我认為當这幅躯體被损壞到無法修複的時候，其中的 iota 就會隨之消失。",
+    "hexcasting.action.appendhextome:read": "葛瑞克之精思",
+    "hexcasting.action.appendhextome:write": "葛瑞克之策略",
+    "appendhextome.page.readwrite.read": "複制阑尾中的 iota，并压入栈頂。",
+    "appendhextome.page.readwrite.write": "移除栈頂 iota，并存入我的阑尾。所存 iota 的大小与深度的乘積每有 1 點消耗 1/10 個$(l:items/amethyst)$(item)紫水晶粉/$。"
+}

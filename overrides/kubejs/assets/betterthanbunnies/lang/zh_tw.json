@@ -1,0 +1,16 @@
+{
+    "config.betterthanbunnies.cat.general.name": "常規設置",
+    "config.betterthanbunnies.cat.general.desc": "不適合任何其他類别的常規設置。",
+    "config.betterthanbunnies.cat.outfit.name": "衣服設置",
+    "config.betterthanbunnies.cat.outfit.desc": "关於穿着兔子的衣服。",
+    "config.betterthanbunnies.prop.fancyChance.name": "帶服裝几率",
+    "config.betterthanbunnies.prop.fancyChance.desc": "兔子穿着衣服的几率（0%-100%）",
+    "config.betterthanbunnies.prop.hatChance.name": "帶帽子的几率",
+    "config.betterthanbunnies.prop.hatChance.desc": "兔子戴帽子的几率（0%-100%）",
+    "config.betterthanbunnies.prop.monocleChance.name": "帶單片眼鏡的几率",
+    "config.betterthanbunnies.prop.monocleChance.desc": "兔子佩戴單片眼鏡的几率（0%-100%）",
+    "config.betterthanbunnies.prop.pipeChance.name": "帶烟斗的几率",
+    "config.betterthanbunnies.prop.pipeChance.desc": "兔子有烟斗的几率（0%-100%）",
+    "config.betterthanbunnies.prop.suitChance.name": "穿西裝的几率",
+    "config.betterthanbunnies.prop.suitChance.desc": "兔子穿西裝的几率（0%-100%）"
+}

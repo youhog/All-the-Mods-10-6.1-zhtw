@@ -1,0 +1,10 @@
+{
+    "key.categories.bridgingmod": "桥接模组",
+    "config.bridgingmod.option.minBridgeDistanceHorizontal": "最小水平距离",
+    "config.bridgingmod.title": "搭桥模组",
+    "config.bridgingmod.option.minBridgeDistanceHorizontal.description.0": "一个方块距离你水平多远才能被桥接.",
+    "config.bridgingmod.option.minBridgeDistanceVertical.description.0": "一个方块距离你垂直多远才能被桥接.",
+    "config.bridgingmod.option.minBridgeDistance": "最小桥接距离",
+    "config.bridgingmod.option.minBridgeDistance.description.0": "一个方块距离你多远才能被桥接.",
+    "config.bridgingmod.option.minBridgeDistanceVertical": "最小垂直距离"
+}

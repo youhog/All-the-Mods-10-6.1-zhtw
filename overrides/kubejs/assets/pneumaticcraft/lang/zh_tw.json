@@ -1,0 +1,22 @@
+{
+    "pneumaticcraft.gui.progWidget.area.type.axis.z": "Z轴",
+    "pneumaticcraft.gui.progWidget.area.type.axis.y": "Y轴",
+    "pneumaticcraft.config.common.armor.jet_boots_height_limit": "喷气靴高度限制(相对于最大建筑高度)",
+    "pneumaticcraft.gui.general.bar": "条",
+    "pneumaticcraft.gui.tubeModule.installed": "已安装",
+    "pneumaticcraft.gui.progWidget.area.type.axis.x": "X轴",
+    "pneumaticcraft.gui.tubeModule.inline": "在线:%s",
+    "block.pneumaticcraft.reinforced_pressure_chamber_valve": "强化压力室阀门",
+    "gui.tooltip.block.pneumaticcraft.reinforced_pressure_chamber_valve": "基础压力室阀门的高压版本。",
+    "item.pneumaticcraft.unassembled_reinforced_pressure_chamber_valve": "未组装的强化压力室阀门",
+    "pneumaticcraft.config.common.general.no_oil_lakes_in_structures": "在所有结构中禁用石油湖生成",
+    "pneumaticcraft.config.common.integration.cold_sweat_block_cooling": "Cold Sweat：最大方块冷却",
+    "pneumaticcraft.config.common.integration.cold_sweat_block_heating": "Cold Sweat：最大方块加热",
+    "pneumaticcraft.config.common.integration.cold_sweat_air_con_efficiency": "Cold Sweat：空调效率",
+    "pneumaticcraft.gui.logistics_frame.stock_amount": "最低库存量",
+    "pneumaticcraft.gui.logistics_frame.stock_fluid": "库存流体(mB)",
+    "pneumaticcraft.gui.logistics_frame.stock_fluid.tooltip": "此框架将始终尝试维持此数量的流体库存，并且当流体数量低于此值时将不会提供流体。",
+    "pneumaticcraft.gui.logistics_frame.stock_items": "库存物品",
+    "pneumaticcraft.gui.logistics_frame.stock_items.tooltip": "此框架将始终尝试维持此数量的物品库存，并且当物品数量低于此值时将不会提供物品。",
+    "pneumaticcraft.gui.tab.info.item.drone.mufflerUpgrade": "§0降低无人机可能使用的任何机枪产生的噪音。每安装一个消音器升级，噪音就会进一步降低。"
+}

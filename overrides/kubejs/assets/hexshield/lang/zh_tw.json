@@ -1,0 +1,14 @@
+{
+    "hexcasting.spell.hexshield:spectralarrow": "光灵武器弹射",
+    "hexcasting.spell.hexshield:heartwhisper": "傳達心声",
+    "hexcasting.spell.hexshield:multiple_modify_in_place": "外科医师之提整，第二型",
+    "hexshield.entry.spectralarrow": "光灵武器弹射",
+    "hexshield.page.spectralarrow.0": "使用所給位置和運動向量召唤光灵箭的強大法術。需要指定箭矢是否应造成暴击伤害。<br><br>消耗与運動向量模長的立方，以及是否造成暴击相关。<br><br>这種法術的开销可能非常恐怖⋯⋯",
+    "hexshield.page.spectralarrow.1": "法術消耗示例：<br><br>運動向量模長為 1，不造成暴击<br> -> 0.06<br>運動向量模長為 1，造成暴击<br> -> 0.12<br>運動向量模長為 10，不造成暴击<br> -> 10.05<br>運動向量模長為 20.05，不造成暴击<br> -> 80.05<br><br>運動向量模長為 N，不造成暴击<br> -> 0.05 + 0.01*N^3<br>運動向量模長為 N，造成暴击<br> -> 0.1 + 0.02*N^3",
+    "hexshield.entry.heartwhisper": "傳達心声",
+    "hexshield.page.heartwhisper.0": "用这条法術向你的朋友（敌人大概也没問題）展示心意吧！對目標使用后，目標周围會出現爱心粒子。<br><br>没有消耗，因為爱心無价。",
+    "hexshield.entry.extended_lists": "高階列表操作",
+    "hexshield.page.multiple_modify_in_place.0": "移除栈頂 iota 或列表和數，并將此時栈頂列表的第 n 個元素設置為所給 iota，或所給列表的各元素。此處 n 即為开始時移除的數。所給數超出範围则無效果。",
+    "hexshield.page.multiple_modify_in_place.1": "与$(l:patterns/lists#hexcasting:modify_in_place)$(action)外科医师之提整/$不同之處在於，若向此操作傳入的第三個参數為列表，则其會拆解出列表中的元素，而非直接將列表插入給定位置。",
+    "hexshield.page.multiple_modify_in_place.2": "示例：<br><br>$(l:patterns/lists#hexcasting:modify_in_place)$(action)外科医师之提整/$：<br>[ a b c ]<br>1<br>[ d e f ]<br> -> [ a [ d e f ] c ]<br><br>$(action)外科医师之提整，第二型/$：<br>[ a b c ]<br>1<br>[ d e f ]<br> -> [ a d e f c ]"
+}

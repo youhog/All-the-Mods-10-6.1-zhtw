@@ -1,0 +1,186 @@
+{
+    "config.jade.plugin_tempad.chronon": "時元",
+    "gui.tempad.search_field": "搜索...",
+    "gui.tempad.name_field": "名称",
+    "gui.tempad.teleport_disabled": "你無法傳送到此位置",
+    "gui.tempad.delete": "删除位置",
+    "gui.tempad.delete_disabled": "你無法删除此位置",
+    "gui.tempad.favorite": "收藏位置",
+    "gui.tempad.unfavorite": "取消收藏位置",
+    "gui.tempad.timedoor": "時門",
+    "gui.tempad.dimension": "维度：%s",
+    "gui.tempad.no_locations.first_line": "按[+]以",
+    "gui.tempad.no_locations.second_line": "添加一個位置",
+    "gui.tempad.no_selection.first_line": "選择一個位置",
+    "gui.tempad.no_selection.second_line": "以获取更多信息",
+    "gui.tempad.x": "X：%s",
+    "gui.tempad.y": "Y：%s",
+    "gui.tempad.z": "Z：%s",
+    "gui.tempad.angle": "角度：%s",
+    "advancements.tempad.tempad": "直到永遠⋯⋯",
+    "advancements.tempad.tempad.description": "获得時域仪",
+    "advancements.tempad.he_who_remains": "光荣目標！",
+    "advancements.tempad.he_who_remains.description": "获得“遺留之人”的時域仪",
+    "subtitles.tempad.entity.timedoor.open": "時門已打开",
+    "message.tempad.not_enough_chronons": "時元不足",
+    "dimension.minecraft.overworld": "主世界",
+    "dimension.minecraft.the_nether": "下界",
+    "dimension.minecraft.the_end": "終界",
+    "locations.tempad.anchor_point": "時門標记已命名：“%s”",
+    "locations.tempad.player": "正在追踪玩家: %s",
+    "item.tempad.creative_chronometer.infinite": "無限",
+    "block.tempad.workstation_child": "時門終端",
+    "category.tempad": "時域仪",
+    "key.tempad.shortcut": "打开時域仪界面",
+    "screen.tempad.marker": "時門標记",
+    "screen.tempad.marker.access_field": "谁能訪問？",
+    "screen.tempad.marker.public_access": "公共訪問：",
+    "screen.tempad.marker.yoffset": "傳送門Y偏移：",
+    "screen.tempad.marker.angle": "角度：",
+    "access.tempad.private": "仅限你",
+    "access.tempad.public": "所有人",
+    "access.tempad.guild": "公會成员",
+    "access.tempad.party": "团队成员",
+    "access.tempad.ftbteams": "队伍",
+    "app.tempad.tp_to.teleport": "傳送",
+    "app.tempad.tp_to.selected": "已選择",
+    "provider.tempad.default": "設備上",
+    "provider.tempad.markers": "時門標记",
+    "provider.tempad.player": "玩家",
+    "provider.tempad.wallet": "卡片包",
+    "macro.tempad.default": "打开收藏",
+    "macro.tempad.default.description": "傳送至收藏位置",
+    "button.tempad.type": "按類型排序",
+    "button.tempad.alphabetical": "按字母排序",
+    "button.tempad.dimension": "按维度排序",
+    "marker.tempad.death": "死於",
+    "marker.tempad.respawn": "重生於",
+    "marker.tempad.dimension_exit": "離开维度於",
+    "marker.tempad.dimension_enter": "進入维度於",
+    "config.jade.plugin_tempad.timedoor": "時門",
+    "config.jade.plugin_tempad.anchor": "時門標记",
+    "config.jade.plugin_tempad.rudimentary": "時門投影仪",
+    "config.jade.plugin_tempad.metronome": "時元節律器",
+    "config.jade.plugin_tempad.workstation": "時門主機",
+    "jade.tempad.will_close": "%s秒后关閉",
+    "jade.tempad.closing": "正在关閉⋯⋯",
+    "jade.tempad.pos": "傳送至%s维度的坐標%s處",
+    "misc.tempad.return": "正在返回至%s",
+    "tempad.tooltip.player_pos": "目標：%s",
+    "misc.tempad.upgrades": "已安裝的升級：",
+    "misc.tempad.wandering": "漫步於",
+    "misc.tempad.shift_key_info": "按住[%s]获取更多信息",
+    "location.tempad.saved": [
+        "",
+        {
+            "text": "位置已保存：",
+            "color": "#ff6f00"
+        },
+        {
+            "index": 0,
+            "color": "#91450d"
+        }
+    ],
+    "location.tempad.player.error": [
+        "",
+        {
+            "text": "錯误：",
+            "color": "#ff6f00"
+        },
+        {
+            "text": "無法保存玩家位置",
+            "color": "#91450d"
+        }
+    ],
+    "tempad.error.timedoor_already_open": "時門已经打开",
+    "entity.tempad.timedoor": "時門",
+    "entity.tempad.timedoor.success": "時門已打开",
+    "entity.tempad.timedoor.fail": [
+        "",
+        {
+            "text": "錯误：",
+            "color": "#ff6f00"
+        },
+        {
+            "text": "時門打开失败",
+            "color": "#91450d"
+        }
+    ],
+    "entity.tempad.timedoor.fail.pos": [
+        "",
+        {
+            "text": "錯误：",
+            "color": "#ff6f00"
+        },
+        {
+            "text": "坐標未初始化",
+            "color": "#91450d"
+        }
+    ],
+    "entity.tempad.timedoor.fail.interdimensional": [
+        "",
+        {
+            "text": "錯误：",
+            "color": "#ff6f00"
+        },
+        {
+            "text": "不允许在维度間旅行",
+            "color": "#91450d"
+        }
+    ],
+    "entity.tempad.timedoor.fail.intradimensional_all": [
+        "",
+        {
+            "text": "錯误：",
+            "color": "#ff6f00"
+        },
+        {
+            "text": "不允许在维度内旅行",
+            "color": "#91450d"
+        }
+    ],
+    "entity.tempad.timedoor.fail.intradimensional": [
+        "",
+        {
+            "text": "錯误：",
+            "color": "#ff6f00"
+        },
+        {
+            "text": "此维度不允许旅行",
+            "color": "#91450d"
+        }
+    ],
+    "entity.tempad.timedoor.fail.leaving": [
+        "",
+        {
+            "text": "錯误： ",
+            "color": "#ff6f00"
+        },
+        {
+            "text": "不允许離开此维度",
+            "color": "#91450d"
+        }
+    ],
+    "entity.tempad.timedoor.fail.entering": [
+        "",
+        {
+            "text": "錯误：",
+            "color": "#ff6f00"
+        },
+        {
+            "text": "不允许進入此维度",
+            "color": "#91450d"
+        }
+    ],
+    "entity.tempad.timedoor.fail.no_chronons": [
+        "",
+        {
+            "text": "錯误：",
+            "color": "#ff6f00"
+        },
+        {
+            "text": "時元不足",
+            "color": "#91450d"
+        }
+    ]
+}

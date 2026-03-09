@@ -1,0 +1,19 @@
+{
+    "text.little_big_redstone.logic_config_tooltip_threshold": "  阈值:%s",
+    "text.little_big_redstone.logic_help_tag_2": "传感器仅当至少感应到与阈值数量相同且标签相同的发射器也处于开启(ON)状态时,才会输出开启(ON)信号.",
+    "text.little_big_redstone.logic_config_button_tooltip_tag_global": "此标签传感器应检测任何人放置的微芯片中的发射器,还是仅检测您自己放置的.",
+    "text.little_big_redstone.logic_config_tooltip_label": "  标签:%s",
+    "text.little_big_redstone.logic_help_tag_3": "标签发射器在整个世界中发射信号,无视维度限制.",
+    "itemGroup.little_big_redstone.little_big_redstone": "小小大红石",
+    "text.little_big_redstone.logic_config_button_tooltip_tag_label": "此标签用于发射或感应的标签名称.",
+    "text.little_big_redstone.logic_config_button_label_tag_threshold": "阈值:",
+    "item.little_big_redstone.tag": "标签",
+    "text.little_big_redstone.sensor": "传感器",
+    "text.little_big_redstone.logic_config_button_tooltip_tag_threshold": "此传感器必须感应到的标签发射器数量,才能输出开启(ON)信号.",
+    "text.little_big_redstone.logic_config_button_label_tag_global": "全局",
+    "text.little_big_redstone.logic_config_button_tooltip_tag_mode": "此标签应感应信号还是发射信号.",
+    "text.little_big_redstone.logic_help_tag_1": "模式决定标签是传感器还是发射器.",
+    "text.little_big_redstone.logic_config_tooltip_global": "  全局:%s",
+    "text.little_big_redstone.emitter": "发射器",
+    "text.little_big_redstone.logic_config_button_label_tag_label": "标签:"
+}

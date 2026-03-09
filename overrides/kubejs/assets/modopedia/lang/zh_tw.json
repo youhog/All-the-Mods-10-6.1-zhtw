@@ -1,0 +1,22 @@
+{
+    "item.modopedia.book": "书（無ID）",
+    "modopedia.study": "研習",
+    "screen.modopedia.categories": "章節",
+    "screen.modopedia.entries": "条目",
+    "screen.modopedia.error": "錯误",
+    "subtitle.modopedia.book_flip": "书页：翻動",
+    "subtitle.modopedia.book_open": "书：打开",
+    "template.modopedia.blasting_recipe": "高炉配方",
+    "template.modopedia.cooking_recipe": "烹饪配方",
+    "template.modopedia.crafting_recipe": "合成配方",
+    "template.modopedia.recipe": "配方",
+    "template.modopedia.shaped_recipe": "有序配方",
+    "template.modopedia.shapeless_recipe": "無序配方",
+    "template.modopedia.smelting_recipe": "烧鍊配方",
+    "template.modopedia.smoking_recipe": "烟熏配方",
+    "tooltip.modopedia.book_id": "书本ID：%1$s",
+    "tooltip.modopedia.category_link": "跳轉到章節",
+    "tooltip.modopedia.entry_link": "跳轉到条目",
+    "tooltip.modopedia.study": "按住[%1$s]以進行研習",
+    "tooltip.modopedia.url": "跳轉至URL：%1$s"
+}

@@ -1,0 +1,12 @@
+{
+    "tooltip.pylons.protection1": "防止您意外地",
+    "pylons.int.jei.category.protection_pylon": "防止信标所有者在选定的区块范围内(1x1至5x5区块)破坏方块或杀死生物.\n添加生物过滤器和方块过滤器以指定要保护的生物和方块.\n\n可使用红石信号自动切换.",
+    "tooltip.pylons.protection2": "破坏方块或杀死生物",
+    "tooltip.pylons.protection": "用于保护信标.",
+    "tooltip.pylons.effect_banned": "效果因标签而被禁用.",
+    "item.pylons.block_filter": "方块过滤器",
+    "gui.pylons.protectedMobsAndBlocks": "添加要保护的生物或方块:",
+    "tooltip.pylons.protection3": "基于已配置的过滤器.",
+    "tooltip.pylons.no_block": "右键点击方块以选择它.",
+    "block.pylons.protection_pylon": "保护信标"
+}

@@ -1,3 +1,17 @@
 {
-    "item.forbidden_arcanus.corrupted_arcane_crystal": "符文調諧奧術水晶"
+    "forbidden_arcanus.ponder.forge_building.text_3": "4块錾制奥术磨制黑石",
+    "forbidden_arcanus.ponder.forge_building.text_6": "此区域必须保持空旷以完成转化",
+    "item.forbidden_arcanus.edelwood_boat": "埃德木船",
+    "forbidden_arcanus.ponder.forge_building.text_5": "在中心放置锻造台",
+    "forbidden_arcanus.ponder.forge_usage.text_1": "可如此放置黑石基座,它们用于承载仪式物品",
+    "forbidden_arcanus.ponder.forge_building.text_1": "搭建基础结构",
+    "forbidden_arcanus.ponder.forge_usage.text_2": "奥术水晶方尖碑可放置于相同位置,并会被动生成奥瑞尔",
+    "forbidden_arcanus.ponder.forge_building.text_2": "9块镀金錾制磨制黑石",
+    "forbidden_arcanus.ponder.forge_usage.header": "使用赫菲斯托斯熔炉",
+    "item.forbidden_arcanus.aurum_chest_boat": "黄金木运输船",
+    "item.forbidden_arcanus.reinforced_deorum_blacksmith_gavel": "强化圣金锻工锤",
+    "forbidden_arcanus.ponder.forge_building.text_4": "45块磨制黑石",
+    "item.forbidden_arcanus.aurum_boat": "黄金木船",
+    "forbidden_arcanus.ponder.forge_building.header": "建造赫菲斯托斯熔炉",
+    "item.forbidden_arcanus.edelwood_chest_boat": "埃德木运输船"
 }

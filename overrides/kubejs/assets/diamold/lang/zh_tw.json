@@ -1,0 +1,15 @@
+{
+    "itemGroup.diamold.group": "鑽金物品",
+    "item.diamold.diamold_ingot": "鑽金錠",
+    "item.diamold.diamold_sword": "鑽金剑",
+    "item.diamold.diamold_pickaxe": "鑽金鎬",
+    "item.diamold.diamold_axe": "鑽金斧",
+    "item.diamold.diamold_shovel": "鑽金鍬",
+    "item.diamold.diamold_hoe": "鑽金锄",
+    "item.diamold.diamold_hammer": "鑽金锤",
+    "item.diamold.diamold_helmet": "鑽金頭盔",
+    "item.diamold.diamold_chestplate": "鑽金胸甲",
+    "item.diamold.diamold_leggings": "鑽金護腿",
+    "item.diamold.diamold_boots": "鑽金靴子",
+    "block.diamold.diamold_block": "鑽金块"
+}

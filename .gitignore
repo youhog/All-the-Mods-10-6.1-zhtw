@@ -1,0 +1,13 @@
+
+# Gemini CLI 輔助腳本
+mega_translate.py
+final_fix.py
+fix_translations.py
+
+# 參考翻譯補丁 (簡體版與解壓後資料夾)
+All-the-Mods-10-6.1-汉化补丁 - 複製/
+螢幕擷取畫面*.png
+
+# 系統暫存檔
+.DS_Store
+Thumbs.db

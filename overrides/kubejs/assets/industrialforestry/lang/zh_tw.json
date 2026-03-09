@@ -1,0 +1,14 @@
+{
+    "block.industrialforestry.industrial_centrifuge": "工业離心機",
+    "block.industrialforestry.industrial_squeezer": "工业榨汁機",
+    "item.industrialforestry.industrial_scoop": "工业捕虫網",
+    "item.industrialforestry.speed_upgrade_1": "速度升級",
+    "item.industrialforestry.speed_upgrade_2": "2級速度升級",
+    "item.industrialforestry.speed_upgrade_3": "3級速度升級",
+    "item.industrialforestry.efficiency_upgrade_1": "效率升級",
+    "item.industrialforestry.efficiency_upgrade_2": "2級效率升級",
+    "item.industrialforestry.efficiency_upgrade_3": "3級效率升級",
+    "item.industrialforestry.chance_upgrade_1": "機率升級",
+    "item.industrialforestry.chance_upgrade_2": "2級機率升級",
+    "item.industrialforestry.chance_upgrade_3": "3級機率升級"
+}

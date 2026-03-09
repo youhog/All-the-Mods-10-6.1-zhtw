@@ -1,0 +1,22 @@
+{
+    "gui.refinedstorage.autocrafting_preview.style.tree": "树状视图",
+    "gui.refinedstorage.tenth_anniversary.enable_cape": "启用纪念披风",
+    "gui.refinedstorage.autocrafting_monitor.state.completed": "已完成",
+    "gui.refinedstorage.tenth_anniversary.cape_info": "3月20日后,披风始终可通过配置启用或禁用.",
+    "gui.refinedstorage.grid.tenth_anniversary_ribbon.click_to_learn_more": "点击了解更多",
+    "gui.refinedstorage.tenth_anniversary.read_more": "了解更多...",
+    "item.refinedstorage.debug_stick": "调试棒",
+    "gui.refinedstorage.autocrafting_preview.request_cancelled.too_many_subcomponents": "需要过多子组件",
+    "gui.refinedstorage.tenth_anniversary.title": "精致存储十周年!",
+    "text.autoconfig.refinedstorage.option.autocraftingPreviewStyle": "自动合成预览样式",
+    "gui.refinedstorage.grid.tenth_anniversary_ribbon": "十周年纪念!",
+    "gui.refinedstorage.tenth_anniversary.back": "返回",
+    "text.autoconfig.refinedstorage.option.debug.tooltip": "在创造模式物品栏中启用网络调试覆盖层和调试棒(需要重启游戏)",
+    "text.autoconfig.refinedstorage.option.tenthAnniversaryCape": "十周年纪念披风",
+    "text.autoconfig.refinedstorage.option.tenthAnniversaryCape.tooltip": "启用精致存储十周年纪念披风.",
+    "gui.refinedstorage.autocrafting_monitor.state.extracting_initial_resources": "正在提取初始资源",
+    "gui.refinedstorage.autocrafting_monitor.state.returning_internal_storage": "正在归还内部存储",
+    "gui.refinedstorage.tenth_anniversary.disable_cape": "禁用纪念披风",
+    "text.autoconfig.refinedstorage.option.debug": "调试模式",
+    "text.autoconfig.refinedstorage.option.autocraftingPreviewStyle.tooltip": "选择自动合成预览显示为列表或树状结构"
+}

@@ -1,0 +1,13 @@
+{
+    "nvidium.options.pages.nvidium": "Nvidium設置",
+    "nvidium.options.region_keep_distance.name": "区块渲染距離",
+    "nvidium.options.region_keep_distance.tooltip": "加載的距離",
+    "nvidium.options.automatic_memory_limit.name": "自動限制顯存占用",
+    "nvidium.options.automatic_memory_limit.tooltip": "根据系統可用的顯存量自動確定要設置的顯存限制",
+    "nvidium.options.max_gpu_memory.name": "最大顯存大小",
+    "nvidium.options.max_gpu_memory.tooltip": "可使用的最大顯存，達到后將卸載已加載的区块",
+    "nvidium.options.enable_temporal_coherence.name": "启用時間相干渲染",
+    "nvidium.options.enable_temporal_coherence.tooltip": "消除轉動視角時的圖像伪影",
+    "nvidium.options.mb": "%s Mb",
+    "modmenu.modmenu.descriptionTranslation.modmenu.nvidium": "替代Sodium的渲染引擎"
+}

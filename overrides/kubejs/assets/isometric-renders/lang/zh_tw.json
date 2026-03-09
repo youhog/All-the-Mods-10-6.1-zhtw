@@ -1,0 +1,153 @@
+{
+    "gui.isometric-renders.hud.area_selection.clear_hint": [
+        {
+            "text": "潜行點击以清除選区",
+            "color": "gray"
+        }
+    ],
+    "key.isometric-renders.area_select": [
+        "",
+        {
+            "text": "[",
+            "color": "dark_gray"
+        },
+        {
+            "text": "I",
+            "color": "#00c9f1"
+        },
+        {
+            "text": "S",
+            "color": "#00f1c7"
+        },
+        {
+            "text": "O",
+            "color": "#00f195"
+        },
+        {
+            "text": "]",
+            "color": "dark_gray"
+        },
+        "選择区域"
+    ],
+    "gui.isometric-renders.animations": "運行動畫（执行動畫刻）",
+    "gui.isometric-renders.particles": "顯示粒子（需要执行動畫刻）",
+    "gui.isometric-renders.use_external_renderer": "使用外置渲染器",
+    "gui.isometric-renders.dump_into_root": "直接写入根目录",
+    "gui.isometric-renders.overwrite_latest": "覆蓋最近文件",
+    "gui.isometric-renders.export": "導出",
+    "gui.isometric-renders.export_to_clipboard": "導出至剪贴板材",
+    "gui.isometric-renders.open_folder": "打开文件夹",
+    "gui.isometric-renders.copied_to_clipboard": "已導出至剪贴板材",
+    "gui.isometric-renders.exported_as": "文件導出為：",
+    "gui.isometric-renders.animation_saved": "動畫導出為：",
+    "gui.isometric-renders.converting_image_sequence": "正在將圖片序列轉換為目標格式",
+    "gui.isometric-renders.scale": "缩放",
+    "gui.isometric-renders.rotation": "偏轉角",
+    "gui.isometric-renders.slant": "俯仰角",
+    "gui.isometric-renders.light_angle": "光照角",
+    "gui.isometric-renders.rotation_speed": "旋轉速度",
+    "gui.isometric-renders.dimetric": "正二轴測",
+    "gui.isometric-renders.isometric": "正等轴測",
+    "gui.isometric-renders.atlas_options": "圖集選項",
+    "gui.isometric-renders.columns": "列數",
+    "gui.isometric-renders.select_item_batch": "批量渲染物品",
+    "gui.isometric-renders.select_block_batch": "批量渲染方块",
+    "gui.isometric-renders.select_tooltip_batch": "批量渲染提示框",
+    "gui.isometric-renders.select_atlas": "渲染圖集",
+    "gui.isometric-renders.select_batch_operation": "選择批量渲染操作",
+    "gui.isometric-renders.render_task_size": "需渲染物品數：%s",
+    "gui.isometric-renders.animation_options": "動畫選項",
+    "gui.isometric-renders.animation_frames": "動畫帧數",
+    "gui.isometric-renders.animation_framerate": "動畫帧率",
+    "gui.isometric-renders.export_animation": "導出動畫",
+    "gui.isometric-renders.exporting": "正在導出⋯⋯",
+    "gui.isometric-renders.converting": "正在轉換⋯⋯",
+    "gui.isometric-renders.export_remaining_frames": "剩余帧數：%d",
+    "gui.isometric-renders.format.mp4": "MP4",
+    "gui.isometric-renders.format.apng": "APNG",
+    "gui.isometric-renders.format.gif": "GIF",
+    "gui.isometric-renders.detecting_ffmpeg": "正在檢測FFmpeg⋯⋯",
+    "gui.isometric-renders.no_ffmpeg_1": "未檢測到FFmpeg",
+    "gui.isometric-renders.no_ffmpeg_2": "請从以下網站下載",
+    "gui.isometric-renders.no_ffmpeg_3": "https://ffmpeg.org/download.html",
+    "gui.isometric-renders.vram": "預计顯存需求：%s/%smb（%s）",
+    "gui.isometric-renders.ram": "預计内存需求：%s/%smb（%s）",
+    "gui.isometric-renders.vram_ignore": "Shift點击以忽略警告",
+    "gui.isometric-renders.no_vram_info_warning": "無法確定可用顯存大小",
+    "gui.isometric-renders.transform_options": "变换選項",
+    "gui.isometric-renders.presets": "預設变换",
+    "gui.isometric-renders.lighting_profile": "光照方案",
+    "gui.isometric-renders.entity_pose": "实體朝向",
+    "gui.isometric-renders.entity_pose.yaw": "偏轉角",
+    "gui.isometric-renders.entity_pose.pitch": "俯仰角",
+    "gui.isometric-renders.render_options": "渲染選項",
+    "gui.isometric-renders.background_color": "背景色",
+    "gui.isometric-renders.export_options": "導出選項",
+    "gui.isometric-renders.renderer_resolution": "導出分辨率",
+    "gui.isometric-renders.hotkeys": "F10：切换配置菜單顯示  F12：導出文件",
+    "gui.isometric-renders.memory_warning1": "警告：除非為Minecraft",
+    "gui.isometric-renders.memory_warning2": "分配了至少6GB的内存，",
+    "gui.isometric-renders.memory_warning3": "否则，超過8192x8192的",
+    "gui.isometric-renders.memory_warning4": "分辨率可能會使游戏崩溃！",
+    "gui.isometric-renders.memory_warning5": "",
+    "gui.isometric-renders.mesh_controls": "区域網格控制",
+    "gui.isometric-renders.mesh_status": "状態：",
+    "gui.isometric-renders.mesh_building": "組建中 - %d%%",
+    "gui.isometric-renders.mesh_rebuilding": "重建中 - %d%%",
+    "gui.isometric-renders.mesh_corrupt": {
+        "text": "網格异常 - 向作者反馈",
+        "color": "red"
+    },
+    "gui.isometric-renders.mesh_ready": "就緒",
+    "gui.isometric-renders.freeze_entities": "冻結实體",
+    "gui.isometric-renders.rebuild_mesh": "重建網格",
+    "gui.isometric-renders.exporter.idle": "導出器闲置",
+    "gui.isometric-renders.exporter.jobs": "導出任务數：%s",
+    "gui.isometric-renders.batch.remaining": "剩余項數：%d/%d",
+    "gui.isometric-renders.batch.start": "开始",
+    "gui.isometric-renders.batch.reset": "重置",
+    "gui.isometric-renders.batch.controls": "批量處理控制",
+    "gui.isometric-renders.hud.area_selection": "区域選取",
+    "gui.isometric-renders.hud.area_selection.from": [
+        {
+            "text": "起始點："
+        },
+        {
+            "index": 0,
+            "color": "gray"
+        }
+    ],
+    "gui.isometric-renders.hud.area_selection.to": [
+        {
+            "text": "中止點："
+        },
+        {
+            "index": 0,
+            "color": "gray"
+        }
+    ],
+    "gui.isometric-renders.click_to_open": [
+        "",
+        {
+            "text": "! ",
+            "color": "gray",
+            "bold": true
+        },
+        "點击以打开文件"
+    ],
+    "message.isometric-renders.no_block": "未指向方块",
+    "message.isometric-renders.no_entity": "未指向实體",
+    "message.isometric-renders.incomplete_selection": "選区未完成",
+    "message.isometric-renders.no_such_namespace": "命名空間未知",
+    "message.isometric-renders.player_rendering_in_multiplayer": "按玩家名渲染玩家只在單人游戏中可用",
+    "message.isometric-renders.custom_lighting": "§a自定義光照：§7[§c%1$s §a%1$s §b%1$s§7]",
+    "message.isometric-renders.current_profile": "當前方案：%1$s",
+    "message.isometric-renders.lighting_profile_updated": "§a光照方案已更新",
+    "message.isometric-renders.unsafe_enabled": "不安全行為§c启用§7。谨慎行事。",
+    "message.isometric-renders.unsafe_disabled": "不安全行為§a禁用§7",
+    "message.isometric-renders.version": "正在運行Isometric Renders v%s",
+    "message.isometric-renders.command_hint": "提示：查看模組维基，以了解子命令及其用法",
+    "message.isometric-renders.selection_cleared": "§7[§c選区清除§7]",
+    "message.isometric-renders.selection_started": "§7[§a選区起始§7]",
+    "message.isometric-renders.selection_finished": "§7[§a選区結束§7]"
+}

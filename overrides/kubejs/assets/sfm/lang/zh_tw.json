@@ -1,0 +1,5 @@
+{
+    "item.sfm.network_tool.tooltip.8": "按住%s并右键点击方块,可使工具与该位置同步.",
+    "chat.sfm.manager.cable_network_rebuild.failed_fallback": "在管理器 %s 处重建线缆网络失败；已清除所有线缆网络",
+    "chat.sfm.manager.cable_network_rebuild.success": "已在管理器 %s 处重建线缆网络"
+}

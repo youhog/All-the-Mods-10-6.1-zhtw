@@ -1,0 +1,22 @@
+{
+    "item.angelring.itemring": "天使指環",
+    "item.angelring.itemdiamondring": "鑽石指環",
+    "item.angelring.itemring.not_enough_xp": "你需要经驗才能飛行。获取更多经驗以再次飛行。",
+    "item.angelring.itemring.tooltip": "按住§eShift§7以获取更多信息！",
+    "item.angelring.itemring.desc0": "天使指環在飛行時會消耗玩家的经驗。",
+    "item.angelring.itemring.desc1": "如果玩家的经驗等級低於1級，",
+    "item.angelring.itemring.desc2": "魔法將會消失，玩家也將無法飛行。",
+    "item.angelring.itemring.classic.desc0": "天使指環切换至经典模式。放入飾品槽以获得创造飛行。",
+    "item.angelring.itemring.classic.desc1": "在配置中將经驗值消耗調至0點以上以切换至重新平衡模式。",
+    "item.angelring.energetic_angel_ring": "充能天使指環",
+    "item.angelring.energetic_angel_ring.not_enough_fe": "你需要更多的FE以飛行。充能你的天使指環以重新飛行。",
+    "item.angelring.energetic_angel_ring.tooltip": "按住§eShift§7以获取更多信息！",
+    "item.angelring.energetic_angel_ring.desc0": "天使指環在飛行時會消耗存储的FE。",
+    "item.angelring.energetic_angel_ring.desc1": "天使指環目前存储：%sFE / %sFE",
+    "item.angelring.leadstone_angel_ring": "鉛石天使指環",
+    "item.angelring.hardened_angel_ring": "硬化天使指環",
+    "item.angelring.reinforced_angel_ring": "強化天使指環",
+    "item.angelring.resonant_angel_ring": "谐振天使指環",
+    "curios.identifier.angelring": "天使指環",
+    "itemGroup.angelring2": "天使指環2"
+}

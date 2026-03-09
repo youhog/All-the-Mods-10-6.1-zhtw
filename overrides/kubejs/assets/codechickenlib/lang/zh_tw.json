@@ -1,0 +1,19 @@
+{
+    "ccl.fluid_tank.mb": "毫升",
+    "ccl.commands.gc.performing": "执行 GC 中......",
+    "ccl.energy_bar.energy_storage": "能源储存",
+    "ccl.commands.gc.before": "之前:",
+    "ccl.fluid_tank.contains": "含有:",
+    "ccl.energy_bar.stored": "已储存:",
+    "ccl.energy_bar.rf": "RF能量",
+    "ccl.fluid_tank.capacity": "容量:",
+    "ccl.fluid_tank.stored": "已储存:",
+    "ccl.commands.killall.fail": "找不到实体.",
+    "ccl.commands.count.total": "找到了 %s 个实体.",
+    "ccl.commands.gc.after": "之后:",
+    "ccl.energy_bar.capacity": "容量:",
+    "ccl.fluid_tank.fluid_storage": "流体储存",
+    "ccl.commands.count.fail": "找不到实体.",
+    "ccl.commands.killall.success": "消灭了 %s 个实体.",
+    "ccl.commands.killall.fail.player": "你不能使用这个命令杀死玩家."
+}

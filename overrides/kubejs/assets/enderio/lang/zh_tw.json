@@ -1,0 +1,5 @@
+{
+    "tag.item.enderio.explosives": "爆炸物",
+    "tooltip.enderio.fluid_tank.contents_tooltip": "%d/%d 毫桶 %s",
+    "item.enderio.limited_item_filter": "有限物品过滤器"
+}

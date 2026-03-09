@@ -1,0 +1,5 @@
+{
+    "text.tesseract_api.tooltips_shift_required": "按住[Shift]键查看信息",
+    "text.tesseract_api.mi_machine_batcher_size_and_cost": "以每批次最多%d个运行,能耗为原EU成本的%s倍.",
+    "text.tesseract_api.mi_machine_batcher_recipe": "可以批量运行 %s 配方."
+}

@@ -1,0 +1,9 @@
+{
+    "block.treetap.tap": "树饮器",
+    "block.treetap.wooden_sap_collector": "树汁收集器",
+    "config.jade.plugin_treetap.tap": "砍树器",
+    "item.treetap.tap.modifier": "速度修正值:%s",
+    "jei.treetap.tap_extract": "树饮提取",
+    "jei.treetap.life_cycle.all_year": "全年",
+    "block.treetap.sap_collector": "树汁收集器"
+}

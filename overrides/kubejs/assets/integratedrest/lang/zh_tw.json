@@ -1,0 +1,19 @@
+{
+    "_comment": "------ On the Dynamics of Integration contents ------",
+    "itemGroup.integratedrest": "Integrated REST",
+    "block.integratedrest.http": "HTTP代理器",
+    "block.integratedrest.http.info": "读取由外源HTTP POST請求提供的值。",
+    "http.integratedrest.tooltip.delay_id": "§e§oHTTP代理器ID: §r§o%s",
+    "http.integratedrest.error.http_not_in_network": "當前網络内找不到ID為%d的HTTP代理器。",
+    "http.integratedrest.error.http_invalid": "ID為%s的HTTP代理器没有公开有效的变量。",
+    "http.integratedrest.error.http_invalid_type": "ID為%s的HTTP代理器应當公开類型為%s的变量，而实际類型為%s。",
+    "info_book.integratedrest.section.main": "REST",
+    "info_book.integratedrest.introduction": "導言",
+    "info_book.integratedrest.introduction.text1": "&lIntegrated REST&r模組允许通過REST API读写&l動態聯合&r網络。",
+    "info_book.integratedrest.introduction.text2": "借此，可以通過網络协议读取網络和世界的状態，并通過向HTTP代理器發送POST請求来与之交互。",
+    "info_book.integratedrest.introduction.text3": "在服务端控制台中可以看到伺服器所在的地址，以及其他可能需要的信息。（默认地址為&lhttp://localhost:3000/&r）",
+    "info_book.integratedrest.http": "HTTP代理器",
+    "info_book.integratedrest.http.text1": "HTTP代理器具有内部状態值，该值可以被HTTP POST請求更新。",
+    "info_book.integratedrest.http.text2": "須在HTTP代理器内選择值類型；其后，代理器只會接受具有该類型的請求。",
+    "info_book.integratedrest.http.text3": "更多信息参見Github wiki"
+}

@@ -1,0 +1,23 @@
+{
+    "message.belts.reset": "傳送帶已重置！",
+    "message.belts.started": "起點已存储！",
+    "message.belts.belt_created": "傳送帶已鋪設！",
+    "message.belts.midpoint_added": "途经點已存储！",
+    "message.belts.midpoint_duplicate": "此途经點已被存储過。",
+    "message.belts.chute_used": "溜槽被占用！",
+    "message.belts.filter_set": "物品過滤器已設置",
+    "message.belts.filter_reset": "物品過滤器已重置",
+    "itemgroup.belts.items": "便捷傳送帶",
+    "block.belts.chute": "傳送帶物品溜槽",
+    "block.belts.chute.tooltip": "需附着容器方块放置。傳送帶需連接至溜槽。",
+    "block.belts.chute.tooltip.1": "使用物品對其按下[右鍵]可設置過滤器。",
+    "block.belts.chute.tooltip.ftbfilters": "支持“FTB Filters”模組的智能過滤器。",
+    "block.belts.conveyor_support": "傳送帶支架",
+    "block.belts.conveyor_support.tooltip": "用作傳送帶的導向架。",
+    "item.belts.belt": "傳送帶",
+    "item.belts.belt.tooltip.0": "可用此创建任意形状和尺寸的傳送帶。會自動在起終點放置物品溜槽（不必持有溜槽）。",
+    "item.belts.belt.tooltip.1": "點击已放置的溜槽以將其設為起點或終點。點击傳送帶支架以加入可選的途经點。",
+    "item.belts.belt.tooltip.2": "未注視方块時按下[Shift]+[右鍵]以重置設置。",
+    "item.belts.belt.tooltip.3": "可使用物品點击已放置的溜槽，以為其設置過滤器。",
+    "message.belts.show_extra": "按住[Ctrl]查看更多信息。"
+}

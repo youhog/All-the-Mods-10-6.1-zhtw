@@ -1,0 +1,16 @@
+{
+    "hexcasted.entry.cbc": "戰争之召",
+    "hexcasted.page.cbc": "炮兵聯合會征召我為武器製造师。我雖然百般遲疑，最終还是接受了。$(br)$(br)咒術炮弹计划的最終產物即是$(thing)咒術弹$()，它是蚀刻有两個咒術的媒質灌注炮弹。$(thing)炮兵咒術$()會在炮弹發射后立即施放，自然有多快，此咒術的施放起始就有多快；$(thing)爆破师咒術$()會在炮弹爆炸時施放。$(br)$(br)我都做了些什么⋯⋯",
+    "hexcasted.entry.cbc_basics": "戰争即地狱",
+    "hexcasting.action.hexcasted:shell_get_on_tick": "炮兵之纯化",
+    "hexcasted.page.cbc_basics.shell_get_on_tick": "此圖案會从$(thing)咒術弹$()中读取$(thing)炮兵咒術$()。",
+    "hexcasting.action.hexcasted:shell_set_on_tick": "炮兵之策略",
+    "hexcasted.page.cbc_basics.shell_set_on_tick": "此圖案會向$(thing)咒術弹$()蚀刻$(thing)炮兵咒術$()，其會在發射后以最快速度施放。$(br)$(br)实驗 10a：以某個潜水艇為目標。失败，媒質耗尽，击中民用游轮。2 人伤亡。",
+    "hexcasting.action.hexcasted:shell_get_on_detonate": "爆破师之纯化",
+    "hexcasted.page.cbc_basics.shell_get_on_detonate": "此圖案會从$(thing)咒術弹$()中读取$(thing)爆破师咒術$()。",
+    "hexcasting.action.hexcasted:shell_set_on_detonate": "爆破师之策略",
+    "hexcasted.page.cbc_basics.shell_set_on_detonate": "此圖案會向$(thing)咒術弹$()蚀刻$(thing)爆破师咒術$()，其會在炮弹爆炸時施放。$(br)$(br)实驗 11b：以某個“末日鎮”為目標。失败，轨道计算失误，击中附近村庄。347 人失能。",
+    "hexcasted.entry.cbc_spell": "分裂咒術",
+    "hexcasting.action.hexcasted:create_shell": "製造炮弹",
+    "hexcasted.page.cbc_spell.create_shell": "此圖案接受一定量媒質，并強迫自然製造一個$(thing)咒術弹$()。但願这些笔记不會落入壞人之手⋯⋯"
+}

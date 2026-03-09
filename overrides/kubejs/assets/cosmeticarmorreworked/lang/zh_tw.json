@@ -1,0 +1,7 @@
+{
+    "cos.key.opencosarmorinventory": "打开裝飾裝甲栏",
+    "cos.gui.buttoncos": "裝飾裝甲",
+    "cos.gui.buttonnormal": "普通",
+    "cos.command.clearcosarmor.success.single": "已从玩家%2$s的裝飾裝甲栏中移除了%1$s件物品",
+    "cos.command.clearcosarmor.success.multiple": "已从%2$s名玩家的裝飾裝甲栏中移除了%1$s件物品"
+}

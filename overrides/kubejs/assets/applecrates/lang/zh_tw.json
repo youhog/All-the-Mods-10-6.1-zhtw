@@ -1,0 +1,14 @@
+{
+    "block.applecrates.acacia_crate": "金合歡木貨架",
+    "block.applecrates.birch_crate": "白桦木貨架",
+    "block.applecrates.crimson_crate": "绯红木貨架",
+    "block.applecrates.dark_oak_crate": "深色橡木貨架",
+    "block.applecrates.jungle_crate": "丛林木貨架",
+    "block.applecrates.oak_crate": "橡木貨架",
+    "block.applecrates.spruce_crate": "云杉木貨架",
+    "block.applecrates.warped_crate": "诡异木貨架",
+    "cannot.switch.trade": "要切换支付用物品，你的绿色交易槽必須為空",
+    "container.crate": "貨架",
+    "container.crate.owner": "我的貨架商店",
+    "crate.set.creative": "貨架已設置為创造商店"
+}

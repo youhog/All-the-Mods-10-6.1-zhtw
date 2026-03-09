@@ -1,0 +1,18 @@
+{
+    "tooltip.allthemodium.teleport_pad": "潜行+右键点击(双手为空)进行传送",
+    "block.allthemodium.ancient_podzol": "远古灰化土",
+    "dimension.allthemodium.mining": "挖矿维度",
+    "stat.tconstruct.harvest_tier.allthemodium.allthemodium": "全锭",
+    "jade.allthemodium.teleport_pad.no_drop": "挖掘时不会掉落!",
+    "dimension.allthemodium.unknown": "未知维度",
+    "tetra.material.allthemodium": "全模块",
+    "jade.allthemodium.teleport_pad.tip": "空手潜行右击",
+    "config.jade.plugin_allthemodium.teleport_pad": "传送基座",
+    "itemGroup.allthemodium": "全模块",
+    "dimension.allthemodium.the_other": "另一边",
+    "dimension.allthemodium.the_beyond": "彼岸",
+    "jade.allthemodium.teleport_pad.transports_to": "传送至",
+    "material.silentgear.allthemodium": "全模块",
+    "material.allthemodium.allthemodium": "全模块",
+    "block.allthemodium.ancient_fern": "远古蕨"
+}

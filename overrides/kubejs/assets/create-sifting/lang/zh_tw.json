@@ -1,0 +1,11 @@
+{
+    "block.createsifter.sifter": "動力筛子",
+    "create.recipe.sifting": "筛選配方",
+    "createsifter.recipe.sifting": "筛選配方",
+    "item.createsifter.andesite_mesh": "安山筛網",
+    "item.createsifter.brass_mesh": "黃銅筛網",
+    "item.createsifter.custom_mesh": "自定義筛網",
+    "item.createsifter.string_mesh": "线筛網",
+    "item.createsifter.zinc_mesh": "锌筛網",
+    "itemGroup.createsifter:main": "機械動力：筛子"
+}

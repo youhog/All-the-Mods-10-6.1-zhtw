@@ -1,0 +1,11 @@
+{
+    "item.bhc.red_heartpulse_belt": "红色心脉腰带",
+    "item.bhc.green_heartpulse_belt": "绿色心脉腰带",
+    "entity.bhc.hostile_mobs": "敌对型生物",
+    "tooltip.bhc.heart_drops": "掉落来源:",
+    "entity.bhc.passive_mobs": "被动型生物",
+    "item.bhc.yellow_heartpulse_belt": "黄色心脉腰带",
+    "entity.bhc.boss_mobs": "首领型生物",
+    "item.bhc.blue_heartpulse_belt": "蓝色心脉腰带",
+    "tooltip.bhc.hold_shift_for_drops": "按住SHIFT查看掉落信息"
+}

@@ -1,19 +1,7 @@
 {
-	"hostilenetworks.trivia.eternal_starlight.lonestar_skeleton": "在星光維度中遊蕩。\n會投擲破碎的刀刃來攻擊。",
-	"hostilenetworks.trivia.eternal_starlight.aurora_deer": "來自星光永凍林的神秘生物。\n會像山羊一樣用頭撞人。",
-	"hostilenetworks.trivia.eternal_starlight.crystallized_moth": "牠到底是怎麼從監守者那裡\n學會音波攻擊的？\n或許這是來自結晶沙漠的\n某種魔法力量...",
-	"hostilenetworks.trivia.eternal_starlight.ent": "星光維度裡發現的可愛小生物。\n頭上戴著月光葉子做的帽子。",
-	"hostilenetworks.trivia.eternal_starlight.freeze": "魔像鍛造廠的守衛。\n雖然是用冰做的，但牠對火免疫。\n真的是強大的科技！",
-	"hostilenetworks.trivia.eternal_starlight.gleech": "生活在結晶沙漠的小昆蟲。\n牠的寶寶會黏在敵人身上。",
-	"hostilenetworks.trivia.eternal_starlight.grimstone_golem": "原本死在生物投票中的凝灰岩魔像，\n現在於星光維度重生了。",
-	"hostilenetworks.trivia.eternal_starlight.luminaris": "生活在深淵之中。\n為未知的世界帶來一點光亮。",
-	"hostilenetworks.trivia.eternal_starlight.luminofish": "生活在深淵之中。\n會像河豚一樣透過毒素來保護自己。",
-	"hostilenetworks.trivia.eternal_starlight.lunar_monstrosity": "被詛咒花園的首領。\n使用孢子和荊棘攻擊。\n除非用火燒，否則幾乎打不動。",
-	"hostilenetworks.trivia.eternal_starlight.nightfall_spider": "在星光維度中穿梭爬行。\n是孤星骷髏的坐騎。",
-	"hostilenetworks.trivia.eternal_starlight.ratlin": "聲音聽起來很像豬布林或疣豬獸。\n但牠們沒那麼有侵略性。",
-	"hostilenetworks.trivia.eternal_starlight.starlight_golem": "魔像鍛造廠的首領。\n沒人知道牠運轉的能量是哪來的。",
-	"hostilenetworks.trivia.eternal_starlight.tangled": "被詛咒花園的守衛。\n死後牠的頭骨還會繼續攻擊敵人。",
-	"hostilenetworks.trivia.eternal_starlight.tangled_hatred": "長。\n超級長。\n真的超級長長長長長。",
-	"hostilenetworks.trivia.eternal_starlight.thirst_walker": "一種類似終界使者的生物。\n想要吞噬世界上的一切物品。\n包括你在內。",
-	"hostilenetworks.trivia.eternal_starlight.yeti": "雪人的白毛可以像剪羊毛一樣剪下來，\n但這毛沒辦法染色。"
+    "hostilenetworks.trivia.troll": "托罗洛洛洛洛洛洛...",
+    "text.hostilenetworks.shift": "[按住Shift键]",
+    "hostilenetworks.color_text.hud": "头盔显示",
+    "hostilenetworks.color_text.shift": "切换",
+    "_comment": "常规"
 }

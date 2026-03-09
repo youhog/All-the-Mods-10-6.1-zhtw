@@ -1,0 +1,21 @@
+{
+    "itemGroup.structurecompass": "結构指南針",
+    "structurecompass.screen.selection.title": "選择結构",
+    "structurecompass.screen.selection.select": "選择",
+    "structurecompass.screen.search": "搜索",
+    "structurecompass.screen.search.a_to_z": "A-Z",
+    "structurecompass.screen.search.z_to_a": "Z-A",
+    "item.structurecompass.structure_compass": "結构指南針",
+    "structurecompass.locate.invalid": "绑定的結构無效，請重新绑定。",
+    "structurecompass.locate.fail": "附近找不到绑定的結构",
+    "structurecompass.locate.distance": "绑定的結构在%s格外",
+    "structurecompass.locate.toggled": "結构指南針HUD已切换至%s",
+    "structurecompass.structure.found": "%s已定位至%s格外，指南針現正指向该結构",
+    "structurecompass.structure.found.tooltip": "已找到%s，指南針現正指向该結构",
+    "structurecompass.structure.failed": "找不到%s，或许可以稍后再试",
+    "structurecompass.structure.failed.tooltip": "找不到%s，或许可以稍后再试",
+    "structurecompass.structure.wrong_dimension.tooltip": "你不在發現%s的维度内",
+    "structurecompass.structure.unset.tooltip": "没有設置結构，Shift右击選择結构",
+    "category.structurecompass.main": "結构指南針",
+    "key.structurecompass.hide": "隱藏結构指南針HUD"
+}

@@ -1,0 +1,14 @@
+{
+    "tooltip.oracle_index.close_screen": "关闭Wiki",
+    "oracle_index.searchbar.placeholder": "查找或计算",
+    "oracle_index.searchbar.tooltip": "智能搜索,支持完整句子和数学表达式.",
+    "oracle_index.title.oracle-index": "甲骨文索引",
+    "key.oracle_index.search": "打开Oracle搜索",
+    "tooltip.oracle_index.back": "返回上一页",
+    "oracle_index.title.oracle_index": "甲骨文索引",
+    "key.categories.oracle": "Oracle索引",
+    "oracle_index.button.docs": "文档",
+    "key.oracle_index.open": "打开甲骨文索引",
+    "oracle_index.button.content": "内容",
+    "tooltip.oracle_index.open_search": "开启搜索功能.您始终可通过按下[CTRL+%s]或[%s]键开启"
+}

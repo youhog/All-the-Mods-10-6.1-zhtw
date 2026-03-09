@@ -1,0 +1,22 @@
+{
+    "block.mekanism_lasers.laser_stopper": "激光阻挡器",
+    "block.mekanism_lasers.basic_laser": "基礎激光",
+    "block.mekanism_lasers.basic_toggleable_laser": "基礎可开关激光",
+    "block.mekanism_lasers.advanced_laser": "高級激光",
+    "block.mekanism_lasers.advanced_toggleable_laser": "高級可开关激光",
+    "block.mekanism_lasers.elite_laser": "精英激光",
+    "block.mekanism_lasers.elite_toggleable_laser": "精英可开关激光",
+    "block.mekanism_lasers.ultimate_laser": "終极激光",
+    "block.mekanism_lasers.ultimate_toggleable_laser": "終极可开关激光",
+    "block.mekanism_lasers.creative_laser": "创造激光",
+    "block.mekanism_lasers.creative_toggleable_laser": "创造可开关激光",
+    "block.mekanism_lasers.ore_generator": "礦石生成器",
+    "item.mekanism_lasers.remote_control": "遙控器",
+    "container.mekanism_lasers.ore_generator": "礦石生成器",
+    "description.mekanism.laser_stopper": "可以伪裝成任意方块并阻挡激光的方块",
+    "description.mekanism.laser": "高浓度的光 :D",
+    "description.mekanism.laser_toggleable": "高浓度的光；但可以开关 :D",
+    "description.mekanism.ore_generator": "利用光將能量轉化為礦石",
+    "item_group.mekanism_lasers": "通用機械：激光",
+    "gui.ore_generator.energy_per_ore": "每生成一個礦石消耗能量 "
+}

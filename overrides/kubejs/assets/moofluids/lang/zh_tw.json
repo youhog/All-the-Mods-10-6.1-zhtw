@@ -1,0 +1,21 @@
+{
+    "moofluids.top.fluid": "流體",
+    "moofluids.top.cooldown": "挤流體冷却",
+    "moofluids.top.ready": "已准備好挤流體",
+    "moofluids.top.fluid_mismatch": "流體不匹配，將清空流體槽！",
+    "moofluids.jade.fluid_mismatch": "流體不匹配，將清空流體槽！",
+    "item.moofluids.fluid_cow_spawn_egg": "流體牛刷怪蛋",
+    "item.moofluids.alchemy_glass": "鍊金玻璃瓶",
+    "item.moofluids.alchemy_glass.tooltip": "右击以查看流體牛繁殖配方",
+    "entity.moofluids.fluid_cow": "流體牛",
+    "itemGroup.moofluids.moo_fluids": "Moo Fluids",
+    "block.moofluids.fluid_cow_jar": "流體牛罐",
+    "block.moofluids.fluid_cow_jar_filled": "流體牛罐（已裝滿）",
+    "jei.moofluids.category.breeding": "流體牛繁殖",
+    "jei.moofluids.fluid_cow.tooltip": "右击以查看流體的配方/用途",
+    "tooltip.moofluids.fluid_cow_jar.contains": "包含：%s",
+    "tooltip.moofluids.fluid_cow_jar.fluid": "流體：%s",
+    "tooltip.moofluids.fluid_cow_jar.amount": "流體量：%s mB",
+    "tooltip.moofluids.fluid_cow_jar.hint": "在流體牛上方砸下鐵砧以捕捉",
+    "tooltip.moofluids.fluid_cow_jar.release": "空手Shift點击以释放流體牛"
+}

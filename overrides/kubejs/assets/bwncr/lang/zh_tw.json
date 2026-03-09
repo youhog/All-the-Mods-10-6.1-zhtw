@@ -1,0 +1,20 @@
+{
+    "badwithernocookiereloaded.localized settings.silenceus": "例如:entity.sheep.step - 使用/listen 对于其他的音效",
+    "bwncr.configuration.general": "常规",
+    "badwithernocookiereloaded.general.tooltip": "你能禁止全局声音和事件声音",
+    "text.autoconfig.bwncr.option.general.silenceTrader": "商人静音",
+    "bwncr.config.debugMode": "调试模式",
+    "text.autoconfig.bwncr.option.general.silenceWither": "沉默凋零兽",
+    "text.autoconfig.bwncr.option.general.silenceLightning": "闪电静音",
+    "bwncr.config.silenceLightning": "静音闪电",
+    "bwncr.config.silenceWither": "静音凋灵",
+    "badwithernocookiereloaded.xtra.tooltip": "你可以禁止其他本地化声音",
+    "bwncr.config.silenceUs": "静音我们",
+    "text.autoconfig.bwncr.option.general.debugMode": "调试模式",
+    "bwncr.config.silenceDragon": "静音末影龙",
+    "text.autoconfig.bwncr.option.general": "通用设置",
+    "bwncr.config.silenceTrader": "静音商人",
+    "text.autoconfig.bwncr.option.general.silenceUs": "我们静音",
+    "text.autoconfig.bwncr.title": "恶劣凋零者无饼干 - 重载版",
+    "text.autoconfig.bwncr.option.general.silenceDragon": "龙静音"
+}

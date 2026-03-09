@@ -1,0 +1,23 @@
+{
+    "block.projectred_expansion.auto_crafter": "自動合成機",
+    "block.projectred_expansion.battery_box": "電池盒",
+    "block.projectred_expansion.block_breaker": "方块破壞機",
+    "block.projectred_expansion.charging_bench": "充電台",
+    "block.projectred_expansion.deployer": "放置機",
+    "block.projectred_expansion.fire_starter": "點火機",
+    "block.projectred_expansion.frame": "框架",
+    "block.projectred_expansion.frame_actuator": "框架致動機",
+    "block.projectred_expansion.frame_motor": "框架電機",
+    "block.projectred_expansion.project_bench": "工程台",
+    "block.projectred_expansion.transposer": "轉移機",
+    "item.projectred_expansion.battery": "電池",
+    "item.projectred_expansion.electric_screwdriver": "電動螺丝刀",
+    "item.projectred_expansion.empty_battery": "空電池",
+    "item.projectred_expansion.pneumatic_tube": "氣動管道",
+    "item.projectred_expansion.recipe_plan": "计划合成表",
+    "itemGroup.projectred_expansion": "红石计划：扩展",
+    "projectred-expansion.subtitle.depressurize": "空氣：降压",
+    "projectred-expansion.subtitle.pressurize": "空氣：加压",
+    "projectred-expansion.tooltip.charge_level": "存有能量",
+    "projectred-expansion.tooltip.plan_result": "產物"
+}

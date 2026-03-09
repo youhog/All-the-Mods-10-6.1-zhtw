@@ -1,0 +1,8 @@
+{
+    "itemGroup.flightblocks": "飛行方块",
+    "block.flightblocks.flight_block": "飛行方块",
+    "block.flightblocks.flight_block.enabled_flight": "飛行已启用！",
+    "block.flightblocks.flight_block.disabled_flight": "飛行已禁用！",
+    "block.flightblocks.flight_block.range": "範围：%s，顯示範围，右击禁用範围顯示！",
+    "tooltips.flightblocks.flightblocks.shift.held": "放置在世界中，可在方块周围飛行！範围："
+}

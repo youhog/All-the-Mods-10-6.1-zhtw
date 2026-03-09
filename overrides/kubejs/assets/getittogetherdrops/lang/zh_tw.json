@@ -1,0 +1,6 @@
+{
+    "getittogetherdrops.configuration.checkY": "检查Y轴",
+    "getittogetherdrops.configuration.radius.tooltip": "掉落物检测周围可合并物品的半径范围(以方块为单位,原版行为为0.5)",
+    "getittogetherdrops.configuration.checkY.tooltip": "若设为true,掉落物将同时检查上下方空间;设为false则不会检查(原版行为为false)",
+    "getittogetherdrops.configuration.radius": "检测半径"
+}

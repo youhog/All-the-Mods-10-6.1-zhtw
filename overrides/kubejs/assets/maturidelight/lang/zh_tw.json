@@ -1,0 +1,21 @@
+{
+    "item.maturidelight.suspicious_item": "这個章魚烧裡貌似加了什么东西⋯⋯",
+    "item.maturidelight.takoyaki_raw": "生章魚烧",
+    "item.maturidelight.takoyaki": "章魚烧",
+    "item.maturidelight.takoyaki_soysauce": "淋有醬油的章魚烧",
+    "item.maturidelight.okonomiyaki_raw": "生什錦烧",
+    "item.maturidelight.okonomiyaki": "什錦烧",
+    "item.maturidelight.okonomiyaki_soysauce": "淋有醬油的什錦烧",
+    "item.maturidelight.dough_raw": "生面团",
+    "block.maturidelight.takoyaki_maker": "章魚烧盤",
+    "block.maturidelight.plate": "鐵板材",
+    "itemGroup.maturidelight": "祭典乐事",
+    "advancements.maturidelight.root.title": "祭典乐事",
+    "advancements.maturidelight.root.description": "来一起了解祭典上的食物吧！",
+    "advancements.maturidelight.making_food.title": "制作美食",
+    "advancements.maturidelight.making_food.description": "用鐵板材和章魚烧盤做些什么",
+    "advancements.maturidelight.extra_topping.title": "添加蘸料",
+    "advancements.maturidelight.extra_topping.description": "將醬油淋在章魚烧或什錦烧上",
+    "advancements.maturidelight.you_got_poison_me.title": "也算是中大奖了⋯⋯",
+    "advancements.maturidelight.you_got_poison_me.description": "吃下由有毒花朵制成的食物"
+}

@@ -1,0 +1,10 @@
+{
+    "ars_elemental.adv.title.x": "元素魔法进阶",
+    "ars_elemental.adv.desc.x": "高级元素魔法是一种强大的魔法,它允许你掌握各种元素的力量.",
+    "ars_elemental.glyph_desc.glyph_cauterize": "用火焰灼烧伤口，造成少量火焰伤害以移除有害效果。只能移除可通过牛奶治愈的效果。",
+    "ars_elemental.glyph_name.glyph_cauterize": "灼烧",
+    "ars_nouveau.augment_desc.glyph_cauterize_glyph_amplify": "增加造成的伤害。",
+    "ars_nouveau.augment_desc.glyph_cauterize_glyph_dampen": "减少造成的伤害。",
+    "ars_nouveau.augment_desc.glyph_cauterize_glyph_fortune": "击杀生物时应用抢夺效果。",
+    "ars_nouveau.augment_desc.glyph_cauterize_glyph_randomize": "随机化造成的伤害。"
+}

@@ -1,0 +1,10 @@
+{
+    "itemGroup.cde_creative_tab": "機械動力：柴油發電機",
+    "item.createdieselgenerators.engine_piston": "引擎活塞",
+    "item.createdieselgenerators.plant_oil_bucket": "植物燃油桶",
+    "fluid.createdieselgenerators.plant_oil": "植物燃油",
+    "item.createdieselgenerators.biodiesel_bucket": "生物柴油桶",
+    "fluid.createdieselgenerators.biodiesel": "生物柴油",
+    "block.createdieselgenerators.diesel_engine": "柴油機",
+    "block.createdieselgenerators.large_diesel_engine": "模块化柴油機"
+}

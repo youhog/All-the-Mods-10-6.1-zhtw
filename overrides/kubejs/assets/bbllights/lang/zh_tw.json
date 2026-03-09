@@ -1,0 +1,9 @@
+{
+    "item.bbllights.diamond_invisible_light_placer": "鑽石隱形光源放置器",
+    "item.bbllights.invisible_light": "隱形光源",
+    "item.bbllights.iron_invisible_light_placer": "鐵隱形光源放置器",
+    "item.bbllights.netherite_invisible_light_placer": "下界合金隱形光源放置器",
+    "itemGroup.bbllights": "BBL的隱形光源",
+    "tooltips.bbllights.light_item": "放置的隱形光源亮度等級為：%s",
+    "tooltips.bbllights.shift": "按住SHIFT查看更多信息"
+}

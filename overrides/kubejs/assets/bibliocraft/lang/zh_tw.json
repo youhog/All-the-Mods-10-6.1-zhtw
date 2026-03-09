@@ -1,0 +1,17 @@
+{
+    "gui.bibliocraft.fancy_text_area.bold.short": "粗体",
+    "gui.bibliocraft.stockroom_catalog.sorting.container.distance_asc": "距离由近到远(<-->)",
+    "config.bibliocraft.compatibility.jei": "JEI兼容设置",
+    "gui.bibliocraft.stockroom_catalog.sorting.container.distance_desc": "距离由远到近(-><-)",
+    "gui.bibliocraft.stockroom_catalog.sorting.container.alphabetical_desc": "容器名称降序(Z-A)",
+    "gui.bibliocraft.clock.hours_hint": "时",
+    "gui.bibliocraft.stockroom_catalog.sorting.item.alphabetical_asc": "物品名称升序(A-Z)",
+    "gui.bibliocraft.stockroom_catalog.sorting.item.alphabetical_desc": "物品名称降序(Z-A)",
+    "gui.bibliocraft.clock.minutes_hint": "分",
+    "gui.bibliocraft.stockroom_catalog.sorting.container.alphabetical_asc": "容器名称升序(A-Z)",
+    "gui.bibliocraft.fancy_text_area.underlined.short": "下划线",
+    "gui.bibliocraft.fancy_text_area.color_hint": "颜色代码格式:#RRGGBB",
+    "gui.bibliocraft.fancy_text_area.italic.short": "斜体",
+    "gui.bibliocraft.fancy_text_area.obfuscated.short": "模糊",
+    "gui.bibliocraft.fancy_text_area.strikethrough.short": "删除线"
+}

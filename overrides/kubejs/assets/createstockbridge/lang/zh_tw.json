@@ -1,0 +1,15 @@
+{
+    "block.createstockbridge.ae_bridge": "AE仓储桥接器",
+    "createstockbridge.ponder.ae_stockbridge.header": "將仓储系統連接至应用能源",
+    "createstockbridge.ponder.ae_stockbridge.text_1": "AE仓储桥接器可讓機械動力的仓储系統与应用能源（AE）相連",
+    "createstockbridge.ponder.ae_stockbridge.text_2": "放置前需先右击绑定库存網络",
+    "createstockbridge.ponder.ae_stockbridge.text_3": "為蛙港和AE仓储桥接器設置相同的地址",
+    "createstockbridge.ponder.ae_stockbridge.text_4": "AE",
+    "createstockbridge.ponder.ae_stockbridge.text_5": "AE",
+    "createstockbridge.ponder.ae_stockbridge.text_6": "AE可以通過“自動合成”請求物品",
+    "createstockbridge.ponder.ae_stockbridge.text_7": "機械動力可以請求AE系統中的物品",
+    "gui.createstockbridge.address": "包裹地址：",
+    "gui.stockbridge.remote_items": "機械動力仓储系統物品",
+    "item.createstockbridge.request_pattern": "請求樣板材",
+    "tooltip.stockbridge.remote_item": "位於遠端系統的物品"
+}

@@ -1,0 +1,6 @@
+{
+    "farmingforblockheads.configuration.includedGroups": "包含的组",
+    "farmingforblockheads.configuration.excludedGroups": "排除的组",
+    "farmingforblockheads.configuration.excludedGroups.tooltip": "要禁用的组列表.优先级高于includedGroups.例如,'selling.seeds'将禁用市场中的所有种子.",
+    "farmingforblockheads.configuration.includedGroups.tooltip": "要启用的组列表.'default'是内置默认值的别名(selling.seeds、selling.saplings和selling.fertilizers.minecraft)."
+}
